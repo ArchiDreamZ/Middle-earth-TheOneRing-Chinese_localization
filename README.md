@@ -1,5 +1,7 @@
 # Middle-earth-TheOneRing
- 该地图包由PakPacman制作，并发布于PlanetMinecraft，见帖子：[Middle-earth: Complete Map With All Locations And Heroes With Story Quest's!](https://www.planetminecraft.com/project/middle-earth-complete-map-with-story-quest-s/)
+ 该地图包由德国的PakPacman制作，并发布于PlanetMinecraft，见帖子：[Middle-earth: Complete Map With All Locations And Heroes With Story Quest's!](https://www.planetminecraft.com/project/middle-earth-complete-map-with-story-quest-s/)
+
+ 在这个地图包中，作者制作了3条主线的大量还原原著与电影的故事任务，并且导入了大量建筑。
 
 ## 原介绍：
 您好，欢迎来到中土世界。
