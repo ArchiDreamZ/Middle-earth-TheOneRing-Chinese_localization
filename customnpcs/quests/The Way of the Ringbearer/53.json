@@ -1,0 +1,47 @@
+{
+    "CompleterNpc": "Gollum",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 7: Amon Hen",
+    "Text": "I followed the shore until I came across a small camp, but instead of the fellowship there were only Uruk-Hai.
+I should fight my way free. Boromir was traveling alone, he needs our help! Maybe it's not too late..",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1667271752473L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "I'm late, a group of Uruk-Hai is already here and there's no sign of the fallowship.
+I should keep following the path.
+
+(The Horn of Gondor sounds in the distance!)
+Boromir must be here somewhere, I hear his horn in the distance.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Amon Hen"
+}

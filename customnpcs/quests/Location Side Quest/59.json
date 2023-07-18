@@ -1,0 +1,51 @@
+{
+    "CompleterNpc": "Guard",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 0,
+    "Title": "Fornost ",
+    "Text": "The Bree lands got attacked by raiding Angmar Orcs, The Forsaken Inn hired a guard that told me that all the orcs are coming from the old Fornost castle. I have to kill as many captains there as i can find to make them retreat.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 10,
+            "Slot": "Orc Captain"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1671295022663L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "lotr:item.mugMapleBeer",
+                "Count": 1b,
+                "Damage": 2s
+            }
+        ]
+    },
+    "CompleteText": "I should talk to the guard from the Forsaken Inn again and tell him that the area is safe again!",
+    "NextQuestTitle": ""
+}

@@ -1,0 +1,48 @@
+{
+    "CompleterNpc": "Gandalf ",
+    "NextQuestId": 4,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 4: The Mines of Moria",
+    "Text": "The long darkness of Moria...
+Not a save place, but we have to go through here.
+
+I hope we can make it through the mines unnoticed.
+If the legends are true, it could be dangerous...",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1667272928626L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "There is an exit! Finally daylight again!
+
+It's no time to mourn Gandalf, when it gets dark the place just swarms with orcs.We should go fast to Lothlorien.",
+    "NextQuestTitle": "Part 5: The realm of the Elves",
+    "QuestLocation": "Moria Exit"
+}

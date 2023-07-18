@@ -1,0 +1,64 @@
+{
+    "CompleterNpc": "Glorfindel",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 1b,
+    "Title": "Harlindon and Ost-In-Edhil",
+    "Text": "Glorfindel in Rivendell has given me the task to visit Harlindon and Ost-In-Edhil, both ruins of the elves. And to take a look if the stolen staff's from the two blue wizards are there. Once i have found them, I should bring them back to Glorfindel.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1673459995663L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "legendarium:weapon_alatar",
+                "Count": 1b,
+                "tag": {
+                    "LOTRRandomEnch": 1b
+                },
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "legendarium:weapon_pallando",
+                "Count": 1b,
+                "tag": {
+                    "LOTRRandomEnch": 1b
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 1b,
+    "CompleteText": "I have found both of the staff's and should bring them to Glorfindel in Rivendell.",
+    "NextQuestTitle": ""
+}

@@ -1,0 +1,91 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 265,
+                "Title": "Hello, how can i help? (Side Quest start)",
+                "DialogColor": 457529,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 266,
+                "Title": "I have found the staffs!",
+                "DialogColor": 16635138,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Maybe later, Goodbye!",
+                "DialogColor": 16323338,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Glorfindel 1",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "DialogSound": "lotr:elf.male.say",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Welcome to Rivendell @p !My name is Glorfindel,I was once the lord of the House of the Golden Flower in Gondolin. 
+After my death in the First Age, I was re-embodied by the Valar to act as an emissary, 
+and returned to Middle-earth. I was born in Tirion sometime during the Noontide of Valinor, and was descended from a house of princes.
+
+Back in the days i fought a lot battles, the forces of Melkor attacked Gondolin, I even had to fight a Balrog..
+And in the battle of Fornost i fought the witchking of Angmar.
+And now i have a new task.. and i could need your help @p!",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1680051669516L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

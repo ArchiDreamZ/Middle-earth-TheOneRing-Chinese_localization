@@ -1,0 +1,88 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 76,
+                "Title": "<<Back>>",
+                "DialogColor": 14670640,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Goodbye!",
+                "DialogColor": 14223626,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Frodo1",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "-The Way of the Ring Bearer:
+Follow my footsteps
+and go on the dangerous journey
+from the Shire to Mordor.
+The main quest starts at Gandalf in Bag End.
+>Can you destroy the one ring?
+or will you rule as the new dark leader!-The Way of the King:
+Halfway through the main quest, you will have the opportunity
+to start the second quest line and accompany Aragorn on his way to the throne.
+>Can you reunite the people of Middle-earth?-The Way of the Hobbit:
+Once you have completed the first two quest lines,
+you can go on a journey into the past.
+Bilbo awaits you in Rivendell,
+to tell you about his adventures with the dwarves.
+>Can you defeat the dragon Smaug?-Location Side Quests:Many new locations are waiting to be explored, visit some of the side characters along the way and keep an eye out for side missions,that will lead you to the new areas.Why not start right here and visit old Gamgee, his house is right behind me, in the south-west.I've heard he could use some help.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1673458391602L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

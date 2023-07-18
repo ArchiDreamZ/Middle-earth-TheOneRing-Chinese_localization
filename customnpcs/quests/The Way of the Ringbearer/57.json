@@ -1,0 +1,55 @@
+{
+    "CompleterNpc": "Gollum",
+    "NextQuestId": 58,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 12: The Spider Shelob",
+    "Text": "Gollum led to the secret tunnel at Minas Morgul.
+I don't know if I can trust him, but I have no other choice.
+
+>>(Kill the spider Shelob, it is at the exit of the tunnel)<<",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Shelob"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1668422388456L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Gollum has betrayed us!
+It was a trap and a giant spider appeared!
+
+Luckily I was able to defeat it after a hard fight.
+There is no trace of Gollum. I should move on quickly.
+
+Only it will be difficult to get past the old watchtower Cirith Ungol.
+I should take a look there first!",
+    "NextQuestTitle": "Part 13: Cirith Ungol"
+}

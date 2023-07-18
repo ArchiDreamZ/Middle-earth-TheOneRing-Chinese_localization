@@ -1,0 +1,42 @@
+{
+    "CompleterNpc": "Kathrine",
+    "NextQuestId": 22,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 5: Isengard",
+    "Text": "Saruman has attaked the men of Rohan!But Theoden will get help from Gandalf and Eomer, so i can deal with Saruman in this time.The area around him will be well guarded.. i hope he will not fight me when i tell him that he has lost.He is located ontop of his tower in Isengard.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1680052583016L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Here it is, the top of Orthanc the big tower of Saruman the white!I should confront him and tell him that he has lost!And what is that? A Palantir? I should take a small look inside!",
+    "NextQuestTitle": "Part 6: The white city",
+    "QuestLocation": "Saruman"
+}

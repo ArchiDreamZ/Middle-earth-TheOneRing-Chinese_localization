@@ -1,0 +1,42 @@
+{
+    "CompleterNpc": "Galadriel",
+    "NextQuestId": 65,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Khamuls Tower",
+    "Text": "Lady Galadriel asked me to help her discovering the truth behind the return of the withking. If both are back, that all of them are!I have to go to the Tower of Khamul in the east in Eryn Garan and take a look if its empty! .. I hope it is! I don't want to fight a ghost!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1671295021862L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Here it is the tower of the Nazgul Khamul!I can see light inside, i should go and take a look. I feel like i'm beeing watched! I have to be carefull!",
+    "NextQuestTitle": "Khamuls Tower 2",
+    "QuestLocation": "Khamuls Tower"
+}

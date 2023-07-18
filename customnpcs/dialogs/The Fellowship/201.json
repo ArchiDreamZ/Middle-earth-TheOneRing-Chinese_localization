@@ -1,0 +1,94 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 202,
+                "Title": "Who is Saruman?",
+                "DialogColor": 16046344,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 203,
+                "Title": "Who are these Ringwraiths?",
+                "DialogColor": 16173585,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Let's go on an adventure!",
+                "DialogColor": 16714241,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "gandalf ring",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "It is one of the great rings of power, 3 was given to elves, 7 to dwarves and 9 to men.
+But they were all betrayed. The dark ruler Sauron forged another ring in the land of Mordor where the shadows loom.
+
+By the time of the Second Age a great alliance of Elves and Men went to war against him and defeated him, or so we thought.
+Isildur son of King Elendil of the house of Numenor cut the ring off Sauron's finger but did not destroy it. He saw it as a weapon he could use, but the One Ring obeys only the will of the One.
+
+He betrayed him and was hidden for a long time until found by the creature Gollum.
+The ring poisoned his mind for many years until finally Bilbo found it.
+
+The dark ruler has bound all his power to the ring and now depends on it.
+If he gets it back, we're all doomed.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1666557355831L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

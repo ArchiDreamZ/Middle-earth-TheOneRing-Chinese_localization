@@ -1,0 +1,51 @@
+{
+    "CompleterNpc": "Gandalf ",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 3: A long Journey",
+    "Text": "Elrond the Lord of the Elves has decided in his council that the Ring of Power must be destroyed!
+
+But this is only possible in Mount Doom in Mordor!
+
+The journey takes me next to the Mines of Moria.
+
+The entrance is in Eregion at the West Gate.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1667271733673L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Here it should be, the west gate of Moria.
+The secret door is only revealed in the moonlight.
+
+There is already Gandalf standing. I should talk to him.",
+    "NextQuestTitle": "",
+    "QuestLocation": "The secred door"
+}

@@ -1,0 +1,51 @@
+{
+    "CompleterNpc": "Gollum",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 9: The Dead Marshes",
+    "Text": "I met the creature, Gollum.
+He must have been following us.
+I don't trust him, but I have no choice.
+After all, I need a guide into Mordor and he knows the way.
+Our next destination is the Dead Marshes.(x79549 y64 z53913)
+And from there toward the road point in North Ithilien.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1668422422056L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Finally, the long journey through this stinking bog is over.
+
+There is a way up that mountain to the east!
+I should take a look around.
+I'm sure I'll have a better view from there.",
+    "NextQuestTitle": "",
+    "QuestLocation": "North Ithilien"
+}

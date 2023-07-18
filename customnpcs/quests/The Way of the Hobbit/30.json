@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "Tanal",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 3: Goblin Town",
+    "Text": "The stone giants fought in the mountains and we took shelter in a cave.
+Unfortunately, this is the entrance to the goblin town!!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1667351946917L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "trop:ring_great",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "I have found an exit from the goblin town..
+Suddenly I have to watch how a strange creature kills a goblin with a stone...
+The creature seems to have lost a golden ring in the process.
+I should take it! It seems special, i feel like it is very important.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Exit"
+}

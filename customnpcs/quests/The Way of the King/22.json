@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Shadow",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 6: The white city",
+    "Text": "After Saruman is defeated, I must go to Gondor and warn the people. The Palanntir of Saruman showed the planned attack of Sauron on Minas Tirith.
+The people of Gondor need support!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1680051857468L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Here it is...the white city!
+
+I should go to the Hall of Kings at the top!Saruman is defeated now, but his Palanntir showed a planned attack of Sauron on Minas Tirith, so I have to warn them!",
+    "NextQuestTitle": "",
+    "QuestLocation": "Minas Tirith"
+}

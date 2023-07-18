@@ -1,0 +1,98 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 120,
+                "Title": "No time, I'll go and have a look. (Side Quest Start)",
+                "DialogColor": 15065105,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 121,
+                "Title": "You're right, let's wait for Gandalf.",
+                "DialogColor": 16513779,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Goodbye!",
+                "DialogColor": 16516355,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": 38,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Radagast2",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "DialogSound": "minecraft:ambient.weather.thunder",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "AAAHH, do you hear that?
+The forest!! He's cursed!
+It can't be that all animals get sick at the same time, that's bordering on witchcraft..
+Wait... witchcraft... That's it. I knew it.
+
+I know you are on an important mission.
+Perhaps the Wood Elves of Green Forest can help you.
+Thranduil isn't the most helpful of rulers, but his elf archers could prove useful against the spiders of the forest.
+
+If you still have some time, could you help me with a matter.
+Ride to Dol-Guldur, the old forest fortress, and see what's going on there.
+I sense that something isn't quite right there.
+And feared that the magic has its origin there.
+It's dangerous though, maybe we should wait for Gandalf.",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1667425128400L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

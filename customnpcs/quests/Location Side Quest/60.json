@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Eomer",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Easmark",
+    "Text": "Eomer the Marchall of the Mark needs help in the war against Saruman.He ask me to fight with him and free the Eaastmark (Eastemneth).I will meet him at the bottom of the old watchtower.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 15,
+            "Slot": "Uruk Captain"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1671295023363L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "We did it! All the Uruk Captains are dead and the area is save again!A little bit of hope for the people of Rohan in this war against Isengard!I should continue my journey and see how i can help the people of middleearth even more.",
+    "NextQuestTitle": ""
+}

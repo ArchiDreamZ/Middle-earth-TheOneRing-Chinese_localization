@@ -1,0 +1,59 @@
+{
+    "CompleterNpc": "Frodo",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 15: Destroy The One Ring!",
+    "Text": "One Ring to rule them all!
+to find them all
+to drift into the dark.
+And bind forever!
+
+Throw the one ring of power
+into the lava of Mount Doom!
+And saves the whole of Middle-earth from destruction!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1667964225902L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Here it is... the place where Sauron once forged the one ring of power!
+
+..the only place where he can be destroyed!
+
+<You lean over the slope and take the ring out of your pocket...>
+
+The fate of all Middle-earth depends on this moment!
+
+The story ends here! Well done! @p you will be sung about in songs!
+
+An eagle awaits you on the road to the east!",
+    "NextQuestTitle": "",
+    "QuestLocation": "Saurons Forge"
+}
