@@ -70,7 +70,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello @p and welcome to Middle-earth! (Version 3.0)This is the spawn and gateway to a world of adventure!
+    "DialogText": "Hello @p and welcome to Middle-earth! (Version 3.2)This is the spawn and gateway to a world of adventure!
 From here you have many possibilities to start your journey!There are 3 story quests, each with more than ten missions that will take you to the most hidden and beautiful places in Middle-earth.It's a long journey and you will face many dangers along the way.You will also see many familiar faces and accompany the heroes of Middle-earth in their deeds.
 Will you save Middle-earth from destruction?
 Or subdue it?
@@ -92,7 +92,7 @@ The decision is yours @p !(If you want to get more infos about the project and
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673458173302L,
+        "TimePast": 1682688394335L,
         "Time": 0L,
         "Subject": ""
     }

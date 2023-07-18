@@ -45,7 +45,6 @@
     "DialogTitle": "gandalf Moria5",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
-    "DialogSound": "lotr:troll.transform",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
@@ -76,7 +75,7 @@ I will face him!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667271247322L,
+        "TimePast": 1683169167080L,
         "Time": 0L,
         "Subject": ""
     }

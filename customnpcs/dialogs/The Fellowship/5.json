@@ -7,8 +7,8 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 6,
-                "Title": "Yes I will take the ring!",
-                "DialogColor": 16185078,
+                "Title": "Yes I will take the ring! (reach for the ring)",
+                "DialogColor": 15525633,
                 "OptionType": 1
             }
         },
@@ -71,7 +71,7 @@ The ring can't stay here! And I can't bear it!
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673999775958L,
+        "TimePast": 1682962700430L,
         "Time": 0L,
         "Subject": ""
     }

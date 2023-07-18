@@ -34,7 +34,7 @@ The entrance is in Eregion at the West Gate.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667271733673L,
+        "TimePast": 1683152311207L,
         "Time": 0L,
         "Subject": ""
     },
@@ -47,5 +47,5 @@ The secret door is only revealed in the moonlight.
 
 There is already Gandalf standing. I should talk to him.",
     "NextQuestTitle": "",
-    "QuestLocation": "The secred door"
+    "QuestLocation": "The secret door"
 }

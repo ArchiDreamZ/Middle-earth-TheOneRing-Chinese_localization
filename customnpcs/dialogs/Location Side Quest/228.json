@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 229,
-                "Title": "我能帮你解决这个问题吗?",
+                "Title": "Can i help with this problem?",
                 "DialogColor": 16514294,
                 "OptionType": 1
             }
@@ -60,11 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome adventurer, this is the Forsaken Inn and a nice place to drink a beer and have a good meal.
-Well, the last days are less and less visitors are coming, they are afrait of the Orcs raiding the area .
-Thats why i have to guard this tavern. 
-
-I'm a mercenary and payed to keep this place save, so dont make any trouble around here!",
+    "DialogText": "Welcome adventurer, this is the Forsaken Inn and a nice place to drink a beer and have a good meal.Well, the last days are less and less visitors are coming, they are afrait of the Orcs raiding the area .Thats why i have to guard this tavern. I'm a mercenary and payed to keep this place save, so dont make any trouble around here!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

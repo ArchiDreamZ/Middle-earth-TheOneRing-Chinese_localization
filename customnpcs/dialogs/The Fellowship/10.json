@@ -50,11 +50,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I know your real name @p !
+    "DialogText": "I know your real name @p!
 And I know what you carry with you! And also who is after you.
 Gandalf told me everything!
 You can't wait here for your friend the wizard!
-You have to go on!!! It's not save here!",
+You have to go on! It's not safe here!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -71,7 +71,7 @@ You have to go on!!! It's not save here!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1666904223040L,
+        "TimePast": 1683631468844L,
         "Time": 0L,
         "Subject": ""
     }

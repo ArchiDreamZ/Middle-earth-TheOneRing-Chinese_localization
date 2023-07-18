@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to the Shire adventurer. The most peaceful place in Middleearth!If you have time, i could use some some help..I'm an old man @p , and i sometimes forget where i put things..I did lost an important letter, it's a recipe for Hobbit cake.I think it has to be somewhere in my basement. Since my back started hurting from all the gardening work, I have problems going down the stairs.Could you go there and bring me the letter?And if you are there, see if anything is alright. Some food disapeared since the last time i went there. ",
+    "DialogText": "Welcome to the Shire adventurer. The most peaceful place in Middleearth!If you have time, I could use some some help..I'm an old man @p, and I sometimes forget where I put things...I did lost an important letter, it's a recipe for a Hobbit cake.I think it has to be somewhere in my basement. Since my back started hurting from all the gardening work, I have problems going down the stairs.Could you go there and bring me the letter?And if you are there, see if anything is alright. Some food disapeared since the last time i went there. ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -77,7 +77,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673387829019L,
+        "TimePast": 1683632288737L,
         "Time": 0L,
         "Subject": ""
     }

@@ -63,7 +63,7 @@
     "OptionFaction2Points": 100,
     "DialogText": "*Burp*
 
-oh hello @p
+Oh hello @p
 Merry and I are having a midnight snack.
 How are you supposed to sleep in such a creepy place.
 
@@ -90,7 +90,7 @@ But I will accompany you and protect you as best I can.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673362421517L,
+        "TimePast": 1683631973738L,
         "Time": 0L,
         "Subject": ""
     }

@@ -7,7 +7,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Utumno",
-    "Text": "Gandalf has told me about a dark place called Utumo, it is located somewehre in the north of Angmar area and it should be in the cold mountains of Forodwaith. It is a dangerous mission and i have to go prepared.",
+    "Text": "Gandalf has told me about a dark place called Utumo, it is located somewhere in the north of Angmar. It should be in the cold mountains of Forodwaith. It's a dangerous mission and I have to go prepared.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1671295024912L,
+        "TimePast": 1683152600708L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is! The dark place Utumno! What a spooky place.. But i have to go into the dark realms and fight the demons of Morgoth!",
+    "CompleteText": "Here it is! The dark place Utumno! What a spooky place.. But I have to go into the dark realms and fight the demons of Morgoth!",
     "NextQuestTitle": "",
     "QuestLocation": "Utumno "
 }
