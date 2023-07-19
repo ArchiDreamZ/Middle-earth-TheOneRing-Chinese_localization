@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 229,
-                "Title": "Can i help with this problem?",
+                "Title": "我可以帮忙解决这个问题吗?",
                 "DialogColor": 16514294,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 231,
-                "Title": "I'm back and finished my task!",
+                "Title": "我回来了，任务已经完成了!",
                 "DialogColor": 3537175,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "谢谢你，再见!",
                 "DialogColor": 16256268,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome adventurer, this is the Forsaken Inn and a nice place to drink a beer and have a good meal.Well, the last days are less and less visitors are coming, they are afrait of the Orcs raiding the area .Thats why i have to guard this tavern. I'm a mercenary and payed to keep this place save, so dont make any trouble around here!",
+    "DialogText": "欢迎你冒险者,这里是遗忘客栈，一个享受啤酒和食物的好地方.好吧, 最近几天旅行者来得越来越少,他们担心有奥克会来袭击这里.这就是为什么我在这里守卫的原因. 别人付了钱让我来保卫这里的安全,所以请你不要在这里惹麻烦!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
