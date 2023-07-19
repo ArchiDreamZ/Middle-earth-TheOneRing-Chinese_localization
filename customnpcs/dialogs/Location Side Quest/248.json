@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 249,
-                "Title": "Hello, yes sure I have time. (Side Quest Start)",
+                "Title": "你好，我当然有时间。(支线任务开始)",
                 "DialogColor": 3145231,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 268,
-                "Title": "Here, I have found the letter. And is it normal that there so many rabbits inside your basement?",
+                "Title": "在这儿，我找到了这封信。你的地下室里有这么多兔子，这正常吗？",
                 "DialogColor": 16766465,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Sorry, I don't have time for that right now. Goodbye!",
+                "Title": "对不起，我现在没时间。再见!",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -60,7 +60,19 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to the Shire adventurer. The most peaceful place in Middleearth!If you have time, I could use some some help..I'm an old man @p, and I sometimes forget where I put things...I did lost an important letter, it's a recipe for a Hobbit cake.I think it has to be somewhere in my basement. Since my back started hurting from all the gardening work, I have problems going down the stairs.Could you go there and bring me the letter?And if you are there, see if anything is alright. Some food disapeared since the last time i went there. ",
+    "DialogText": "欢迎来到夏尔，冒险家。 中土世界最和平的地方!
+
+如果你有时间，我可能需要一些帮助…
+我是个老人了@p，有时会忘记我把东西放在哪里……
+我丢了一封重要的信，是霍比特人蛋糕的食谱。
+
+我想它一定在地下室的某个地方。
+因为园艺工作，我的背部开始疼痛、我下楼梯都成问题。
+
+你能去那儿把那封信带给我吗?
+
+如果你在那里，看看有没有出什么问题。
+上次我去之后，有些食物不见了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
