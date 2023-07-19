@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 3,
-                "Title": "Who are you?",
+                "Title": "你是谁 ?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 2,
-                "Title": "Tell me something about this village",
+                "Title": "跟我讲一讲关于这个村庄的事情",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye",
+                "Title": "再见",
                 "DialogColor": 14737632,
                 "OptionType": 0
             }
@@ -52,7 +52,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Start",
+    "DialogTitle": "启程",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -62,7 +62,7 @@
     "OptionFaction2Points": 100,
     "DialogText": "Hello {player}, 
 
-Welcome to our village. I hope you enjoy your stay",
+欢迎你来到我们村庄. 我希望你能在这里住的愉快",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
