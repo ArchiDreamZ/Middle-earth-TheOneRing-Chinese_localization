@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 251,
-                "Title": "What? Why are you singing?",
+                "Title": "什么?为什么你要唱歌?",
                 "DialogColor": 1501427,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 267,
-                "Title": "The Orc leader at mount Gram, had a strange stone. What is this?",
+                "Title": "格拉姆山的半兽人首领, 有一块奇怪的石头. 那是什么东西?",
                 "DialogColor": 16112134,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再见!",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -61,7 +61,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(Starts singing):Hey! Come merry dol! derry dol! My darling!Light goes the weather-wind and the feathered starling. Down along under Hill, shining in the sunlight, Waiting on the doorstep for the cold starlight, There my pretty lady is, River-woman's daughter, Slender as the willow-wand, clearer than the water. Old TomBombadil water-lilies bringingComes hopping home again. Can you hear him singing?Hey! Come merry dol! derry dol! and merry-o!",
+    "DialogText": "(Starts singing):嘿! 来吧，快乐的多尔！快乐的多尔！我亲爱的！轻快的风和羽翼丰满的椋鸟. 沿着山下，在阳光下闪闪发光，在门阶上等待寒冷的星光, 我漂亮的姑娘来了，河边女人的女儿, 纤细如柳，清澈如水. 老汤姆-本巴迪睡莲又蹦蹦跳跳地回家了. 你能听到他在唱歌吗？ 嘿！来吧，快乐的朵儿！快乐的朵儿！还有快乐--哦!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
