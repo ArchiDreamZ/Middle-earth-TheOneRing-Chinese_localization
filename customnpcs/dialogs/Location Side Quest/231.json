@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks Goodbye!",
+                "Title": "谢谢你，再见!",
                 "DialogColor": 16256268,
                 "OptionType": 0
             }
@@ -40,7 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh nice to see you back again. The raidings haved stopped! That must mean that the orc captains are dead! Thanksalot for the help @p !We are very thankfull. Now the area is safe again!Take this beer as a thanks from me, now i can go and drink instead of guarding.Farewell!",
+    "DialogText": "哦，很高兴再次见到你. 兽人的袭击已经停止了! 
+那就意味着兽人队长已经死干净了! 非常感谢你的帮助 @p !我们非常感谢您. 现在这片区域又恢复和平了!Take this beer as a thanks from me, now i can go and drink instead of guarding.Farewell!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
