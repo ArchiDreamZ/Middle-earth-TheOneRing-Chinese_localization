@@ -34,9 +34,15 @@
 
 ## 汉化须知
 不要汉化DialogTitle，这是对话框的标题，不是内容。一旦修改，会破坏对话系统，让对话无法连接。
+
 ![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/d5a88663-270e-4ccd-a5f3-dbf2738e3b5d)
 
 对话每一行不能过长，自定义NPC模组无法自动根据客户端界面大小自动换行，所以我们需要限制每一行的字数，最好不超过35字左右。
 
 例如在这个对话内容里，作者就很恰当的手动换了行：
+
 ![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/a152a5c3-2620-4e2e-b712-0d68180eb863)
+
+但如果是下面这样，一句话很长都不换行的，就需要我们在适当位置断个句，以此来换行了
+
+![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/bfb6530b-2f98-4022-8f65-64507737bb70)
