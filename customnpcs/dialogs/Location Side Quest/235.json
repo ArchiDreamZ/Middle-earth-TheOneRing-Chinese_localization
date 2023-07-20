@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (Follower menu)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速前往地图上的一个tp点.",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "可能需要一会，再见!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here we are @p !The old city of Gondor, Cair Andros!What a lovely place.. but we are in war times and the enemy is getting smarter, after they blocked of all the south gates we need to go this way!I will follow you, lets focus together on killing all the Orc Captains! Than they are without command!Maybe they still left an opening here for the supplies, we could sneek into the city that way, but its a dangerous mission. Are you ready?",
+    "DialogText": "Here we are @p !刚铎古城，凯尔安德洛斯!多么可爱的地方啊.. 但我们正处于战争时期，敌人变得越来越聪明, 在他们封锁了所有南门之后，我们必须从这里走!我跟着你，我们一起集中力量杀掉所有的奥克队长！让他们群龙无首!也许他们还在这里为补给品运输留了一个缺口，我们可以从那里潜入城市，但这是个危险的任务. 你准备好了吗?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

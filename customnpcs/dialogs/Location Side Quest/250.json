@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 251,
-                "Title": "What? Why are you singing?",
+                "Title": "什么?为什么你要唱歌?",
                 "DialogColor": 1501427,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 267,
-                "Title": "The Orc leader at mount Gram, had a strange stone. What is this?",
+                "Title": "格拉姆山的奥克首领, 有一块奇怪的石头. 那是什么东西?",
                 "DialogColor": 16112134,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再见!",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -61,7 +61,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(Starts singing):Hey! Come merry dol! derry dol! My darling!Light goes the weather-wind and the feathered starling. Down along under Hill, shining in the sunlight, Waiting on the doorstep for the cold starlight, There my pretty lady is, River-woman's daughter, Slender as the willow-wand, clearer than the water. Old TomBombadil water-lilies bringingComes hopping home again. Can you hear him singing?Hey! Come merry dol! derry dol! and merry-o!",
+    "DialogText": "(Starts singing):嘿嘿咚! 欢乐咚！我的小心肝哟！
+微风轻轻吹，小鸟轻轻飞， 远在山坡下，阳光里闪亮， 披泠冷星光，等在门阶上，
+就是河婆的女儿，我心上的姑娘,身条细如柳，心地比水清,
+老汤姆·邦巴迪尔带着睡莲花
+快快乐乐回来啦！你听见他的歌声吗?
+嘿嘿咚！欢乐咚！回来啦！
+金莓呀金莓，可爱的鲜黄莓果呀！
+可怜的柳树老头啊，快把你的绊子收起来！
+汤姆赶着要回家，夜晚就要到来，汤姆带着睡莲回家来！ 嘿嘿咚！回来啦！你听见我的歌声吗？
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

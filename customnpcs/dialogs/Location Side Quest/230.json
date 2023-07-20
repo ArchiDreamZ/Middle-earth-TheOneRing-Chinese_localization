@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye",
+                "Title": "再见",
                 "DialogColor": 16256268,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very nice! its in the north of the Bree region.Be aware, the captains are way stronger than the normal orcs!Come back to me if you finished the task! Good luck!",
+    "DialogText": "很好! 他们位于布理地区北部.注意，奥克队长比普通的奥克强壮得多！完成任务后再来找我！祝你好运!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

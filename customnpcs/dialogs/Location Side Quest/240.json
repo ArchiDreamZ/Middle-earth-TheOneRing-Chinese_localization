@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (Follower menu)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速前往地图上的一个tp点.",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "可能需要一会，再见!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -61,7 +61,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here we are @p !The old fortress Gundabad, it was supposed to be empty, but i can see light inside..The situation is far more dangerous than i thought!Come with me we have to fight our way into the cave systems!When we kill the Orc leader Bolg, we will weaken the enemy by taking an important captain!But he will be well guarded so be prepared!>>( You can take Legolas as a follower with you )<<",
+    "DialogText": "Here we are @p !贡达巴德古堡，它本应是空的，但我却能看到里面有光亮..情况比我想象的要危险得多!跟我来，我们要奋力闯进这个洞穴!当我们杀死奥克首领波尔格时，我们就能削弱敌人的实力，带走他们一位重要的队长!但他身边定有重兵把守，所以我们得做好准备!>>( 您可以让莱戈拉斯跟在你身边 )<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
