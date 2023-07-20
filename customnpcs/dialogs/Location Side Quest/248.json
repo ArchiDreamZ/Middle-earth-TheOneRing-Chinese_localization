@@ -1,0 +1,108 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 249,
+<<<<<<< HEAD
+                "Title": "你好，我当然有时间。(支线任务开始)",
+=======
+                "Title": "你好，我当然有时间啦. (支线任务开始)",
+>>>>>>> main
+                "DialogColor": 3145231,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 268,
+<<<<<<< HEAD
+                "Title": "在这儿，我找到了这封信。你的地下室里有这么多兔子，这正常吗？",
+=======
+                "Title": "在这里，我找到了这封信。你的地下室里有这么多兔子，这正常吗？?",
+>>>>>>> main
+                "DialogColor": 16766465,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+<<<<<<< HEAD
+                "Title": "对不起，我现在没时间。再见!",
+=======
+                "Title": "对不起，我现在没时间。所以再见啦!",
+>>>>>>> main
+                "DialogColor": 16451590,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Old Gamgee",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "欢迎来到夏尔，冒险家。 中土世界最和平的地方!
+
+如果你有时间，我可能需要一些帮助…
+我是个老人了@p，有时会忘记我把东西放在哪里……
+我丢了一封重要的信，是霍比特人蛋糕的食谱。
+
+我想它一定在地下室的某个地方。
+因为园艺工作，我的背部开始疼痛、我下楼梯都成问题。
+
+你能去那儿把那封信带给我吗?
+
+如果你在那里，看看有没有出什么问题。
+上次我去之后，有些食物不见了。
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1683632288737L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}
