@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我的弓将为你射杀奥克 @p !我会誓死相随! 我最恨的莫过于半兽人!!如果你需要我，我就在你身后!这次任务很危险，但只要我们并肩作战，就一定能取得胜利!>>( 您可以让陶烈尔跟在你身边 )<<",
+    "DialogText": "我的弓将为你射杀奥克 @p !我会誓死相随! 我最恨的莫过于奥克!!如果你需要我，我就在你身后!这次任务很危险，但只要我们并肩作战，就一定能取得胜利!>>( 您可以让陶烈尔跟在你身边 )<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
