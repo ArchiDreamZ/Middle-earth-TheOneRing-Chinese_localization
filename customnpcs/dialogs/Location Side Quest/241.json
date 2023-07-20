@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "我想快速前往地图上的一个tp点.",
+                "Title": "我想快速旅行到地图上的一个路径点.",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
