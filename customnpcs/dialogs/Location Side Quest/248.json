@@ -5,21 +5,21 @@
         {
             "OptionSlot": 0,
             "Option": {
-                "DialogCommand": "/give",
-                "Dialog": -1,
-                "Title": "跟我来！ (跟随者菜单)",
-                "DialogColor": 124415,
-                "OptionType": 3
+                "DialogCommand": "",
+                "Dialog": 249,
+                "Title": "你好，我当然有时间。(支线任务开始)",
+                "DialogColor": 3145231,
+                "OptionType": 1
             }
         },
         {
             "OptionSlot": 1,
             "Option": {
-                "DialogCommand": "/give @dp 5171",
-                "Dialog": -1,
-                "Title": "我想快速旅行到地图上的一个路径点。",
-                "DialogColor": 15339254,
-                "OptionType": 4
+                "DialogCommand": "",
+                "Dialog": 268,
+                "Title": "在这儿，我找到了这封信。你的地下室里有这么多兔子，这正常吗？",
+                "DialogColor": 16766465,
+                "OptionType": 1
             }
         },
         {
@@ -27,8 +27,8 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "可能需要一会， 再见！",
-                "DialogColor": 16714241,
+                "Title": "对不起，我现在没时间，再见。",
+                "DialogColor": 16451590,
                 "OptionType": 0
             }
         }
@@ -52,7 +52,7 @@
     "OptionFaction1Points": 100,
     "DialogDisableEsc": 0b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "Galadriel Follower",
+    "DialogTitle": "Old Gamgee",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
     "AvailabilityFactionId": -1,
@@ -60,9 +60,24 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "快 @p ！ 戒灵已经回来了！ 
+    "DialogText": "欢迎来到夏尔，冒险者。 
 
-但你并非孤单一人，我将与你共同赴敌！",
+中土世界最和平安逸的地方!
+
+如果你有时间，我想请你帮我一件事…
+我现在已经老了 @p，有时我会忘记把东西放在了哪里……
+我丢了一封重要的信，是霍比特人蛋糕的食谱。
+
+我想它一定在地下室的某个地方。
+长久以来，由于我一直在打理我这些花花草草，这让我的背饱受折磨，
+现在我下楼梯都成问题。
+
+你能去一趟，把信带给我吗?
+
+你到了那里后，看看有没有出什么问题。
+上次我去之后，有些食物不见了。
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -79,7 +94,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673366739124L,
+        "TimePast": 1683632288737L,
         "Time": 0L,
         "Subject": ""
     }

@@ -33,6 +33,12 @@
 （法语、西班牙语、俄语、葡萄牙语，也许还有中国普通话。）
 
 ## 汉化须知
+首先要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
+
+遇到这样的情况，像“航点”这样完全不符合中文的词，就一定要先查一下[MC魔戒中文Wiki](https://lotrmc.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)。
+
+而如果遇到地名、人名、物品名等，比如“欧斯吉利亚斯”，有人会习惯性的打成“奥斯吉利亚斯”，这样绝对不行。必须要统一译名，严格按照[魔戒中文Wiki](https://lotr.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)来，翻译地名之前一定要先搜索Wiki。
+
 不要汉化DialogTitle，这是对话框的标题，不是内容。一旦修改，会破坏对话系统，让对话无法连接。
 
 ![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/d5a88663-270e-4ccd-a5f3-dbf2738e3b5d)
