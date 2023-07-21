@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (Follower menu)",
+                "Title": "跟我来！ (Follower menu)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我们到了 @p !刚铎古城，凯尔安德洛斯!多么可爱的地方啊.. 但我们正处于战争时期，敌人变得越来越聪明, 在他们封锁了所有南门之后，我们必须从这里走!我跟着你，我们一起集中力量杀掉所有的奥克队长！让他们群龙无首!也许他们还在这里为补给品运输留了一个缺口，我们可以从那里潜入城市，但这是个危险的任务. 你准备好了吗?",
+    "DialogText": "我们到了 @p ！刚铎古城，凯尔安德洛斯！多么可爱的地方啊.. 但我们正处于战争时期，敌人变得越来越聪明， 在他们封锁了所有南门之后，我们必须从这里走！我跟着你，我们一起集中力量杀掉所有的奥克队长！让他们群龙无首！也许他们还在这里为补给品运输留了一个缺口，我们可以从那里潜入城市，但这是个危险的任务。你准备好了吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (Follower menu)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "可能需要一会， 再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What a dark place.. I hope we dont get lost here! I can hear wisper in the woods and here are so many spiders! I will come with you and follow you if you want! This forest is to dangerous traveling alone!>>(You can take Bilbo as a follower with you)<<",
+    "DialogText": "黑暗笼罩了这里.. 希望我们不会在这里迷失方向! 我听得到林中的低语，这里有很多蜘蛛! 如果你想要的话，我可以和你一起走! 独闯这片森林实在危险!>>(你可以让比尔博跟着你)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

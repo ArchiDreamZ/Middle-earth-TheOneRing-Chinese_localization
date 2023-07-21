@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (Follower menu)",
+                "Title": "跟我来！ (Follower menu)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "可能需要一会, 再见!",
+                "Title": "可能需要一会， 再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Fast @p ! The Nazgul has returned! But you are not alone in this fight, iam here to assist you in the battle!",
+    "DialogText": "快 @p ！ 戒灵已经回来了！ 但你并非孤单一人， 我将与你共同赴敌!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
