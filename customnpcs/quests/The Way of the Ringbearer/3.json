@@ -28,7 +28,7 @@ I hope Lord Elrond knows what to do!
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 16,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -38,7 +38,7 @@ I hope Lord Elrond knows what to do!
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136776551L,
+        "TimePast": 1667271727272L,
         "Time": 0L,
         "Subject": ""
     },
@@ -46,7 +46,7 @@ I hope Lord Elrond knows what to do!
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You've made it to Rivendell and found the Council of Lord Elrond!
+    "CompleteText": "You've made to Rivendell and found the Council of Elrond!
 Place the One Ring on the center table and talk to everyone present.",
     "NextQuestTitle": "",
     "QuestLocation": "Elronds Council"

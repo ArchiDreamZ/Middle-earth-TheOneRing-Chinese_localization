@@ -18,7 +18,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 16,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136638902L,
+        "TimePast": 1671295021862L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,7 +36,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is the tower of the Nazgul Khamul!I can see light inside, I should go and take a look. I feel like I'm being watched! I have to be careful!",
+    "CompleteText": "Here it is the tower of the Nazgul Khamul!I can see light inside, i should go and take a look. I feel like i'm beeing watched! I have to be carefull!",
     "NextQuestTitle": "Khamuls Tower 2",
     "QuestLocation": "Khamuls Tower"
 }

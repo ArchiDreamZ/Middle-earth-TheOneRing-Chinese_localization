@@ -20,9 +20,14 @@ I should locate any Nazguls around and send them back to where they came from.
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "QuestDialogs": [
+        {
+            "Value": 3,
+            "Slot": "Nazgul"
+        }
+    ],
+    "ModRev": 16,
     "Type": 2,
-    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -31,7 +36,7 @@ I should locate any Nazguls around and send them back to where they came from.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690135415002L,
+        "TimePast": 1667268015038L,
         "Time": 0L,
         "Subject": ""
     },
@@ -39,15 +44,8 @@ I should locate any Nazguls around and send them back to where they came from.
         "NpcMiscInv": [
         ]
     },
-    "QuestKills": [
-        {
-            "Value": 3,
-            "Slot": "Nazgul"
-        }
-    ],
-    "TargetType": 0,
     "CompleteText": "I killed the Nazguls on Weathertop.
 The hobbits are safe now.
-I should continue my journey to Rivendell.",
+I should continue my journey to Rivendell",
     "NextQuestTitle": ""
 }
