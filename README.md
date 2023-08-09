@@ -40,6 +40,12 @@
 MEGA云盘：
 [德国魔戒RPG剧情地图包-3.3](https://mega.nz/file/o8VmQKza#LvJMIiXm6vlo98pfyK9gbkFoUq1oGbt0TLPUS7Dn2To)
 
+后续又更新了汉化，请手动下载汉化并添加进地图包
+
+![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
+
+放进saves/Middleearth - The One Ring/customnpcs里。
+
 ## 仓库介绍
 该仓库汉化的是该地图包的自定义NPC模组的对话与任务，其中：
 
@@ -50,14 +56,22 @@ MEGA云盘：
 看一下已经汉化的部分，就知道怎么汉化了。
 
 ## 汉化须知
-汉化之前最好先看一下已经汉化的部分，基本看了就知道怎么汉化了。
+### 翻译标准
+①汉化之前最好先看一下已经汉化的部分，基本看了就知道怎么汉化了。
 
-首先，要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
+②首先，要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
 
 遇到这样的情况，像“航点”这样完全不符合中文的词，就一定要先查一下[MC魔戒中文Wiki](https://lotrmc.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)。
 
-而如果遇到地名、人名、物品名等，比如“欧斯吉利亚斯”，有人会习惯性的打成“奥斯吉利亚斯”，这样绝对不行。必须要统一译名，严格按照[魔戒中文Wiki](https://lotr.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)来，翻译地名之前一定要先搜索Wiki。
+③而如果遇到地名、人名、物品名等，比如“欧斯吉利亚斯”，有人会习惯性的打成“奥斯吉利亚斯”，这样绝对不行。必须要统一译名，严格按照[魔戒中文Wiki](https://lotr.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)来，翻译地名之前一定要先搜索Wiki。
 
+④如果感觉有些话有点难懂，说不定那是原著里的原文，需要在百度里搜一下试试能不能搜到。
+
+如果能搜到，就说明是原著中的原文，确定一下是第几章的。然后在中文译本里找到官方翻译。
+
+这是[指环王原著-世纪文景译版](https://book.qq.com/book-detail/567379)，这是[霍比特人原著-世纪文景译版](https://book.qq.com/book-detail/178806)
+
+### 尤其注意
 不要汉化DialogTitle，这是对话框的标题，不是内容。一旦修改，会破坏对话系统，让对话无法连接。
 
 ![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/d5a88663-270e-4ccd-a5f3-dbf2738e3b5d)
