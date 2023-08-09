@@ -64,6 +64,7 @@ MEGA云盘：
 
 这是[指环王原著-世纪文景译版](https://book.qq.com/book-detail/567379)，这是[霍比特人原著-世纪文景译版](https://book.qq.com/book-detail/178806)
 
+
 不要汉化DialogTitle，这是对话框的标题，不是内容。一旦修改，会破坏对话系统，让对话无法连接。
 
 ![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/d5a88663-270e-4ccd-a5f3-dbf2738e3b5d)
