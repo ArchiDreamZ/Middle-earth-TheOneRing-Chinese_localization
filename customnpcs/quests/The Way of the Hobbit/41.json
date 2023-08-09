@@ -22,7 +22,7 @@ Otherwise it will be difficult to get into the mountain.",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 19,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -32,7 +32,7 @@ Otherwise it will be difficult to get into the mountain.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667351951167L,
+        "TimePast": 1690137136450L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,7 +40,7 @@ Otherwise it will be difficult to get into the mountain.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here is the waterfall, I should speak to Elrond, maybe he'll knows what the map is about.",
+    "CompleteText": "Here is the waterfall Gandalf spoke of. I should speak to Lord Elrond, maybe he'll know what the map is about.",
     "NextQuestTitle": "",
     "QuestLocation": "Waterfall"
 }

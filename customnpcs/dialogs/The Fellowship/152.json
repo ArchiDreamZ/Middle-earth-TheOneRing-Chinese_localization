@@ -1,6 +1,44 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "minecraft:random.burp",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
@@ -33,37 +71,27 @@
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 19,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "pippin1",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "DialogSound": "minecraft:random.burp",
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
+    "PreviousBlocks": 1b,
     "DialogText": "*Burp*
 
-Oh hello @p
+Oh hello, @p
 Merry and I are having a midnight snack.
 How are you supposed to sleep in such a creepy place.
 
@@ -71,17 +99,13 @@ I'd much rather be in the Green Dragon in the Shire right now.
 They have the best beer far and wide.
 Oh yes.. the Shire, I already miss it.
 
-But I will accompany you and protect you as best I can.
+But I will accompany you and protect you as best as I can.
 
->>(You can take Pippin with you as a companion from here)<<",
+>>(You can take Pippin with you as a companion)<<",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -90,7 +114,7 @@ But I will accompany you and protect you as best I can.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1683631973738L,
+        "TimePast": 1690135124849L,
         "Time": 0L,
         "Subject": ""
     }

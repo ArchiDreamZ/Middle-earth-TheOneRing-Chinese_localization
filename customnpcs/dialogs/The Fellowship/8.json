@@ -70,8 +70,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take the ring to Rivendell, Elrond will know what to do.
-It will be a long and dangerous journey! Meet me halfway in Bree at the Prancing Pony Inn
+    "DialogText": "Take the ring to Rivendell, Lord Elrond will know what to do.
+It will be a long and dangerous journey! Meet me halfway in Bree at the Prancing Pony Inn.
 In the meantime I will visit my old friend Saruman the White... I must consult with him!
 
 Go now @p !! All of Middle-earth is counting on you!!",
@@ -91,7 +91,7 @@ Go now @p !! All of Middle-earth is counting on you!!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1682962652481L,
+        "TimePast": 1688910747803L,
         "Time": 0L,
         "Subject": ""
     }

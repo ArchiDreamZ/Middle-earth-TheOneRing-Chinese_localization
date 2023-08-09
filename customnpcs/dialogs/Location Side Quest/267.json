@@ -41,7 +41,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "HA, HA!That is amazing! It's really one of the Silmarils! I thought i would never see one again!There are Jewels of Fëanor, were gems crafted by Fëanor from some essence of the Two Trees of Valinor, Laurelin and Telperion, before the First Age. They were among the most prized of all the wonders crafted by the Elves and were coveted by many.I thought all would be lost. That explained why the Orcs have raided the area, they searched for it.You have to keep it save! I need to think about what to do next, come back to me again later, when i have more answers.Until then! Farewell @p!(starts singing again)>>(will be continued)<<",
+    "DialogText": "HA, HA!That is amazing! It's really one of the Silmarils! I thought i would never see one again!There are Jewels of Fëanor, were gems crafted by Fëanor from some essence of the Two Trees of Valinor, Laurelin and Telperion, before the First Age. They were among the most prized of all the wonders crafted by the Elves and were coveted by many.I thought all would be lost. That explained why the Orcs raided the area, they were searching for it.You have to keep it safe! I need to think about what to do next, come back to me again later, when I have more answers.Until then! Farewell @p!(starts singing again)>>(will be continued)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -58,7 +58,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680049630116L,
+        "TimePast": 1688910045304L,
         "Time": 0L,
         "Subject": ""
     }

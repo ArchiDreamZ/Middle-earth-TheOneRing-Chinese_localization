@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -60,7 +60,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "他回来了! 索隆回来了!小心点 @p 你无法独自取胜!我会用我的力量帮助你赢得这场战斗。回到你来时的阴影里去!!>>( 你可以让凯兰崔尔跟随你 )<<",
+    "DialogText": "索隆！他回来了！
+	
+小心点 @p，你无法独自取胜!
+
+我会用我的力量帮助你赢得这场战斗。
+
+回 到 你 来 时 的 阴 影 里 去 ！
+
+>>( 你可以让加拉德瑞尔跟随你 )<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
