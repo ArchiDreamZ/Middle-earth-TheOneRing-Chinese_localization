@@ -50,11 +50,20 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Middle-earth is a place where heroic actions are sung and told in tales. Adventures are the order of the day.
-Even if this is not seen too happily in the Shire.On your long journey you will meet many people who have important tasks to do
-and maybe need your help too.
-So ask around when you come to a city.The next adventure can already be waiting around the corner.
-Some will even join you in a battle and follow you as long as you can pay for them. So keep doing local missions to earn coins.Farewell @p ",
+    "DialogText": "中洲是一个英勇行为会被歌颂和传诵的地方。 冒险是日常生活中的一部分。
+尽管在夏尔郡这种地方对此并不是很乐意。
+
+在你漫长的旅程中，你将遇到许多有重要任务需要完成的人，
+也许他们也需要你的帮助。
+所以当你来到一个城市时，多四处打听一下。
+
+下一场冒险可能已经悄悄在拐角处等候你了。
+有些人甚至会在战斗中加入到你这里，并在你付得起的时间之内跟随你。
+因此，请继续完成当地的任务来赚取金币。
+
+再见了， @p 
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
