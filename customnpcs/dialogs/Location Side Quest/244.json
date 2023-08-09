@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,7 +88,10 @@
     "TextWidth": 300,
     "DialogTitle": "Galadriel Follower",
     "PreviousBlocks": 1b,
-    "DialogText": "Fast @p ! The Nazgul has returned! But you are not alone in this fight, I am here to assist you in the battle!",
+    "DialogText": "快 @p ！ 戒灵已经回来了！ 
+
+但你并非孤单一人，我将与你共同赴敌！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

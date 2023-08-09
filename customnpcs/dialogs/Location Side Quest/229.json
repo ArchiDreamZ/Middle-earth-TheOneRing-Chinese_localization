@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 230,
-                "Title": "I will go to Fornost! (Side Quest Start)",
+                "Title": "我会去佛诺斯特的！ (支线任务开始)",
                 "DialogColor": 15915020,
                 "OptionType": 1
             }
@@ -78,7 +78,7 @@
     "TextWidth": 300,
     "DialogTitle": "Guard 2",
     "PreviousBlocks": 1b,
-    "DialogText": "Helping? Oh yes, that would be great, the problem are not the Orcs raiding here, it's the origin of the evil in the old Fornost fortress.There are many Orcs from Angmar, it seems like they are looking for something there.If you could go there and find out what's that all about. I bet if you could kill enough of the Orc captains there, than they might retreat back to where they came from.Without leadership they are weaker!",
+    "DialogText": "帮忙？ 好啊， 那太棒了，问题的根源不在于奥克的袭击，而是旧佛诺斯特堡垒里的邪恶力量。 那里从安格玛来了很多奥克， 他们好像正在那里寻找一些东西。希望你能去那里看看这到底是怎么回事。我敢打赌，如果你能杀死足够多的奥克指挥官， 那么他们就可能退回到他们原来的地方。没了指挥，奥克们将会是一盘散沙！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

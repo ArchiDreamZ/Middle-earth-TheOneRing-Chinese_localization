@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -61,7 +61,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here we are, @p !So much gold that nobody will ever be able to spend it. Finally, after the long journey I can see the halls of my people again!We are close to victory, lets fight Smaug together! This monster was long enough king under the mountain, now my time has come!INTO BATTLE!!!",
+    "DialogText": "我们到了， @p ！
+这里有谁都花不完的金子。
+终于，漫长的旅途过后，我再次见到了属于我的子民的厅堂！
+
+我们已经离胜利不远了， 让我们一起杀死史矛革！
+这只怪物已经在山下称王很久了，而现在我的时代即将到来！
+战 斗 吧 ！！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

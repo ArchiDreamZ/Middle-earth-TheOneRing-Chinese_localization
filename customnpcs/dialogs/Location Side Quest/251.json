@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 252,
-                "Title": "How can I help you? (Side Quest Start)",
+                "Title": "我能帮您什么忙？? (支线任务开始)",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -51,7 +51,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello adventurer @p !I can see you are a friend of the Hobbits and I like that.My name is Tom Bombadil!I'm as old as Arda itself and was one of the first beings in Middleearth.My voice is my power and my singing is magical.It makes me stronger, heals people and makes my enemies flee.I'm here in Willowbottom to warn the Hobbits here of the dark mystery that is rising in the north.Looks like you are an adventurer and I could use your help to stop the evil.",
+    "DialogText": "你好，冒险者 @p ！
+看得出来，你是霍比特人的朋友，我很喜欢这一点。
+我的名字是汤姆·邦巴迪尔！
+
+我和阿尔达一样古老，是中土世界最早的存在之一。
+我的声音就是我的力量，我的歌声充满魔力。
+它能让我变得更强、治愈他人或让敌人逃走。
+
+我来柳树岗是为了警告这里的霍比特人，黑暗的谜团正在北方升起。
+看来你是个冒险家，我需要你的帮助来阻止邪恶。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
