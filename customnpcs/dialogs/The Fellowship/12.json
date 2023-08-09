@@ -79,16 +79,17 @@
     "TextWidth": 300,
     "DialogTitle": "Elrond ",
     "PreviousBlocks": 1b,
-    "DialogText": "I am Elrond, Lord of the Elves of Rivendell! Welcome @p !
+    "DialogText": "我是幽谷的精灵之王埃尔隆德！欢迎来到这里， @p !
 
-This is the Council of the Fellowship of the Ring!
-We have gathered here to decide what will happen to the ring!
-He can't stay here in Rivendell, it would be too dangerous!
-The ring must be destroyed! And that only works if he is thrown into the lava of Mount Doom! The place where it was made!
+这是魔戒同盟的会议！
+我们在这里聚集，来决定魔戒的去向！
+它不能留在幽谷，那将会太危险！
+魔戒必须被摧毁！而唯有将它投入末日山的熔岩中才能实现！
+那是它被创造的地方！
 
-I was there.. 3000 years ago... Isildur should have destroyed it...
+3000年前，我亲自在那里...伊熙尔杜应该将其毁掉...
 
-And now the task falls to one of you!",
+现在这个任务落在了你们之中的一位身上！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

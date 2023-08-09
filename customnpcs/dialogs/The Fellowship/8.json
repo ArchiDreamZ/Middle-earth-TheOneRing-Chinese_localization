@@ -70,11 +70,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take the ring to Rivendell, Lord Elrond will know what to do.
-It will be a long and dangerous journey! Meet me halfway in Bree at the Prancing Pony Inn.
-In the meantime I will visit my old friend Saruman the White... I must consult with him!
+    "DialogText": "将戒指带到幽谷，埃尔隆德领主会知道该怎么做。
+这将是一段漫长而危险的旅途！在布里的跃马客栈与我会合。
+与此同时，我将去拜访我的老朋友白袍巫师萨茹曼......我必须向他请教！
 
-Go now @p !! All of Middle-earth is counting on you!!",
+现在去吧， @p !! 整个中土大陆都指望着你！！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

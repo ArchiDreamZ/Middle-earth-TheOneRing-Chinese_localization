@@ -60,13 +60,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is what will come to pass, If you should fail. 
+    "DialogText": "这就是未来会发生的，如果你们失败了。 
 
-The Fellowship is breaking, it has already begun. 
+魔戒同盟正在瓦解，这已经开始了。 
 
-He will try to take the Ring, you know of whom I speak. One by one, 
+他会试图夺取魔戒，你知道我在说谁。一个接一个， 
 
-it will destroy them..",
+魔戒将摧毁他们..
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

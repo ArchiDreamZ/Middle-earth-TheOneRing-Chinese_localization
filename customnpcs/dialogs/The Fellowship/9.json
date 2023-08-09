@@ -78,10 +78,12 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn",
     "PreviousBlocks": 1b,
-    "DialogText": "Greetings!
-My name is Aragorn, Arathorn's son.
-I'm a friend of Gandalf the Grey!
-They call me Strider around here.",
+    "DialogText": "向你问候！
+我叫阿拉贡，是阿拉松之子。
+我是灰袍甘道夫的朋友！
+在这里，他们称我为大步佬。
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

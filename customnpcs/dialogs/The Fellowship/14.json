@@ -50,13 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to Lothlorien @p !
+    "DialogText": "欢迎来到洛斯罗瑞恩 @p !
 
-Destiny stands on the edge of a knife!
+命运伫立在一把刀的边缘!
 
-A shadow now stirs in the east, Mordor's power grows!
+东方现在出现了阴影，魔多的力量在增长!
 
-Look in the mirror here in front of me!",
+看见我面前的镜子!
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

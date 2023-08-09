@@ -61,7 +61,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "{You bend over the mirror and see distorted images of a burning Shire.}",
+    "DialogText": "{你俯身朝镜子中瞧去，看到一幅扭曲的画面，那是被夷平的夏尔郡熊熊燃烧的景象。}
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -89,10 +89,11 @@
     "TextWidth": 300,
     "DialogTitle": "Gandalf{Quest Ring JA)",
     "PreviousBlocks": 1b,
-    "DialogText": "Do you feel it's dark power?
-The ring wants to be found!
-Take good care of him! Don't use it. No matter what!
-The Ringwraiths can feel it's power!",
+    "DialogText": "你感受到它的黑暗力量了吗？
+这枚戒指想要被找到！
+好好保管它！不要使用它。无论如何都不要！
+戒灵将会感受到它的力量！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

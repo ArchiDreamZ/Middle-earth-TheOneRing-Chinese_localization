@@ -78,11 +78,11 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn(Quest)",
     "PreviousBlocks": 1b,
-    "DialogText": "I know your real name @p!
-And I know what you carry with you! And also who is after you.
-Gandalf told me everything!
-You can't wait here for your friend the wizard!
-You have to go on! It's not safe here!",
+    "DialogText": "我知道你的真名， @p!
+我也知道你身上携带着什么！还有谁在追逐你。
+甘道夫告诉了我一切！
+你不能在这里等待你的巫师朋友！
+你必须继续前进！这里不安全！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

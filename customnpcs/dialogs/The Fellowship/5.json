@@ -78,11 +78,12 @@
     "TextWidth": 300,
     "DialogTitle": "Gandalf{Quest}",
     "PreviousBlocks": 1b,
-    "DialogText": "My worst nightmares have come true!
-The dark lord Sauron has returned and the One Ring of power with him!
-It was here in the Shire before my eyes the whole time! And I was too blind to see!
-The ring can't stay here! And I can't bear it!
-... @p... You must take it! ",
+    "DialogText": "我最可怕的噩梦成真了！
+黑暗领主索隆已经回归，带着至尊魔戒回来了！
+它一直都在夏尔郡，在我眼前！而我竟然太瞎视了！
+这枚戒指不能留在这里！我不能忍受它！
+... @p... 你必须拿走它！ 
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

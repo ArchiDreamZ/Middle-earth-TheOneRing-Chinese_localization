@@ -50,10 +50,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "A wizard is never late, @p . Nor is he early. He arrives precisely when he means to!
+    "DialogText": "一个巫师永远不会迟到， @p . 他也不会早到。 他会在他意欲之时准时到达！
 
-Our meeting here in Bag End is no coincidence.
-We have something important to talk about!",
+我们在袋底洞的会面并非巧合。
+我们有重要的事情要谈！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

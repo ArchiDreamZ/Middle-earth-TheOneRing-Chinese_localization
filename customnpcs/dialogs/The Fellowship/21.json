@@ -40,14 +40,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There is still hope! 
+    "DialogText": "我们仍有希望！ 
 
-We have provided you with a boat and supplies.
+我们为你准备了一艘船和必要的物资。
 
-Take the Anduin south to the statues of the ancient kings.
-And always remember @p ...
+沿着安都因河南行，一直到古代君王的雕像处。
+而且请牢记 @p ...
 
-Even the smallest can change the course of fate!",
+即便是微不足道之人也能改变命运的走向！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
