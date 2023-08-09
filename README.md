@@ -50,6 +50,7 @@ MEGA云盘：
 看一下已经汉化的部分，就知道怎么汉化了。
 
 ## 汉化须知
+### 翻译标准
 汉化之前最好先看一下已经汉化的部分，基本看了就知道怎么汉化了。
 
 首先，要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
@@ -64,7 +65,7 @@ MEGA云盘：
 
 这是[指环王原著-世纪文景译版](https://book.qq.com/book-detail/567379)，这是[霍比特人原著-世纪文景译版](https://book.qq.com/book-detail/178806)
 
-
+### 尤其注意
 不要汉化DialogTitle，这是对话框的标题，不是内容。一旦修改，会破坏对话系统，让对话无法连接。
 
 ![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/d5a88663-270e-4ccd-a5f3-dbf2738e3b5d)
