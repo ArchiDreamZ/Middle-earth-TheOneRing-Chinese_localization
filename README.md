@@ -58,6 +58,12 @@ MEGA云盘：
 
 而如果遇到地名、人名、物品名等，比如“欧斯吉利亚斯”，有人会习惯性的打成“奥斯吉利亚斯”，这样绝对不行。必须要统一译名，严格按照[魔戒中文Wiki](https://lotr.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5)来，翻译地名之前一定要先搜索Wiki。
 
+如果感觉有些话有点难懂，说不定那是原著里的原文，需要在百度里搜一下试试能不能搜到。
+
+如果能搜到，就说明是原著中的原文，确定一下是第几章的。然后在中文译本里找到官方翻译。
+
+这是[指环王原著-世纪文景译版](https://book.qq.com/book-detail/567379)，这是[霍比特人原著-世纪文景译版](https://book.qq.com/book-detail/178806)
+
 不要汉化DialogTitle，这是对话框的标题，不是内容。一旦修改，会破坏对话系统，让对话无法连接。
 
 ![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/d5a88663-270e-4ccd-a5f3-dbf2738e3b5d)
