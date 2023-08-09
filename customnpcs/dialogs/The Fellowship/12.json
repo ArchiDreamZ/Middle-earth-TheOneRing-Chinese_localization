@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 13,
-                "Title": "I will destroy the one ring! {Quest Start}",
+                "Title": "我将摧毁这枚魔戒！ {任务开始}",
                 "DialogColor": 392248,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don't want to carry it any further!",
+                "Title": "我不想再带着它走了!",
                 "DialogColor": 14094353,
                 "OptionType": 0
             }
@@ -79,7 +79,7 @@
     "TextWidth": 300,
     "DialogTitle": "Elrond ",
     "PreviousBlocks": 1b,
-    "DialogText": "我是幽谷的精灵之王埃尔隆德！欢迎来到这里， @p !
+    "DialogText": "我是幽谷的精灵领主埃尔隆德！欢迎来到这里， @p !
 
 这是魔戒同盟的会议！
 我们在这里聚集，来决定魔戒的去向！

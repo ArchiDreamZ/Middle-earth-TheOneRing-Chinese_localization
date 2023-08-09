@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 15,
-                "Title": "What will i see?",
+                "Title": "我会看到什么?",
                 "DialogColor": 16316407,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe another time!",
+                "Title": "也许下一次吧!",
                 "DialogColor": 16388360,
                 "OptionType": 0
             }

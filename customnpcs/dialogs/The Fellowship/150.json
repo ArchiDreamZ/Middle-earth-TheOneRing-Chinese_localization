@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 151,
-                "Title": "I will protect you from the Ringwraiths! (side quest start)",
+                "Title": "我将保护你们免受戒灵的伤害！ (开始支线任务)",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don't have time for that right now, goodbye!",
+                "Title": "我现在没有时间参与这个任务，再见！",
                 "DialogColor": 15995923,
                 "OptionType": 0
             }
@@ -79,12 +79,13 @@
     "TextWidth": 300,
     "DialogTitle": "Marry3",
     "PreviousBlocks": 1b,
-    "DialogText": "well... you might be right.
+    "DialogText": "嗯...也许你是对的。
 
-AAAHH what was that? Did you hear the ghost scream?
-It must be the riders! They found us!
-Oh no!!
-Help us @p !",
+啊啊啊，那是什么？你听到那个幽灵的尖叫声了吗？
+一定是骑手们！他们找到我们了！
+哦不！
+救救我们 @p !
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

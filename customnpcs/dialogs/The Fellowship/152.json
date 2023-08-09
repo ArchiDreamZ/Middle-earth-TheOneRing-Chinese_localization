@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (追随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -65,7 +65,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后吧，再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -89,19 +89,19 @@
     "TextWidth": 300,
     "DialogTitle": "pippin1",
     "PreviousBlocks": 1b,
-    "DialogText": "*Burp*
+    "DialogText": "*打嗝*
 
-Oh hello, @p
-Merry and I are having a midnight snack.
-How are you supposed to sleep in such a creepy place.
+哦，你好， @p
+梅里和我正在享用午夜小吃。
+在这样可怕的地方你怎么可能入睡呢。
 
-I'd much rather be in the Green Dragon in the Shire right now.
-They have the best beer far and wide.
-Oh yes.. the Shire, I already miss it.
+我宁愿此刻在夏尔郡的绿龙酒馆。
+无论走到哪里他们都有着最好的啤酒。
+哦，对了，夏尔郡，我已经怀念它了。
 
-But I will accompany you and protect you as best as I can.
+但我将陪伴你，并尽我所能去保护你。
 
->>(You can take Pippin with you as a companion)<<",
+>>(你可以带上皮平成为你的同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

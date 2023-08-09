@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 6,
-                "Title": "Yes I will take the ring! (reach for the ring)",
+                "Title": "是的，我会拿起魔戒！ (伸手去拿魔戒)",
                 "DialogColor": 15525633,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don't have time for that right now!",
+                "Title": "我现在没时间做那个!",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -79,8 +79,8 @@
     "DialogTitle": "Gandalf{Quest}",
     "PreviousBlocks": 1b,
     "DialogText": "我最可怕的噩梦成真了！
-黑暗领主索隆已经回归，带着至尊魔戒回来了！
-它一直都在夏尔郡，在我眼前！而我竟然太瞎视了！
+黑暗魔君索隆已经回归，带着至尊魔戒回来了！
+它一直都在夏尔郡，在我眼前！而我真是太盲目了！
 这枚戒指不能留在这里！我不能忍受它！
 ... @p... 你必须拿走它！ 
 ",

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 21,
-                "Title": "I will fulfill my destiny!{Quest Start}",
+                "Title": "我将完成我的使命!{任务开始}",
                 "DialogColor": 3210257,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 20,
-                "Title": "If you ask it of me, I will give you the One Ring. ",
+                "Title": "如果你要求我的话，我就把至尊魔戒给你。 ",
                 "DialogColor": 850157,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }

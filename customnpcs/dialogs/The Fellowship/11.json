@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 204,
-                "Title": "Tell me more about the Weatherhills.",
+                "Title": "告诉我更多关于风云丘陵的事。",
                 "DialogColor": 15065358,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 205,
-                "Title": "Tell me more about Lord Elrond and Rivendell.",
+                "Title": "告诉我更多关于埃尔隆德领主和幽谷的事。",
                 "DialogColor": 15065358,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 270,
-                "Title": "Come with me!",
+                "Title": "跟我来！",
                 "DialogColor": 260092,
                 "OptionType": 1
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }

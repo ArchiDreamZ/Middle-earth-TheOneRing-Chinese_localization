@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 201,
-                "Title": "Tell me more about the ring.",
+                "Title": "让我更详细地告诉你关于魔戒的情况吧。",
                 "DialogColor": 16046344,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 202,
-                "Title": "Who is Saruman?",
+                "Title": "谁是萨茹曼?",
                 "DialogColor": 16046344,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 203,
-                "Title": "Who are these Ringwraiths?",
+                "Title": "这些戒灵是谁?",
                 "DialogColor": 16046344,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let's go on an adventure!",
+                "Title": "让我们一起去冒险吧!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -74,7 +74,7 @@
 这将是一段漫长而危险的旅途！在布里的跃马客栈与我会合。
 与此同时，我将去拜访我的老朋友白袍巫师萨茹曼......我必须向他请教！
 
-现在去吧， @p !! 整个中土大陆都指望着你！！
+现在去吧， @p !! 整个中洲都指望着你！！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

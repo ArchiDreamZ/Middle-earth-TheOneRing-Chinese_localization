@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 227,
-                "Title": "You look worried Gandalf.",
+                "Title": "甘道夫，你看起来很担心。",
                 "DialogColor": 16645883,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16128014,
                 "OptionType": 0
             }
@@ -50,12 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here it is @p
-The door to the dwarven kingdom of Moria.
-The way across Mount Caradhras is not possible through the spells of Saruman.
+    "DialogText": "这就是它， @p
+墨瑞亚的矮人王国的大门。
+通过萨茹曼的咒语是不可能穿过卡拉兹拉斯山的。
 
-So we must go under the mountain... a long and dangerous journey..
-The dwarves have dug too greedily and too deep.. And terror awoke in the deep.",
+所以我们必须穿过山下... 一段漫长而危险的旅程...
+矮人们挖得太贪婪太深了。恐惧在深渊中苏醒。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

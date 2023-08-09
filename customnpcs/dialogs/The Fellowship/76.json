@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 77,
-                "Title": "Tell me more about the Quests",
+                "Title": "告诉我更多关于任务的事情",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 226,
-                "Title": "Tell me more about Middle-earth",
+                "Title": "告诉我更多关于中洲的事情",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 79,
-                "Title": "Tell me more about the heroes",
+                "Title": "告诉我更多关于英雄的事情",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 269,
-                "Title": "Tutorial",
+                "Title": "教程",
                 "DialogColor": 258044,
                 "OptionType": 1
             }
@@ -84,7 +84,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye",
+                "Title": "再会",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }

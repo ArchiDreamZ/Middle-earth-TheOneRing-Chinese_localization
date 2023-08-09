@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 16,
-                "Title": "<Look into the mirror> ",
+                "Title": "<看向面前的镜子> ",
                 "DialogColor": 16316664,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "iam too affrait!",
+                "Title": "我太害怕了!",
                 "DialogColor": 14288904,
                 "OptionType": 0
             }
