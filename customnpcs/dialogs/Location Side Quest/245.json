@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (Follower menu)",
+                "Title": "Come with me! (Follower menu)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "我想快速旅行到地图上的一个路径点。",
+                "Title": "I want to fast travel to a map waypoint.",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "可能需要一会， 再见!",
+                "Title": "Maybe later, Goodbye!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "他回来了! 索隆回来了!小心点 @p 你无法独自取胜!我会用我的力量帮助你赢得这场战斗。回到你来时的阴影里去!!>>( 你可以让凯兰崔尔跟随你 )<<",
+    "DialogText": "He is back! Sauron!Be carefull @p You can't win this fight alone!I will assist you in the battle with my power.BACK INTO THE SHADOW WHERE YOU CAME FROM!!>>( You can take Galadriel as a follower with you )<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

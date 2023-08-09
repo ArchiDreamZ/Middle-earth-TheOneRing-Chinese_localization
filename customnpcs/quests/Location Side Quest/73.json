@@ -17,7 +17,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 19,
     "Type": 0,
     "QuestMail": {
         "Sender": "",
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673459995663L,
+        "TimePast": 1690135775602L,
         "Time": 0L,
         "Subject": ""
     },
@@ -59,6 +59,6 @@
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "I have found both of the staff's and should bring them to Glorfindel in Rivendell.",
+    "CompleteText": "I have found both of the staffs and should bring them to Glorfindel in Rivendell.",
     "NextQuestTitle": ""
 }

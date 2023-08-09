@@ -1,13 +1,50 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 229,
-                "Title": "我可以帮忙解决这个问题吗？",
+                "Title": "Can I help with this problem?",
                 "DialogColor": 16514294,
                 "OptionType": 1
             }
@@ -17,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 231,
-                "Title": "我回来了，任务已经完成了！",
+                "Title": "I'm back and I finished the task!",
                 "DialogColor": 3537175,
                 "OptionType": 1
             }
@@ -27,52 +64,35 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "谢谢你，再见！",
+                "Title": "Goodbye!",
                 "DialogColor": 16256268,
                 "OptionType": 0
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 19,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "Guard 1",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "DialogText": "欢迎你冒险者，这里是遗忘客栈，一个享受啤酒和食物的好地方。
-好吧， 最近几天旅客来得越来越少，他们担心有奥克会来袭击这里。
-这就是我在这里守卫的原因。
-
-别人付了钱让我来保卫这里的安全，所以请你不要在这里惹麻烦！",
+    "PreviousBlocks": 1b,
+    "DialogText": "Welcome adventurer, this is the Forsaken Inn and a nice place to drink a beer and have a good meal.But, in the last days there are less visitors coming, I think they are afraid of the Orcs that are raiding this area.Thats why i have to guard this tavern. I'm a mercenary and payed to keep this place safe, so dont cause any trouble around here!",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -81,7 +101,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1668869139485L,
+        "TimePast": 1690134412264L,
         "Time": 0L,
         "Subject": ""
     }

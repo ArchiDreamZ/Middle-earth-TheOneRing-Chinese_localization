@@ -24,7 +24,7 @@ With every step I get closer to Mordor!",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 19,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -34,7 +34,7 @@ With every step I get closer to Mordor!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1683152324557L,
+        "TimePast": 1689217721924L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,7 +44,7 @@ With every step I get closer to Mordor!",
     },
     "CompleteText": "Here are the statues Lady Galadriel spoke of!
 
-I should search the East Shore. And set up camp for the night.
+I should search the West Shore. And set up camp for the night.
 
 Do i see Boromir in the distance? What is he doing there alone?",
     "NextQuestTitle": "Part 7: Amon Hen",

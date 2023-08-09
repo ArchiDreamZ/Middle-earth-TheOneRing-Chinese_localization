@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "没问题，我是个伟大的冒险家，我能做到!",
+                "Title": "No problem, I'm a great adventurer, I can do this!",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "太好了! 我会在这里等着. 我的地下室就在旁边，在一个古老的山洞里.山姆总是不敢下去, 他说他有一天听到一些奇怪的声音.小心点! 可能这里面有只动物!",
+    "DialogText": "Fantastic! I will wait here. My basement is right next to me, it's in an old cave.Sam is always too scared to go down there, he told me, strange noises coming from there.So take care! Maybe there is a wild animal or something!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -57,7 +57,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1683632274938L,
+        "TimePast": 1688909210254L,
         "Time": 0L,
         "Subject": ""
     }

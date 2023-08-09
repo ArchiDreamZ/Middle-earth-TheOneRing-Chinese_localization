@@ -25,7 +25,7 @@ I should be careful and head east next towards Amon Lhaw, where I can set up a n
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 19,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -35,7 +35,7 @@ I should be careful and head east next towards Amon Lhaw, where I can set up a n
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667278988945L,
+        "TimePast": 1689240441714L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,7 +44,7 @@ I should be careful and head east next towards Amon Lhaw, where I can set up a n
             {
                 "Slot": 4b,
                 "id": "minecraft:fish",
-                "Count": 20b,
+                "Count": 21b,
                 "Damage": 0s
             }
         ]

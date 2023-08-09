@@ -1,13 +1,50 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 204,
-                "Title": "Tell me more about the Weathertop.",
+                "Title": "Tell me more about the Weatherhills.",
                 "DialogColor": 15065358,
                 "OptionType": 1
             }
@@ -17,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 205,
-                "Title": "Tell me more about Elrond and Rivendell.",
+                "Title": "Tell me more about Lord Elrond and Rivendell.",
                 "DialogColor": 15065358,
                 "OptionType": 1
             }
@@ -26,51 +63,48 @@
             "OptionSlot": 2,
             "Option": {
                 "DialogCommand": "",
+                "Dialog": 270,
+                "Title": "Come with me!",
+                "DialogColor": 260092,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 3,
+            "Option": {
+                "DialogCommand": "",
                 "Dialog": -1,
                 "Title": "Goodbye!",
-                "DialogColor": 16583682,
+                "DialogColor": 16649218,
                 "OptionType": 0
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 19,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": 3,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "Aragor(Quest JA)",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "DialogText": "Go to Rivendell to see Elrond. He's already summoned a council!
-The fastest way is over the Weatherhills but be careful on the way.. the black riders are seen in this area.
-A long dangerous journey lies ahead of you!",
+    "PreviousBlocks": 1b,
+    "DialogText": "Go to Rivendell to see Lord Elrond. He's already summoned a council!
+The fastest way is over the Weatherhills, but be careful on the way.. the Black Riders were seen in this area.
+A long and dangerous journey lies ahead of you!",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -79,7 +113,7 @@ A long dangerous journey lies ahead of you!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1666904230941L,
+        "TimePast": 1690133728464L,
         "Time": 0L,
         "Subject": ""
     }
