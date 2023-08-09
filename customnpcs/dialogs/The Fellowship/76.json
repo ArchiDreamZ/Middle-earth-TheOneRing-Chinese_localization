@@ -108,12 +108,20 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo Start",
     "PreviousBlocks": 1b,
-    "DialogText": "Hello @p and welcome to Middle-earth! (Version 3.3)This is the spawn and gateway to a world of adventures!
-From here you have many possibilities to start your journey!There are 3 story quests, each with more than ten missions that will take you to the most hidden and beautiful places in Middle-earth.It's a long journey and you will face many dangers along the way.You will also see many familiar faces and accompany the heroes of Middle-earth in their deeds.
-Will you save Middle-earth from destruction?
-Or subdue it?
+    "DialogText": "你好， @p ，欢迎来到中洲！（版本3.3）
 
-The decision is yours @p!",
+这里是冒险世界的起点和通往那里的大门！
+从这里开始，你将有许多可能性展开你的旅程！
+
+共有三个故事任务，每个任务都有十多个关卡，将带领你去中洲最隐秘而美丽的地方。
+
+这是一段漫长的旅程，在途中你将面临许多危险。
+你还将会见到许多熟悉的面孔，在他们的壮举之中与中洲的英雄们共同前行。
+你将会拯救中洲免于毁灭吗？
+还是使其屈服？
+决定权在你手中， @p!
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

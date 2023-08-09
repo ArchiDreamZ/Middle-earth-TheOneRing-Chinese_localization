@@ -69,17 +69,23 @@
     "TextWidth": 300,
     "DialogTitle": "Elrond(Quest Ja)",
     "PreviousBlocks": 1b,
-    "DialogText": "Very nice! @p ! 
+    "DialogText": "非常好！ @p ! 
 
-You are all our hope!The enemy will never think we are planning to destroy it!Go south to the West Gate of Moria and through the mines.but beware.. 
+你们是我们所有人的希望！
+敌人永远不会想到我们计划摧毁它！
+向南前往墨瑞亚的西门，穿过矿山。
 
-A dark and long journey awaits you.Lady Galadriel is waiting for you in Lothlorien!
-And always remember, the ring wants to be found, it only obeys the will of the One.
-The Dark Lord and the Ring are one. They are bound to each other.
+但要小心.. 
 
-The fate of all of Middleearth depends on your mission.
+一段黑暗而漫长的旅程等待着你。
 
-I wish you success @p !",
+加拉德瑞尔女士正在洛斯罗瑞恩等待你！
+永远记住，魔戒想要被找到，它只听从唯一之意志。
+黑暗领主和魔戒是一体的，它们彼此相连。
+
+整个中土大陆的命运都取决于你们的使命。
+
+祝你成功！ @p !",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

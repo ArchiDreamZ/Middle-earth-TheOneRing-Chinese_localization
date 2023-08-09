@@ -50,9 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Even the wisest cannot tell. For the mirror... shows many things...Things that were... things that are... are and some things... that have not yet come to pass.
+    "DialogText": "即使是最智慧的人也无法说清楚。 
+因为这面镜子...展示了许多事情...
 
-So, do you want to take a look inside?",
+过去的事......现在的事......还有一些正在发生的事...... 
+
+以及一些尚未发生的事情。
+
+那么，你想看看里面吗?
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

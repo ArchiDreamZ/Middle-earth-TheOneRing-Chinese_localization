@@ -51,25 +51,25 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<You stretch out your hand and show Galadriel the one ring.>
+    "DialogText": "<你伸出手，向加拉德瑞尔展示魔戒。>
 
-You offer it to me freely? I do not deny that my heart has greatly desired this...
+你自愿将它给我吗？我不否认我的内心强烈地渴望着它...
 
-<Suddenly her appearance darkens and her voice deepens!>
+<突然，她的形象变暗，声音变低！>
 
-In place of a Dark Lord you would have a Queen! 
-Not dark but beautiful and terrible as the Dawn! 
-Treacherous as the Seas! 
-Stronger than the foundations of the Earth! 
-All shall love me and despair!
+你将会拥立一位女王，来取代黑暗魔君。 
+我不会是黑暗的，而会既美丽又恐怖，如同清晨与黑夜！
+美丽如同大海！ 
+强壮坚实胜过大地的根基！ 
+众生万物都将爱我，并将绝望！
 
-<Her appearance returns to normal>
-... I'm sorry ...
+<她的形象恢复正常>
+... 对不起 ...
 
-This task is for you @p...
-and if you don't find a way..
+这个任务是为你而设立的， @p...
+如果你找不到办法..
 
-Then nobody will find it!...",
+那么没有人会找到！...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

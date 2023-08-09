@@ -98,9 +98,11 @@
     "TextWidth": 300,
     "DialogTitle": "Aragor(Quest JA)",
     "PreviousBlocks": 1b,
-    "DialogText": "Go to Rivendell to see Lord Elrond. He's already summoned a council!
-The fastest way is over the Weatherhills, but be careful on the way.. the Black Riders were seen in this area.
-A long and dangerous journey lies ahead of you!",
+    "DialogText": "前往幽谷见埃尔隆德领主。他已经召集了一场会议！
+最快的路线是穿过风云丘陵，但在途中要小心......黑骑手在这个地区被目击到了。
+一个漫长而危险的旅程等待着你！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
