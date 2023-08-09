@@ -1,7 +1,7 @@
 # Middle-earth-TheOneRing
  该地图包由德国的PakPacman制作，并发布于PlanetMinecraft，见帖子：[Middle-earth: Complete Map With All Locations And Heroes With Story Quest's!](https://www.planetminecraft.com/project/middle-earth-complete-map-with-story-quest-s/)
 
- 在这个地图包中，作者制作了6条主线的大量还原电影的故事任务，以及众多支线，添加所有路径点建筑，第一视角体验魔戒故事。
+ 在这个地图包中，作者制作了4条主线的大量还原电影的故事任务，以及众多支线，添加所有路径点建筑，第一视角体验魔戒故事。
 
 ## 原介绍：
 您好，欢迎来到中土世界。
