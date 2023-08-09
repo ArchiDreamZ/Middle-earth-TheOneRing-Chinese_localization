@@ -42,7 +42,7 @@ MEGA云盘：
 
 后续又更新了汉化，请手动下载汉化并添加进地图包
 
-![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f3081220-0bd7-4c70-80d8-6d5f3fe2b9d4)
+![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
 
 放进saves/Middleearth - The One Ring/customnpcs里。
 
