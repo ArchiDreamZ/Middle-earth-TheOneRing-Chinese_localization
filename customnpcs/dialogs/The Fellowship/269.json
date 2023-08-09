@@ -1,0 +1,74 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 76,
+                "Title": "<<Back>>",
+                "DialogColor": 15328262,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Goodbye",
+                "DialogColor": 16583682,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Frodo tutorial",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Tutorial for new players.- If it's your first adventure in Middleearth make sure to speak to the grey Wanderer. He will spawn close to you and explain you everything about the LOTR mod.- Make sure to change your keybind of the Questlog to \"K\" or an other free button of your choice. When you have an active Quest, you will see a little arrow in the right corner, if you click on it you can see more infos about your Quest goal. - There are a few kinds of NPCs in this world. The normal LOTR mod npcs: you can help them, doing small Quests and earning alignment for the faction. But more of that at the grey Wanderer. Custom made ones: they have a green or red name over the head. Some NPCs, like me, have a box of text where you have answer choices. Some others only have some dialog lines, all are activated with a right click. Make sure to set your GUI in the options to large, otherwise dialogs can be cut off. - Sometimes you have different ways to earn your next goal, so take a look around. The world has many \"Easter Eggs\" as well. - The Followers can be taken into a \"Soulstone\" after you hired them. That way you can take them with you and teleport. If you place the hero again, he will no longer be hired. So don't pay them too much. The new place will be the new spawnpoint. - If you having trouble or want to give feedback to this project, feel free to visit our Discord server at: https://discord.gg/UxDYMmzMNZThanks for playing, and have fun on your journey! ",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1688913425428L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

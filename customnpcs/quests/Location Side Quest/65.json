@@ -16,14 +16,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Khamul"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 19,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1671295021415L,
+        "TimePast": 1690136735553L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,6 +35,13 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "He is returend! Khamul one of the 9 Nazguls. That must mean more of them are alive again.. Maybe i will find more clues on my journey on that topic!",
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Khamul"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "He has returend! Khamul one of the 9 Nazguls. That must mean more of them are alive again.. Maybe I will find more clues on my journey on that topic!",
     "NextQuestTitle": ""
 }

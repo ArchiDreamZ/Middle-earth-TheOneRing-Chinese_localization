@@ -5,7 +5,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 0,
     "Title": "Fornost ",
-    "Text": "The Bree lands got attacked by raiding Angmar Orcs, The Forsaken Inn hired a guard that told me that all the orcs are coming from the old Fornost castle. I have to kill as many captains there as i can find to make them retreat.",
+    "Text": "The Bree lands got attacked by raiding Angmar Orcs, The Forsaken Inn hired a guard that told me that all the orcs are coming from the old Fornost castle. I have to kill as many captains as I can find there to make them retreat.",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -16,14 +16,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 10,
-            "Slot": "Orc Captain"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 19,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1671295022663L,
+        "TimePast": 1690134234664L,
         "Time": 0L,
         "Subject": ""
     },
@@ -46,6 +41,13 @@
             }
         ]
     },
-    "CompleteText": "I should talk to the guard from the Forsaken Inn again and tell him that the area is safe again!",
+    "QuestKills": [
+        {
+            "Value": 10,
+            "Slot": "Orc Captain"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "I should talk to the guard from the Forsaken Inn again and tell him that the area is safe!",
     "NextQuestTitle": ""
 }

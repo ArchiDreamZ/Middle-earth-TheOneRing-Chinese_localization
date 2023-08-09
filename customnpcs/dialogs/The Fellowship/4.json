@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 5,
-                "Title": "Hello Gandalf, nice to see you! What happend? You look worried.",
+                "Title": "Hello Gandalf, nice to see you! What happened? You look worried.",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -70,7 +70,7 @@ We have something important to talk about!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1682962661230L,
+        "TimePast": 1688910756604L,
         "Time": 0L,
         "Subject": ""
     }

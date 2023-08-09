@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再见!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -53,7 +53,7 @@
     "OptionFaction2Points": 100,
     "DialogText": "你好，冒险者 @p ！
 看得出来，你是霍比特人的朋友，我很喜欢这一点。
-我叫汤姆·邦巴迪尔！
+我的名字是汤姆·邦巴迪尔！
 
 我和阿尔达一样古老，是中土世界最早的存在之一。
 我的声音就是我的力量，我的歌声充满魔力。
@@ -77,7 +77,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673458644753L,
+        "TimePast": 1688909697055L,
         "Time": 0L,
         "Subject": ""
     }
