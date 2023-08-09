@@ -40,6 +40,12 @@
 MEGA云盘：
 [德国魔戒RPG剧情地图包-3.3](https://mega.nz/file/o8VmQKza#LvJMIiXm6vlo98pfyK9gbkFoUq1oGbt0TLPUS7Dn2To)
 
+后续又更新了汉化，请手动下载汉化并添加进地图包
+
+![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f3081220-0bd7-4c70-80d8-6d5f3fe2b9d4)
+
+放进saves/Middleearth - The One Ring/customnpcs里。
+
 ## 仓库介绍
 该仓库汉化的是该地图包的自定义NPC模组的对话与任务，其中：
 
