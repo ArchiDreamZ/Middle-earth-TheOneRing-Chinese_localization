@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再见!",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -93,7 +93,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1688909954904L,
+        "TimePast": 1680049492117L,
         "Time": 0L,
         "Subject": ""
     }

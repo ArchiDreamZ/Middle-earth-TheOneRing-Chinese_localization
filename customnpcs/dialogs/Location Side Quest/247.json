@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后，再见！",
+                "Title": "可能需要一会， 再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,9 +60,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "多么黑暗的地方啊.. 希望我们不会在这里迷失方向！ 
+    "DialogText": "黑暗笼罩了这里.. 希望我们不会在这里迷失方向！ 
 我听得到林中的低语，这里有很多蜘蛛！ 
-如果你愿意的话，我可以和你一起去！ 
+如果你想要的话，我可以和你一起走！ 
 
 独闯这片森林实在危险！
 

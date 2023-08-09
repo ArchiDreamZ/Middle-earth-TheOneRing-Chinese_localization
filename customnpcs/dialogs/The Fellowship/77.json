@@ -55,16 +55,16 @@ Follow my footsteps
 and go on the dangerous journey
 from the Shire to Mordor.
 The main quest starts at Gandalf in Bag End.
->Can you destroy the one ring
-or will you rule as the new dark leader?-The Way of the King:
+>Can you destroy the one ring?
+or will you rule as the new dark leader!-The Way of the King:
 Halfway through the main quest, you will have the opportunity
-to start the second questline and accompany Aragorn on his way to the throne.
+to start the second quest line and accompany Aragorn on his way to the throne.
 >Can you reunite the people of Middle-earth?-The Way of the Hobbit:
-Once you have completed the first two questlines,
+Once you have completed the first two quest lines,
 you can go on a journey into the past.
 Bilbo awaits you in Rivendell,
 to tell you about his adventures with the dwarves.
->Can you defeat the dragon Smaug?-Side Quest locations:Many new locations are waiting to be explored, visit some of the side characters along the way and keep an eye out for side missions,that will lead you to the new areas.Why not start right here and visit old Gamgee, his house is right behind me, in the south-west.I heard he could use some help.",
+>Can you defeat the dragon Smaug?-Location Side Quests:Many new locations are waiting to be explored, visit some of the side characters along the way and keep an eye out for side missions,that will lead you to the new areas.Why not start right here and visit old Gamgee, his house is right behind me, in the south-west.I've heard he could use some help.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -81,7 +81,7 @@ to tell you about his adventures with the dwarves.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1688912082879L,
+        "TimePast": 1673458391602L,
         "Time": 0L,
         "Subject": ""
     }

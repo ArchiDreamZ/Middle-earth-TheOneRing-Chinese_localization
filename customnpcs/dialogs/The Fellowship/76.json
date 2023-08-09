@@ -1,43 +1,6 @@
 {
-    "AvailabilityQuestId": -1,
-    "DialogHideNPC": 0b,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "RenderGradual": 0b,
-    "OptionOffsetX": 0,
-    "OptionOffsetY": 0,
-    "OptionFactions1": -1,
-    "TextOffsetX": 0,
-    "OptionFactions2": -1,
-    "TextOffsetY": 0,
-    "AvailabilityFaction2Id": -1,
-    "TitlePos": 0,
-    "OptionFaction1Points": 100,
-    "TitleColor": 14737632,
-    "DialogDisableEsc": 0b,
-    "ShowOptionLine": 1b,
-    "AvailabilityFaction": 0,
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "Color": 14737632,
-    "Images": [
-    ],
-    "NPCScale": 1.0f,
-    "TextSound": "minecraft:random.wood_click",
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "TextPitch": 1.0f,
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "AvailabilityQuest3Id": -1,
-    "NPCOffsetY": 0,
-    "AvailabilityDialog3Id": -1,
-    "NPCOffsetX": 0,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
     "Options": [
         {
             "OptionSlot": 0,
@@ -73,51 +36,54 @@
             "OptionSlot": 3,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 269,
-                "Title": "Tutorial",
-                "DialogColor": 258044,
-                "OptionType": 1
-            }
-        },
-        {
-            "OptionSlot": 4,
-            "Option": {
-                "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye",
-                "DialogColor": 16712192,
+                "Title": "Goodbye!",
+                "DialogColor": 14223626,
                 "OptionType": 0
             }
         }
     ],
-    "TextHeight": 400,
-    "OptionSpaceX": 0,
+    "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "OptionSpaceY": 0,
-    "TitleOffsetY": 0,
-    "TitleOffsetX": 0,
-    "ModRev": 19,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "DialogDarkScreen": 1b,
-    "TextWidth": 300,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
     "DialogTitle": "Frodo Start",
-    "PreviousBlocks": 1b,
-    "DialogText": "Hello @p and welcome to Middle-earth! (Version 3.3)This is the spawn and gateway to a world of adventures!
-From here you have many possibilities to start your journey!There are 3 story quests, each with more than ten missions that will take you to the most hidden and beautiful places in Middle-earth.It's a long journey and you will face many dangers along the way.You will also see many familiar faces and accompany the heroes of Middle-earth in their deeds.
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Hello @p and welcome to Middle-earth! (Version 3.2)This is the spawn and gateway to a world of adventure!
+From here you have many possibilities to start your journey!There are 3 story quests, each with more than ten missions that will take you to the most hidden and beautiful places in Middle-earth.It's a long journey and you will face many dangers along the way.You will also see many familiar faces and accompany the heroes of Middle-earth in their deeds.
 Will you save Middle-earth from destruction?
 Or subdue it?
 
-The decision is yours @p!",
+The decision is yours @p !(If you want to get more infos about the project and future updates visit us on the discord channel: https://discord.gg/UxDYMmzMNZ)",
     "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -126,7 +92,7 @@ The decision is yours @p!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690140172782L,
+        "TimePast": 1682688394335L,
         "Time": 0L,
         "Subject": ""
     }

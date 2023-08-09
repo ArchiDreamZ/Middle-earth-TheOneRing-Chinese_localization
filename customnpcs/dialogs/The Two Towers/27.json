@@ -1,44 +1,6 @@
 {
-    "AvailabilityQuestId": -1,
-    "DialogHideNPC": 0b,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "RenderGradual": 0b,
-    "OptionOffsetX": 0,
-    "OptionOffsetY": 0,
-    "OptionFactions1": -1,
-    "TextOffsetX": 0,
-    "OptionFactions2": -1,
-    "TextOffsetY": 0,
-    "AvailabilityFaction2Id": -1,
-    "TitlePos": 0,
-    "OptionFaction1Points": 100,
-    "TitleColor": 14737632,
-    "DialogDisableEsc": 0b,
-    "ShowOptionLine": 1b,
-    "AvailabilityFaction": 0,
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "Color": 14737632,
-    "Images": [
-    ],
-    "NPCScale": 1.0f,
-    "TextSound": "minecraft:random.wood_click",
-    "DialogSound": "lotr:dwarf.attack",
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "TextPitch": 1.0f,
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "AvailabilityQuest3Id": -1,
-    "NPCOffsetY": 0,
-    "AvailabilityDialog3Id": -1,
-    "NPCOffsetX": 0,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
     "Options": [
         {
             "OptionSlot": 0,
@@ -61,34 +23,51 @@
             }
         }
     ],
-    "TextHeight": 400,
-    "OptionSpaceX": 0,
+    "DialogHideNPC": 0b,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "OptionSpaceY": 0,
-    "TitleOffsetY": 0,
-    "TitleOffsetX": 0,
-    "ModRev": 19,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "DialogDarkScreen": 1b,
-    "TextWidth": 300,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
     "DialogTitle": "AragornFangorn",
-    "PreviousBlocks": 1b,
-    "DialogText": "Oh NO! @p ! We are too late...(Aragorn screams) Aaaaagh!
-The Rohirrim horsemen must have mistaken the Hobbits for orcs!
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "DialogSound": "lotr:dwarf.attack",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Oh NO! @p ! We are too late...
+The Rohirrim horsemen must have mistaken the hobbits for orcs!
 
 We failed... The long journey was in vain...
-Wait a minute, there are tracks in the ground... A Hobbit lay here. And here the other. They crawled. Their hands were bound.Wait! Their bonds were cut and they were followed!Tracks lead away from the battle... into Fangorn Forest.
-Quickly! Follow the straw trail! Maybe they are still alive!",
+
+Wait a minute, there are tracks in the ground... They lead away from the battle... straight into... the Fangorn Forest!
+What madness drove them in there!
+
+Quickly! Follow the Straw Trail! Maybe they are still alive!",
     "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -97,7 +76,7 @@ Quickly! Follow the straw trail! Maybe they are still alive!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689956760899L,
+        "TimePast": 1667281848395L,
         "Time": 0L,
         "Subject": ""
     }

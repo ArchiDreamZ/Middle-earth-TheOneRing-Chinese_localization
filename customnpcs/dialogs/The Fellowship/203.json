@@ -61,7 +61,7 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "The Nine! The Black Riders. Or also called Nazgul. Once kings of men, they are now slaves to the will of Sauron.
-They are connected to the One Ring like their master and feel his power!
+They are connected to the one ring like their master and feel his nearness!
 
 I fear after much torture the creature Gollum has revealed the position to the enemy and now they are headed here.
 You must hurry @p and leave the Shire quickly. It's not safe here anymore.",
@@ -81,7 +81,7 @@ You must hurry @p and leave the Shire quickly. It's not safe here anymore.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1688910907404L,
+        "TimePast": 1673362478014L,
         "Time": 0L,
         "Subject": ""
     }

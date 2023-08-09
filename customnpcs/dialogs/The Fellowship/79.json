@@ -54,7 +54,7 @@
 Even if this is not seen too happily in the Shire.On your long journey you will meet many people who have important tasks to do
 and maybe need your help too.
 So ask around when you come to a city.The next adventure can already be waiting around the corner.
-Some will even join you in a battle and follow you as long as you can pay for them. So keep doing local missions to earn coins.Farewell @p ",
+Some will even join you in battle and follow you as long as you can pay for them. So keep doing local missions to earn coins.Farewell @p ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -71,7 +71,7 @@ Some will even join you in a battle and follow you as long as you can pay for th
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1688908885153L,
+        "TimePast": 1673458195502L,
         "Time": 0L,
         "Subject": ""
     }

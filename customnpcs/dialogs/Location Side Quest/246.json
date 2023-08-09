@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后，再见！",
+                "Title": "可能需要一会， 再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -63,11 +63,11 @@
     "OptionFaction2Points": 100,
     "DialogText": "我们到了， @p ！
 这里有谁都花不完的金子。
-终于，漫长的旅途过后，我再次见到了属于我的子民的厅堂！
+终于， 漫长的旅途过后，我再次见到了属于我人民的殿堂！
 
 我们已经离胜利不远了， 让我们一起杀死史矛革！
-这只怪物已经在山下称王很久了，而现在我的时代即将到来！
-战 斗 吧 ！！",
+这只怪物已经在山下称王很久了， 而现在我的时代即将到来！
+战斗吧！！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
