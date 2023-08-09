@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 5,
-                "Title": "Hello Gandalf, nice to see you! What happened? You look worried.",
+                "Title": "嗨，甘道夫，很高兴见到你！发生了什么事？你看起来很担忧。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 4,
-                "Title": "Goodbye! ",
+                "Title": "再会！ ",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }

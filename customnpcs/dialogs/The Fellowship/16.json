@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 18,
-                "Title": "What does that mean?",
+                "Title": "这是什么意思?",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 17,
-                "Title": "That was too much for me!",
+                "Title": "这对我来说太过分了!",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }

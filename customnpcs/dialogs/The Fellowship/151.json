@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 15995923,
                 "OptionType": 0
             }
@@ -68,13 +68,14 @@
     "TextWidth": 300,
     "DialogTitle": "Merry4",
     "PreviousBlocks": 1b,
-    "DialogText": "Thanks!!
-You are our savior!
-Hurry up to the Weathertop!
+    "DialogText": "谢谢! !
+你是我们的救世主!
+快到风云顶上去!
 
-Draw their attention to you!
-We'll hide here.
-Hope they won't find us!",
+吸引他们的注意力!
+我们将躲在这里。
+希望他们找不到我们!
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

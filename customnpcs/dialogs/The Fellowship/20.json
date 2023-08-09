@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 21,
-                "Title": "I will fulfill my destiny! {Quest Start}",
+                "Title": "我将完成我的使命! {任务开始}",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "walk away in silence...",
+                "Title": "默默地离开...",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 76,
-                "Title": "<<Back>>",
+                "Title": "<<回去>>",
                 "DialogColor": 14670640,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }

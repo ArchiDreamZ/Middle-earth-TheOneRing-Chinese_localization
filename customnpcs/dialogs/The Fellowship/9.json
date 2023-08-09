@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 10,
-                "Title": "My name is...um... Mr. Underhill",
+                "Title": "我的名字是...嗯...山下先生",
                 "DialogColor": 15855855,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }

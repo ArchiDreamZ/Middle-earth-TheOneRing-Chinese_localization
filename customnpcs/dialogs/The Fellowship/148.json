@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 149,
-                "Title": "Then the campfire might not be a good idea.",
+                "Title": "那么篝火可能不是一个好主意。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -78,14 +78,16 @@
     "TextWidth": 300,
     "DialogTitle": "Merry1",
     "PreviousBlocks": 1b,
-    "DialogText": "Oh great... ash on my tomatoes!
-can't you watch Pippin?
+    "DialogText": "哦，糟糕... 火山灰落在了我的番茄上！
+你不能照看好皮平吗？
 
-Oh hello, @p
-don't sneak up on us like that!
-We set up our secret camp for the night here.
-We're hiding from the Black Riders.
-they are looking for something...or maybe someone?",
+哦，你好， @p
+别像这样悄悄接近我们！
+我们在这里搭建起了一个夜晚的秘密基地。
+我们正在躲避黑骑手。
+他们正在寻找某样东西...或者可能是某个人？
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

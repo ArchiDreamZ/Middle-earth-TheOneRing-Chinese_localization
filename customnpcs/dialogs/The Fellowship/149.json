@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 150,
-                "Title": "You better turn it off.",
+                "Title": "你最好把它关掉。",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Enjoy your meal, goodbye!",
+                "Title": "祝您用餐愉快，再会!",
                 "DialogColor": 16386568,
                 "OptionType": 0
             }
@@ -78,9 +78,10 @@
     "TextWidth": 300,
     "DialogTitle": "Merry2",
     "PreviousBlocks": 1b,
-    "DialogText": "But it is normal for hobbits to eat at this time.
-We only had breakfast twice, lunch, tea at 4 pm and dinner.
-The night snack is still missing.",
+    "DialogText": "对霍比特人来说，现在这个时候吃东西是很正常的。
+我们只吃了两次早餐、午餐、下午4点的下午茶和晚餐。
+夜宵现在还没吃呢。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

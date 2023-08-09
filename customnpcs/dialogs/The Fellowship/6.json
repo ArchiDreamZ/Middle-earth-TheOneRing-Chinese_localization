@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 8,
-                "Title": "And what should we do now? {Quest Start}",
+                "Title": "现在我们应该怎么办？ {任务开始}",
                 "DialogColor": 2030110,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 14288648,
                 "OptionType": 0
             }
@@ -65,7 +65,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "谈话",
                 "DialogColor": 16714240,
                 "OptionType": 2
             }
