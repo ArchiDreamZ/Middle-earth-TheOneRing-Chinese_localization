@@ -1,7 +1,7 @@
 # Middle-earth-TheOneRing
  该地图包由德国的PakPacman制作，并发布于PlanetMinecraft，见帖子：[Middle-earth: Complete Map With All Locations And Heroes With Story Quest's!](https://www.planetminecraft.com/project/middle-earth-complete-map-with-story-quest-s/)
 
- 在这个地图包中，作者制作了3条主线的大量还原原著与电影的故事任务，并且导入了大量建筑。
+ 在这个地图包中，作者制作了6条主线的大量还原电影的故事任务，以及众多支线，添加所有路径点建筑，第一视角体验魔戒故事。
 
 ## 原介绍：
 您好，欢迎来到中土世界。
@@ -31,6 +31,16 @@
 目前正在开展更多工作，并计划于2023年开展更多工作：
 
 （法语、西班牙语、俄语、葡萄牙语，也许还有中国普通话。）
+
+## 下载
+
+目前只有少量汉化，已添加进下面的链接。
+
+原文都很简单，英语水平一般也看懂了，想要体验地图包，或者想尝试汉化，就下载体验一下吧。
+
+MEGA云盘：
+[德国魔戒RPG剧情地图包-3.3](https://mega.nz/file/o8VmQKza#LvJMIiXm6vlo98pfyK9gbkFoUq1oGbt0TLPUS7Dn2To)
+
 
 ## 汉化须知
 首先要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
