@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 251,
-                "Title": "什么?为什么你要唱歌?",
+                "Title": "什么？为什么你要唱歌？",
                 "DialogColor": 1501427,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 267,
-                "Title": "格拉姆山的奥克首领, 有一块奇怪的石头. 那是什么东西?",
+                "Title": "格拉姆山的奥克首领拥有一块奇怪的石头。 那石头是什么东西？",
                 "DialogColor": 16112134,
                 "OptionType": 1
             }

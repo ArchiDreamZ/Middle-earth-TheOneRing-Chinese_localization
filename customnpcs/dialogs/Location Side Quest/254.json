@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 265,
-                "Title": "Hello, how can i help? (Side Quest start)",
+                "Title": "你好，我能帮您什么忙？(支线任务开始)",
                 "DialogColor": 457529,
                 "OptionType": 1
             }
