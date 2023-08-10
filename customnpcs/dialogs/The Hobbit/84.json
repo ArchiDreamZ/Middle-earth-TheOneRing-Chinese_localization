@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 85,
-                "Title": "I didn't say anything?!",
+                "Title": "我什么都没说?!",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "{Walk away}",
+                "Title": "{走开}",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -51,13 +51,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What is it ? My precious? Is it tender, is it tasty!?!?
+    "DialogText": "那是什么？我的宝贝？它是柔软的，它好吃吗！？！？
 
-Did you get lost here? Gollum, Gollum!
+你迷路了吗？咕噜，咕噜！
 
-We know safe way out of here, safe way for @p in the dark!
+我们知道这里的安全出口， @p 在黑暗中的安全的出行方式!
 
-BE QUIET!!!",
+闭嘴!!!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

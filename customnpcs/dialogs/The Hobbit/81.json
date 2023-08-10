@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 82,
-                "Title": "What happened next? {Quest Start}",
+                "Title": "接下来发生了什么? {任务开始}",
                 "DialogColor": 130869,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -78,17 +78,19 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo3",
     "PreviousBlocks": 1b,
-    "DialogText": "Also called the Lonely Mountain!
-It lies far to the east behind the Mirkwood realms.
-At the foot of the people of Thal.
+    "DialogText": "也被称为孤山！
+它位于远东，在黑森林王国的后面。
+在塔尔人的脚下。
 
-Once upon a time, the proud people of the dwarves lived in Erebor under their king Thrór.
-There he ruled with his son Thrain and his grandson Thorin. Someday
-the king's greed for gold became too big... And disaster swept over the mountain...
-Because as everyone knows, a gigantic treasure attracts dragons and they defend it all their lives.
+从前，傲慢的矮人民族居住在孤山下，由他们的国王瑟罗尔统治。
+他与他的儿子瑟莱因和孙子梭林一起在那里统治。有一天，
+国王对黄金的贪欲变得太过庞大... 灾难席卷了整座山...
+因为众所周知，巨大的宝藏会吸引龙到来，它们一生都在守护着它。
 
-Smaug the Great devastated first the city of Dale and then Erebor...
-The dwarves fled... and since then Thorin has sworn revenge!",
+伟大的史矛革摧毁了河谷城，然后是孤山...
+矮人们逃离了那里... 从那时起，梭林就发誓要报仇！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5252 1",
                 "Dialog": -1,
-                "Title": "<<Take the Map>>",
+                "Title": "<<拿起地图>>",
                 "DialogColor": 14670636,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 118,
-                "Title": "What should i do next? (Quest Start)",
+                "Title": "接下来我应该做什么? (任务开始)",
                 "DialogColor": 3537175,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -60,16 +60,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to this magical place!
+    "DialogText": "欢迎来到这个神奇的地方！
 
-I heard you are looking for Erebor and need help reading the map.
-Let's see... the letters on the map are dwarf runes. They are only visible at the midsummer night moonlight every 19 years.
+我听说你正在寻找孤山并需要人帮你看地图。
+让我们看看... 地图上的字母是矮人的符文。它们只在每19年的夏至之夜的月光下才可见。
 
-Fate is kind to you @p ... because its tonight...
+命运对你很好 @p ... 因为今晚...
 
-\"Stand by the gray stone when the thrush beats and the setting sun falls on the keyhole with the last light of Durin's day\"
+\"当画眉鸟敲打的时候，站在灰色的岩石旁边，渐渐落下的太阳带着都林之日的余晖，将照到钥匙孔上。\"
 
-What does that mean?",
+这是什么意思呢？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

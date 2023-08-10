@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 86,
-                "Title": "What is this game?  {Quest Start}",
+                "Title": "这是什么游戏?  {任务开始}",
                 "DialogColor": 588582,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "{Walk away}",
+                "Title": "{走开}",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -51,9 +51,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We didn't talk to him!!!
+    "DialogText": "我们没有跟他说过话! !
 
-But we have my precious, we have...",
+但我们有我的宝贝，我们有...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
