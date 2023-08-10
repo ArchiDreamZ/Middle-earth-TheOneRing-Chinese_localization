@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路标点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -65,7 +65,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -89,15 +89,17 @@
     "TextWidth": 300,
     "DialogTitle": "legolas loth1",
     "PreviousBlocks": 1b,
-    "DialogText": "Finally in the realm of the elves. I feel comfortable here.
-It has been a long journey to get here, but an even greater one awaits us. Luckily Lady Galadriel is helping us.
+    "DialogText": "终于来到了精灵的王国。我在这里感觉很舒服。
+这是一段漫长的旅程，但更伟大的旅程在等待着我们。幸运的是，加拉德瑞尔夫人正在帮助我们。
 
-As nice as it is here, we should move on quickly.
-We should be careful the orcs are numerous at night!
+尽管这里很美好，但我们应该快点前进。
+我们应该小心，奥克在夜晚数量众多！
 
-I will follow you as long as you want!
+只要你愿意，我会一直跟随在你身后！
 
->>(You can take Legolas with you as a companion)<<",
+>>(你可以带上莱戈拉斯作为同伴)<<
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

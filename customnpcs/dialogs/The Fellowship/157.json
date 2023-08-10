@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 158,
-                "Title": "Where to go next?",
+                "Title": "接下来将要去哪里?",
                 "DialogColor": 16251891,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -79,11 +79,13 @@
     "TextWidth": 300,
     "DialogTitle": "Gimli",
     "PreviousBlocks": 1b,
-    "DialogText": "Welcome to Moria @p ! The halls of my cousin Balin!
-They call it a mine.. a mine!
+    "DialogText": "欢迎来到墨瑞亚 @p ! 我堂兄巴林的大厅!
+他们称之为矿坑.. 一个矿坑!
 
-Well, long before the terror of the deep came upon them.
-Now it's a grave.",
+好吧，早在深渊的恐惧降临到他们之前。
+现在它是一座坟墓。
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

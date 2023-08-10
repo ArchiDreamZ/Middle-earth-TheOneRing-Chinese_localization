@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 291,
-                "Title": "Where can I find Lady Galadriel?",
+                "Title": "我在哪里能找到加拉德瑞尔夫人？",
                 "DialogColor": 15394051,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -78,9 +78,9 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn Lothlorien",
     "PreviousBlocks": 1b,
-    "DialogText": "Take some rest..
-These borders are well protected. Tomorrow we will take the boats to Argonath. 
-We cross the lake at nightfall, hide the boats and continue on foot..we approach Mordor from the North.",
+    "DialogText": "好好休息一下吧..
+这些边界保护得很好。明天我们将乘船去阿刚那斯。 
+黄昏时我们会渡过湖泊，将船藏起来，然后继续步行..我们将从北方接近魔多．",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

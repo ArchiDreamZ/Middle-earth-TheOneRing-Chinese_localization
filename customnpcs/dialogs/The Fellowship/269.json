@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 76,
-                "Title": "<<Back>>",
+                "Title": "<<返回>>",
                 "DialogColor": 15328262,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye",
+                "Title": "再会",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -50,7 +50,25 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Tutorial for new players.- If it's your first adventure in Middleearth make sure to speak to the grey Wanderer. He will spawn close to you and explain you everything about the LOTR mod.- Make sure to change your keybind of the Questlog to \"K\" or an other free button of your choice. When you have an active Quest, you will see a little arrow in the right corner, if you click on it you can see more infos about your Quest goal. - There are a few kinds of NPCs in this world. The normal LOTR mod npcs: you can help them, doing small Quests and earning alignment for the faction. But more of that at the grey Wanderer. Custom made ones: they have a green or red name over the head. Some NPCs, like me, have a box of text where you have answer choices. Some others only have some dialog lines, all are activated with a right click. Make sure to set your GUI in the options to large, otherwise dialogs can be cut off. - Sometimes you have different ways to earn your next goal, so take a look around. The world has many \"Easter Eggs\" as well. - The Followers can be taken into a \"Soulstone\" after you hired them. That way you can take them with you and teleport. If you place the hero again, he will no longer be hired. So don't pay them too much. The new place will be the new spawnpoint. - If you having trouble or want to give feedback to this project, feel free to visit our Discord server at: https://discord.gg/UxDYMmzMNZThanks for playing, and have fun on your journey! ",
+    "DialogText": "新手教程.
+
+- 如果这是你在中土大陆的第一个冒险，请确保与那位灰袍漫游者交谈。
+他会在你附近生成，并向你解释有关《魔戒》模组的一切。 
+
+- 请确保将任务日志绑定键设置为“K”或您选择的其他空闲按键。 
+当你有一个进行中的任务时，你会在右角看到一个小箭头，如果你点击它，你可以看到更多关于任务目标的信息。 
+
+- 这个世界中有几种不同类型的NPC。普通的《魔戒》模组的NPC：你可以帮助他们，完成一些小任务，为该派系赢得声望。但关于这些方面，你可以咨询那位灰袍漫游者。定制的NPC：他们的头上有绿色或红色的名字。有些NPC（比如我）有一个文本框，在你回答时可以选择。还有其他一些NPC只有一些对话，都是通过右键激活。请确保在选项中将你的GUI设置为大，否则对话框可能会被截断。
+
+- 有时候你有多种方法来完成下一个目标，所以四处看看吧。 
+这个世界还有许多 \"复活节彩蛋\" 。 
+
+- 雇佣的追随者可以被放入 \"灵魂石\" 中。 这样你就可以带着他们和你一起传送。如果你再次放下这个英雄，他将不再被雇佣。所以不要支付太多钱给他们。这个新的地方将成为新的重生点。
+
+
+- 如果你遇到麻烦或者想给这个项目提供反馈，请随时访问我们的Discord服务器：https://discord.gg/UxDYMmzMNZ
+
+感谢你的参与，祝你在旅途中玩得愉快！ ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

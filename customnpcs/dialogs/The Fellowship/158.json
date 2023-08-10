@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后吧，再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,17 +88,18 @@
     "TextWidth": 300,
     "DialogTitle": "Gimli2",
     "PreviousBlocks": 1b,
-    "DialogText": "Behind me is the door to Balin's tomb.
-Take care, orcs have overrun it..
-And I think they have a cave troll.
-They really don't give you time to mourn.
+    "DialogText": "我身后是通往巴林之墓的大门。
+小心一点，奥克已经占领了这里..
+我觉得他们有洞穴食人妖。
+它们真的没有给你时间来哀悼。
 
-There's still one dwarf in Moria that hasn't turned into dust!
-let them come! I'll let them feel my axe!
+墨瑞亚仍还有一个矮人没有化为尘埃!
+让他们来吧!我要让他们感受我的斧头!
 
-[drumms starts in deep]
+[鼓声从深处开始响起]
 
->>(You can take Gimli with you as a companion)<<",
+>>(你可以带上吉姆利与你作伴)<<
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go through the mines of Moria. (quest start)",
+                "Title": "我要穿过墨瑞亚的矿坑。 (quest start)",
                 "DialogColor": 3602457,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 15995923,
                 "OptionType": 0
             }
@@ -51,12 +51,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "\"Mellon\">> The door starts to open <<
-Great @p !
-You made it!
-Now we will have to deal with the long darkness of Moria.
-Take care of yourselves! And always remember if you don't know where to go next,
-When in doubt, always trust your nose.",
+    "DialogText": "\"Mellon\"
+
+>> 门开始打开 <<
+太棒了 @p !
+你来了!
+现在我们必须得面对墨瑞亚的漫长黑夜。
+照顾好自己! 永远记住，如果你不知道下一步要去哪里，
+当你有疑问时，永远要相信自己的鼻子。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

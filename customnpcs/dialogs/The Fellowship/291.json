@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks, Goodbye!",
+                "Title": "谢谢，再会!",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -68,7 +68,11 @@
     "TextWidth": 300,
     "DialogTitle": "where is galadriel",
     "PreviousBlocks": 1b,
-    "DialogText": "You will find her at the mysterous mirror.Follow the path in the south east. When you go over a small bridge, she is on the right side. I think she is already witing for you. ",
+    "DialogText": "你会在那面神秘的镜子前找到她。
+沿着东南方向的小路走。 
+当你走过一座小桥时，她就在你的右边。 
+
+我想她已经在等待着你了。 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

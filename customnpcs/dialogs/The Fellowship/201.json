@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 202,
-                "Title": "Who is Saruman?",
+                "Title": "谁是萨茹曼?",
                 "DialogColor": 16046344,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 203,
-                "Title": "Who are these Ringwraiths?",
+                "Title": "这些戒灵是谁?",
                 "DialogColor": 16173585,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let's go on an adventure!",
+                "Title": "让我们一起去冒险吧!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,17 +88,19 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf ring",
     "PreviousBlocks": 1b,
-    "DialogText": "It is one of the great rings of power, 3 were given to elves, 7 to dwarves and 9 to men.
-But they were all betrayed. The dark ruler Sauron forged another ring in the land of Mordor where the shadows loom.
+    "DialogText": "它是最伟大的力量之戒之一, 其中3枚赐予了精灵，7枚赐予了矮人，9枚赐予了人类。
+然而，它们都遭到了背叛。 黑暗统治者索隆在魔多的土地上铸造了另一枚戒指。
+那里阴影重重。
 
-By the time of the Second Age a great alliance of Elves and Men went to war against him and defeated him, or so we thought.
-Isildur son of King Elendil of the house of Numenor cut the ring off of Sauron's finger, but did not destroy it. He saw it as a weapon he could use, but the One Ring obeys only the will of the One.
+第二纪元时，精灵和人类的伟大联盟发动战争对抗他，并打败了他，至少我们当时是这样认为的。
+伊熙尔杜，努门诺尔王国的国王埃兰迪尔的儿子将戒指从索伦的手指上割下，但并未将其摧毁。
+他将其视为一种可以利用的武器，但至尊魔戒只服从索隆的意志。
 
-He betrayed him and was hidden for a long time until found by the creature Gollum.
-The ring poisoned his mind for many years until finally Bilbo found it.
+魔戒背叛了索隆，并长时间地隐藏起来，直到被咕噜发现。
+这枚戒指毒害了咕噜的心灵多年，直到最终被比尔博找到。
 
-The dark ruler has bound all his power to the ring and now depends on it.
-If he gets it back, we're all doomed.",
+黑暗统治者索隆将他的全部力量都依托在这枚戒指上，并且现在他依赖它。
+如果他重新夺回至尊魔戒，我们都将面临毁灭。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

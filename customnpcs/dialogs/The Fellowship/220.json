@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Come with me! (Companion Menu)",
+                "Title": "跟我来! (同伴菜单)",
                 "DialogColor": 260092,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I forgive you. Goodbye!",
+                "Title": "我原谅你。再会！",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -50,14 +50,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There you are again..
-I wasn't myself...
+    "DialogText": "你又来了..
+我不是我自己...
 
-Do you forgive me @p ?
-i feel terrible..
-I'm going to step back, walk abit in the woods and think about what i've done.
+你原谅我了吗， @p ?
+我感到很糟糕..
+我要后退一步，在树林里走一走，想想我都干了些什么。
 
-I'm sorry.",
+我很抱歉。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

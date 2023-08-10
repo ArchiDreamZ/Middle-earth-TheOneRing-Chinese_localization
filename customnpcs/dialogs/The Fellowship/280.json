@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 281,
-                "Title": "Interesting, thank you. ",
+                "Title": "有趣，谢谢你。 ",
                 "DialogColor": 16579062,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -79,7 +79,15 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 4",
     "PreviousBlocks": 1b,
-    "DialogText": "Sure. If there is one advice I can give you, look for your pouches. We have strange times lately. More and more thieves are coming to Bree. We always had a problem with the normal ruffians, but if you ask me, I dont think they alone are behind all of this. The thievery is way to organized for them. More like a guild. I hope the recent dubble of the guards will help with this plague. ",
+    "DialogText": "是的。 如果我可以给你一个建议，那就是要留意你的袋子。 
+
+我们最近过得很不愉快。 
+越来越多的小偷涌入布理镇。 
+我们和普通的恶棍总是有着矛盾， 但如果你问我， 
+我不认为他们是这一切的幕后黑手。
+这些盗窃行为太有组织性了。 
+更像是一个公会。我希望最近增加的守卫能够帮助应对这场灾难。 
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

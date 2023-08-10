@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 283,
-                "Title": "I have a question. That man in the corner, who is he?",
+                "Title": "我有一个问题。角落里的那个人是谁?",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Strange, usually he is never late. I will wait for him. ",
+                "Title": "奇怪,通常他是从来不会迟到的。我会等他的。 ",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -78,7 +78,9 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 6",
     "PreviousBlocks": 1b,
-    "DialogText": "Gandalf? Gandalf? Oh yes! I remember. Elderly chap, big gray beard, pointy hat… Not seen him for six months.",
+    "DialogText": "甘道夫?甘道夫?哦,是的!我记得。上了年纪的家伙，灰白的大胡子，尖尖的帽子… 
+
+已经六个月没见到他了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

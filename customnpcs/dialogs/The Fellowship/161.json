@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 162,
-                "Title": "Do you know the way to Mordor? (quest start)",
+                "Title": "你知道去魔多的路吗? (任务开始)",
                 "DialogColor": 130869,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 274,
-                "Title": "Follow me!",
+                "Title": "跟我来!",
                 "DialogColor": 258044,
                 "OptionType": 3
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -88,16 +88,18 @@
     "TextWidth": 300,
     "DialogTitle": "Gollum1",
     "PreviousBlocks": 1b,
-    "DialogText": "GOLLUM! My precious?!
-What is it? @p Does it want to hurt us?!
+    "DialogText": "咕噜! 我的宝贝?!
+这是什么? @p 它想伤害我们吗?!
 
-Don't hurt us! We're nice to you when it's nice to us.. precious.. isn't it? Gollum.. Gollum!!
-What's that in its pocket? Riddles bäääh No No.. No time for that..Baggins tricked us, you can't do it!
+别伤害我们!当你对我们友善时，我们也会对你好的.. 宝贝.. 不是吗? 咕噜.. 咕噜!!
+它的口袋里是什么? 谜语 bäääh 不不.. 没有时间去做这些了..巴金斯耍了我们，你不能这么做!
 
-Nasty little hobbits they stole it from us!!! But @p is my new master.
+可恶的小霍比特人，他们从我们身上偷走了宝贝!!! 但是 @p 是我的新主人。
 
-GOLLUM GOLLUM you have no friends nobody likes you!!
-That's not true!! The Lord is my new friend.. Gollum!!>>(The Gollum spawn egg will cost 1 raw fish and you need 20 to tame him, shift right click tamed Gollum to open his inventory)<<
+咕噜 咕噜 你没有朋友，没有人喜欢你!!
+这不是真的！！这个主人就是我的新朋友.. 咕噜!!
+
+>>(咕噜的刷怪蛋需要消耗1个生鱼，并且需要20个鱼来驯服它，按住Shift右键点击驯服的咕噜可以打开他的物品栏)<<
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,

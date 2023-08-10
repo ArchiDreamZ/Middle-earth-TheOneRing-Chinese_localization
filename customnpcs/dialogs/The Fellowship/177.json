@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 79549 64 53913",
                 "Dialog": -1,
-                "Title": "YES!",
+                "Title": "是!",
                 "DialogColor": 2291745,
                 "OptionType": 4
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NO!",
+                "Title": "否!",
                 "DialogColor": 16128014,
                 "OptionType": 0
             }
@@ -79,7 +79,7 @@
     "TextWidth": 300,
     "DialogTitle": "Gollum3",
     "PreviousBlocks": 1b,
-    "DialogText": ">>Teleport: YES / NO<<",
+    "DialogText": ">>传送: 是 / 否<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

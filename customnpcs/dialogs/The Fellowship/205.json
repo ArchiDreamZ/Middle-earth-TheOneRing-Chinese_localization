@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 204,
-                "Title": "Tell me more about the weather mountains.",
+                "Title": "告诉我更多关于风云丘陵的事。",
                 "DialogColor": 15065358,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -78,10 +78,10 @@
     "TextWidth": 300,
     "DialogTitle": "aragorn elrond",
     "PreviousBlocks": 1b,
-    "DialogText": "Lord Elrond is the lord of the elves in Rivendell. It is home to the Elves of Eregions and one of the most beautiful places in Middle-earth.
-I lived there for a long time as a child and learned Elvish.
-The Imladris are proud people and Lord Elrond is very wise. He will know what to do with the ring.
-We will meet there!",
+    "DialogText": "埃尔隆德是幽谷的精灵之主。幽谷是埃瑞吉安精灵之家，也是中洲最美丽的地方之一。
+我小时候在那里生活了很长时间，并学会了精灵的语言。
+伊姆拉缀斯的人民是自豪的，埃尔隆德领主很有智慧。他会知道该如何处理这枚戒指的。
+我们将在那里相会！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

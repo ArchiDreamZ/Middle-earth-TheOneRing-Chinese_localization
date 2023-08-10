@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 160,
-                "Title": "I will help you Gandalf!",
+                "Title": "我会帮助你的，甘道夫!",
                 "DialogColor": 16446958,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Ahhh help!! lets run away quickly!",
+                "Title": "啊，救命!! 让我们快逃吧!",
                 "DialogColor": 14224140,
                 "OptionType": 0
             }
@@ -50,15 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "OH NO!!
-A Balrog of Morgoth!
-My worst fears have come true!
+    "DialogText": "哦不!!
+魔苟斯的炎魔!
+我最担心的事情发生了!
 
-It's an ancient demon from below the deep.
-An enemy you can do nothing against!
-Quickly go across the bridge of Khazad-Dum!
+它是来自于深渊的远古恶魔。
+一个能让你无能为力的敌人!
+快穿过卡扎督姆桥!
 
-I will face him!",
+我将要面对他!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

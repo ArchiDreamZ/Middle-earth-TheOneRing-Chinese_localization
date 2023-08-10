@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 11,
-                "Title": ">>Back<<",
+                "Title": ">>返回<<",
                 "DialogColor": 15394051,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -78,7 +78,12 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn Bree follower",
     "PreviousBlocks": 1b,
-    "DialogText": "You are right! We should go together, it's to dangerous with the Nazguls along the way. Meet me upstaris in room 9 when you are ready.It's at the end of the hallway on the left side.We should rest a bit and stock up on food and water for the journey. ",
+    "DialogText": "你是对的！我们应该一起去，沿途有骑黑色骏马的那兹古尔，实在太危险了。
+
+当你准备好时，请在楼上的9号房间见我。
+在走廊尽头的左边。
+
+我们应该稍作休息，储备食物和水，以备旅途需要。 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 219,
-                "Title": "Boromir! You are not yourself! It's because of the evil in the ring!",
+                "Title": "波洛米尔! 你不是你自己了! 这是因为戒指里的邪恶！",
                 "DialogColor": 16317427,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 217,
-                "Title": "Hmm, well I'll give it to you!",
+                "Title": "好吧，我把它给你!",
                 "DialogColor": 16513779,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Run away)",
+                "Title": "(逃跑)",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -60,11 +60,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "He's a gift! Destroying him is not possible! This is madness!
+    "DialogText": "他是一件礼物! 毁灭他是不可能的! 这是疯狂的!
 
-If only you could lend it to me?!
+要是你能把它借给我就好了?!
 
-(Boromir gets angry)",
+(波洛米尔愤怒了起来)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 291,
-                "Title": "Where can I find Lady Galadriel?",
+                "Title": "我在哪里能找到加拉德瑞尔夫人?",
                 "DialogColor": 15394051,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -78,10 +78,14 @@
     "TextWidth": 300,
     "DialogTitle": "Boromir Lothlorien",
     "PreviousBlocks": 1b,
-    "DialogText": "I will find no rest here. 
-I heard her voice inside my head...
-she spoke of my father and the fall of Gondor, 
-and she said to me: Even now, there is hope left. But I cannot see it...it is long since we had any hope.My father is a noble man, but his rule is failing and our..our people lose faith. He looks to me to make things right... and I would do it, I would see the glory of Gondor restored.",
+    "DialogText": "我在这里找不到安宁。 
+我听到她的声音在我的脑海中响起...
+她谈论到我的父亲和刚铎的衰落， 
+她对我说：即使是现在，仍存有希望。 
+但我看不到它...我们已经很久没有任何希望了。
+
+我父亲是一位高尚的人，但他的统治正在衰败，我们的……我们的人民丧失了信心。他指望我去让这一切重归正轨...
+而我愿意这样做，我希望看到刚铎的荣耀重现。",
     "AvailabilityQuest4Id": 0,
     "AvailabilityQuest2Id": 0,
     "AvailabilityDialog2Id": 0,

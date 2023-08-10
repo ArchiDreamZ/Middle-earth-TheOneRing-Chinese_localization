@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,9 +88,10 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn follower bree new",
     "PreviousBlocks": 1b,
-    "DialogText": "@p are you ready to go east?It will be a long way to Rivendell, we should find a place to spend the night along the way. The old watchtower of Amun Sul is perfect for that. 
+    "DialogText": "@p 你准备好向东出发了吗？
+去幽谷的路会很长，我们应该找个地方在路上过夜。阿蒙苏尔的旧守望塔就是个完美的选择。 
 
->>(You can take Aragorn with you as a companion)<<",
+>>(你可以带上阿拉贡作为你的同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
