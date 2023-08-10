@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "可能需要一会， 再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here we are @p! The cold mountains of Angmar.Let's check out what that is all about.I can see already see orcs at the entrance.I can come with you, or you can go alone, what do you prefer?>>(Quest start in Willowbottom /Shire)<<",
+    "DialogText": "我们到了 @p! 安格玛的寒冷山脉。让我们来看看这到底是怎么回事。我已经看到入口处有奥克了。我可以和你一起去，或者你一个人去，你喜欢哪种方式？>>(柳谷镇/夏尔，任务开始)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

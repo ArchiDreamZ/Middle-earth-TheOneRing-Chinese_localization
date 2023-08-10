@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 252,
-                "Title": "我能帮您什么忙？? (支线任务开始)",
+                "Title": "我能帮您什么忙？(支线任务开始)",
                 "DialogColor": 850474,
                 "OptionType": 1
             }
@@ -60,7 +60,7 @@
 它能让我变得更强、治愈他人或让敌人逃走。
 
 我来柳树岗是为了警告这里的霍比特人，黑暗的谜团正在北方升起。
-看来你是个冒险家，我需要你的帮助来阻止邪恶。",
+看来你是个勇敢的冒险家，我需要你的帮助来阻止邪恶。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
