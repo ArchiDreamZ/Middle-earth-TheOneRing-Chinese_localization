@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "可能需要一会， 再见！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -61,7 +61,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here we are, @p!The exit of the mountain.And it looks like the ships of Umbar are just arrived.I will follow you until my oth is fulfilled!",
+    "DialogText": "我们到了。 @p!这里是山的出口。And it looks like the ships of Umbar are just arrived.I will follow you until my oth is fulfilled!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
