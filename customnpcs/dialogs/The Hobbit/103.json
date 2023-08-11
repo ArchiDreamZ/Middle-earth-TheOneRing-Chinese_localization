@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 119,
-                "Title": "I'm a friend of Gandalf, what happened? (Quest Start)",
+                "Title": "我是甘道夫的朋友，发生什么事了？ (任务开始)",
                 "DialogColor": 3275794,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 122,
-                "Title": "Side Quest: Radagast! There's a necromancer in Dol-Guldur! I just escaped!",
+                "Title": "支线任务:拉达加斯特!多古尔都有一个死灵法师!我刚从那逃出来!",
                 "DialogColor": 254972,
                 "OptionType": 1
             }
@@ -61,16 +61,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "OH NO, the poor hedgehog!!
-Out of the way @p ! Can't you see that the little one is ill?
+    "DialogText": "哦不，可怜的刺猬！！
+让开 @p ! 难道你看不见那个小家伙生病了吗？
  
-... sorry, where are my manners.
-My name is Radagast, the brown one.
+... 对不起，我失态了。
+我叫拉达加斯特，褐色的那个。
 
-I'm in a hurry and have to take care of the sick animals.
+我赶时间，还要照顾生病的动物。
 
-You don't want to go through the Mirkwood forest, do you?!
-Can you help me?",
+你不想穿过黑森林，对吧!
+你能帮我吗?
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

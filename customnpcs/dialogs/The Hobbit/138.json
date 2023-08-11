@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks, Goodbye!",
+                "Title": "谢谢，再会!",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -40,13 +40,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wow, it's gorgeous!
-You know what.. keep it.
-Now that it is out of the reach from Thorin's hands, his mind will not be blinded by the riches
-he will also help us to fight against the orcs now i bet.
+    "DialogText": "哇，它太华丽了！
+你知道吗..你留着它吧。
+现在它离开了梭林的手，他的心智不会因财富而迷失，
+我敢打赌他现在也会帮助我们与奥克战斗。
 
-Farewell @p !
-You have been a great help to us and we owe you a alot!",
+告别吧， @p !
+你给予我们很大的帮助，我们欠你太多了！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

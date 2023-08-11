@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 143,
-                "Title": "Okay, Thanks! (Quest Start)",
+                "Title": "好的，谢谢！ (任务开始)",
                 "DialogColor": 2291745,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16388360,
                 "OptionType": 0
             }
@@ -50,14 +50,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Finally @p !
-You woke up, very good.
-We've been locked up for too long.
+    "DialogText": "终于， @p !
+你醒了，太好了。
+我们被囚禁了太久了。
 
-I stole a key unnoticed and unlocked your cell.
-I'll free the other dwarves if you find a way out of here in time.
+我悄无声息地偷了一把钥匙并打开了你的牢房。
+如果你能及时找到一条出路，我会释放其他的矮人。
 
-Then we will follow. It should work over the wine basement and from there across the river. ",
+然后我们会跟随你。我们可以通过酒窖，并从那里穿过河流离开。 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

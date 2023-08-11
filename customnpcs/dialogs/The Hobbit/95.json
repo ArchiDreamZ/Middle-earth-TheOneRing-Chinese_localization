@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 96,
-                "Title": "Water",
+                "Title": "水",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 97,
-                "Title": "Time",
+                "Title": "时间",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 96,
-                "Title": "Nothing",
+                "Title": "没什么",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -61,12 +61,26 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "hmm... mhh..Let us try it my precious!...hmEGGS!!!Fresh yummi eggses!!We have another riddle for it!!..- This thing all things devours;
-Birds, beasts, trees, flowers;
-Gnaws iron, bites steel;
-Grinds hard stones to meal;
-Slays king, ruins town,
-And beats mountain down!",
+    "DialogText": "嗯... 嗯..
+
+让我们试试吧，我的宝贝！
+
+...嗯
+
+蛋!!!
+
+新鲜美味的蛋!!
+
+我们还有另一个谜语!!..
+
+- 能把一切都吞下：
+飞鸟、走兽、树与花；
+啃生铁，咬精钢；
+嚼碎硬石当食粮；
+杀国王，毁城镇，
+打倒高山成齑粉。
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

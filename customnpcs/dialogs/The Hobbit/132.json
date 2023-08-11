@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 14288648,
                 "OptionType": 0
             }
@@ -68,11 +68,11 @@
     "TextWidth": 300,
     "DialogTitle": "Gandalf hobbit7",
     "PreviousBlocks": 1b,
-    "DialogText": "As we prepare for battle, you must locate and destroy Orc Captain Azog!
-He was last seen at the Ravenhill next to Erebor.
-If you surprise him, the war could be over sooner than we thought.
-Good luck @p!
-the men, dwarves and elves of Middle-earth are counting on you!",
+    "DialogText": "在我们准备战斗的时候，你必须找到并消灭奥克首领阿佐格!
+他最后一次露面被发现在孤山旁边的渡鸦岭。
+如果你能出其不意地找到他，战争可能会比我们预期结束得更快。
+祝你好运， @p!
+中洲的人类、矮人和精灵都指望着你了!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

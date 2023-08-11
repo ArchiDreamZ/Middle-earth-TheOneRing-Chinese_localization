@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 102,
-                "Title": "{Put on the ring!}",
+                "Title": "{戴上戒指!}",
                 "DialogColor": 16714241,
                 "OptionType": 1
             }
@@ -41,24 +41,25 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "DON'T ASK US!!!
-It's none of your business!!!
+    "DialogText": "别问我们!!!
+这不关你的事!!!
 
-Gollum! Gollum!
+咕噜！咕噜！
 
-{Suddenly the screaming stops}
+{突然尖叫声停止了}
 
-What...
+什么...
 
-...has it...
+...是不是...
 
-In his nasty...
-...small POKETS!?!!
+在他那脏兮兮的...
+...小口袋里!?!!
 
-He stole IT!!!
-STOLEN!!!!
+他偷了它!!!
+偷走了!!!!
 
-AAAH",
+啊啊！！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

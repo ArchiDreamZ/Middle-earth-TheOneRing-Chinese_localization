@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 95,
-                "Title": "WAIT!!!Stay away! - A box without hinges, key or lid, Yet golden treasure inside is hid.!",
+                "Title": "等等！！！离远点！ - 一只盒子没有铰链、没有销子也没有盖， 但金色宝藏却能安安心心在里面藏起来。！",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,7 +41,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "hm... very smart it is @p ... grrr!!!{Gollum comes dangerously close!}",
+    "DialogText": "嗯．．非常聪明， @p ... 叽阿!!!
+
+{咕噜危险地靠近了过来！}
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

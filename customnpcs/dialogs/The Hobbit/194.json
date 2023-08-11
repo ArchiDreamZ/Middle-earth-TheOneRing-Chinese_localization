@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -41,14 +41,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "HA! Very good to see you here @p !
+    "DialogText": "哈！很高兴在这里见到你， @p !
 
-I haven't seen you since we crossed the bridge into goblin town. I hope nothing happened to you there. 
+自从我们穿过通向半兽人镇的桥梁后，我就没见过你。希望那里对你没有造成什么伤害。 
 
-Fortunately, the shape-shifter Beon lets us rest here and stock up on food.
+幸运的是，变形者贝恩让我们在这里休息，并储备食物。
 
-The others are probably already gone. If you see my brother Kili, give him my regards!
-We are Thorin's nephews and follow him to the death!",
+其他人可能已经走了。如果你见到我弟弟奇力，替我问候他！
+我们是梭林的侄子，将追随他到生命的尽头！
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

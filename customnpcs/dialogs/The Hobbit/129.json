@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don't trust you, goodbye!",
+                "Title": "我不相信你，再会!",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -40,7 +40,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well, of course you can keep a handful of coins, but the rest is mine.",
+    "DialogText": "当然，你可以留下一把硬币，但剩下的都是我的。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

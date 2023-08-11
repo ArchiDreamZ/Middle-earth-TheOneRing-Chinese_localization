@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/",
                 "Dialog": 124,
-                "Title": "Okay (Teleport)",
+                "Title": "好的 (传送)",
                 "DialogColor": 15328261,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Not now.",
+                "Title": "不是现在。",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -50,9 +50,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You're lucky, I just picked up a fish delivery that has to go into town.
-It's not the most comfortable hiding place, but there's enough space in the barrel for you.
-But I guarantee nothing..",
+    "DialogText": "你很幸运，我刚好拿到了一批要送到城里的鱼。
+这个鱼桶虽然不是最舒适的藏身之地，但是里面有足够的空间给你。
+但我不能保证什么..",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

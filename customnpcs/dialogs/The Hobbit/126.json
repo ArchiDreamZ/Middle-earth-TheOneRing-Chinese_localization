@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 127,
-                "Title": "I will go to Erebor! (Start Quest)",
+                "Title": "我将要去孤山！ (开始任务)",
                 "DialogColor": 3076653,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 146,
-                "Title": "I will go to Gandalf first. (Side Quest Start)",
+                "Title": "我要先去找甘道夫。 (支线任务开始)",
                 "DialogColor": 15915020,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -60,13 +60,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Finally you are here @p !
-We've been trying to convince the mayor to help us conquer Erebor for hours.
-But he probably prefers to see us continue to roam the country homeless. This money greedy guy wants a huge share of the treasure, Thorin disagreed..
+    "DialogText": "你终于来了， @p !
+我们已经努力几个小时了，试图说服市长帮助我们攻克艾瑞博。
+但他可能更喜欢看着我们继续在这个国家中流浪。这个贪婪的家伙想要一大部分宝藏，梭林不同意..
 
-I think it's hopeless. We should just try it without his help.
+我觉得这是毫无希望的。我们应该不依赖他的帮助尝试一下。
 
-Also, Gandalf sends message he is preparing a defense in the city of Dale, there seems to be a big battle ahead.",
+此外，甘道夫传来消息说，他正在河谷城准备防御抵抗，似乎面临了一场大战。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 132,
-                "Title": "Hello Gandalf, how can I help? (Side Quest Start)",
+                "Title": "你好，甘道夫，我能帮什么忙吗? (支线任务开始)",
                 "DialogColor": 15328262,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -50,11 +50,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I'm glad to see you here @p !
-We need your help! A great battle is coming.
-A battle between 5 armies,
-Orc armies are coming from Gundabad and we must stop them here.
-Luckily Thranduil arrived with his elves.",
+    "DialogText": "我很高兴在这里看到你， @p !
+我们需要你的帮助！一场伟大的战斗即将到来。
+一场涉及五支军队的战斗，
+奥克军队正从贡达巴德进攻过来，我们必须在这里阻止他们。
+幸运的是，瑟兰杜伊亲率他的精灵军队赶来了。
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

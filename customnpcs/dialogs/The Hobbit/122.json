@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 1 1",
                 "Dialog": -1,
-                "Title": "<<Take the Drink>>",
+                "Title": "<<喝点饮料>>",
                 "DialogColor": 15262472,
                 "OptionType": 2
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks, Goodbye!",
+                "Title": "谢谢你，再会!",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -50,13 +50,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wonderful to see you alive and unhurt!
-But.. what are you saying? A necromancer? Then it's worse than I thought, I must go and tell Gandalf now before it's too late.
-Thank you @p!
-You have shown great courage today and the animals of the forest are saved.
-Now that everyone is healthy again, I don't need this special drink anymore, take it as a thanks for your efforts!
+    "DialogText": "很高兴看到你安然无恙!
+但是...你在说什么？一位死灵法师？那比我想象的还要糟糕，我必须马上去告诉甘道夫，免得为时已晚。
+谢谢你， @p!
+你今天表现出极大的勇气，森林里的动物得救了。
+现在大家都恢复健康了，我不再需要这种特殊的饮品了，拿它作为对你努力的感谢！
 
-And now GO my Rhosgobel rabbits!! Run as fast as you can!!",
+现在，去吧，我的罗斯戈贝尔兔子们！尽你们所能地跑吧！！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 114,
-                "Title": "Hello Gandalf, what is this meeting about?",
+                "Title": "你好，甘道夫，这次会议是关于什么的?",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 15672868,
                 "OptionType": 0
             }
@@ -78,11 +78,13 @@
     "TextWidth": 300,
     "DialogTitle": "Gandalf hobbit",
     "PreviousBlocks": 1b,
-    "DialogText": "But Saruman listen..
+    "DialogText": "但是，萨茹曼，请听着..
 
-The return of the dragon Smaug isn't our only threat.
-I got bad news from Radagast the Brown.
-Mirkwood is sick. A dark shadow is rising and I fear the worst.",
+恶龙史矛革的归来并不是对我们唯一的威胁。
+我从褐袍巫师拉达加斯特那里得到了一个坏消息。
+黑森林生病了。一股黑暗阴影正在崛起，我担心最糟糕的事情会发生。
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

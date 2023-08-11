@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 101,
-                "Title": "What have you lost?",
+                "Title": "你丢了什么?",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,19 +41,22 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "{Gollum begins to wail}
-*sniff*
+    "DialogText": "{咕噜开始嚎啕大哭}
+*闻*
 
-Lost... yes? do we have that...
-Lost...
+丢掉了．．是吗？我们有．．
+丢了．．
 
-{Gollum puts his hand in his pocket}
+{咕噜把手伸进口袋}
 
-WHERE IS IT?? NO NO!!!
-LOST!! Curse and spit!
-Where is it?? AAAHH
+它在哪里？不！不! !
+丢了! !咒骂和唾弃!
+它在哪里！啊啊啊
 
-{Gollum desperately searches the ground}",
+{咕噜拼命地搜寻着地面}
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

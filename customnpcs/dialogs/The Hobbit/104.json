@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 123,
-                "Title": "Smuggle? But how? (Start Quest)",
+                "Title": "走私吗?但是怎么做呢? (开始任务)",
                 "DialogColor": 2160927,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -50,16 +50,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Look who we got there!
-Are those barrels from the elves?
+    "DialogText": "看看谁来了!
+那些是精灵的桶吗？
 
-Looks like you could use some help.
+看起来你们可能需要一些帮助。
 
-My name is Bard, I'm from Lake-town.
-It's right along the river.
+我叫巴德，来自长湖镇。
+它就在河边。
 
-It would be best if we smuggled you into the city.
-The mayor is not positive about adventurers.",
+如果我们能将你们偷偷地带进城那会更好。
+市长对冒险者并不看好。
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

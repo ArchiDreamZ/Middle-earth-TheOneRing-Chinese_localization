@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 113,
-                "Title": "Can i help?",
+                "Title": "我能帮忙吗?",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Oh I didn't want to disturb you, sorry.",
+                "Title": "哦，我不想打扰你，抱歉。",
                 "DialogColor": 14223883,
                 "OptionType": 0
             }
@@ -78,10 +78,12 @@
     "TextWidth": 300,
     "DialogTitle": "Saruman Hobbit",
     "PreviousBlocks": 1b,
-    "DialogText": "This is wrong Gandalf...
-Radagast is a fool, he ate too many mushrooms and imagined the necromancers in Dol-Guldur. I can't approve of this dwarven expedition.
+    "DialogText": "这是错误的，甘道夫...
+拉达加斯特是个傻瓜，他吃了太多的蘑菇，以为在多古尔都有死灵法师。
+我不能赞同这次矮人的远征。
 
-Did you think this would actually go unnoticed?",
+你以为这真的不会被察觉吗？
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

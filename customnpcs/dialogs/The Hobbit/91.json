@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 90,
-                "Title": "NO! I want to play! And if I win, then you show me the exit yes?",
+                "Title": "不！！ 我想玩！ 如果我赢了，你就告诉我出口是吗？",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "交谈",
                 "DialogColor": 16514300,
                 "OptionType": 2
             }
@@ -51,10 +51,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hahaha yeah!! Yeah, oh let's try again!
-Ask us now, ask us!
+    "DialogText": "哈哈哈是的! !是的，让我们再试一次!
+现在就问我们，问我们!
 
-NO ! No more puzzles!! Kill him!!! Gollum, Gollum!",
+不!没有更多的谜题了!!杀了他! !咕噜,咕噜!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

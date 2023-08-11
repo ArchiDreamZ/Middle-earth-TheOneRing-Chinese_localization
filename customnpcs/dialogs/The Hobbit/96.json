@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 95,
-                "Title": "{Back}",
+                "Title": "{返回}",
                 "DialogColor": 16714241,
                 "OptionType": 1
             }
@@ -41,8 +41,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wrong @p !!!
-One more try precious! Then we eat it up!!",
+    "DialogText": "错了 @p !!!
+再试一次，宝贝! 然后我们把它吃掉!!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

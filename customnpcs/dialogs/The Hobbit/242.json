@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 243,
-                "Title": "I will go! (Side Quest Start)",
+                "Title": "我会去的! (支线任务开始)",
                 "DialogColor": 14999315,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later. Goodbye!",
+                "Title": "也许以后。 再会!",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -78,7 +78,20 @@
     "TextWidth": 300,
     "DialogTitle": "Galadriel Hobbit 2",
     "PreviousBlocks": 1b,
-    "DialogText": "I can feel the evil shadows in this land returning. Old Revenants, Slaves of the One. You have to make sure that this is not the case.Go to the Tower of Khamul in the east in the lands of Rhun...There you have to check if it's true or if it's still empty.But be aware, if the Nazgul Khamul is really returning,than that must mean the returning of the witchking and the other Nazguls too.And even worst.. the return of... Sauron.",
+    "DialogText": "我能感觉到这片土地上邪恶的阴影正在回归。 
+古老的亡魂, 大敌的奴仆。 
+
+你必须确保情况不是这样的。
+
+前往位于鲁恩大陆东部的可哈穆尔之塔...
+在那里你必须检查这是否是真的，或者它是否仍然是空的。
+
+但要小心，如果那兹古尔·可哈穆尔真的回归，
+那就意味着巫王和其他纳那古尔也回来了。
+
+甚至更糟糕的是...回归的是... 
+
+索隆.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

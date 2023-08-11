@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16391432,
                 "OptionType": 0
             }
@@ -41,16 +41,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "HAA!! Hello @p! Nice to see you here with us!
-We stayed here to take care of Kili, he is not fully fit after his injury.
+    "DialogText": "哈啊！！ Hello @p!， 很高兴看到你和我们在一起!
+我们留在这里照顾奇利，他的伤还没完全恢复。
 
-Don't mind about my brother Bifur talking weird stuff, he got an ax stuck in his stubborn skull fighting the orcs and since we weren't sure how to get it out we just left it in. 
+别理我哥哥比弗说些奇怪的话，他和奥克战斗时，一把斧子嵌进他那顽固的脑袋里，
+我们不确定该如何取出来，所以就让它留在那里了。 
 
-He's been talking nonsense ever since, but he's still as brave dwarf and fights as strong as he used to be, 
+从那以后，他一直在胡说八道，但他依然是个勇敢的矮人，战斗时和以往一样强大，
 
-and the ill of revenge against the orcs is stronger than ever.
+对奥克复仇的欲望比以往任何时候都强烈。
 
-Soon we will see the halls of our fathers again! I can barely wait for it, we are so close!",
+很快我们就能再次见到祖先的殿堂了！我迫不及待地期待着，我们离目标如此之近！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

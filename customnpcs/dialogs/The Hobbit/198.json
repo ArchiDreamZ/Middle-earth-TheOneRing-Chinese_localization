@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 199,
-                "Title": "Thorin are you fine?",
+                "Title": "梭林，你还好吗?",
                 "DialogColor": 16447470,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -51,13 +51,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "If you actually make it in, take good care of yourselves! Smaug is very strong!
-And when you're there, look around for the royal jewel, the Arkenstone. It is the memento of our home and my inheritance.
-I have to get it back, do you understand! If you don't bring it to me I will be angry and treachery will be punished!
+    "DialogText": "如果你们真的进去了，一定要好好照顾自己！史矛革非常强大！
+等你到了那里，四处寻找一下皇家宝石，阿肯宝钻。这是我们家的纪念品，也是我继承的遗产。
+我必须将它夺回来，你们明白吗！如果你们不把它带给我，我会很生气，并且背叛者将受到惩罚！
 
-(Thorin's voice deepens and sounds a bit like a dragon's)
+(梭林的声音变得低沉，并且听起来有点像龙的声音)
 
-It's mine! Just like all the gold! I will not share a single coin!",
+那是我的！就像所有的黄金一样！我不会分享一枚硬币！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

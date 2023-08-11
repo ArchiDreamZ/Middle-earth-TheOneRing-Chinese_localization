@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I'll leave quickly! Goodbye!",
+                "Title": "我马上就走! 再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -40,14 +40,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There is one particular stone that is very important to the dwarves, the Arkenstone. 
+    "DialogText": "有一块特殊的宝石对矮人来说非常重要，阿肯宝钻。 
 
-This already cursed the spirit of the dwarf king back then.
+它曾经诅咒了矮人国王的灵魂。
 
-And now he's going to curse Thorin's.
-You have to steal it, it's probably at the big treasure..
-If it's in our possession, Thorin will have to help us if he wants it back.
-But beware of Smaug!",
+现在它将要诅咒索林。
+你必须偷走它，它可能在巨大的财宝之中..
+如果我们得到它，梭林就必须帮助我们才能把它要回去。
+但要小心史矛革！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
