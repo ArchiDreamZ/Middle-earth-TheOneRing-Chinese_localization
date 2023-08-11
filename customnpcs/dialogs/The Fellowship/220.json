@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "跟我来! (同伴菜单)",
+                "Title": "跟我来！ (同伴菜单)",
                 "DialogColor": 260092,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我原谅你。再会！",
+                "Title": "我原谅你，再见了...",
                 "DialogColor": 16717313,
                 "OptionType": 0
             }
@@ -50,12 +50,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你又来了..
-我不是我自己...
+    "DialogText": "你回来了..
+那不是我自己...
 
 你原谅我了吗， @p ?
 我感到很糟糕..
-我要后退一步，在树林里走一走，想想我都干了些什么。
+我将稍作退后，在树林里走一走，反思一下我都干了些什么。
 
 我很抱歉。",
     "AvailabilityQuest4Id": -1,
