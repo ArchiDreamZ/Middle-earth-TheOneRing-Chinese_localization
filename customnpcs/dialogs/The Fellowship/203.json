@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 202,
-                "Title": "谁是萨茹曼?",
+                "Title": "萨茹曼是谁?",
                 "DialogColor": 16700674,
                 "OptionType": 1
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "那九个! 黑骑手，又被称为那兹古尔。曾经是人类的国王，如今却成为了索隆意志的奴隶。
+    "DialogText": "那九人! 黑骑手，又被称为那兹古尔。曾经是人类的国王，如今却成为了索隆意志的奴隶。
 他们和他们的主人一样与那枚戒指相连，并能感受到它的力量！
 
 我担心咕噜在被折磨了多次以后，已经向敌人透露了位置，他们现在正在向这里赶来。
