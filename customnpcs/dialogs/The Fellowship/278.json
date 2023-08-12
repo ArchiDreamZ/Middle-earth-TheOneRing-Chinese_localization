@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 280,
-                "Title": "你能告诉我一些流言吗？",
+                "Title": "你能告诉我一些传闻吗？",
                 "DialogColor": 14288635,
                 "OptionType": 1
             }
@@ -98,7 +98,7 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 2",
     "PreviousBlocks": 1b,
-    "DialogText": "山下先生。 是的。欢迎来到布理!
+    "DialogText": "山下先生。是啊。欢迎来到布理！
 我能为你做点什么，我的朋友。 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
