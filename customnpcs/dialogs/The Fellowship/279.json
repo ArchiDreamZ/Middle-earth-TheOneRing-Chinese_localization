@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 280,
-                "Title": "你可以告诉我一些流言吗？",
+                "Title": "你可以告诉我一些传闻吗？",
                 "DialogColor": 14288635,
                 "OptionType": 1
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
