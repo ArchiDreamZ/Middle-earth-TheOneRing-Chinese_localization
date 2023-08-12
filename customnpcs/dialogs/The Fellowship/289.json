@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 216,
-                "Title": "魔戒是怎么回事?",
+                "Title": "那戒指呢？",
                 "DialogColor": 16251891,
                 "OptionType": 2
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "跟我来！ (跟随者菜单)",
+                "Title": "跟我来！(跟随者菜单)",
                 "DialogColor": 1503475,
                 "OptionType": 3
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -98,10 +98,10 @@
     "TextWidth": 300,
     "DialogTitle": "Boromir follower moria",
     "PreviousBlocks": 1b,
-    "DialogText": "你终于来了 @p! 甘道夫试图打开门..
-如果你问我，我会说：我们可以往南走，寻求我的族人的帮助！ 
+    "DialogText": "你终于来了 @p！ 甘道夫正试图打开门..
+但如果你问我，我会说：我们可以往南走，寻求我的族人的帮助！ 
 我们离刚铎边境并不远。 
-既然我们有更简单的办法，为什么还要去矿坑呢? 
+既然我们有更简单的办法，为什么还要去矿坑呢？
 
 >>(你可以带上波洛米尔作为同伴)<<",
     "AvailabilityQuest4Id": -1,
