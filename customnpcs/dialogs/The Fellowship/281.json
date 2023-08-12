@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 282,
-                "Title": "我们是灰袍甘道夫的朋友。你能告诉他我们已经到了吗？",
+                "Title": "我们是灰袍甘道夫的朋友，你能告诉他我们已经到了吗？",
                 "DialogColor": 16119284,
                 "OptionType": 1
             }
