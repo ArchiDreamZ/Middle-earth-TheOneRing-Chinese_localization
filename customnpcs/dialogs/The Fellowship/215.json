@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 216,
-                "Title": "那枚戒指是怎么回事?",
+                "Title": "那枚戒指怎么样了？",
                 "DialogColor": 16251891,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！(跟随者菜单)",
                 "DialogColor": 1503475,
                 "OptionType": 3
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -98,8 +98,8 @@
     "TextWidth": 300,
     "DialogTitle": "Boromir follow",
     "PreviousBlocks": 1b,
-    "DialogText": "你走了很长的路， @p ！
-我们已经接近刚铎边境了。我们可以南下，向我的人民寻求帮助！
+    "DialogText": "你已经走了很远了， @p ！
+我们已经接近刚铎边境了。我们可以往南走，向我的人民寻求帮助！
 当我们在那里时，我们可以利用这枚戒指作为武器来捍卫我们的土地。
 
 我去收集柴火了，其他人正在篝火旁等着你。
@@ -107,7 +107,7 @@
 
 我得承认，我想单独跟你聊聊关于这枚戒指的事情。
 
-真有趣，我们为了一样如此小的东西而承受了如此多的悲伤。
+真有趣，我们就为了这小小的玩意儿而受尽了恐惧和疑虑的折磨...
 
 >>(你可以带上波洛米尔作为同伴)<<",
     "AvailabilityQuest4Id": -1,
