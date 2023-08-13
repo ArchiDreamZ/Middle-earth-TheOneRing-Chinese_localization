@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 85,
-                "Title": "我什么都没说？！",
+                "Title": "我什么都没说",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -57,7 +57,7 @@
 
 我们知道一条安全的小路， @p 在黑暗中的一条小路！
 
-闭嘴！我们不能告诉他！",
+闭嘴！！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
