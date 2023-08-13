@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 177,
-                "Title": "Alright (Teleport Dead Marshes)",
+                "Title": "好的 (传送至死亡沼泽)",
                 "DialogColor": 15980810,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I prefer to walk myself.",
+                "Title": "我更喜欢自己走路过去。",
                 "DialogColor": 16646913,
                 "OptionType": 0
             }
@@ -78,13 +78,15 @@
     "TextWidth": 300,
     "DialogTitle": "Gollum2",
     "PreviousBlocks": 1b,
-    "DialogText": "We're hungry, haven't eaten for a long time, yes, poor Semagol! tufts? what are tufts my darling? Potatoes? baaaah *spit*
-Eat only fish..give it to us raw, give it to us wriggling, 20 pieces!.. Gollum! Then we will go with you my lord! gollum!
+    "DialogText": "我们饥肠辘辘，已经很久没有吃东西了，是的，可怜的斯密戈!
+土头？亲爱的，土头是什么？土豆？呸 *吐口水*
+只吃鱼...生的，活蹦乱跳的，20条！.. .咕噜! 然后我们会跟随您，我的主人！咕噜!
 
-Smeagol knows Mordor well.. gollum! We can show the Lord the way to the Black Gate or noo.. its to dangerous.. lets go rather another way...
-... yes a dark path.. up, up, up, up the stairs and then the treasure will be MINE again!.. you mean ours? Oh yes our! Gollum Gollum!
+斯密戈很了解魔多.. 咕噜! 我们可以告诉主人通往黑门的路 或者..不行.. 太危险了.. 我们还是走其他的路吧...
+... 是的，一条黑暗的道路.. 往上爬，往上爬，上这个楼梯然后宝贝又将归 我 所 有 ！！.. 你是说归我们所有？
+哦对，归我们所有！咕噜！咕噜！
 
->>Teleport: The Dead Marshes<<",
+>>传送：死亡沼泽<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

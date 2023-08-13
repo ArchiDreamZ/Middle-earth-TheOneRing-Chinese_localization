@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,19 +88,21 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf rivendell follower",
     "PreviousBlocks": 1b,
-    "DialogText": "Very good @p.
-You've come a long way.
-Sorry I couldn't meet you in Bree. I was busy with my old friend Saruman.
-He has joined the evil and betrayed us. He locked me in his tower, but I managed to escape.
+    "DialogText": "很好， @p
+你走了很长的路。
+很抱歉我没能在布理与你会面。 
+我忙于我的老朋友萨茹曼的事。
+他投靠了邪恶，并背叛了我们。 
+他将我关在他的塔中，但我设法逃脱了出来。
 
-These are dark times for Middleearth.
-And only a fellowship of the bravest heroes can save us now.
+这是中洲的黑暗时刻。
+现在只有最勇敢的英雄们联合起来才能拯救我们。
 
-Speak to Lord Elrond, he knows what to do.
+去找埃尔隆德领主吧，他知道该怎么办。
 
-I will come with you!
+我会和你一起去！
 
->>(You can take Gandalf the gray with you as a companion)<<",
+>>(你可以带上灰袍甘道夫成为你的同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

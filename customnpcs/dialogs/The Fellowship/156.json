@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 227,
-                "Title": "<<BACK>>",
+                "Title": "<<返回>>",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 15868697,
                 "OptionType": 0
             }
@@ -50,8 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hmm.. good idea but it doesn't seem to work.
-We should try something else.",
+    "DialogText": "嗯.. 好主意但这似乎行不通。
+我们应该试试别的办法。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

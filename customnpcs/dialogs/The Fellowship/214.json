@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会!!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,17 +88,17 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn follower",
     "PreviousBlocks": 1b,
-    "DialogText": "@p nice to see you safe here!
+    "DialogText": "@p，很高兴看见你安全的在这里！
 
-These are dark times for the people of Middleearth.
+对于中洲的人民来说，现在是黑暗之时。
 
-I will go with you into the fires of Mordor! Speak to Lord Elrond, he knows what to do.
+我将与你一同赴身魔多的烈火！与埃尔隆德大人交谈，他知道该如何行动。
 
-A dangerous and long journey lies ahead of you. You are the future of Middle-earth @p !
+你将迎接一段危险而漫长的旅程。你是中洲的未来， @p !
 
-And I will accompany you as far as you want! You have my sword!
+我会陪伴你走到任何你想去的地方！你有我的剑保护你！
 
->>(You can take Aragorn with you as a companion)<<",
+>>(你可以带上阿拉贡作为同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

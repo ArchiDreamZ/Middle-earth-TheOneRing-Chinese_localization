@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 201,
-                "Title": "Tell me more about the ring.",
+                "Title": "告诉我更多关于魔戒的事。",
                 "DialogColor": 16309250,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 202,
-                "Title": "Who is Saruman?",
+                "Title": "萨茹曼是谁?",
                 "DialogColor": 16700674,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let's go on an adventure!",
+                "Title": "让我们一起去冒险吧!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,11 +60,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The Nine! The Black Riders. Or also called Nazgul. Once kings of men, they are now slaves to the will of Sauron.
-They are connected to the One Ring like their master and feel his power!
+    "DialogText": "那九人! 黑骑手，又被称为那兹古尔。曾经是人类的国王，如今却成为了索隆意志的奴隶。
+他们和他们的主人一样与那枚戒指相连，并能感受到它的力量！
 
-I fear after much torture the creature Gollum has revealed the position to the enemy and now they are headed here.
-You must hurry @p and leave the Shire quickly. It's not safe here anymore.",
+我担心咕噜在被折磨了多次以后，已经向敌人透露了位置，他们现在正在向这里赶来。
+你必须快点 @p，赶快离开夏尔。不能再在这里待下去了，这里已经不安全了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

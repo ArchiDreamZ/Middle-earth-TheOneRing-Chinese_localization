@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 88,
-                "Title": "{try to escape}",
+                "Title": "{试图逃跑}",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -41,15 +41,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Who dared to invade my kingdom armed?
-spies? Thieves?
+    "DialogText": "谁敢持武器闯入我的王国？
+间谍？小偷？
 
-You will pay for this... with endless agony!
+你会为此付出代价...遭受无尽的痛苦！
 
-{The King begins to sing:}
-\"Bones will break. Necks turned!
-Everything will be smashed, slain and tormented!
-Just as Goblin-Town liked to see it!\"",
+{国王开始唱歌：}
+“骨头会折断，脖子会扭断！
+一切都将被粉碎、杀戮和折磨！
+就像半兽人镇喜欢看到的那样！”",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

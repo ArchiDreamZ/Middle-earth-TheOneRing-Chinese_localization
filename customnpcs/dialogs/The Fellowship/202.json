@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 201,
-                "Title": "Tell me more about the ring.",
+                "Title": "告诉我更多关于魔戒的事。",
                 "DialogColor": 15717907,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 203,
-                "Title": "Who are these Ringwraiths?",
+                "Title": "这些戒灵是谁?",
                 "DialogColor": 16243714,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let's go on an adventure!",
+                "Title": "让我们一起去冒险吧!",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -88,11 +88,11 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf saruman",
     "PreviousBlocks": 1b,
-    "DialogText": "Saruman the White is the highest of the Order of the 5 Wizards. Also called the Istari.
-Besides us there are 2 blue wizards, I don't know exactly where they are.. and Radagast the brown one.
+    "DialogText": "白袍萨茹曼是五位巫师中地位最高的一位。也被称为伊斯塔尔。
+除了我们之外，还有两位蓝袍巫师，我不确定他们具体在哪里.. 还有褐袍巫师拉达加斯特。
 
-I will go now and consult with Saruman in Isengard. He is a good friend of mine and very powerful, if anyone else knows what to do, then he.
-As soon as I'm done there, we'll meet up in Bree. ",
+我现在将去艾森加德与萨茹曼商议。他是我的好朋友，也非常强大，如果还有人知道该怎么办，那就一定是他了。
+我一完成那里的事情，咱们就在布理会合。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

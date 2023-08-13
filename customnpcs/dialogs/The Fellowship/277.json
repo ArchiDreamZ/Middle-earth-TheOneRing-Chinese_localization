@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 278,
-                "Title": "Underhill, my name's Underhill.",
+                "Title": "山下先生, 我的名字是山下先生。",
                 "DialogColor": 785192,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 279,
-                "Title": "My name is @p.",
+                "Title": "我的名字是 @p.",
                 "DialogColor": 16291596,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 14223883,
                 "OptionType": 0
             }
@@ -88,7 +88,7 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 1",
     "PreviousBlocks": 1b,
-    "DialogText": "Good evening, little masters! If you're looking for accommodation we've got some nice, cozy, hobbit-sized rooms available. Mister ... ?",
+    "DialogText": "晚上好，小主人们! 如果你正在寻找住处，我们有一些漂亮，舒适，霍比特人大小的房间可供选择。 先生 ... ?",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 218,
-                "Title": "(Put the ring on)",
+                "Title": "(戴上戒指)",
                 "DialogColor": 15196682,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Run away)",
+                "Title": "(逃跑)",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -50,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(You take the ring out of your pocket to hand it to Bormir.
-Suddenly you feel a strong desire to keep it, after all it is your precious! It's your job to own it, not his.)
+    "DialogText": "(你从口袋里拿出戒指准备递给波洛米尔。
+突然间，你感到强烈的欲望想要留下它，毕竟它是你的宝贝！拥有它是你的使命，而不是他的。)
 
-What are you waiting for? give it to me!!",
+你还在等什么？把它给我！！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

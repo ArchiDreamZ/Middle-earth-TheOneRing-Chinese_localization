@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks, Goodbye!",
+                "Title": "谢谢，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -68,7 +68,11 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 7",
     "PreviousBlocks": 1b,
-    "DialogText": "He's one of them rangers. Dangerous folk they are. Wandering the wilds. What his right name is I've never heard, but around here, he's known as Strider.",
+    "DialogText": "他是那些游侠中的一员。
+他们是危险的人，在荒野中游荡。 
+
+他的真名我从未听说过， 
+但在这里，他被称为“大步佬”。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

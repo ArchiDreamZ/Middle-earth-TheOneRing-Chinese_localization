@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -40,16 +40,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Gandalf helped Thorin in his task and hired me as his master thief.
-Even I've never stolen anything in my life.
+    "DialogText": "甘道夫帮助了梭林完成他的任务，并雇佣了我作为他的首席窃贼。
+即使我一生都没有偷过任何东西。
 
-We set off and were surprised by 3 trolls halfway to Rivendell.
-Luckily they kept arguing about how to cook us until daylight turned them to stone!
+我们出发了，在前往幽谷的半路上被三个食人妖惊到。
+幸运的是，他们在争论如何煮我们的时候，天亮将他们变成了石头！
 
-*yawn* I got tired of all the telling...
-I'm old and exhausted @p...
 
-I'll tell you the rest later.",
+*打哈欠* 我对讲述这些感到厌倦了...
+我已经年老力衰了， @p...
+
+我会稍后告诉你剩下的故事。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 216,
-                "Title": "What's about the Ring?",
+                "Title": "那戒指呢？",
                 "DialogColor": 16251891,
                 "OptionType": 2
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower Menu)",
+                "Title": "跟我来！(跟随者菜单)",
                 "DialogColor": 1503475,
                 "OptionType": 3
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -98,12 +98,12 @@
     "TextWidth": 300,
     "DialogTitle": "Boromir follower moria",
     "PreviousBlocks": 1b,
-    "DialogText": "Finally you are here @p! Gandalf tries to open the door..
-If you would ask me, I would say: we could go south and ask for the help of my people! 
-We are not so far away from the Gondor border. 
-Why going into the Mines when we can have a much easier way. 
+    "DialogText": "你终于来了 @p！ 甘道夫正试图打开门..
+但如果你问我，我会说：我们可以往南走，寻求我的族人的帮助！ 
+我们离刚铎边境并不远。 
+既然我们有更简单的办法，为什么还要去矿坑呢？
 
->>(You can take Boromir with you as a companion)<<",
+>>(你可以带上波洛米尔作为同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

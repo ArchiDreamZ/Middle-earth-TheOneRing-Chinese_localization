@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 164,
-                "Title": "I will kill Lurtz! (side quest start)",
+                "Title": "我要杀死路尔兹！! (支线任务开始)",
                 "DialogColor": 15065358,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -79,14 +79,15 @@
     "TextWidth": 300,
     "DialogTitle": "legolas",
     "PreviousBlocks": 1b,
-    "DialogText": "To Attack!!
-Good that you are here @p !
+    "DialogText": "发起进攻吧!!
+很高兴你在这里， @p !
 
-Saruman's Uruk-Hai have overrun us!
-They are so many!
-Quickly! Do you hear the horn of Gondor? Boromir is in trouble!
+萨茹曼的奥克大军已经攻破了我们的防线!
+他们数量众多!
+快点!你听到了那来自刚铎的号角声吗? 波洛米尔有麻烦了!
 
-You must destroy the leader of the orcs!",
+你必须去消灭奥克的首领！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

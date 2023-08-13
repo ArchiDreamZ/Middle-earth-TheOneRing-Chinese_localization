@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后吧，再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,15 +88,14 @@
     "TextWidth": 300,
     "DialogTitle": "Sam follow",
     "PreviousBlocks": 1b,
-    "DialogText": "Did you think I'd let you go to Mordor alone?
-I want to come with you, finally see elves and have an adventure!
+    "DialogText": "你以为我会让你独自前往魔多吗?
+我想和你一起去，最终见到精灵，经历一次冒险!
 
-If I go one step further, I'm as far away from home as I've ever been.
+如果我再走一步，我离家就会比以往任何时候都要远。
 
-Over there is the Brandywine Bridge.. but.. what is that? Is there one of those black riders that Gandalf spoke of?
-We'd better take the Old Ferry across the river!
-
->>(You can take Sam with you as a companion)<<",
+那边是白兰地桥..但是..那是什么？那里有一位甘道夫提到的黑骑手吗？
+我们最好乘坐老渡船过河！
+>>(你可以带上山姆作为同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

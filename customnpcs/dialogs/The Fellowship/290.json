@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 291,
-                "Title": "Where can I find Lady Galadriel?",
+                "Title": "我在哪里能找到加拉德瑞尔夫人？",
                 "DialogColor": 15394051,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -78,8 +78,13 @@
     "TextWidth": 300,
     "DialogTitle": "Gimli lothlorien",
     "PreviousBlocks": 1b,
-    "DialogText": "These woods are perilous. 
-They say a Sorceress lives in these woods. An elf-witch of terrible power. All who look upon her fall under her spell...And the way will not be easy from here, after we will go to Argonath, it's just a simple matter of finding our way through Emyn Muil, an impassable labyrinth of razor sharp rocks. And after that gets even better...a festering, stinking marshland, far as the eye can see.",
+    "DialogText": "这片森林危险重重。 
+据说这片树林里住着一位女巫，是一位拥有可怕力量的精灵女巫。
+凡是见到她的人都会被她的魔咒所迷住...
+
+之后的路将不会容易，在我们去阿刚那斯之后，
+找到穿越埃敏穆伊的路都只是个简单的问题...一个由锋利岩石组成的无法通行的迷宫。
+而在那之后就更好咯......放眼望去，净是一片腐烂、恶臭的沼泽地。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来! (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "可能以后，再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,15 +88,15 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo follow",
     "PreviousBlocks": 1b,
-    "DialogText": "You've made it far @p !
-A very gloomy place and the days are getting darker!
+    "DialogText": "你已经走得很远了 @p !
+这是一个非常阴暗的地方，天越来越黑了!
 
-There is no going back! We're so close.
-Whether we can trust Gollum I don't know, but we must try.
+已经没有回头路可走！我们离目标如此之近。
+我不知道我们是否能够相信咕噜，但我们必须试一试。
 
-I will accompany you if you want.
+如果你愿意的话，我会陪伴在你身边。
 
->>(You can take Frodo with you as a companion)<<",
+>>(你可以带上弗罗多作为同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

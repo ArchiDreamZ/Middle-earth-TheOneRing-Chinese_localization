@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "Hmm,.. maybe dwarves gold?",
+                "Title": "嗯，. .也许是矮人的金子？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "Hmm,.. How about Khazad-Dum?",
+                "Title": "嗯，. .卡扎督姆怎么样？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 155,
-                "Title": "Hmm,.. what's the elvish word for friend?",
+                "Title": "嗯，. .朋友在精灵语里是怎么说的？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "Hmm,.. have you tried Durin lord of Moria yet?",
+                "Title": "嗯，. .你有试过墨瑞亚领主都林吗？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -84,7 +84,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "Hmm,.. And what about open secret door?",
+                "Title": "嗯，...那芝麻开门怎么样？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -94,7 +94,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I have to go.",
+                "Title": "我得走了。",
                 "DialogColor": 16323338,
                 "OptionType": 0
             }
@@ -118,16 +118,16 @@
     "TextWidth": 300,
     "DialogTitle": "gandalfmoria2neu",
     "PreviousBlocks": 1b,
-    "DialogText": "Saruman's betrayal came unexpectedly...
-and the path we must now take is my last choice.
-But we have no other way to go, so we have to try it..
+    "DialogText": "萨茹曼的背叛来得有些出乎意料...
+而我们现在必须走的路是我最后的选择。
+我们没有其他路可走，所以我们必须尝试一下..
 
-But the door won't open... I've tried everything.
-I do not understand it, ..
-Speak friend, and enter
-But all the words I tried don't work..
+但是这门打不开...我什么都试过了。
+我不明白， ..
+“说出朋友，然后进入”
+但我试过的所有词都不起作用..
 
-(Correct selection starts quest)",
+(正确选择以开始任务)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

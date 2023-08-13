@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 218,
-                "Title": "(Put the ring on)",
+                "Title": "(戴上戒指)",
                 "DialogColor": 16309250,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Run away)",
+                "Title": "(逃跑)",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -50,11 +50,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "GIVE IT TO ME!!!
+    "DialogText": "把它给我!!!
 
-COME ON!! I want to have it!!
+快点！！我想要它！！
 
-(Boromir grabs you)",
+(波洛米尔抓住了你)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

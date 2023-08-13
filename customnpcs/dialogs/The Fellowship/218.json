@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 220,
-                "Title": "(Put the ring off)",
+                "Title": "(摘下戒指)",
                 "DialogColor": 16766465,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Run away)",
+                "Title": "(逃跑)",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -51,18 +51,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "...WHAT? Where are you?...
-I know what you have in mind!
+    "DialogText": "...什么？你在哪里？...
+我知道你在想什么！
 
-You want to bring the Ring to Sauron! You want to betray us all!
+你想把戒指带给索隆！你想背叛我们所有人！
 
-(Boromir getting sane again)
+(波洛米尔又恢复了理智)
 
 @p !
-.. wait!!
-I am sorry!
+.. 等等！！
+对不起！
 ...
-@p!!! Come back!",
+@p！！！回来！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

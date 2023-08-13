@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,10 +88,20 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo follow amon lhaw",
     "PreviousBlocks": 1b,
-    "DialogText": "You've made it far @p!We found Gollum! He will show us the way to Mordor!
-I think we can trust him.. but the Ring is treacherous.Maybe Gollum does deserve to die, but now that I see him, I do pity him.And Gandalf once told me: Many that live deserve death. Some that die deserve life. Can you give it to them, Frodo? Do not be too eager to deal out death in judgment. Even the very wise cannot see all ends.I do not forget that. 
+    "DialogText": "你已经走了很远了， @p！
 
->>(You can take Frodo with you as a companion)<<",
+我们找到了咕噜！他会告诉我们去魔多的路！
+我觉得我们可以信任他，但魔戒是危险的。
+也许咕噜确实该死，但现在我看到他，我确实可怜他。
+
+甘道夫曾告诉过我：
+许多活着的人本该一死，而许多逝去的人却命不该绝。
+你能决定谁的生死吗？
+不要过于急切地裁决人的生死，万事的结局即便是智者也难以预料。
+
+我不会忘记这一点。 
+
+>>(你可以带上弗罗多作为你的同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

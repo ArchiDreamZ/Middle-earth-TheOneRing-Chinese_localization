@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16126481,
                 "OptionType": 0
             }
@@ -68,15 +68,16 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf rivendell",
     "PreviousBlocks": 1b,
-    "DialogText": "Very good @p
-You've come a long way.
-Sorry I couldn't meet you in Bree, I've been busy with my old friend Saruman.
-He has joined the evil and betrayed us. He locked me in his tower but I managed to escape.
+    "DialogText": "非常好， @p
+你走了一段很长的路。
+很抱歉我没能在布理与你会面，我一直在忙我的老朋友萨茹曼的事。
+他投靠了邪恶势力并背叛了我们。他把我关在了他的塔里，但我设法逃了出来。
 
-These are dark times for Middle-earth.
-And only a community of the bravest heroes can still save us.
+这是中洲的黑暗之时。
+只有最勇敢的英雄团结一致才能拯救我们。
 
-Speak to Lord Elrond, he knows what to do.",
+去找埃尔隆德领主，他知道该如何行动。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

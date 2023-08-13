@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "{Find an exit!}",
+                "Title": "{找到一个出口!}",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -41,7 +41,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There is no way out of these caves!!TAAKEE THEEM!!!",
+    "DialogText": "这些洞穴没有出口！！
+
+砍死他们！杀了他们！
+
+把他们杀尽！砍下他的头!
+
+拿下！！　他们！！！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

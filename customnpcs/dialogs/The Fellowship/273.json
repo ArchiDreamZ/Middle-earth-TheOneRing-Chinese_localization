@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,9 +88,10 @@
     "TextWidth": 300,
     "DialogTitle": "Sam rivendell follow",
     "PreviousBlocks": 1b,
-    "DialogText": "Finally I can see Elves! This place is just beautiful! Where do we go next? Back Home?By the way, Bilbo is waiting for you upstairs.
+    "DialogText": "终于可以见到精灵了！这个地方可真漂亮！接下来我们去哪里？回家吗？
 
->>(You can take Sam with you as a companion)<<",
+顺便一提，比尔博在楼上等你。
+>>(你可以带上山姆作为你的同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

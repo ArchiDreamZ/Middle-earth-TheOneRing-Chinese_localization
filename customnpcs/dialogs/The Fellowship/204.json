@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 205,
-                "Title": "Tell me more about Elrond and Rivendell.",
+                "Title": "告诉我更多关于埃尔隆德和幽谷的事。",
                 "DialogColor": 15065358,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -78,11 +78,11 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn wetter",
     "PreviousBlocks": 1b,
-    "DialogText": "There is the former watchtower Amon Sul.
-Weathertop, the southern peak of the Weatherhills and the border point of the three kingdoms of Arthedain, Cardolan and Rhudaur.
+    "DialogText": "有一个曾经的瞭望塔，阿蒙苏尔。
+风云顶，是风云丘陵的南峰，也是阿塞丹、卡多蓝和鲁道尔三个王国的交界处。
 
-From the top of the mountain you had a good view in all directions, you could even see the Misty Mountains.
-Now it's a ruin and a spooky place, but it might offer you shelter at the night.",
+站在山顶上，你可以俯瞰四面八方，甚至能看到迷雾山脉。
+现在这里是一片废墟和一个令人毛骨悚然的地方，但它可能会在晚上为你提供庇护。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

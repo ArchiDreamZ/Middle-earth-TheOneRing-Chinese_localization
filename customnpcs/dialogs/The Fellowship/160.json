@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Please, don't fight him and come with me! (Follower menu)",
+                "Title": "求你了，不要跟他战斗，跟我来吧!(跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,17 +88,17 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf moria6",
     "PreviousBlocks": 1b,
-    "DialogText": "No @p !
-This is too dangerous!
+    "DialogText": "不 @p !
+这太危险了!
 
-I can stop him abit while you escape.
-I am a lord of the Udun Flame, he does not pass!
+在你逃离的时候，我可以稍微阻止他一下。
+我是乌顿之炎的主人, 他不能从这里通过!
 
-And now go! quick!
+现在走！快点！
 
-Flee You fools!!!
+逃跑吧，你们这些傻瓜！！！
 
->>(You can take Gandalf the gray with you as a companion)<<",
+>>(你可以带上灰袍甘道夫作为同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

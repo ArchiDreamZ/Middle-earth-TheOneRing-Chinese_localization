@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 81,
-                "Title": "Erebor?",
+                "Title": "埃瑞博山?",
                 "DialogColor": 16316664,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 14288648,
                 "OptionType": 0
             }
@@ -50,17 +50,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It was an unexpected journey for me, it all started back in Bag End.
+    "DialogText": "对我来说，这是一次意外的旅程，一切始于袋底洞。
 
-Gandalf came to visit me and with him came 13 dwarves in the night.
-who threw a feast and ransacked my pantry!
+甘道夫带着他的十三个矮人在夜里到来来拜访我。
+他们举办了一场盛宴，并搜刮了我的食品储藏室！
 
-But once you got past the rowdy behavior,
-...one recognized that there was much more in them..
+但当你忽略了他们喧嚣的行为后，
+．．．人们会发现他们身上还有更多的东西．．．
 
-They faithfully and loyally followed their leader...
-Thorin Oakenshield, son of Thrain the Dwarf Prince,
-who was robbed of his homeland and made it his mission to recapture Erebor.",
+他们忠诚地跟随着他们的领袖．．．
+梭林·橡木盾，矮人之王瑟莱因二世之子，
+他的家园被洗劫一空，他以重夺孤山为使命。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

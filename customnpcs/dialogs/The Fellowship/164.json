@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -41,9 +41,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Take care of yourselves! I'll hold the position here, I've got a good view of the old watchtower!
-Continue down the path, I saw Aragorn running that way too!
-Quickly! Before it is too late!",
+    "DialogText": "你们要保重！我就坚守在这里，从这里我可以清楚看到那座旧的瞭望塔！
+继续前行，我看到阿拉贡也朝那个方向跑去了！
+快点！趁现在还来得及！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
