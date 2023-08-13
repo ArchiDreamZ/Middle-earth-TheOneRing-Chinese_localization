@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 29,
-                "Title": "Who are you? show yourself!",
+                "Title": "你是谁？把脸露出来！",
                 "DialogColor": 16578550,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don't fall for these tricks, Saruman...",
+                "Title": "我不会上当的，萨茹曼...",
                 "DialogColor": 15737633,
                 "OptionType": 0
             }
@@ -51,9 +51,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You are looking for two little hobbits...
-They passed here the day before yesterday...
-They've met someone unexpecting!",
+    "DialogText": "你们在寻找两个霍比特人...
+他们前天从这个地方经过...
+他们遇到了料想之外的好心人！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会",
                 "DialogColor": 16126481,
                 "OptionType": 0
             }
@@ -40,8 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "As you wish!
-We will wait for you here!Gollum! ",
+    "DialogText": "如你所愿！
+我们会在这里等着你！
+咕噜！ ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

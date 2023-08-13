@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 180,
-                "Title": "Please, you have to help us!",
+                "Title": "求你了，你必须帮助我们！",
                 "DialogColor": 16120819,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Ring aufsetzen und wegrennen)",
+                "Title": "(戴上戒指逃跑)",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -50,7 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(A Commander says to Faramir:Osgiliath is under attack. They call for reinforcements..)Prepare to leave. The Ring will go to Gondor.!",
+    "DialogText": "(一名指挥官对法拉米尔说道：
+欧斯吉利亚斯受到攻击。他们要求增援..)
+
+准备撤离。 魔戒跟我去刚铎。！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

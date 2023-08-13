@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16125966,
                 "OptionType": 0
             }
@@ -40,10 +40,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very nice! 
-The eagle will then take you to the Shire!
+    "DialogText": "非常好！ 
+那只大鹰会带你去夏尔！
 
-Farewell!",
+告别！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

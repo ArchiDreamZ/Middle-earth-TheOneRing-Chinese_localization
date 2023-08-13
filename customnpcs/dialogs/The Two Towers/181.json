@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 180,
-                "Title": ">>BACK<<",
+                "Title": ">>返回<<",
                 "DialogColor": 15459842,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Walk to Osgiliath",
+                "Title": "走到欧斯吉利亚斯",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(Meet me at the temple of stars in the middle of Osgiliath)",
+    "DialogText": "(在欧斯吉利亚斯中央的星辰神殿见我)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

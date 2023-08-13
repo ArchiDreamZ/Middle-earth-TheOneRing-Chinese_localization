@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 43,
-                "Title": "Talk Quest",
+                "Title": "交谈任务",
                 "DialogColor": 2880298,
                 "OptionType": 2
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 14094353,
                 "OptionType": 0
             }
@@ -50,15 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Saruman wants to blow up the Wall!
-He built bombs and wants to use them!
+    "DialogText": "萨茹曼想炸掉这堵墙！
+他制造了炸弹，并准备使用它们！
 
-Kill the 5 torchbearers and Helm's Deep will be safe!
-They try it at the river,
-there where the weak point of the wall is!
-When you are finished, come back to me!
+杀死5名火炬手，圣盔谷就安全了！
+他们会在河边尝试，
+那里是城墙的薄弱点！
+当你完成任务后，回到我这里！
 
-@p this is the hour when we draw swords together!",
+@p， 这是我们一起拔剑抗敌的时刻！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

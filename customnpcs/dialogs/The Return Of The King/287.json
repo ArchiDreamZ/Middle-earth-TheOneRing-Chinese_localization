@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路标点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,9 +88,11 @@
     "TextWidth": 300,
     "DialogTitle": "Merry follow isengard",
     "PreviousBlocks": 1b,
-    "DialogText": "Welcome, my Lords, to Isengard!
-Pippin and me raided the pantry of Saruman. He has a good taste in food. 
-We're under orders from Treebeard, who's taken over management of Isengard.
+    "DialogText": "欢迎来到艾森加德，我的大人们！
+皮平和我搜查了萨茹曼的食品储藏室。
+他对食物有着很好的品味。 
+我们奉树须之命，
+他接管了艾森加德的管理权。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,

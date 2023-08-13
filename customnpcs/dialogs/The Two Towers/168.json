@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 169,
-                "Title": "He said your life was a sad story.",
+                "Title": "他说你的经历非常坎坷。",
                 "DialogColor": 16447726,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "OK I'll leave you alone.",
+                "Title": "好吧，我不打扰你了。",
                 "DialogColor": 16128014,
                 "OptionType": 0
             }
@@ -51,7 +51,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Mustn't ask us. Not its business. Gollum,Gollum! (He starts singing)Cold be heart and hand and bone. Cold, be travellers far from home.",
+    "DialogText": "不关你事，你不要问。咕噜，咕噜！
+ 
+(他开始唱歌)
+
+我是一个冷血动物， 冷，我是一个孤魂野鬼。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

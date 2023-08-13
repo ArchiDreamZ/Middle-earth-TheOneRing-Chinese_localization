@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 1,
-                "Title": "Back",
+                "Title": "返回",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "This village has been around for ages. Enjoy your stay here.",
+    "DialogText": "这个村庄已经有很悠久的历史了。祝您旅途愉快。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

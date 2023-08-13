@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,29 +88,29 @@
     "TextWidth": 300,
     "DialogTitle": "Pippin",
     "PreviousBlocks": 1b,
-    "DialogText": "Oh Hello @p
-greets you! Nice to see such a friendly face.
+    "DialogText": "哦，你好 ， @p
+向你问好！很高兴看到这么友善的面孔。
 
-This grim man Denethor is saddening me, and I am greatly homesick for the Shire...
-Have you seen Merry? He should still be in Edoras, we had to leave quickly and couldn't really say goodbye.
+德内梭尔这个冷酷无情的家伙让我很难过，我非常想念夏尔...
+你看到梅里了吗？他应该还在埃多拉斯，我们得赶快离开，来不及道别了。
 
-I hope this is just a ceremonial position right?
-I really don't want to fight. But it is my duty... After all, Boromir saved us... He was a true hero.
+我希望这只是一个礼仪性的职位，对吗？
+我真的不想战斗。但这是我的责任... 毕竟，波洛米尔救了我们... 他是一个真正的英雄。
 
-I've gotten very hungry from the long ride with Gandalf. I think it's time for the second breakfast! Farewell @p.
+和甘道夫长途跋涉，我已经饿坏了，我想该吃第二顿早餐了！再见， @p。
 
-When this is all over, see you for a drink at the Green Dragon.
-The best tavern in the Shire!.. oh.. the Shire...
+等这一切都结束了，我们去绿龙酒馆喝一杯吧。
+那是夏尔最好的酒馆!.. 哦.. 夏尔...
 
-(Pippin begins to sing) Home is behind the world ahead
-And there are many paths to tread
-Through shadow to the edge of night
-Until the stars are all alight.
+(皮平开始唱歌) 远离家乡，世界在前方
+千万道路由你闯
+穿过阴影到达黑夜旁
+直到群星全都耀眼闪亮。
 
-Mist and shadow
-Cloud and shade
-All shall fade,
-All shall fade.",
+阴霾雾霭
+迷云暗影
+都将散茫，
+都将散茫。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

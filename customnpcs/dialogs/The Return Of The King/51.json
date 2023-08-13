@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 52,
-                "Title": "But we don't have enough men!",
+                "Title": "但是我们没有足够的人手！",
                 "DialogColor": 16579836,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 14288648,
                 "OptionType": 0
             }
@@ -78,11 +78,11 @@
     "TextWidth": 300,
     "DialogTitle": "Elrond1",
     "PreviousBlocks": 1b,
-    "DialogText": "@p I have an important task for you!
+    "DialogText": "@p ，我有一项重要的任务要交给你！
 
-War will come to Minas Tirith!
-We cannot stop the power that is now rising in the East!
-If we don't have more soldiers!",
+战争即将降临米那斯提力斯！
+我们无法阻止东方正在崛起的力量！
+如果我们没有更多的士兵！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

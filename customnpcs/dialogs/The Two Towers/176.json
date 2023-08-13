@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 80955 76 59032",
                 "Dialog": -1,
-                "Title": "YES!",
+                "Title": "是!",
                 "DialogColor": 3602457,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NO!",
+                "Title": "否!",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": ">>(Teleport: YES/NO)<<",
+    "DialogText": ">>(传送： 是/否)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

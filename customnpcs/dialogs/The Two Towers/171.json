@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 172,
-                "Title": "Spies?! Now wait just a minute!",
+                "Title": "间谍？！你们把话说清楚！",
                 "DialogColor": 15989226,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Run away)",
+                "Title": "(逃跑)",
                 "DialogColor": 16321546,
                 "OptionType": 0
             }
@@ -50,12 +50,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Get ready men!
-Fire at my command!
-Let's send these beasts back where they came from.
+    "DialogText": "大家准备好！
+听我命令开火！
+让我们把这些野兽送回他们来的地方去。
 
-Oh! Look who we got there?
-You must be orc spies!",
+哦！看看谁来了？
+你们一定是奥克间谍！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

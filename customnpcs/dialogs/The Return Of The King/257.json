@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Lets fight together! (Follower menu)",
+                "Title": "让我们并肩作战！ (跟随者菜单)",
                 "DialogColor": 195069,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15009531,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -60,7 +60,25 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "-------------------------WITCH-KING:Feast on his flesh!EOWYN:I will kill you if you touch him!(The WITCH-KING laughs)WITCH-KING:Do not come between the Nazgul and his prey!No man can kill me . . . Die!--------------------------EOWYN:Finally you are here @p!You need to help me and Merry fight this evil! And sent it back to where it came from! Will you fight on my side?",
+    "DialogText": "-------------------------
+安格玛巫王：
+吃掉他吧！
+
+伊奥温：
+你敢碰他，我就杀了你！
+(巫王笑了)
+
+安格玛巫王：
+不要妨碍戒灵享用他的猎物！
+没有人可以杀死我 . . . 死吧！
+--------------------------
+
+伊奥温：
+你终于来了， @p！
+你得帮我和梅里对付这个恶魔！ 
+把它送回它来的地方！ 
+你会站在我这一边战斗吗？
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

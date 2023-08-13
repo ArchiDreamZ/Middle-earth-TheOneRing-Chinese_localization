@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 73,
-                "Title": "<<Teleport into the Shire>>",
+                "Title": "<<传送至夏尔>>",
                 "DialogColor": 15328262,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 238,
-                "Title": "What is that? Utumno? (Side Quest Start)",
+                "Title": "那是什么？乌图姆诺吗？ (支线任务开始)",
                 "DialogColor": 584954,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Farewell Gandalf!",
+                "Title": "再见，甘道夫！",
                 "DialogColor": 16388360,
                 "OptionType": 0
             }
@@ -60,18 +60,22 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You have accomplished your task @p ! And saved Middle-earth!
+    "DialogText": "你已经完成了你的任务， @p ！ 拯救了中洲！
 
-The times of peace and kings have come!
+和平时代和国王时代已经来临！
 
-Sauron is back in the shadow world! And will never return!
+索隆已经回归了暗影世界！永远不会回来了！
 
-In the end you saw what really matters and what is worth fighting for!
-For love and for friendship!
+最后，你看到了什么是真正重要的，什么是值得为之奋斗的！
+为了爱和友谊！
 
-This world is a safe place again!
+这个世界又成为了一个安全的地方！
 
-Thank you @p !There is still one task to do, it might me the most dangerous mission you have ever done!Its about the dark place itsef, Utumno! I think now you are ready for it! ",
+谢谢你， @p ！
+
+还有一个任务要完成，这可能是你所做过的最危险的任务！
+这是关于黑暗本源的地方，乌图姆诺！我想现在你已经准备好了！ 
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

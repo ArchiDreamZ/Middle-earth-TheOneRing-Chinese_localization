@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -40,24 +40,24 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I know what you're up to Gandalf! Never will this Aragorn...
+    "DialogText": "我知道你想干什么，甘道夫！这个阿拉贡永远不会...
 
-Oh... Hello @p
-This old wizard and the kid here are telling me something about the end of the world.
-As if there wasn't enough bad news at the moment..
+喔... 你好， @p
+这个老巫师和这个孩子在告诉我关于世界末日的事。
+好像目前坏消息还不够多似的..
 
-Do you see this broken horn in my hand?
-My beloved son Boromir passed away recently..
-it was his... and now I have only that useless Faramir in Osgiliath...
+你看到我手中这个破碎的号角吗？
+最近我亲爱的儿子波洛米尔去世了..
+这是他的...现在我在欧斯吉里亚斯只有那个没用的法拉米尔了...
 
-Tradition says that the ancient kings were burned in the crypt behind the citadel.
-Some also alive. Probably the greatest honor of a king at the end of his time.
+传说古代的国王是在城堡后面的地窖中被烧死的。
+有些还活着。这可能是一个国王在他的时代结束时最大的荣耀。
 
-The seven wall rings of Minas Tirith have never been conquered.
-And they won't now either. Go now!
+米那斯提力斯的七环城墙从未被征服过。
+他们现在也不会被攻破。现在就去吧!
 
-I got hungry and I want the hobbit to sing me a song.
-The Lordship of Gondor is MINE! And no one else!!",
+我饿了，我想让霍比特人给我唱首歌。
+刚铎的王权是我的！没有别人！！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

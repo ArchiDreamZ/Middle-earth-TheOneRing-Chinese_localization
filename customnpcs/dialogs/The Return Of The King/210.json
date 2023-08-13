@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -61,14 +61,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "HA! So if you think you can sneak away without us, you're wrong @p !
+    "DialogText": "哈！所以如果你认为你可以在没有我们的情况下偷偷溜走，那你就错了， @p ！
 
-We come with you! Even if I'm not entirely comfortable walking this path.
-My blood runs cold at the thought of facing these dead ghost's... But it would be foolish for an elf to dare to go underground and a dwarf not... so of course I'll come with you!
+我们跟你一起走，即使我走这条路并不舒服。
+一想到要面对这些死去的鬼魂，我就胆战心惊... 
+但如果一个精灵敢到地下去，而一个矮人不敢，那就太愚蠢了... 
+所以我当然会跟你们走！
 
-Go ahead @p ! We're right behind you!
+继续吧， @p ！ 我们就在你后面！
 
->>(You can take Gimli with you as a companion from here)<<",
+>>(从这里开始你可以带上吉姆利作为同伴)<<
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

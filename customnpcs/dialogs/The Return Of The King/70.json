@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 71,
-                "Title": "<<Teleport: The Final Party>>",
+                "Title": "<<传送： 最后的派对>>",
                 "DialogColor": 15525633,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 74,
-                "Title": "<<Teleport: The Way of the Ringbearer>>",
+                "Title": "<<传送： 持戒人之路>>",
                 "DialogColor": 15525633,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Stay here!",
+                "Title": "留在这里！",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -61,15 +61,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<< Suddenly the earth starts to tremble and you can see in the distance how Mount Doom spits fire and Mordor collapses! >>
+    "DialogText": "<< 突然，大地开始颤抖，你可以看到远处的末日山喷出火焰，魔多轰然倒塌！ >>
 
-We have made it!!!
+我们成功了！！！
 
-The enemy is defeated!!!
+大敌被打败了！！！
 
-The dipolmat lied and the ring bearer is still alive!
+传令官撒谎了，持戒人还活着！
 
-He did it! Sauron is defeated and Middle-earth is safe. Now the time of the king can come!",
+他做到了！索隆被打败了，中洲安全了。 
+现在国王的时代可以来临了！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

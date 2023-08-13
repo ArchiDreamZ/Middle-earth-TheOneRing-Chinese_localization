@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来 (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,7 +60,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Here we are @p !Our old watchtower, it is overrun by Uruk-Hai Captains!We need to kill all 15 of them to free this place.lets go together, i'm right behind you!lets fight some Orcs! For Theoden!!>>(You can take Eomer as a follower with you)<<",
+    "DialogText": "我们到了， @p ！
+我们的旧瞭望塔被乌鲁克族首领们占领了！
+我们得杀光他们15个才能解救这里。
+我们一起走吧，我就跟在你后面！
+
+让我们和奥克战斗吧!为了希奥顿国王！！
+
+>>(你可以带上伊奥梅尔作为你的随从)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

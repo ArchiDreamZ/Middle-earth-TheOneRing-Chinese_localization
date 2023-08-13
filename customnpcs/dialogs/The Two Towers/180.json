@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 79545 72 66120",
                 "Dialog": -1,
-                "Title": "YES!",
+                "Title": "是!",
                 "DialogColor": 15980810,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 181,
-                "Title": "NO! (walk yourself)",
+                "Title": "否! (自己走路)",
                 "DialogColor": 16712449,
                 "OptionType": 1
             }
@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": ">>Teleport to Osgiliath<<",
+    "DialogText": ">>传送至欧斯吉利亚斯<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

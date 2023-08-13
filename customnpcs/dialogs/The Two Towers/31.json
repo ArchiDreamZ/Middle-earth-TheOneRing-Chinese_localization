@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -41,9 +41,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Good luck @p ! 
-*Gandalf whistles*
-<a white horse arrives>",
+    "DialogText": "祝你好运， @p ！ 
+*甘道夫吹起口哨*
+<一匹白马跑来>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

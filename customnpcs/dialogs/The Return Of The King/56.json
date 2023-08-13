@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 57,
-                "Title": "<<Show him the sword>>",
+                "Title": "<<让他看看你的剑>>",
                 "DialogColor": 14347781,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<<Run away>>",
+                "Title": "<<逃跑>>",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -51,11 +51,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "FOOL!!!
+    "DialogText": "蠢货！！！
 
-Only the King of Gondor can give me orders!
+只有刚铎之王才能向我发号施令！
 
-<<The King of the Dead prepares to attack!>>",
+<<亡者之王准备进攻！>>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

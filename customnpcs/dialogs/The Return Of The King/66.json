@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 258,
-                "Title": "Okay! (Teleport)",
+                "Title": "好的! (传送)",
                 "DialogColor": 15204863,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will walk there! (No TP)",
+                "Title": "我要走过去! (不使用传送)",
                 "DialogColor": 14029331,
                 "OptionType": 0
             }
@@ -50,11 +50,21 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very good @p !
+    "DialogText": "非常好， @p !
 
-Now everything will be fine! Minas Tirith is saved when Rohan will come!
+现在一切都会好起来的！当洛汗来了，米那斯提力斯就得救了！
 
-But I'm a bit worried that this is not enough..You have to take a dangerous way to get us more soldiers.Meet the Rohirrim in Dunharrow. Theoden should be already there when you arrive.Talk to him, he will tell you what to do next.",
+但我有点担心这还不够..
+
+你必须得采取危险的方式才能给我们带来更多的士兵。
+在黑蛮祠去见洛希尔人。
+
+你到的时候希奥顿应该已经在那里了。
+跟他谈谈，他会告诉你下一步该怎么做。
+
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

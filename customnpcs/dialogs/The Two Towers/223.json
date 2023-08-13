@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 184,
-                "Title": "Before Boromir died he tried to take the ring from me. He drove him insane!",
+                "Title": "波洛米尔死前，他想从我这里夺走魔戒。它把他逼疯了！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Put on the ring and run away)",
+                "Title": "(戴上戒指逃跑)",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -50,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "No, I can not do that.
-It's a weapon!
+    "DialogText": "不，我不能那样做。
+这是武器！
 
-Guards! Bring them to my father, tell them Faramir is sending an important gift!",
+卫兵！带他们去见我父亲，告诉他们法拉米尔送来了一份重要的礼物！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

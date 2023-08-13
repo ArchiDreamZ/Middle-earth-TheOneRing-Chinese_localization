@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 178,
-                "Title": "Wait! I am bound to this creature. And it to me. He leads us!",
+                "Title": "等等！我与这个生物相互连接。他引领我们前进！",
                 "DialogColor": 16251630,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 182,
-                "Title": "I have never seen him. Kill him if you want.",
+                "Title": "我从来没有见过他。如果你想杀了他就杀了吧。",
                 "DialogColor": 16580347,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I have to think about that..",
+                "Title": "我得考虑一下..",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -60,13 +60,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We found your friend.
-Look down there.
-Only coming and contemplating the Forbidden pool bears the penalty of death.
+    "DialogText": "我们找到了你的朋友。
+看下面。
+单单来到这里，看到那个水潭，就是死罪一条。
 
-(shows his hidden men ready to fire)
+(展示隐藏的手下准备开火)
 
-They await my command. Should I shoot?",
+他们在等我的命令，要我射击吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

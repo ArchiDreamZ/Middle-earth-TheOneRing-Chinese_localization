@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "{Put the ring on}",
+                "Title": "{戴上戒指}",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }
@@ -41,9 +41,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh No!
+    "DialogText": "噢，不！
 
-We're all doomed...",
+我们都完蛋了...
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

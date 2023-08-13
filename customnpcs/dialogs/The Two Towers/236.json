@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 237,
-                "Title": "I will help you! (Side Quest Start)",
+                "Title": "我会帮助你的！ (支线任务开始)",
                 "DialogColor": 130047,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later. Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -50,7 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The war is going on and Mordor is getting stronger every day, now i know why.. they want the Ring!They even conqered our old city Cair Andros in the north..I just wanted to go there and make an ambush on the Orc leaders, if you want to help me i would appreciate it.You are good in sneaking into a place without the guards noticing it, that became usefull.",
+    "DialogText": "战争还在继续，魔多一天比一天强大，现在我知道为什么了，他们想要魔戒！
+
+他们甚至征服了我们在北方的旧城凯尔安德洛斯。..
+我想去伏击那里的奥克首领们，如果你愿意帮助我，我将不胜感激。
+你擅长悄无声息地潜入一个地方，不被守卫察觉，这变得非常有用。
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

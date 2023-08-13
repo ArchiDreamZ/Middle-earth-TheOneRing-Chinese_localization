@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 179,
-                "Title": "Don't you understand? We are going to destroy it. That's where we're going. Into Mordor. To the mountain of fire!",
+                "Title": "你难道不明白吗？他必须把它摧毁。所以我们要去魔多。去魔多火山！",
                 "DialogColor": 16448499,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Put the ring on and run away)",
+                "Title": "(戴上戒指逃跑)",
                 "DialogColor": 16128529,
                 "OptionType": 0
             }
@@ -50,17 +50,20 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Well..
-Then we let him live.
+    "DialogText": "嗯..
+那么我们就让他活下来吧。
 
-We heard him talk about a precious..
-Now I understand...
+我们听到他谈论一个珍宝...
+现在我明白...
 
-So... this is the answer to all the riddles. 
-Here in the wild I have you  @p and a host of men at my call.
-The Ring of power within my grasp.
+原来... 这就是谜底所在。 
+在蛮荒之地我拥有了你们，  @p， 和无数人类。
+魔戒离我近在咫尺。
 
-A chance for Faramir, captain of Gondor, to show his quality.",
+刚铎的大将法拉米尔终于能够，大显身手了。
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

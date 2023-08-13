@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 23,
-                "Title": "I will fulfill my destiny!{Continue Quest -Way of the Ringbearer-}",
+                "Title": "我要完成我的使命！{继续任务 -持戒人之路-}",
                 "DialogColor": 588839,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 24,
-                "Title": "I'm coming to Rohan with you!{Quest Start -Way of the King-}",
+                "Title": "我要和你一起去洛汗！{任务开始 -王者之路-}",
                 "DialogColor": 195326,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I have to think about that first!",
+                "Title": "我得先考虑一下！",
                 "DialogColor": 16125966,
                 "OptionType": 0
             }
@@ -61,18 +61,23 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Luckily you are here @p ! Saruman sent his Uruk-Hai and Boromir was severely injured!
-I fear these are his final moments...
+    "DialogText": "幸好你在这里， @p ！ 萨茹曼派出了他的乌鲁克族，波洛米尔受了重伤!
+恐怕这是他最后的时刻了...
 
-In this place the fellowship will have to separate...
+在这个地方，同伴们将不得不分开...
 
-The people of the West are in great danger and need our help!
+西方人民正面临巨大的危险，他们需要我们的帮助！
 
-Rohan must be warned! But first we must rescue Marry and Pippin.. The orcs took them away...
+洛汗必须得到警告！ 但我们必须先解救梅里和皮平.. 奥克把他们带走了...
 
-Or continue along the path and complete your quest!
-You can come back here later.
-The decision is yours!",
+或者继续沿着这条道路，完成你的任务！
+你可以随后回到这里。
+决定权在你！
+
+
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

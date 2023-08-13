@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 186,
-                "Title": "Gollum says there is a path near Minas Morgul that leads up into the mountains. (Quest Start)",
+                "Title": "咕噜说在米那斯魔古尔附近有条小路通向山上。 (任务开始)",
                 "DialogColor": 2160927,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 236,
-                "Title": "How can i help?",
+                "Title": "我能帮什么忙？",
                 "DialogColor": 16380906,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16258316,
                 "OptionType": 0
             }
@@ -60,7 +60,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What will your next step be?And by the way i could need your help if you have time..",
+    "DialogText": "你的下一步计划是什么？
+
+顺便说一下，如果你有时间的话，我可能需要你的帮助..",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

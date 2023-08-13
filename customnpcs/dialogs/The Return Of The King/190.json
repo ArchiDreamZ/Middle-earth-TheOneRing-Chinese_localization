@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Let's go.",
+                "Title": "我们走吧。",
                 "DialogColor": 16126481,
                 "OptionType": 0
             }
@@ -41,8 +41,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very good! Very good! My precious!
-Trust us! Gollum Gollum!",
+    "DialogText": "非常好！非常好！我的宝贝！
+相信我们！咕噜 咕噜！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

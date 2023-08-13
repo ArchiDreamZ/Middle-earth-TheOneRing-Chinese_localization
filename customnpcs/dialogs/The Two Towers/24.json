@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 26,
-                "Title": "Let us hunt orcs! {Teleport}",
+                "Title": "让我们去猎杀奥克！ {传送}",
                 "DialogColor": 1308207,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Wait a moment, i need a bit more time!",
+                "Title": "等一下，我还需要一点时间！",
                 "DialogColor": 16125966,
                 "OptionType": 0
             }
@@ -50,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "So it is!
-Get ready for the trip and only take the essentials with you, we have to hurry!
+    "DialogText": "就是这样！
+准备好行装，只带上必需品，我们必须赶紧！
 
-Ready to go?",
+准备好出发了吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

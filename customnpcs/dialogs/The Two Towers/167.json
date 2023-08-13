@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 168,
-                "Title": "Gandalf told me you were one of the River Folk.",
+                "Title": "甘道夫说你原先住在河边。",
                 "DialogColor": 16448499,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Okay let us go on.",
+                "Title": "好吧，让我们继续。",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -50,8 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "All dead. All rotten. Elves and men and orcses. A great battle long ago. The Dead Marshes. Yes, yes that is their name. This way. Don't follow the lights.
-We must go east, to the road point in Ithilien. Gollum Gollum!",
+    "DialogText": "全都死了，全都烂了。精灵、人类和奥克。多年前的一场大战。
+死亡沼泽， 是的，那就是它的名字。走这边来，要避开火光。
+我们必须往东走，去伊希利恩的路口。咕噜 咕噜。.
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

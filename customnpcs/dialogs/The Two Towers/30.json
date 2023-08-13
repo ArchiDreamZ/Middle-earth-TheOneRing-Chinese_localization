@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 31,
-                "Title": "We see each other in Edoras! {Quest Start}",
+                "Title": "我们在埃多拉斯相见！ {任务开始}",
                 "DialogColor": 2422307,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I just need a moment!",
+                "Title": "我只是需要一点时间！",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -50,13 +50,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The hobbits are safe here in Fangorn for now.
-I have to make preparations.. a big war is coming @p !
+    "DialogText": "霍比特人现在在范贡森林很安全。
+我必须做好准备.. 一场大战就要来了， @p ！
 
-Our first destination will be Rohan. The power of Saruman has grown too strong!
-Ride to Edoras, home of the Horse Lords!
+我们的第一个目的地是洛汗。萨茹曼的力量变得太强大了！
+骑马前往埃多拉斯，马中之王的故乡！
 
-I will lead the way, as my horse Shadowfax is the fastest in all of Middle-earth!",
+我会带路，我的马影疾是中洲跑得最快的！
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

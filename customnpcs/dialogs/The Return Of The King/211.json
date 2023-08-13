@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -61,13 +61,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wait @p !
-The path is too dangerous alone. These mountains are cursed. The dead guard this path and the dead is hold it. They don't condone when the living go there.
+    "DialogText": "等等， @p ！
+一个人独自走这条路太危险了。这些山脉被诅咒了。 亡者守卫着这条路。
+他们不会纵容活人进入到那里。
 
-Of course we will come with you!
-Go ahead, we will follow you!
+当然，我们会和你一起去！
+继续前进，我们会跟随你！
 
->>(You can take Legolas with you as a companion from here.)<<",
+>>(从这里开始你可以带上莱戈拉斯作为同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -40,16 +40,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You did it @p !
-The ring is destroyed!
+    "DialogText": "你做到了， @p ！
+戒指被摧毁了！
 
-Middle-earth is saved!
+中洲得救了！
 
-Talk to Sam to complete one last task here.
-If you continue walking the path towards Barad-Dur you will come to Gandalf on an eagle, he will take you away from this place.
+与山姆谈谈，完成这最后一个任务。
+如果你继续沿着通往巴拉督尔的路走下去，你就会看到骑着大鹰的甘道夫，他会带你离开这个地方。
 
-Farewell @p !
-We are forever grateful to you!",
+再会， @p ！
+我们永远感激你！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

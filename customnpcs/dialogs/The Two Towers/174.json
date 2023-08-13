@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 175,
-                "Title": "Yes... I am sorry.",
+                "Title": "是的... 我很抱歉。",
                 "DialogColor": 16381674,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Run away)",
+                "Title": "(逃跑)",
                 "DialogColor": 16256268,
                 "OptionType": 0
             }
@@ -50,16 +50,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wait a minute.. you are @p ! One of the companions from Rivendell.
-Tell me.. what happened to Boromir.
-Is he fallen?
+    "DialogText": "等一下.. 你是 @p ！ 来自幽谷的同伴之一。
+告诉我...波洛米尔怎么了？
+他堕落了吗？
 
-His horn washed up on the river bank.
-About six days ago.
-It was split in two.
-But more than this, my heart tells me.
+他的号角被冲上了河岸。
+大约在六天之前。
+它被劈成了两半。
+但我的内心告诉我，这不只是如此。
 
-...He was my brother.",
+...他是我的哥哥。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

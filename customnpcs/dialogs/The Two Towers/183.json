@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 223,
-                "Title": "You have to let us go!",
+                "Title": "你得放我们走！",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Put the ring on and run away)",
+                "Title": "(戴上戒指逃跑)",
                 "DialogColor": 16131089,
                 "OptionType": 0
             }
@@ -50,10 +50,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The situation is far worse than I thought.
-The orcs have taken the east river bank. They are far too numerous. By night we are overrun.
+    "DialogText": "情况比我想象的要糟糕得多。
+奥克已经占领了东岸。他们的数量太多了。到了晚上我们就溃不成军了。
 
-But now we have the ring, everything will change!",
+但是现在我们拥有了魔戒，一切都会改变！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

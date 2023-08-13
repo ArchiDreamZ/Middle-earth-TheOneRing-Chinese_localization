@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 185,
-                "Title": "Captain Faramir, you have shown your quality.",
+                "Title": "法拉米尔将军，你证明了自己的能力和最高尚的品德。",
                 "DialogColor": 16251891,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -51,18 +51,21 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nazgul!!!
-Everyone take cover!
+    "DialogText": "那兹古尔！！！
+大家快躲起来！
 
-Is that true @p ?
+那是真的吗？ @p ？
 
 ...
 
-Well, you're right. It's too dangerous here.
-I've been thinking and I think
-now we understand each other @p !
+嗯，你说得对。这里太危险了。
+我想了又想，
+现在我们互相理解了， @p ！
 
-You should go quickly and finish your journey.",
+你应该快点走，结束你的旅程。
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
