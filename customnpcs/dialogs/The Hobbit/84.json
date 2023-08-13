@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 85,
-                "Title": "我什么都没说?!",
+                "Title": "我什么都没说？！",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -51,13 +51,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "那是什么？我的宝贝？它是柔软的，它好吃吗！？！？
+    "DialogText": "那是什么，亲爱的？柔软又多汁吗？它好吃吗！？！？
 
-你迷路了吗？咕噜，咕噜！
+它迷路了吗？咕噜，咕噜！
 
-我们知道这里的安全出口， @p 在黑暗中安全出行的方式!
+我们知道一条安全的小路， @p 在黑暗中的一条小路！
 
-闭嘴!!!",
+闭嘴！我们不能告诉他！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
