@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,7 +88,7 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf rivendell follower",
     "PreviousBlocks": 1b,
-    "DialogText": "很好， @p.
+    "DialogText": "很好， @p
 你走了很长的路。
 很抱歉我没能在布理与你会面。 
 我忙于我的老朋友萨茹曼的事。

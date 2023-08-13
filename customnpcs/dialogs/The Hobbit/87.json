@@ -42,14 +42,14 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "谁敢持武器闯入我的王国？
-间谍吗?小偷吗?
+间谍？小偷？
 
-你会为此付出代价…遭受无尽的痛苦！
+你会为此付出代价...遭受无尽的痛苦！
 
-{国王开始唱歌:}
-\"骨头要碎了，脖子要拧断了！
+{国王开始唱歌：}
+“骨头会折断，脖子会扭断！
 一切都将被粉碎、杀戮和折磨！
-就像哥布林镇喜欢看到的那样！\"",
+就像半兽人镇喜欢看到的那样！”",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 281,
-                "Title": "有趣，谢谢你。 ",
+                "Title": "很有趣，谢谢你。 ",
                 "DialogColor": 16579062,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -79,14 +79,14 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 4",
     "PreviousBlocks": 1b,
-    "DialogText": "是的。 如果我可以给你一个建议，那就是要留意你的袋子。 
+    "DialogText": "是的。如果要我给你一个建议，那就是要留意好你的袋子。 
 
-我们最近过得很不愉快。 
+我们最近经历了很多怪事。
 越来越多的小偷涌入布理镇。 
-我们和普通的恶棍总是有着矛盾， 但如果你问我， 
+我们总是和普通的恶棍有着矛盾，但如果你问我， 
 我不认为他们是这一切的幕后黑手。
-这些盗窃行为太有组织性了。 
-更像是一个公会。我希望最近增加的守卫能够帮助应对这场灾难。 
+这些盗窃行为太有组织性了...更像是一个公会。
+我希望最近增加的守卫能够帮助应对这场灾难。 
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,

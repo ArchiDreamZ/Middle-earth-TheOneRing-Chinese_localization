@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 291,
-                "Title": "我在哪里能找到加拉德瑞尔夫人?",
+                "Title": "我在哪里能找到加拉德瑞尔夫人？",
                 "DialogColor": 15394051,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -78,7 +78,7 @@
     "TextWidth": 300,
     "DialogTitle": "Boromir Lothlorien",
     "PreviousBlocks": 1b,
-    "DialogText": "我在这里找不到安宁。 
+    "DialogText": 我无法在这里安心休息。 
 我听到她的声音在我的脑海中响起...
 她谈论到我的父亲和刚铎的衰落， 
 她对我说：即使是现在，仍存有希望。 

@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -59,8 +59,8 @@
 你来得正是时候，今天是我叔叔比尔博的生日，将有一场盛大的庆祝活动。
 他邀请了夏尔的一半人！
 
-我现在要进入森林等待甘道夫。
-他已经来晚了！",
+我现在就去森林里等待甘道夫。
+他已经迟到了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

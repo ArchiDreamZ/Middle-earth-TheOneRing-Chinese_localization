@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 283,
-                "Title": "我有一个问题。角落里的那个人是谁?",
+                "Title": "我有个问题。角落里那个人，他是谁？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -78,9 +78,9 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 6",
     "PreviousBlocks": 1b,
-    "DialogText": "甘道夫?甘道夫?哦,是的!我记得。上了年纪的家伙，灰白的大胡子，尖尖的帽子… 
+    "DialogText": "甘道夫？甘道夫？哦，是的！我记得他。
 
-已经六个月没见到他了。",
+上了年纪的家伙，灰白的大胡子，尖尖的帽子...已经六个月没见到他了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

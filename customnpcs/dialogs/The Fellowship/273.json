@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后，再会!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,7 +88,7 @@
     "TextWidth": 300,
     "DialogTitle": "Sam rivendell follow",
     "PreviousBlocks": 1b,
-    "DialogText": "终于能见到精灵了！这个地方真是美丽！我们接下来去哪里？回家吗？
+    "DialogText": "终于可以见到精灵了！这个地方可真漂亮！接下来我们去哪里？回家吗？
 
 顺便一提，比尔博在楼上等你。
 >>(你可以带上山姆作为你的同伴)<<",

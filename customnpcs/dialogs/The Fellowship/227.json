@@ -84,7 +84,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "嗯，.. 那么打开秘密之门呢？",
+                "Title": "嗯，...那芝麻开门怎么样？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -119,15 +119,15 @@
     "DialogTitle": "gandalfmoria2neu",
     "PreviousBlocks": 1b,
     "DialogText": "萨茹曼的背叛来得有些出乎意料...
-我们现在必须走的路是我最后的选择。
-但是我们没有别的办法，所以我们必须尝试一下..
+而我们现在必须走的路是我最后的选择。
+我们没有其他路可走，所以我们必须尝试一下..
 
-但是这门打不开... 我什么都试过了。
+但是这门打不开...我什么都试过了。
 我不明白， ..
-说出朋友的名字，然后进入
+“说出朋友，然后进入”
 但我试过的所有词都不起作用..
 
-(正确选择开始任务)",
+(正确选择以开始任务)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
