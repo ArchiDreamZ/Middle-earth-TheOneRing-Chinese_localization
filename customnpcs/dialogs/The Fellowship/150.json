@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我现在没有时间参与这个任务，再见！",
+                "Title": "我现在没有时间，再见！",
                 "DialogColor": 15995923,
                 "OptionType": 0
             }
@@ -81,10 +81,10 @@
     "PreviousBlocks": 1b,
     "DialogText": "嗯...也许你是对的。
 
-啊啊啊，那是什么？你听到那个幽灵的尖叫声了吗？
+啊啊啊....那是什么？你们听到幽灵的尖叫声了吗？
 一定是骑手们！他们找到我们了！
 哦不！
-救救我们 @p !
+救救我们 @p ！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
