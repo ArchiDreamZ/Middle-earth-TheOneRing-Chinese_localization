@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 279,
-                "Title": "我的名字是 @p.",
+                "Title": "我的名字是 @p。",
                 "DialogColor": 16291596,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 14223883,
                 "OptionType": 0
             }
@@ -88,7 +88,11 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 1",
     "PreviousBlocks": 1b,
-    "DialogText": "晚上好，小主人们! 如果你正在寻找住处，我们有一些漂亮，舒适，霍比特人大小的房间可供选择。 先生 ... ?",
+    "DialogText": "晚上好啊，各位小主顾。有什么我可以效劳？
+
+您们要想歇脚，咱有舒舒服服的霍比特客房。
+给小人族办事从来是我的荣幸，敢问您是...？
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
