@@ -55,11 +55,11 @@ MEGA云盘：
 
 在dialogs里的每一个文件都是一个NPC的对话框，里面是对话框的文本和选项。
 
-![260354525-444570ed-920b-4ad6-9c55-ba2b5906702d](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/c7fcded6-3420-4779-9388-fef865b35dfa)
+>> ![Title](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/41cafc0d-415f-412a-ad1a-c88a1c437eba)
 
 上面的“Title”短句是该对话框的选项，玩家可以选择。
 
-![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/43925943-f792-45fc-a075-4d29bd00b3de)
+![DialogText](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/68ac31ab-47f0-48d1-94a8-409c1242f859)
 
 下面的“DialogText”是NPC的文本。该文本对应上面的选项，例如在这个例子里，可以选择弗罗多作为同伴，只要选择上面的“跟我来”选项。
 
