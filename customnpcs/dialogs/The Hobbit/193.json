@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16586754,
                 "OptionType": 0
             }
@@ -69,18 +69,20 @@
     "TextWidth": 300,
     "DialogTitle": "Gloin",
     "PreviousBlocks": 1b,
-    "DialogText": "HAA!! Look who we got there! Is that our new master thief @p ?
+    "DialogText": "哈哈！看看我们这里有谁来了！难道这位就是我们的盗贼大师 @p ?
 
-My name is Gloin and I fought with Thorin in the war against Azog's orc armies at the gates of Moria.
-He is the leader of our expedition.. it looks like he left, he could hardly stand it here with the elves.. 
+我叫格罗因，曾经在墨瑞亚大门前与梭林并肩作战，对抗阿佐格的奥克军队。
+他是我们远征队的领导者.. 看起来他离开了，他几乎无法忍受和精灵们在一起.. 
 
-He has a great anger against them because they failed to help us at the time.
+他对精灵们非常愤怒，因为在那个时候他们未能帮助我们。
 
-Oin is my brother and is coming with us. I had to leave my beloved wife and little son Gimli at home, I hope they are well.
+欧因是我的兄弟，他也将和我们一起前往。我不得不离开我心爱的妻子和小儿子吉姆利在家，希望他们一切安好。
 
-Talk to the wizard, he knows what to do.
+跟巫师谈谈，他知道该怎么做。
 
-Soon we will reconquer Erebor!!",
+很快我们会重新夺回孤山！！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks, Goodbye!",
+                "Title": "谢谢，再会!",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -41,19 +41,21 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The dwarves didn't manage to open the door, maybe we can.
-Let's try it.
+    "DialogText": "矮人们没有成功打开门，也许我们可以试试看。
 
-Hmm weird it just doesn't fit, is that the right key too?
+嗯，奇怪，钥匙似乎不适合，它是正确的吗？
 
-<<Suddenly the last sunbeam of the day shines on a spot in the stone>>
+<<突然，日落中最后一缕阳光照在石头的一个地方>>
 
-Here it is!! @p
+就是这里！！ @p
 
-The door has revealed itself, open it and go into the depths.
-If the legends of Smaug are true, then take good care of yourselves!
-He is the terror of this age and only you can defeat him!
-Be careful, good luck!",
+那扇门已经显露出来，打开它，进入深处。
+如果史矛革的传说是真的，那么你们要小心自己！
+他是这个时代的恐怖，只有你们能够击败他！
+小心，祝你们好运！
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

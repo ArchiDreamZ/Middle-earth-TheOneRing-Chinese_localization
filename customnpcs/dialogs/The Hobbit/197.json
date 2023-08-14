@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -40,19 +40,19 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You're finally here, @p !
+    "DialogText": "终于等到你了， @p !
 
-Erebor, the home of the king under the mountain, to behold the halls of stone again pleases me and makes me proud!
-We just have to find a way in.. smashing the stones won't do anything.
+埃瑞博，那位山下之王的家园，再次见到那些石头建筑令我欣慰和自豪！
+我们只需要找到一种进入的方法...毁坏那些石头对我们没有任何帮助。
 
-I fear bad things, the curse of gold is beginning to affect Thorin too..
-He was already darkening his grandfather's mind. I don't think it would help if he got the Arkenstone back.
+我担心会有坏事发生，黄金的诅咒也开始影响梭林了...
+他已经开始失去理智，就像他祖父一样。我认为即使他拿回阿肯宝钻也没有什么用。
 
-We dwarves are loyal people and stand by our word.. that Thorin broke it to the men and elves shocks me to the core. 
+我们矮人是忠诚的人，言出必行...梭林背弃对人类和精灵的许诺让我震惊至极。 
 
-We promised them a share and now he claims he won't share the gold.
+我们答应他们分享黄金，而现在他声称不会分享。
 
-This place is not good for him. At least not as long as Smaug is poisoning the gold with his presence.
+这地方对他不利，至少只要史矛革还在毒害这些黄金，他就不会好过。
 Take care of yourselves @p !",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,

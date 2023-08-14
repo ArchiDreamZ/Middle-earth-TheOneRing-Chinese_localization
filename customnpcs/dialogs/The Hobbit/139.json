@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 140,
-                "Title": "I'm on a grand mission for the dwarves!",
+                "Title": "我在为矮人执行一项重大的任务!",
                 "DialogColor": 16447726,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -51,10 +51,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome @p to the kingdom of the elves!
-My name is Legolas, son of Thranduil, the lord of Mirkwood.
+    "DialogText": "欢迎 @p 来到精灵王国！
+我叫莱戈拉斯，黑森林之王瑟兰杜伊之子。
 
-What drives you here in these lands?",
+是什么驱使你来到这片土地?
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

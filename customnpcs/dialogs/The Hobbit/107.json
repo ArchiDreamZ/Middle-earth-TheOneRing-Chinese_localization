@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 135,
-                "Title": "I'll try to open the secret door! (Quest Start)",
+                "Title": "我来试着打开那扇暗门! (任务开始)",
                 "DialogColor": 915755,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 15995923,
                 "OptionType": 0
             }
@@ -51,20 +51,20 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We made it! @p !
-The Erebor! The long journey was worth it!
+    "DialogText": "我们做到了！ @p !
+孤山！漫长的旅途一切都是值得的！
 
-I must make my ancestors proud.
-It is our home and it is the dwarves right to reclaim him!
+我一定会让我的祖先感到骄傲。
+这里是我们的家园，矮人们有权夺回它！
 
-Unfortunately, the dragon Smaug broke the main gate when he flew through the wall.
-This monster guards my father's treasure.. he will pay for what he did to our people!
+不幸的是，当恶龙史矛革飞越过城墙时，他摧毁了大门。
+这个怪物守卫着父亲的财宝，他将为他对我们人民所做的一切付出代价！
 
-There is another way, a secret one, Bilbo is waiting for you there.
-We didn't manage to open the secret door, so we'll work on smashing the stones.
-Unfortunately this can take a long time...
+有另一条路，一条秘密通道，比尔博在那里等着你们。
+我们没能打开那扇暗门，所以我们要设法打碎那些石头。
+不幸的是，这可能需要很长时间...
 
-Go my brothers, smash the stones! Don't pretend to be tired!",
+去吧，我的兄弟们！敲碎石头！不要假装很累了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

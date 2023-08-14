@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 4955 1",
                 "Dialog": -1,
-                "Title": "<<Take the key>>",
+                "Title": "<<拿着钥匙>>",
                 "DialogColor": 15065358,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -50,11 +50,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Seek out Lord Elrond, he is at the great waterfall in the mountains of Rivendell.
-He will help you to read a map that should show the way to Erebor.
-And take this key, I kept it for a long time now it belongs to you.
-It opens a secret door there.
-Good luck! The dwarves are counting on you!",
+    "DialogText": "去寻找埃尔隆德领主吧，他在幽谷山区的大瀑布附近。
+他会帮助你解读一张地图，上面应该标示了通往孤山的路。
+还有，拿着这把钥匙，我保管了很久，现在它属于你了。
+它可以打开那里的一扇暗门。
+祝你好运！矮人们就都指望着你了！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 100,
-                "Title": "All wrong! You lost! Now show me the exit!",
+                "Title": "全错了! 你输了! 现在告诉我出口在哪里!",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,16 +41,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Grrr.. 3 attempts my precious.. We can guess 3 times!
+    "DialogText": "Grrr.. 有三次尝试，我的宝贝.. 我们可以猜3次!
 
--HANDS!...
+-手!...
 
-{Mumbling: mmhh ..fishbones..clams ..bat wings..}
+{喃喃自语:嗯．．鱼骨头．．湿贝壳．．蝙蝠翅膀．．}
 
--SWORDS!! AAH shut up!!
+-是剑!! 啊！　闭嘴!!
 
--ROPE... Or
--NOTHING AT ALL",
+-线头... 或者
+-什么都没有！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

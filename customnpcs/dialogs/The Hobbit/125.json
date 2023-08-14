@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks for the help. Goodbye!",
+                "Title": "谢谢你的帮助。再见!",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -40,16 +40,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We made it.
-The guards didn't notice anything.
+    "DialogText": "我们成功了。
+守卫们没有察觉到任何异常。
 
-You should wash yourselves, you look terrible.
-And then the stench. But better than ending up in the city dungeon.
-Now look for the mayor, I was against it, but some of your friends are trying to convince him to help you on your journey.
-This greedy guy won't change his mind. He's the worst mayor our town has ever had. He and his henchman Alfred have been oppressing these people for too long.
+你们应该洗个澡，看起来很糟糕。
+然后是那恶臭。但这总比被关进城镇大牢要好。
+现在去找镇长，我是反对的，但你们的一些朋友正在努力说服他帮助你们的旅程。
+这个贪婪的家伙不会改变主意的。他是我们城镇有史以来最糟糕的镇长。
+他和他的手下阿尔弗雷德长期压迫这些人民。
 
-I wish you all the best in your mission.
-And take care of yourselves!",
+祝愿你们在任务中一切顺利。
+照顾好自己！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

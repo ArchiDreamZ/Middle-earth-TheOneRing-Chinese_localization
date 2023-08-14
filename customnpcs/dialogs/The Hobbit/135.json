@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 198,
-                "Title": "you can count on me! ",
+                "Title": "你可以相信我! ",
                 "DialogColor": 16447982,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16125966,
                 "OptionType": 0
             }
@@ -50,12 +50,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Sure, but we tried in vain.. the map of the elves and the key were for nothing.. 
+    "DialogText": "那确实是徒劳无功... 精灵的地图和钥匙都白费了... 
 
-I knew that the elves could not be relied on. Go over the wooden bridge by the river and up the mountain, there you will find Bilbo. He still has hope too. 
+我早就知道不能依靠精灵。沿着河边过那座木桥，上山，你会找到比尔博。他还有希望。 
 
-Foolish if you ask me, only dwarf muscle and steel will work here now!
-Nevertheless, ... good luck @p ! We will count on you!",
+如果你问我，我会说这很愚蠢，现在只有矮人的肌肉和钢铁在这里有用!
+尽管如此， ... 祝你好运， @p ! 我们就指望你了!
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

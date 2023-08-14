@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 86,
-                "Title": "{Back}",
+                "Title": "{返回}",
                 "DialogColor": 16712192,
                 "OptionType": 1
             }
@@ -41,8 +41,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "WRONG!! @p 
-It has only one try more! My precious!",
+    "DialogText": "错！！！ @p 
+它只能再试一次了！ 我的宝贝！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

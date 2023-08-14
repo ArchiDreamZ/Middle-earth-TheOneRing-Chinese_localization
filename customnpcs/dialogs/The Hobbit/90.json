@@ -7,7 +7,8 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 92,
-                "Title": "Agreed! - Thirty white horses on a red hill. First they champ, then they stamp, then they stand still.",
+                "Title": "同意！ - 三十匹白马在红色山丘上，它们先是大声嚼啊嚼，
+然后用力跺啊跺跺脚，然后它们站定不动了。",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,11 +42,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Yes oh yes my precious!
+    "DialogText": "是的，是的，我的宝贝!
 
-mhm.. and if it loses... then what?
+嗯. .如果它输了．．然后呢?
 
-If @p loses, we eat it up!!",
+如果 @p 输了, 我们就把它吃掉!!
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

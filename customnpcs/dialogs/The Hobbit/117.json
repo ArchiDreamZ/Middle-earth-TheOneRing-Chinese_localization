@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 115,
-                "Title": "Why don't you come with us?",
+                "Title": "你为什么不和我们一起去呢?",
                 "DialogColor": 16447982,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 116,
-                "Title": "What should i do next? (Quest Start))",
+                "Title": "接下来我应该做什么? (任务开始))",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }
@@ -60,12 +60,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I dont know,.
-Saruman believes that only great power can restrain evil, but I have learned otherwise.
+    "DialogText": "我不知道。
+萨茹曼相信只有强大的力量才能抑制邪恶，但我不这么认为。
 
-I think it's the little things, ordinary acts of ordinary people, acts of love and kindness.
-Why Bilbo Baggins?
-Maybe because I'm afraid and he gives me courage. ",
+我认为只是一些小事情，普通人的平凡行为，充满爱和善意的行为可以起到作用。
+为什么是比尔博·巴金斯？
+也许是因为我害怕，而他给了我勇气。 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

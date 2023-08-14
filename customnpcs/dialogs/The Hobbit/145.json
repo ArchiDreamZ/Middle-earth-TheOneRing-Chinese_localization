@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -41,21 +41,21 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What? How did you escape from my elven prison?
-Anyway.. I have more important things to do right now.
+    "DialogText": "什么？你怎么从我的精灵监狱中逃脱的？
+不管怎样．．．我现在有更重要的事要做。
 
-A great battle lies ahead if this stubborn dwarf doesn't comes to his senses.
-The elves have come to give the people of river town help and to support them in forwarding their share.
-I admit our venture is not entirely out of charity.
+如果这个固执的矮人不醒悟过来，一场大战就在眼前。
+精灵们前来帮助长湖镇的人民，并支持他们争取他们应得的份额。
+我承认我们的行动并非完全出于慈善。
 
-In this mountain are gems that I also desire. Mithril, the heart of our people.
-I intend to claim a portion of the mountain's treasure when this is all over.
-After all, so much gold has to be shared. The dwarves can never spend this alone!
-At least this human Bard agrees with me.
+在这座山中，有我也想要的宝石。秘银，我们族人的心脏。
+当这一切结束时，我打算索要山中宝藏的一部分。
+毕竟，这么多黄金必须共享。矮人们单独也无法花费完！
+至少这名人类巴德同意我的观点。
 
-Only this constantly worried wizard bothers me.
-He worries too much. He speaks of the forces of evil.
-My elven warriors can handle a few orcs.",
+只有这个时常忧虑的巫师让我烦恼。
+他担忧得太多了。他谈论邪恶的势力。
+我的精灵战士可以处理一些奥克。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

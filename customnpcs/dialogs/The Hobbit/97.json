@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 98,
-                "Title": "It's okay...hmm... - What have I got in... my pocket? ",
+                "Title": "好...嗯... - 我的口袋里面有什么？ ",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,14 +41,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "GRRR!!! arg..... 
-last question!..
-{Gollum picks up a stone}
-... last opportunity...
+    "DialogText": "GRRR!!! arg...
 
-ask us...
+.. 
+最后一个问题!..
+{咕噜捡起一块石头}
+... 最后的机会...
 
-ASK US!!!",
+问我们...
+
+问我们吧!!!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

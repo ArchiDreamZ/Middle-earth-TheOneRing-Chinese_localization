@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16386568,
                 "OptionType": 0
             }
@@ -40,12 +40,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very good, you are very brave @p
-Be alert and take care of yourselves.
-I have never experienced such an evil and strong spell.
+    "DialogText": "很好，你很勇敢， @p
+保持警惕，照顾好自己。
+我从来没有经历过如此邪恶而强大的咒语。
 
-When you're done, come back to me.
-I wish you success!",
+完成任务后，回到我这里。
+祝你成功！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

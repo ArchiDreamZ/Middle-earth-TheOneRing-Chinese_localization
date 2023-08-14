@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 129,
-                "Title": "All? It's impossible and you know it!",
+                "Title": "所有的吗?这是不可能的，你知道的!",
                 "DialogColor": 16645883,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "We can do it without you! Goodbye!",
+                "Title": "没有你我们也能做到!再会!",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -51,9 +51,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Aha! Who do we have here, so you help the dwarves on their mission to recapture Erebor.
-I'm the mayor of Lake-town and I'm a rich man.
-The gold from Erebor is the only thing that interests me, so of course if we can have it we will help you.",
+    "DialogText": "啊哈！我们这里有谁呢？你是在帮助矮人们完成他们重新夺回孤山的使命。
+我是长湖镇的镇长，也是位富豪。
+来自孤山的金子是我唯一感兴趣的东西，所以如果我们能得到它，我们当然会帮助你。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

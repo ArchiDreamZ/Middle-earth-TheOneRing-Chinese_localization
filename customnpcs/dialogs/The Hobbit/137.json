@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 138,
-                "Title": "Yes, here is the stone! (show him the stone)",
+                "Title": "是的，这就是那块石头! (把石头给他看)",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I haven't found it yet.",
+                "Title": "我还没有找到它。",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -50,8 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Nice to see you alive @p!
-Did you find the Arkenstone? show him to me!",
+    "DialogText": "很高兴看到你还活着， @p!
+你找到阿肯宝钻了吗?让我看看他!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

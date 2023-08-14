@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -40,15 +40,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Oh who do we have here?
-an adventurer.
+    "DialogText": "哦，谁来了?
+一个冒险者。
 
-Welcome to the elven kingdom of Mirkwood, my name is Tauriel.
-Legolas and I will go hunting orcs now, more and more are roaming these lands..
-Once upon a time the forests were all safe.. I hope these times will come again.
+欢迎来到黑森林精灵王国，我叫陶瑞尔。
+莱戈拉斯和我现在要去猎杀奥克，越来越多的奥克在这片土地上游荡..
+曾几何时，森林是安全的．．．我希望这样的时刻会再次到来。
 
-If you want to stay for a visit, be sure to try our wine from the wine cellar, it is particularly tasty.
-Farewell!",
+如果你想留下来参观，请务必尝试我们的酒窖里的美酒，格外美味。
+告别啦!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

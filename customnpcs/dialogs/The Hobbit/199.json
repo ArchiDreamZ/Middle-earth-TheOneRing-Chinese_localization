@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -40,16 +40,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "...sorry @p...
-I don't know what's been wrong with me lately, the closer we get to the gold of Erebor, the darker my thoughts become.
+    "DialogText": "...抱歉， @p...
+我不知道自己最近是怎么了，我们离埃瑞博的黄金越近，我的思绪就越黑暗。
 
-This is probably only due to the lack of sleep during the trip.
-I will not give up until Erebor is ours again.
+这可能只是旅途中缺少睡眠的原因。
+我不会放弃，直到埃瑞博再次归于我们。
 
-Go now.. try your luck with the secret passage.
+现在去吧.. 试试你们在那个秘密通道中的运气吧。
 
-(Thorin turns back to the dwarves)
-Go on men! Break the stone! Don't stop until the way is clear!",
+(梭林转向矮人们)
+继续前进吧！打碎那些石头！在通路畅通之前不要停下来！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

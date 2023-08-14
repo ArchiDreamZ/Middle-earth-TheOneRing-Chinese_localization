@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -40,12 +40,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello @p, can't you see that I'm busy right now.
-We have an important meeting here.
+    "DialogText": "你好 @p, 你难道没看到我现在很忙吗？
+我们在这里有一个重要的会议。
 
-As always, Gandalf has unnecessarily many worries about nothing.
-I don't believe that this necromancer, Sauron himself is there.
-And if that's the case, I'll take care of him personally!",
+像往常一样，甘道夫对于无关紧要的事情过于担忧了。
+我不相信这个死灵法师，索隆本人在那里。
+如果真是这样，我会亲自处理他！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

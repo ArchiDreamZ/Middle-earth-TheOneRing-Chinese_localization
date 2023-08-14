@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 4666 5",
                 "Dialog": -1,
-                "Title": "<<Take the Soup>>",
+                "Title": "<<喝汤>>",
                 "DialogColor": 15980810,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you, Goodbye!",
+                "Title": "谢谢你，再会!",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -50,13 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You're right, there's no hurry, you can always go there later.
-But don't take too long, every day the magic gets stronger and more animals get sick.
-I'm running out of medicinal mushrooms...
+    "DialogText": "你说得对，不用着急，你可以随时去那里。
+但不要拖得太久，每天魔法都变得越来越强，越来越多的动物会生病。
+我快没有药用蘑菇了...
 
-Good luck with your journey @p
-Take this soup, I made it just this morning, it will strengthen you on the way.
-Farewell!",
+祝你旅途顺利！
+拿这碗汤吧，我刚刚早晨做的，它会让你在路上更有力量。
+再见！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

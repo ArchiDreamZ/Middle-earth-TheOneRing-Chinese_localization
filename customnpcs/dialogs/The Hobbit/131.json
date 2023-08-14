@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 136,
-                "Title": "What should I do? (Side Quest Start)",
+                "Title": "我该怎么办? (支线任务开始)",
                 "DialogColor": 15459842,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 137,
-                "Title": "I found the stone!",
+                "Title": "我找到了那块石头!",
                 "DialogColor": 1046573,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16126481,
                 "OptionType": 0
             }
@@ -60,17 +60,17 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello @p!
-If I had known that you were planning to help Thorin reclaim Erebor, I would not have helped you, it is too dangerous for the people of Lake-town.. 
+    "DialogText": "你好， @p!
+如果我早知道你打算帮助梭林夺回孤山，我是不会帮助你的，这对长湖镇的居民来说太危险了.. 
 
-When the dragon Smaug awakes, fire and death will come upon us!
+当恶龙史矛革苏醒时，火焰和死亡将笼罩着我们！
 
-We prepare her for an inevitable battle.
-The humans depend on the help of the elves to conquer evil,
-likewise on the dwarves, but Thorin is too busy getting the gold from Erebor.
-His father's old curse may have come upon him.
+我们正在为一场不可避免的战斗做准备。
+人类依赖精灵的帮助来战胜邪恶，
+同样也依赖矮人，但是梭林却忙着争夺孤山的财宝。
+他或许已经受到了他父亲的古老诅咒。
 
-Hmm I got an idea.. you are a master thief,.. could help us?",
+嗯，我有个主意...你是一名顶尖盗贼，... 可以帮助我们吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

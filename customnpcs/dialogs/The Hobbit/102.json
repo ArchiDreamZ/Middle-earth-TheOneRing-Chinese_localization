@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "{spare him and go}",
+                "Title": "{放过他吧，走吧}",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -41,15 +41,21 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "THIIEEF!!!!
-Where is it?
+    "DialogText": "小偷!!!!
+它在哪儿？？
 
-MY PRECIOUS!! AAAH!!
-@p we hate it forever!!
+我的宝贝！！啊啊! !
+@p 我们永远讨厌它!!
 
-{Gollum crouches on the ground, you hold your sword to his throat... but then you feel pity and remember a wisdom from Gandalf who once said to you:
+{咕噜蹲在地上，你把剑架在他的喉咙上... 但这时你感到了怜悯，
+想起甘道夫曾经对你说过的话：
 
-“Real courage isn't taking a life, it's sparing it!\"}",
+“真正的勇气不在于取人性命，而在于宽恕。!\"}
+
+
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

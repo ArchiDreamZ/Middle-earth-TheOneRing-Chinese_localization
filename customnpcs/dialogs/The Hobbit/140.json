@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 239,
-                "Title": "How can i help? (Side Quest Start)",
+                "Title": "我能为你做些什么? (支线任务开始)",
                 "DialogColor": 192509,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later. Goodbye!",
+                "Title": "也许以后。 再会!",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }
@@ -50,10 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "That seems important, go to the gate, the guards will let you in.
-My father is in the main hall. He might help you with that.
-But we're not so good with the dwarves..
-They stink and are greedy for gold.I need to go now on a mission with Tauriel to see what is going on in Mount Gundabad.The Orcs are getting more and more in this region.If you want you can help us with that!",
+    "DialogText": "这听起来很重要，去大门那里，警卫会让你进去的。
+我父亲在主厅，他可能会帮助你。
+但是和矮人相处我们并不擅长...
+他们臭味冲天，而且贪婪金子。
+
+我现在要和陶瑞尔一起去执行任务，看看贡达巴德山到底发生了什么。
+这个地区的奥克越来越多了。
+
+如果你愿意，你可以帮助我们！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

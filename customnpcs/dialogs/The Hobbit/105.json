@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 144,
-                "Title": "I'm on a grand mission with the dwarves of Erebor.",
+                "Title": "我正在和埃瑞博的矮人一起执行一项伟大的任务。",
                 "DialogColor": 16448243,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -51,13 +51,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to the realms of the elves @p
-This is my kingdom.
-I've ruled it for thousands of years!
+    "DialogText": "欢迎来到精灵王国， @p
+这是我的王国。
+我统治了这里数千年！
 
-I just doubled the guards on the borders, there are always more orcs in these lands.
-I fear bad..
-what brings you to me?",
+我刚刚把边境的守卫增加了一倍，这片土地上总是有更多的奥克。
+我很担心..
+你们到我这里来有什么事吗？
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

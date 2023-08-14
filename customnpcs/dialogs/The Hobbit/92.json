@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 94,
-                "Title": "The Wind",
+                "Title": "风",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 93,
-                "Title": "The Death",
+                "Title": "死亡",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 93,
-                "Title": "A Canyon",
+                "Title": "峡谷",
                 "DialogColor": 15262216,
                 "OptionType": 1
             }
@@ -61,21 +61,23 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "... ähm... oh... hmm..Teeth?.. TEETH!! Ah haha ​​oh my precious!
-But we.. we only have 9!
-{Gollum hisses}
+    "DialogText": "... 啊... 哦... 嗯..
 
-It's our turn!
+牙齿吗? . .牙齿! !啊哈哈，我的宝贝!
+但是我们. .我们只有9个!
+{咕噜发出嘶嘶声}
 
-- Voiceless it cries,
-Wingless flutters,
-Toothless bites,
-Mouthless mutters.!
+轮到我们了!
 
-hmm...
-OH!! We know, we know!
+- 无嗓却会叫，
+无翼能飞高，
+无牙却会咬，
+无嘴爱叨叨。！
 
-BE QUIET !!!",
+嗯...
+哦!! 我们知道，我们知道!
+
+安静点 !!!",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

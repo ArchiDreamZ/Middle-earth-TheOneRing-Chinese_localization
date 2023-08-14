@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 115,
-                "Title": "Why don't you come with us? ",
+                "Title": "你为什么不和我们一起去呢? ",
                 "DialogColor": 16710907,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 117,
-                "Title": "Why the Hobbit, Bilbo?",
+                "Title": "为什么是霍比特人，比尔博?",
                 "DialogColor": 16513523,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 116,
-                "Title": "What should i do next? (Quest Start)",
+                "Title": "接下来我应该做什么? (任务开始)",
                 "DialogColor": 3076653,
                 "OptionType": 1
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -98,12 +98,15 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf hobbit 2",
     "PreviousBlocks": 1b,
-    "DialogText": "Oh greetings @p .
-You don't bother in any way. I could really use your help.
-I organized an expedition of 13 dwarves led by Thorin Oakenshield.
-With the help of the master thief, Bilbo, we will help the dwarves reclaim their rightful home.
+    "DialogText": "哦，你好， @p .
+你一点都没有打扰到。我真的需要你的帮助。
+我组织了一支由梭林·橡木盾率领的13名矮人的远征队。
+在盗贼大师比尔博的帮助下，我们将帮助矮人夺回他们应得的家园。
 
-You have to help them @p !",
+你必须帮助他们， @p !
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
