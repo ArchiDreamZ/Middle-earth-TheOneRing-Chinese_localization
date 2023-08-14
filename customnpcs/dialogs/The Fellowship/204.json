@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -78,7 +78,7 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn wetter",
     "PreviousBlocks": 1b,
-    "DialogText": "有一个曾经的瞭望塔，阿蒙苏尔。
+    "DialogText": "这里曾是阿蒙苏尔的伟大望塔..
 风云顶，是风云丘陵的南峰，也是阿塞丹、卡多蓝和鲁道尔三个王国的交界处。
 
 站在山顶上，你可以俯瞰四面八方，甚至能看到迷雾山脉。
