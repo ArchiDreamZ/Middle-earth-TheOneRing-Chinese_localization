@@ -7,10 +7,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "An Unexpected Journey ",
-    "Text": "I met Bilbo in Rivendell and he told me about his adventures.
+    "Text": "我在幽谷遇到了比尔博，他给我讲了他的冒险经历。
 
-I should take a look around here...
-perhaps there are more clues to Bilbo's story here.",
+我应该在这里四处看看...
+也许这里有更多关于比尔博故事的线索。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -39,9 +39,11 @@ perhaps there are more clues to Bilbo's story here.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "<<Council of the Wizards>>
+    "CompleteText": "<<巫师理事会>>
 
-I should speak to Gandalf, he looks concerned.",
+我应该和甘道夫谈谈，他看起来很担心。
+
+",
     "NextQuestTitle": "",
     "QuestLocation": "wizard council"
 }

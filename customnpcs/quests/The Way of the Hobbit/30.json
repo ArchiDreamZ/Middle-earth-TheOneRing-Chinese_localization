@@ -7,8 +7,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 3: Goblin Town",
-    "Text": "The stone giants fought in the mountains and we took shelter in a cave.
-Unfortunately, this is the entrance to the goblin town!!",
+    "Text": "岩石巨人在山上战斗，我们躲进了一个山洞里。
+不幸的是，这就是半兽人镇的入口！！
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -43,10 +45,10 @@ Unfortunately, this is the entrance to the goblin town!!",
             }
         ]
     },
-    "CompleteText": "I have found an exit from the goblin town..
-Suddenly I have to watch how a strange creature kills a goblin with a stone...
-The creature seems to have lost a golden ring in the process.
-I should take it! It seems special, i feel like it is very important.",
+    "CompleteText": "我找到了一个离开半兽人镇的出口..
+突然间，我看到一个奇怪的生物用一块石头杀死了一个奥克...
+这个生物似乎在这个过程中丢失了一个黄金戒指。
+我应该拿起它！它看起来很特别，我感觉它非常重要。",
     "NextQuestTitle": "",
     "QuestLocation": "Exit"
 }

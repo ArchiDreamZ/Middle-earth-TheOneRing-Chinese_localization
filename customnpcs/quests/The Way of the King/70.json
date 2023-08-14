@@ -5,7 +5,13 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 10: The south port of Gondor",
-    "Text": "We have arrived in Gondor and it looks like the battle is already on going!I should take all the supplies i need and quickly surprise them with a flank attack.Luckily we now have support of the King of the Dead and his soldiers.If we can kill the Orc leader Gothmog, we should turn the battle to our favour!",
+    "Text": "我们已经来到了刚铎，并且看起来战斗已经开始了！
+
+我应该带上我所需要的所有物资，迅速通过侧翼攻击来给他们一个惊喜。
+
+幸运的是，我们现在有了亡者之王和他的士兵的支持。
+
+如果我们能够杀死奥克统帅勾斯魔格，我们应该能够改变战局，取得胜利！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,6 +46,10 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Gothmog is dead! Now we should take the moment and fight our way the road to Minas Tirith! I can already see Rohirrim riders in the distance! That must mean Theoden arrived in time!I should see if they need help first. ",
+    "CompleteText": "勾斯魔格死了！现在我们应该抓住时机，杀出一条通往米那斯提力斯的路！
+
+我已经可以看到远处的洛希尔骑手了！那一定意味着希奥顿及时赶到了！
+
+我应该先看看他们是否需要帮助。 ",
     "NextQuestTitle": "Part 11: Pelennor field battle"
 }

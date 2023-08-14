@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will go now, Goodbye!",
+                "Title": "我要走了，再会！",
                 "DialogColor": 16323338,
                 "OptionType": 0
             }
@@ -69,7 +69,14 @@
     "TextWidth": 300,
     "DialogTitle": "Glorfindel 2",
     "PreviousBlocks": 1b,
-    "DialogText": "A new evil is rising in Middleearth.. I'm not really sure what that is all about yet. But I can feel it.You have to help me with a special mission to conquer the staffs of the two Blue Wizards. They got stolen by Orcs.I don't know what they need them for, because they are not smart enough to use them. But I'm afrait that they will bring them to someone who is and can use the power against us. Where are the Blue Wizards? You may ask. Well, noone really knows. They are Istari like Gandalf and Saruman. The last known location of them was in Harlindon and Ost-In-Edhil. But the staffs could be anywhere right know. Maybe we are lucky and can find them there. Go to the Eagle Eyrie in the east and take an Eagle to the locations. I will meet you there. Once you have both staffs, bring them to me here in Rivendell. Thank you @p! See you soon!",
+    "DialogText": "中洲正在崛起一个新的邪恶势力... 我还不太确定具体是什么，但我能感觉到它的存在。
+
+你必须帮助我完成一项特殊任务，夺回两位蓝袍巫师的法杖。它们被奥克偷走了。
+我不知道他们需要这些法杖做什么，因为他们并不聪明到足以使用它们。但我担心他们会把法杖带给某个可以利用力量对抗我们的人。蓝袍巫师在哪里？你可能会问。
+
+嗯，其实没有人真的知道。他们和甘道夫、萨茹曼一样，都是巫师。他们最后被发现的地点是在哈林顿和欧斯特-因-埃第尔。但是法杖可能会在任何地方。也许我们有幸能在那里找到它们。去东部的鹰巢，并乘大鹰到那些地方。我会在那里等你。等你获得两根法杖之后，把它们带到幽谷来找我。 
+
+谢谢你， @p！ 再会！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

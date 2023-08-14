@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -41,7 +41,25 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "HA, HA!That is amazing! It's really one of the Silmarils! I thought i would never see one again!There are Jewels of Fëanor, were gems crafted by Fëanor from some essence of the Two Trees of Valinor, Laurelin and Telperion, before the First Age. They were among the most prized of all the wonders crafted by the Elves and were coveted by many.I thought all would be lost. That explained why the Orcs raided the area, they were searching for it.You have to keep it safe! I need to think about what to do next, come back to me again later, when I have more answers.Until then! Farewell @p!(starts singing again)>>(will be continued)<<",
+    "DialogText": "哈哈！
+太惊人了！这真的是一颗精灵宝钻！我以为再也见不到了！
+
+这些是费艾诺创造的宝石，由维林诺双圣树——泰尔佩瑞安和劳瑞林——的一些本质所制，是在第一纪元之前。 
+
+它们是精灵们创造的众多奇迹中最为珍贵的，许多人都觊觎不已。
+
+我以为都会丢失了。这就解释了为什么奥克会袭击这个地区，他们在寻找它。
+
+你必须保管好它！
+
+我需要考虑接下来该怎么做，等我有更多答案时再来找我。
+
+在那之前！
+再见， @p!
+
+(再次开始唱歌)
+
+>>(待续)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

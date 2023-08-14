@@ -7,11 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 4: The Mines of Moria",
-    "Text": "The long darkness of Moria...
-Not a save place, but we have to go through here.
+    "Text": "摩瑞亚漫长的黑暗...
+这地方不安全，但我们必须得从这里走。
 
-I hope we can make it through the mines unnoticed.
-If the legends are true, it could be dangerous...",
+我希望我们能悄无声息地穿过矿井。
+如果传说是真的，可能会很危险...",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,9 +40,11 @@ If the legends are true, it could be dangerous...",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "There is an exit! Finally daylight again!
+    "CompleteText": "有出口了！天终于又亮了！
 
-It's no time to mourn Gandalf, when it gets dark the place just swarms with orcs.We should go fast to Lothlorien.",
+现在不是哀悼甘道夫的时候，天一黑，奥克就会蜂拥而至。
+
+我们应该快点去洛丝罗瑞恩。",
     "NextQuestTitle": "Part 5: The realm of the Elves",
     "QuestLocation": "Moria Exit"
 }

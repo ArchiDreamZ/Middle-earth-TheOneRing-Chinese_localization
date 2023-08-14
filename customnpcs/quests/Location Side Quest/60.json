@@ -5,7 +5,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Easmark",
-    "Text": "Eomer the Marchall of the Mark needs help in the war against Saruman.He ask me to fight with him and free the Eaastmark (Eastemneth).I will meet him at the bottom of the old watchtower.",
+    "Text": "在与萨茹曼的战争中，马克的元帅伊奥梅尔需要帮助。
+他要我与他并肩作战，解放东马克（东埃姆内特）。
+
+我将在旧瞭望塔的底部与他会面。
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,6 +44,9 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "We did it! All the Uruk Captains are dead and the area is save again!A little bit of hope for the people of Rohan in this war against Isengard!I should continue my journey and see how i can help the people of middleearth even more.",
+    "CompleteText": "我们成功了，所有的乌鲁克首领都死了，这里又恢复了生机！
+
+在这场与艾森加德的战争中，洛汗人民看到了一丝希望！
+我应该继续我的旅程，看看如何能为中洲的人民提供更多帮助。",
     "NextQuestTitle": ""
 }

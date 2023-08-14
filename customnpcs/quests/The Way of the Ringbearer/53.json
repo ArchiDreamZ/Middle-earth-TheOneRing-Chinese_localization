@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 7: Amon Hen",
-    "Text": "I followed the shore until I came across a small camp, but instead of the fellowship there were only Uruk-Hai.
-I should fight my way free. Boromir was traveling alone, he needs our help! Maybe it's not too late..",
+    "Text": "我沿着海岸一直走到一个小营地，但那里没有同伴，只有乌鲁克。
+我应该杀出一条血路。波洛米尔孤身一人，他需要我们的帮助！也许现在还不算太晚..",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,11 +37,11 @@ I should fight my way free. Boromir was traveling alone, he needs our help! Mayb
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I'm late, a group of Uruk-Hai is already here and there's no sign of the fallowship.
-I should keep following the path.
+    "CompleteText": "我迟到了，一群乌鲁克人已经来了，没有同伴的迹象。
+我应该沿着这条路走下去。
 
-(The Horn of Gondor sounds in the distance!)
-Boromir must be here somewhere, I hear his horn in the distance.",
+(刚铎的号角声在远处响起！)
+波洛米尔一定在这里的某个地方，我听到远处传来他的号角声。",
     "NextQuestTitle": "",
     "QuestLocation": "Amon Hen"
 }

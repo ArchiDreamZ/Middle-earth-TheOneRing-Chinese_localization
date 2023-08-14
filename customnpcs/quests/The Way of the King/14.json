@@ -7,7 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 5: Isengard",
-    "Text": "Saruman has attaked the men of Rohan!But Theoden will get help from Gandalf and Eomer, so i can deal with Saruman in this time.The area around him will be well guarded.. i hope he will not fight me when i tell him that he has lost.He is located ontop of his tower in Isengard.",
+    "Text": "萨茹曼袭击了洛汗人！
+但希奥顿会得到甘道夫和伊奥梅尔的帮助，所以我可以在这段时间对付萨茹曼。
+我希望当我告诉他，他已经输了的时候，他不会和我动手。
+
+他位于艾森加德的塔顶。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +40,10 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is, the top of Orthanc the big tower of Saruman the white!I should confront him and tell him that he has lost!And what is that? A Palantir? I should take a small look inside!",
+    "CompleteText": "到了，欧尔桑克之巅，白袍萨茹曼的大塔！
+我应该当面告诉他他输了！
+
+那是什么？帕兰提尔？我应该看看里面！",
     "NextQuestTitle": "Part 6: The white city",
     "QuestLocation": "Saruman"
 }

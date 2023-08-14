@@ -7,9 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 2: The Departure",
-    "Text": "The journey takes me east from Rivendell across the Misty Mountains.
+    "Text": "这趟旅程将带我从幽谷向东穿越迷雾山脉。
 
-A place full of dangers!",
+一个充满危险的地方！
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,13 +40,13 @@ A place full of dangers!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "The path is guarded by stone giants!!!
+    "CompleteText": "这条路有岩石巨人守卫！！！
 
-The legends... They are true!!!
+传说...他们是真的！！！
 
-I have to find another way!!!
+我得另想办法！！！
 
-There's a cave over there!! Maybe I should seek shelter there..",
+那边有个山洞！！也许我应该去那里避难..",
     "NextQuestTitle": "Part 3: Goblin Town",
     "QuestLocation": "The High Pass"
 }

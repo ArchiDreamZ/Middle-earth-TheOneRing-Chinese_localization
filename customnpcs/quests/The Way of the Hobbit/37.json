@@ -7,9 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 11: The Key",
-    "Text": "Thorin asked me to find another way into the mountain.
-I should look around the area to see if I can find a way up the mountain.
-After all, the key has to fit in a door..",
+    "Text": "梭林让我找到另一条进山的路。
+我应该在附近找找，看看能不能找到上山的路。
+毕竟，钥匙必须插要在门上..",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,7 +38,8 @@ After all, the key has to fit in a door..",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "It should be here, Bilbo is standing there too, I should talk to him.",
+    "CompleteText": "应该在这里，比尔博也站在那里，我应该跟他谈谈。
+",
     "NextQuestTitle": "",
     "QuestLocation": "The secret door"
 }

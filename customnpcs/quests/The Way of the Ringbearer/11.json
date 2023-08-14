@@ -7,10 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 14: Far From Home!",
-    "Text": "Ash and dust hang in the air, with every step deeper into Mordor I begin to doubt if there will be a way back...
-I miss the green fields of the Shire.
+    "Text": "灰烬和灰尘弥漫在空气中，每深入魔多一步，我就开始怀疑是否还有回去的路...
+我想念夏尔的绿色田野。
 
-I should hurry, it's not far anymore!",
+我得快点了，已经不远了！
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -39,13 +40,13 @@ I should hurry, it's not far anymore!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "There it is, Mount Doom!!
+    "CompleteText": "就是这里，末日山！！
 
-There's a way up here!!
+这里有一条路！！
 
-I shouldn't waste any time!!
+我不应该浪费时间！！
 
-Victory is within reach!!",
+胜利指日可待！",
     "NextQuestTitle": "Part 15: Destroy The One Ring!",
     "QuestLocation": "Mount Doom"
 }

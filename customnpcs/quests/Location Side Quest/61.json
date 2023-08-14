@@ -5,7 +5,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Cair Andros",
-    "Text": "Faramir the Captain of Gondor has aks me about help in Cair Andros!The old city of Gondor has fallen into the hands of the Orcs of Mordor!I have to meet him at the north bridge, The Orcs have blocked all other gates..After that we will fight together against the leaders, that must make them retreat.",
+    "Text": "刚铎大将法拉米尔向我求助，希望能去凯尔安德洛斯帮忙！
+这座刚铎的古老城池已落入魔多奥克之手！
+
+我必须在北桥与他会合，奥克已经封锁了其他所有城门..
+然后我们一起对抗首领，一定要让他们撤退。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,6 +44,10 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "We've made it! Faramir and me have killed all the Orc Captains together and have reconquered the city Cair Andros!Now the people of Gondor can came back here.I should continue my journey!",
+    "CompleteText": "我们成功了！法拉米尔和我一起杀死了所有的奥克首领，重新征服了凯尔安德洛斯城！
+
+现在刚铎的人民可以回到这里了。
+
+我要继续我的旅程！",
     "NextQuestTitle": ""
 }

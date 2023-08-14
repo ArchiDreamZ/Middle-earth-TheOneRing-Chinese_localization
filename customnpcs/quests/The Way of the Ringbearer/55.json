@@ -5,9 +5,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: Kill Lurtz",
-    "Text": "Legolas sent me to kill the Uruk-Hai leader Lurtz.
-He is the way past the old tower.
-I should hurry, maybe it's not too late!!",
+    "Text": "莱戈拉斯派我来杀乌鲁克族首领路尔兹。
+他在通往古塔的路上。
+我得快点，也许还来得及！！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,10 +42,10 @@ I should hurry, maybe it's not too late!!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I hunted down the Uruk-Hai leader Lurtz!
-The fellowship is safe!
+    "CompleteText": "我猎杀了乌鲁克族的首领路尔兹！
+同伴们安全了！
 
-Oh no! It looks like Boromir was severely injured.
-I should talk to Aragorn what to do!",
+糟了，波洛米尔好像受了重伤。
+我得跟阿拉贡商量一下该怎么办！",
     "NextQuestTitle": ""
 }

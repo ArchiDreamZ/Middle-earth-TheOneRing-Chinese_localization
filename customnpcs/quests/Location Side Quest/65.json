@@ -5,7 +5,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Khamuls Tower 2",
-    "Text": "He is back! One of the Nazguls! I have to fight him there is no run away now!",
+    "Text": "他回来了！那兹古尔之一！我必须和他决斗，现在跑不掉了！
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,6 +43,9 @@
         }
     ],
     "TargetType": 0,
-    "CompleteText": "He has returend! Khamul one of the 9 Nazguls. That must mean more of them are alive again.. Maybe I will find more clues on my journey on that topic!",
+    "CompleteText": "他回来了！可哈穆尔是九戒灵之一。这一定意味着他们中有更多的人又活过来了.. 
+
+也许我会在旅途中找到更多关于这个话题的线索！
+",
     "NextQuestTitle": ""
 }

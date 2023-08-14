@@ -5,8 +5,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: Kill Azog",
-    "Text": "Gandalf asked me to hunt down the orc leader Azog.
-He is located in Ravenhill, next to Erebor.",
+    "Text": "甘道夫要我追捕奥克首领阿佐格。
+他位于埃瑞博旁边的渡鸦岭。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -41,7 +41,8 @@ He is located in Ravenhill, next to Erebor.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I did it! It was a tough fight!
-And Azog the Orc is dead, that should end the war sooner.",
+    "CompleteText": "我做到了！这是一场艰苦的战斗！
+奥克阿佐格死了，战争应该可以早点结束。
+",
     "NextQuestTitle": ""
 }

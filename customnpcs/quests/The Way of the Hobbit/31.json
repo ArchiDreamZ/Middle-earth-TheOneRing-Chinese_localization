@@ -7,11 +7,13 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 4: Riddles in the Dark",
-    "Text": "I found a strange creature in the caves under the goblin town.
+    "Text": "我在半兽人镇下面的洞穴里发现了一个奇怪的生物。
 
-He lost a strange ring that seems to make me invisible.
+他丢了一枚奇怪的戒指，似乎能让我隐形。
 
-Maybe it could be useful...",
+也许它会有用...
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,9 +42,11 @@ Maybe it could be useful...",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here is an exit! Finally!
-I should continue my journey to Erebor and seek the help of Beorn next!
-He is the last shapeshifter in Middle-earth. ",
+    "CompleteText": "这里有一个出口！终于到了！
+我应该继续我的旅程前往埃瑞博，然后寻求贝奥恩的帮助！
+他是中洲最后一个换皮人。 
+
+",
     "NextQuestTitle": "Part 5: The Shapeshifter",
     "QuestLocation": "Find a way out"
 }

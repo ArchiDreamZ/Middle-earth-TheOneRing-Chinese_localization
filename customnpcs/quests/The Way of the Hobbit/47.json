@@ -6,7 +6,7 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "Side Quest: Bard",
-    "Text": "I should bring the Arkenstone back to Bard in Dale.",
+    "Text": "我应该把阿肯宝钻带回给河谷城的巴德。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -47,7 +47,7 @@
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "I wanted to give the Arkenstone to Bard, but he leave it to me.
-It is the most beautiful jewel in all Middle-earth and I will take good care of it.",
+    "CompleteText": "我想把阿肯宝钻给巴德，但他把它留给了我。
+它是整个中洲最美丽的宝石，我会好好照顾它的。",
     "NextQuestTitle": ""
 }

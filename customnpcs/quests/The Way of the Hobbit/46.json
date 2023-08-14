@@ -6,8 +6,8 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 1b,
     "Title": "Side Quest: The Arkenstone ",
-    "Text": "Bard asked me to steal the Arkenstone so we can get the dwarves to help us.
-It's supposed to be somewhere in Smaug's hoard. Uff...",
+    "Text": "巴德让我去偷阿肯宝钻，这样我们就能让矮人帮我们。
+应该在史矛革的宝藏里。呃...",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,7 +48,7 @@ It's supposed to be somewhere in Smaug's hoard. Uff...",
         ]
     },
     "LeaveItems": 1b,
-    "CompleteText": "There it is, I found the Arkenstone!
-I should bring it back to Bard.",
+    "CompleteText": "找到了，我找到阿肯宝钻了！
+我应该把它带回来交给巴德。",
     "NextQuestTitle": "Side Quest: Bard"
 }

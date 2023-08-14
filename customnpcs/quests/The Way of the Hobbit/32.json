@@ -7,7 +7,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 5: The Shapeshifter",
-    "Text": "Before I can begin my long journey through Mirkwood, I need food and shelter! Hope Beorn is helpful... Sometimes the bear is unpredictable!",
+    "Text": "在我开始穿越黑森林的漫长旅程之前，我需要食物和住所！希望贝奥恩能有所帮助... 有些时候，熊是不可预测的！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,10 +36,10 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is!
-But I don't see a man anywhere?
+    "CompleteText": "在这里！
+但我没有看到人啊？
 
-Oh! A bear! is it beorn I hope he's friendly!",
+哦！一只熊！是贝奥恩吗，我希望他是友好的！",
     "NextQuestTitle": "Part 6: The Brown Wizard",
     "QuestLocation": "Beorns Hall"
 }

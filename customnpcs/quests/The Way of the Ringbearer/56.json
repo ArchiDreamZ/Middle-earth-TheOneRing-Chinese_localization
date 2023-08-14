@@ -5,9 +5,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: The Witchking",
-    "Text": "I will destroy the Witch-king of Angmar once and for all!
-Legend says that no man can defeat him, but I will stand against him anyway!
-He is located in Minas Morgul",
+    "Text": "我要彻底消灭安格玛巫王！
+传说没有人能打败他，但我还是要与他对抗！
+他位于米那斯魔古尔。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,6 +42,7 @@ He is located in Minas Morgul",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "After a long and hard fight i finally defeated the withking of Angmar in his castle Minas Morgul!Now this area is save again! ",
+    "CompleteText": "经过漫长而艰苦的战斗，我终于在米那斯魔古尔城堡击败了安格玛巫王！
+现在这片区域又有救了！ ",
     "NextQuestTitle": ""
 }

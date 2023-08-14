@@ -5,11 +5,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: Kill Sauron ",
-    "Text": "Now the dark ruler Sauron is weakened
-and we should destroy him once and for all!
+    "Text": "如今黑暗统治者索隆已经被削弱，
+我们应该彻底摧毁他！
 
-He is down the road to the east in his fortress, Barad-Dur!
-Quick before he escapes again!",
+他在东方的堡垒巴拉督尔！
+赶快行动，别让他再次逃脱！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -44,13 +44,16 @@ Quick before he escapes again!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You have destroyed Sauron!
+    "CompleteText": "你已经摧毁了索隆！
 
-Back with him to the shadow world he came from!
-You have now restored balance to Middle-earth!
+将他带回到他来自的暗影世界！
+你现在已经恢复了中洲的平衡！
 
-The task is accomplished... And the age of man and peace has come!
+任务完成了... 人类与和平的时代已经到来！
 
-The eagle is already waiting for you! @p",
+大鹰已经在等你了！ @p
+
+
+",
     "NextQuestTitle": ""
 }

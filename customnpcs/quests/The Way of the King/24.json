@@ -5,7 +5,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 14: The Black Gate",
-    "Text": "I'm supposed to kill 15 orc captains, that should draw Sauron's attention!",
+    "Text": "我应该杀死15个奥克首领，这应该会引起索隆的注意！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,7 +52,7 @@
             }
         ]
     },
-    "CompleteText": "I did it... the captains are dead!
+    "CompleteText": "我做到了...首领们都死了！
 
 I should speak to Sauron's diplomat now",
     "NextQuestTitle": ""

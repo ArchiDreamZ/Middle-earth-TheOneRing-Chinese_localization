@@ -7,7 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Khamuls Tower",
-    "Text": "Lady Galadriel asked me to help her discovering the truth behind the return of the withking. If both are back, that all of them are!I have to go to the Tower of Khamul in the east in Eryn Garan and take a look if its empty! .. I hope it is! I don't want to fight a ghost!",
+    "Text": "加拉德瑞尔夫人让我帮她找出巫王回归背后的真相。如果两个都回来了，那他们就都回来了!
+我得去埃林卡兰东部的可哈穆尔之塔看看那里是不是空的！希望是空的！...我可不想和鬼打架！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +37,12 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is the tower of the Nazgul Khamul!I can see light inside, I should go and take a look. I feel like I'm being watched! I have to be careful!",
+    "CompleteText": "这就是那兹古尔·可哈穆尔之塔!
+
+我看到里面有光了，我应该去看看。 
+
+我感觉自己被监视了！我得小心点！
+",
     "NextQuestTitle": "Khamuls Tower 2",
     "QuestLocation": "Khamuls Tower"
 }

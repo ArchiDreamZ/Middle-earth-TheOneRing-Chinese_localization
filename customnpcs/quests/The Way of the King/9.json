@@ -7,12 +7,14 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 2: Edoras",
-    "Text": "Gandalf is back!
-And the hobbits are fine!
+    "Text": "甘道夫回来了！
+霍比特人也没事！
 
-Good news at this dark time!
+在这黑暗时刻，这真是个好消息！
 
-He asked me to ride to the capital of the Rohirrim.. Edoras.. ",
+他要我骑马去洛希尔人的首都..埃多拉斯..
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -41,9 +43,11 @@ He asked me to ride to the capital of the Rohirrim.. Edoras.. ",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is,.. The Capital of Rohan and the golden Hall of the King!
+    "CompleteText": "这就是...洛汗的首都和国王的金色大厅！
 
-But I can't see Gandalf anywhere...",
+但我在哪儿都没看到甘道夫...
+
+",
     "NextQuestTitle": "Part 3: Helms Deep",
     "QuestLocation": "The Kings Hall"
 }

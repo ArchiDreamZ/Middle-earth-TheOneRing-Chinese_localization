@@ -7,11 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 1: The Secret Map",
-    "Text": "Gandalf told me about the Dwarf Expedition and asked for my help.
-I should look for Elrond at the great waterfall in the mountains of Rivendell.
+    "Text": "甘道夫告诉了我矮人远征的事，并请求我的帮助。
+我应该去幽谷山的大瀑布那儿找埃尔隆德。
 
-Maybe he can help me reading the map.
-Otherwise it will be difficult to get into the mountain.",
+也许他能帮我看地图。
+否则将很难进山。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,7 +40,7 @@ Otherwise it will be difficult to get into the mountain.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here is the waterfall Gandalf spoke of. I should speak to Lord Elrond, maybe he'll know what the map is about.",
+    "CompleteText": "这里就是甘道夫说的瀑布。我应该和埃尔隆德大人谈谈，也许他知道地图的内容。",
     "NextQuestTitle": "",
     "QuestLocation": "Waterfall"
 }

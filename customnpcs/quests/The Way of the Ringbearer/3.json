@@ -7,17 +7,17 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 2: The Way to Rivendell",
-    "Text": "After Gandalf was not at the Inn, I was sent to Rivendell by a ranger named Aragorn.
+    "Text": "甘道夫不在旅馆后，我被一个叫阿拉贡的游侠送到了幽谷。
 
-He said he was a friend of Gandalf and I had no choice but to trust him!
+他说他是甘道夫的朋友，我别无选择，只能相信他！
 
-The path should take me past old Wethertop and also Bilbo's stone trolls.
+这条路会带我经过古老的风云顶和比尔博的岩石食人妖。
 
-I have to watch out for the Ringwraiths! They guard the area!
+我得提防戒灵！他们守卫着这片区域！
 
-I hope Lord Elrond knows what to do!
+我希望埃尔隆德领主知道应该怎么做！
 
-(Side Quest at Weathertop)",
+(风云顶的支线任务)",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -46,8 +46,8 @@ I hope Lord Elrond knows what to do!
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "You've made it to Rivendell and found the Council of Lord Elrond!
-Place the One Ring on the center table and talk to everyone present.",
+    "CompleteText": "你已经来到幽谷找到了埃尔隆德领主的议会！
+把魔戒放在中间的桌子上，和在场的每个人交谈。",
     "NextQuestTitle": "",
     "QuestLocation": "Elronds Council"
 }

@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,14 +88,14 @@
     "TextWidth": 300,
     "DialogTitle": "Gimli fangorn follow",
     "PreviousBlocks": 1b,
-    "DialogText": "We're too late...
-It's one of their wee belts. The poor Hobbits...
-We failed them.
-Wait.. Aragorn think they are alive?
+    "DialogText": "我们来晚了...
+是他们的一条小皮带，可怜的霍比特人...
+我们辜负了他们.
+等等...阿拉贡认为他们还活着？
 
-Fangorn? What madness drove them in there?
+范贡森林？他们吃了豹子胆？
 
-I will follow you into battle if you want.",
+如果你愿意，我可以跟着你上战场。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

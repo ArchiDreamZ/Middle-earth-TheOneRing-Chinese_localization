@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you. Goodbye!",
+                "Title": "谢谢你，再会！",
                 "DialogColor": 16323338,
                 "OptionType": 0
             }
@@ -69,7 +69,12 @@
     "TextWidth": 300,
     "DialogTitle": "Glorfindel 3 finish",
     "PreviousBlocks": 1b,
-    "DialogText": "Great! I know I could count on you! Now the ancient staffs are safe and their power can't used by the evil forces anymore.They would be safe here in Rivendell, but you are a strong fighter, so they are even more safe in your possesion. So you can keep them and use them. The blue wizards are lost anyways. Or are they? >>(Will be continued)<<",
+    "DialogText": "太棒了！我知道我能信任你！现在古老的法杖安全了，它们的力量再也不能被邪恶势力所利用了。
+
+它们在幽谷这里会很安全，但你是一个强大的战士，所以在你手中它们会更加安全。所以你可以保管并使用它们。
+蓝袍巫师已经消失了。或者他们真的失踪了吗？ 
+
+>>(待续)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
