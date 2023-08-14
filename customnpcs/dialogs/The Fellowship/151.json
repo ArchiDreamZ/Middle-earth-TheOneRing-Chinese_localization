@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再见！",
                 "DialogColor": 15995923,
                 "OptionType": 0
             }
@@ -68,13 +68,13 @@
     "TextWidth": 300,
     "DialogTitle": "Merry4",
     "PreviousBlocks": 1b,
-    "DialogText": "谢谢! !
-你是我们的救世主!
-快到风云顶上去!
+    "DialogText": "谢谢！！
+你是我们的救星！
+快到风云顶上去！
 
-吸引他们的注意力!
+引走他们的注意力！
 我们将躲在这里。
-希望他们找不到我们!
+希望他们不会找到我们！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
