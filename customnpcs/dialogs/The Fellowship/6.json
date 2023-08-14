@@ -89,10 +89,14 @@
     "TextWidth": 300,
     "DialogTitle": "Gandalf{Quest Ring JA)",
     "PreviousBlocks": 1b,
-    "DialogText": "你感受到它的黑暗力量了吗？
-这枚戒指想要被找到！
-好好保管它！不要使用它。无论如何都不要！
-戒灵将会感受到它的力量！
+    "DialogText": "一定要小心啊,@p，大敌麾下有许多耳目。
+飞禽、走兽..
+
+东西藏好没有，你感受到它的黑暗力量了吗？
+一定要记住，这魔戒时刻想着要回到主人身边，它巴不得被人找到。
+
+好好保管它！绝不要佩戴它，无论如何都不要！
+否则黑暗魔君的仆从就会被它的力量吸引！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
