@@ -60,11 +60,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你好 @p!
-我们到了，看来奥克们也在这里，所以一定没错，staff就在这里！
+    "DialogText": "你好 @p！
+我们到了，看来奥克们也在这里，所以一定没错，法杖就在这里！
 我们得去看看，如果找到了，将它带回幽谷给我！
 
-如果你愿意，我会为你而战！
+如果你愿意，我会和你并肩作战！
 
 >>(幽谷任务开始)<<",
     "AvailabilityQuest4Id": -1,
