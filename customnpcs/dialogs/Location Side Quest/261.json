@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！(跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,7 +88,10 @@
     "TextWidth": 300,
     "DialogTitle": "Legolas,gimli,aragorn follow",
     "PreviousBlocks": 1b,
-    "DialogText": "Hello @p.Let's fight together!I will follow you into battle if you want.",
+    "DialogText": "你好啊，@p。
+我们并肩作战吧！
+
+如果你愿意的话，我会跟随你一起战斗。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
