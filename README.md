@@ -71,9 +71,9 @@ MEGA云盘：
 
 在提交修改时，不要只写一个“汉化”，这样别人一眼看上去也不知道汉化了什么，稍微详细一点。
 
-![据电影润色](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/4b25db2b-bfe4-4b1e-8a3b-301cb9b3aade)
+![提交修改](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/004cf4db-9de7-4539-bc71-241d9eae484f)
 
-例如我修改了214号文件，那就做了什么-NPC名-文件名，这样的格式。如果觉得这个文件只是机翻没经过润色，就必须标注“待润色”，润色过了就标注润色。
+例如我修改了219号文件，那写：翻译/润色-NPC名-简单描述-文件名，这样的格式。如果觉得这个文件只是机翻没经过润色，就必须标注“待润色”，润色过了就标注润色。
 
 ②更重要的，要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
 
