@@ -53,7 +53,17 @@ MEGA云盘：
 
 **quests**文件夹内是任务文本
 
-看一下已经汉化的部分，就知道怎么汉化了。
+在dialogs里的每一个文件都是一个NPC的对话框，里面是对话框的文本和选项。
+
+![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/444570ed-920b-4ad6-9c55-ba2b5906702d)
+
+上面的“Title”短句是该对话框的选项，玩家可以选择。
+
+![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/43925943-f792-45fc-a075-4d29bd00b3de)
+
+下面的“DialogText”是NPC的文本。该文本对应上面的选项，例如在这个例子里，可以选择弗罗多作为同伴，只要选择上面的“跟我来”选项。
+
+如果还不清楚怎么汉化，看一下已经汉化的部分，就知道怎么汉化了。
 
 ## 汉化须知
 ### 翻译标准
