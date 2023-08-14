@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 21,
-                "Title": "我将完成我的使命！{任务开始}",
+                "Title": "我将完成我的使命！",
                 "DialogColor": 3210257,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 20,
-                "Title": "只要你开口...我就把至尊戒交给你。 ",
+                "Title": "只要你开口...我就把至尊戒交给你。(向加拉德瑞尔展示至尊戒) ",
                 "DialogColor": 850157,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
