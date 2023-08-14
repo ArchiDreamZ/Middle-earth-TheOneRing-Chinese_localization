@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 18,
-                "Title": "这是什么意思?",
+                "Title": "这是什么意思？",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 17,
-                "Title": "这对我来说太过分了!",
+                "Title": "这对我来说太过分了！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -61,7 +61,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "{你俯身朝镜子中瞧去，看到一幅扭曲的画面，那是被夷平的夏尔郡熊熊燃烧的景象。}
+    "DialogText": "{你俯身朝水镜中瞧去，看到一幅扭曲的画面，那是被夷平的夏尔郡熊熊燃烧的景象。}
 
 ",
     "AvailabilityQuest4Id": -1,
