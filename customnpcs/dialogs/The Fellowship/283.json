@@ -68,11 +68,12 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 7",
     "PreviousBlocks": 1b,
-    "DialogText": "他是那些游侠中的一员。
-他们是危险的人，在荒野中游荡。 
+    "DialogText": "那人是个游民，他们个个是危险人物，整天在荒野游荡。
 
-他的真名我从未听说过， 
-但在这里，他被称为“大步佬”。",
+他真名我从来不知道，
+
+不过这儿的人都叫他“大步佬”。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
