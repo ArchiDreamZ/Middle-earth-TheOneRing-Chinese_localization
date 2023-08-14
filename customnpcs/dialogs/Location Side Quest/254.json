@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 266,
-                "Title": "我已经找到那几个人了！",
+                "Title": "我已经找到法杖了！",
                 "DialogColor": 16635138,
                 "OptionType": 1
             }
@@ -65,7 +65,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "可能需要一会， 再见！",
+                "Title": "也许以后， 再会！",
                 "DialogColor": 16323338,
                 "OptionType": 0
             }
@@ -89,13 +89,15 @@
     "TextWidth": 300,
     "DialogTitle": "Glorfindel 1",
     "PreviousBlocks": 1b,
-    "DialogText": "欢迎来到幽谷 @p !我叫格罗芬德尔，曾是刚多林金花家族的领主。 
+    "DialogText": "欢迎来到幽谷 @p ！
+我叫格罗芬德尔，曾是刚多林金花家族的领主。 
 在第一纪元我死后，我被维拉复活，并且成为了维拉的使者。 
 并且回到了中土世界。 我出生在提力安，当时正值维林诺的正午时分， 并且我是王室后裔。
 
 在过去的日子里，我参加过很多战斗，米尔寇的军队袭击了刚多林，我甚至不得不与炎魔作战。
 在佛诺斯特战役中，我与安格玛的巫王交战。
-现在我有一项新任务，需要您的帮助 @p!",
+
+现在我有一项新任务，需要你的帮助 @p！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
