@@ -81,6 +81,14 @@ B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可�
 
 若要中英对比，可以在这里查看：[过去初翻的提交](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pulls?q=is%3Apr+is%3Aclosed)
 
+点击“Files changed”，即可查看。
+
+![文件改动](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/c20fe6f6-ef2d-49d8-9209-04c01d2cb3e9)
+
+点这里可以左右对比：
+
+![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
+
 ### 翻译标准
 ①首先，要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
 
