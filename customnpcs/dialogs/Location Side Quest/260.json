@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！(跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "可能需要一会， 再见！",
+                "Title": "也许以后， 再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -61,7 +61,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我们到了。 @p!这里是山的出口。And it looks like the ships of Umbar are just arrived.I will follow you until my oth is fulfilled!",
+    "DialogText": "我们到了。 @p!
+
+这里是山的出口。
+
+And it looks like the ships of Umbar are just arrived.
+
+I will follow you until my oth is fulfilled!
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
