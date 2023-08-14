@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 11,
-                "Title": "你觉得我们该怎么办? {任务开始}",
+                "Title": "你觉得我们该怎么办？ {任务开始}",
                 "DialogColor": 588839,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我不相信你!",
+                "Title": "我不相信你！",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -78,10 +78,15 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn(Quest)",
     "PreviousBlocks": 1b,
-    "DialogText": "我知道你的真名， @p!
-我也知道你身上携带着什么！还有谁在追逐你。
-甘道夫告诉了我一切！
-你不能在这里等待你的巫师朋友！
+    "DialogText": "你未免也太招摇了吧，「山下」先生。
+
+我知道你的真名， @p！
+我也知道你身上携带着什么，还有谁在追逐你。
+甘道夫告诉了我一切。
+
+你没时间等你的巫师朋友了！
+他们来了..
+
 你必须继续前进！这里不安全！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
