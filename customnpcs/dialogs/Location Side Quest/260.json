@@ -61,13 +61,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我们到了。 @p!
+    "DialogText": "我们到了， @p！
 
 这里是山的出口。
 
-And it looks like the ships of Umbar are just arrived.
+看来乌姆巴尔的船只刚刚抵达。
 
-I will follow you until my oth is fulfilled!
+我会跟随你，直到我的愿望实现！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
