@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！(跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后， 再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -60,7 +60,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Hello @p!Here we are! And it looks like the Orcs are here too, so it must be right and the staff is located here!We have to take a look, if you have found it bring it back to me in Rivendell!I will fight on your side if you want that!>>(Quest start in Rivendell)<<",
+    "DialogText": "你好 @p！
+我们到了，看来奥克们也在这里，所以一定没错，法杖就在这里！
+我们得去看看，如果找到了，将它带回幽谷给我！
+
+如果你愿意，我会和你并肩作战！
+
+>>(幽谷任务开始)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
