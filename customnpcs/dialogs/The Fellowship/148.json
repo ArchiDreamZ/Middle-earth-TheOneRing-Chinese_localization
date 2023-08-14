@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -78,12 +78,13 @@
     "TextWidth": 300,
     "DialogTitle": "Merry1",
     "PreviousBlocks": 1b,
-    "DialogText": "哦，糟糕... 火山灰落在了我的番茄上！
-你不能照看好皮平吗？
+    "DialogText": "哦，糟糕... 
+这可好了！我的番茄都粘上灰了！
+你能看着点吗？皮平！
 
 哦，你好， @p
 别像这样悄悄接近我们！
-我们在这里搭建起了一个夜晚的秘密基地。
+我们在这里搭建起了秘密营地过夜。
 我们正在躲避黑骑手。
 他们正在寻找某样东西...或者可能是某个人？
 
