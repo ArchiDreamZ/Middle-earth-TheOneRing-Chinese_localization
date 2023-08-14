@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 35,
-                "Title": "<Alternate Ending>",
+                "Title": "<另类结局>",
                 "DialogColor": 392432,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 14224140,
                 "OptionType": 0
             }
@@ -50,23 +50,23 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It's like in the big stories.
-In those that really mattered!
-It were full of darkness and danger.
-Sometimes you don't even want to know the ending.
-How could such a story have a good ending!
+    "DialogText": "这就像是那些重大的故事，
+那些真正重要的故事！
+它们充满了黑暗和危险。
+有时候，你甚至不想知道结局。
+这样的故事怎么可能有个好结局！
 
-How could the world go back to how it was before when so much bad happened?
+发生了那么多坏事，世界怎么可能回到从前？
 
-But in the end it will passes, this shadow. Even the darkness must go way and
-a new day will come and when the sun shines, it will shine even brighter!
+但最终，阴影会过去的。即使黑暗也必须离去，
+新的一天会到来，当阳光照耀时，它将更加明亮！
 
-Those were the stories that stuck in your mind, even when you were too young to understand them.
-But I think.. I get it now.. I know now..
+那些故事深深印在你的脑海中，即使你年幼时无法理解它们。
+但我想，我现在明白了...我现在知道了...
 
-The people in these stories always had the option to turn back, but they didn't.
-They kept going because they believed in something..
-There is something good in this world and it is worth fighting for!",
+这些故事中的人们总是有机会回头，但他们没有。
+他们继续前进，因为他们有信仰...
+这个世界上有一些美好的东西，值得我们为之奋斗！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

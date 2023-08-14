@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 47,
-                "Title": "Now you remain a prisoner up here forever!",
+                "Title": "现在你将永远被囚禁在这里！",
                 "DialogColor": 16316407,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -50,14 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "How.. how is this possible.. i see it in my palantir!
-The Uruk-Hai army has failed! The March of the Ents has begun!
+    "DialogText": "这...这怎么可能.. 我在我的帕蓝提尔里看到了！
+乌鲁克军队失败了！恩特人开始进军了！
 
-I..
+我..
 
-I have failed!
+我失败了！
 
-But...that can't be!",
+但...这不可能！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

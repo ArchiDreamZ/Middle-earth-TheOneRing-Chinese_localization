@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 47567 72 40528",
                 "Dialog": -1,
-                "Title": "YES!",
+                "Title": "是！",
                 "DialogColor": 130869,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NO!",
+                "Title": "否！",
                 "DialogColor": 13900058,
                 "OptionType": 0
             }
@@ -51,9 +51,9 @@
     "DialogCommand": "@dp tp 47567,72,40528",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<<<{Teleport to Rohan 
-Are you sure? 
-YES/NO}<<<",
+    "DialogText": "<<<{传送到洛汗
+你确定吗？ 
+是/否}<<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

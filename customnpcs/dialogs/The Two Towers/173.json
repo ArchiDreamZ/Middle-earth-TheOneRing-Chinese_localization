@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 174,
-                "Title": "We are traveling alone. And we must go to Mordor.",
+                "Title": "我们独自旅行。而且必须去魔多。",
                 "DialogColor": 15792879,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Run away)",
+                "Title": "(逃跑)",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "And where's your skulking friend? That gangrel creature. He had an ill-favoured look.",
+    "DialogText": "你们那个鬼鬼祟祟的朋友呢？ 那个流浪汉。 长着丑陋的外貌。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

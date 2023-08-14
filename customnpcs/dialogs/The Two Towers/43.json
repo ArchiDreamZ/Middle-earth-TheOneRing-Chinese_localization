@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 44,
-                "Title": "I will go to Isengard! {Quest Start}",
+                "Title": "我将要去伊森加德！ {任务开始}",
                 "DialogColor": 1834010,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later!",
+                "Title": "也许以后！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -50,13 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Saruman is safely hiding in his tower Orthanc in Insengard!
+    "DialogText": "萨茹曼正安全地躲在他在艾森加德的欧尔桑克塔里！
 
-Go to him and make sure he is punished for this betrayal!
+去找他，让他为这次背叛受到应有的惩罚！
 
-I will consult with Gandalf and Aragorn in Edoras as long as this war goes on.
+只要这场战争还在继续，我就会在埃多拉斯与甘道夫和阿拉贡协商。
 
-Thanks for your help @p! Without you, Helms Deep would no longer stand!",
+谢谢你的帮助， @p! 没有你，海尔姆深谷将不复存在！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

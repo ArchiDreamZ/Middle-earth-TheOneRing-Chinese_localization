@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -40,7 +40,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "It is the entrance to the realms of Morgoth himself!It is located in the north of Angmar in the cold area of Forodwaith!You have to find it yourself, it ios part of your task, just watch out for a strange mountain formation on the map, i cant tell you more!You have to go inside and jump into the portal!It is a dangerous mission, so you have to come prepared!Good luck @p !",
+    "DialogText": "它是通往魔苟斯王国的入口！
+它位于安格玛北部寒冷的北荒地地区！
+你必须亲自找到它，这是你的任务的一部分，
+只需在地图上留意一个奇特的山脉形状，我不能告诉你更多！
+你必须进入其中，跳入传送门！
+
+这是一项危险的任务，所以你必须做好准备！
+
+祝你好运， @p ！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 170,
-                "Title": "You were not so very different from a hobbit once, were you... Sméagol.",
+                "Title": "你曾经是和我们一样的霍比特人，对吗...斯密戈。",
                 "DialogColor": 16579574,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(singing) They do not see what lies ahead, when sun has failed and moon is dead.",
+    "DialogText": "(唱歌) 星辰已落，日夜无光。我看不到一丝一毫的希望。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

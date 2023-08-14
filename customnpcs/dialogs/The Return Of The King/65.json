@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will not disapoint you!",
+                "Title": "我不会让你失望的！",
                 "DialogColor": 14288648,
                 "OptionType": 0
             }
@@ -40,15 +40,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The beacons of Minas Tirith must be lit!
+    "DialogText": "米那斯提力斯的烽火必须点燃！
 
-Then Theoden will come and with him Aragorn to unite the people again!
+然后希奥顿和阿拉贡都会来，让人民再次团结起来！
 
-I've thought through this plan for a long time and if everything works out
-the king will return and take his place on the throne!
+这个计划我考虑了很久，如果一切顺利的话
+国王会回来，坐上他的王位！
 
-The beacon is behind the citadel in the mountains!
-Good luck @pcome back to me when you have lit it!!",
+烽火台就在城堡后面的山上！
+祝你好运， @p
+点燃后再回来找我！！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

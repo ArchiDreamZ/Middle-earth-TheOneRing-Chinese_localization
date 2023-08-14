@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -40,8 +40,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Go @p. Go with the good wishes of all people.
-May we meet again!",
+    "DialogText": "去吧， @p。带着所有人的美好愿望出发吧。
+愿我们再次相见！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

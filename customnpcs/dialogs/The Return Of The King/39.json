@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 76501 184 66364",
                 "Dialog": -1,
-                "Title": "YES!",
+                "Title": "是！",
                 "DialogColor": 523813,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NO!",
+                "Title": "否！",
                 "DialogColor": 13900058,
                 "OptionType": 0
             }
@@ -51,10 +51,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<<Teleport>>
+    "DialogText": "<<传送>>
 
-End of the Quest:
-The Way Of The Ring Bearer",
+任务结束：
+持戒人之路
+
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 68483 67 49746",
                 "Dialog": -1,
-                "Title": "YES!",
+                "Title": "是!",
                 "DialogColor": 3145231,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NO!",
+                "Title": "否!",
                 "DialogColor": 14288904,
                 "OptionType": 0
             }
@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<< Teleport: Amon Hen >>",
+    "DialogText": "<< 传送: 阿蒙汉 >>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 77096 68 69486",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会!",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "a",
+                "Title": "啊",
                 "DialogColor": 16712449,
                 "OptionType": 2
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Follow the path behind me to the exit.",
+    "DialogText": "沿着我身后的小路走，就能到达出口。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

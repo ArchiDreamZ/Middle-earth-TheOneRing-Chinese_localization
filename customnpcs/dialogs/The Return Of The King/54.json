@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Farewell!",
+                "Title": "再会!",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -40,9 +40,10 @@
     "DialogCommand": "/give @dp 4166 1",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very good! Go quick!
+    "DialogText": "非常好！走快点！
 
-And don't fear death!",
+不要害怕死亡！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

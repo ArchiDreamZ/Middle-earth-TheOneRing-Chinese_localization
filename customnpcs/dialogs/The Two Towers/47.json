@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 48,
-                "Title": "<<an eagle arrived to you>>",
+                "Title": "<<一只鹰飞到你身边>>",
                 "DialogColor": 15139581,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<<walk away>>",
+                "Title": "<<走开>>",
                 "DialogColor": 15802141,
                 "OptionType": 0
             }
@@ -50,10 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "..go @p ... you have won!
+    "DialogText": "..去吧， @p ... 你赢了！
 
-<<Saruman is now imprisoned in his own tower
-and Treebeard the Ent was elected as the new steward of Isengard!>>",
+<<萨茹曼现在被囚禁在他自己的塔里，
+恩特树须当选为艾森加德的新管家！>>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

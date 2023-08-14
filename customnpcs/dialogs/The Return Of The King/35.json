@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 37,
-                "Title": "I will deal with Sauron personally! {Quest Start}",
+                "Title": "我会亲自对付索隆的！ {任务开始}",
                 "DialogColor": 3275794,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I dont mind if he stays there, he has no power now!",
+                "Title": "我不介意他呆在那里，现在他没有了力量！",
                 "DialogColor": 14288904,
                 "OptionType": 0
             }
@@ -50,11 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The ring is destroyed!
-And the power of Sauron is now weakened.
-You should destroy him!
+    "DialogText": "魔戒被摧毁了！
+索隆的力量现在被削弱了。
+你应该杀了他！
 
-He hides in his tower Barad-Dur!",
+他躲在他的巴拉督尔塔中！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

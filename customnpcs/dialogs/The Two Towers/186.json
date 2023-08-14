@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 187,
-                "Title": "It must be. There is no other way. So we must try.",
+                "Title": "一定是这样。没有别的办法了。所以我们必须尝试。",
                 "DialogColor": 15989226,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -50,7 +50,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Cirith Ungol?@p , it is said that a dark terror dwells in the passes above Minas Morgul. You must not go this way!",
+    "DialogText": "奇立斯乌苟？
+@p ，据说米那斯魔古尔上方的山口住着一个黑暗的恐怖生物。 你绝不能走这条路！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 49,
-                "Title": "<<The Way of the King>>",
+                "Title": "<<王者之路>>",
                 "DialogColor": 1899547,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 50,
-                "Title": "<<The Way of the Ringbearer>>",
+                "Title": "<<持戒人之路>>",
                 "DialogColor": 1899547,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<<Stay here>>",
+                "Title": "<<待在这>>",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<<Eagle: Where should the journey go??>>",
+    "DialogText": "<<大鹰:这段旅程应该去哪儿？？>>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -69,16 +69,17 @@
     "TextWidth": 300,
     "DialogTitle": "Treebeard isengard",
     "PreviousBlocks": 1b,
-    "DialogText": "Huraroom ... Welcome @p, 
-I'm glad you've come. Wood and water, stock and stone. 
+    "DialogText": "Huraroom ... 欢迎， @p, 
+我很高兴你来了。我能征服森林流水，原木岩石。 
 
-There's a wizard to be managed here ... 
-Locked in his tower.
+可这里有个巫师要对付 ... 
+被锁在他的塔里。
 
-We will destroy the dam, release the water. The filth of Saruman washing away ...Trees will come back to live here, young trees . . . wild trees.
+我们要毁掉大坝，释放水源，萨茹曼的污秽会被冲走 ...
+树木会重新回到这里生活，年轻的树木 . . . 野生的树木。
 
-You are searching for the Hobbits? 
-Well bless my bark, they are right behind me on the wall. ",
+你正在寻找霍比特人？ 
+保佑我的树皮，他们就在我后面的墙上。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

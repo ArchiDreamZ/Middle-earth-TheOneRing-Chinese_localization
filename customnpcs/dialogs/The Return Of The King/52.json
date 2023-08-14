@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 53,
-                "Title": "But he will only listen to the King of Gondor!",
+                "Title": "但他只听从刚铎国王的命令！",
                 "DialogColor": 16316663,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "The Dead? Never will i go there!",
+                "Title": "亡者之路？我绝对不会去那里！",
                 "DialogColor": 14223883,
                 "OptionType": 0
             }
@@ -50,15 +50,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "There are those who inhabit the mountains...
+    "DialogText": "有些人居住在山区中...
 
-They swore allegiance to Isildur long ago, but in their hour of dire need, they broke their word.
-So he cursed them until the oath was fulfilled!
+他们很久以前就发誓效忠伊熙尔杜，但在紧要关头，他们背弃了诺言。
+所以他诅咒他们，直到誓言得到实现！
 
-You must get to Gondor by a different route.
-Go and talk to the king of the dead!
+你必须走另一条路去刚铎。
+去和亡者之王谈谈！
 
-With his army we will be able to save Minas Tirith!",
+有了他的军队，我们就能拯救米那斯提力斯！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

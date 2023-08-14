@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "You can count on me! Goodbye!",
+                "Title": "你可以相信我！再会！",
                 "DialogColor": 14223625,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Talk",
+                "Title": "交谈",
                 "DialogColor": 15139581,
                 "OptionType": 2
             }
@@ -50,12 +50,19 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very nice @p!The people of Rohan and Gondor are saved now because of your actions!But there is one last task..Go to the Black Gate of Mordor!
-With as many soldiers as you can find
-and buy us time for the ring bearer!
-By killing as many orcs as possible!
+    "DialogText": "非常好， @p!
+因为你的行动，洛汗和刚铎的人民得救了！
+但还有最后一个任务..
 
-You have to hurry @p!",
+前往魔多黑门！
+带上你能找到的尽可能多的士兵
+给持戒人争取点时间！
+杀死尽可能多的奥克！
+
+你必须抓紧时间， @p！
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,12 +88,14 @@
     "TextWidth": 300,
     "DialogTitle": "Pippin follow isengard",
     "PreviousBlocks": 1b,
-    "DialogText": "I feel like I'm back at the Green Dragon, after a hard days work.
-Only, I've never done a hard days work. (Pippin is smoking a Pipe and smiles)
+    "DialogText": "我感觉我又回到了绿龙酒馆， 
+在辛苦工作了一天之后。
+只是，我从来没有做过辛苦的活。 
+(皮平一边抽着烟斗一边微笑)
 
-We are sitting on a field of victory,
-enjoying a few well-earned comforts.
-The salted pork is particularly good.
+我们正坐在胜利的战场上，
+享受一些应得的舒适。
+咸猪肉格外美味。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,

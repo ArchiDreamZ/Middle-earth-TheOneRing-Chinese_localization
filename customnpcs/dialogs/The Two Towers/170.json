@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "We have to move on.",
+                "Title": "我们必须继续前进。",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -40,7 +40,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "What did you call me?My name! My name. S..S..Sméagol!",
+    "DialogText": "你叫我什么？
+我的名字！ 我的名字。 斯..斯..斯密戈！
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

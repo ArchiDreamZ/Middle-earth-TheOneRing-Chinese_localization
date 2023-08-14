@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 33,
-                "Title": "Let's destroy the ring!",
+                "Title": "让我们毁掉这个戒指吧！",
                 "DialogColor": 1964828,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 34,
-                "Title": "The ring is MINE!!! ",
+                "Title": "这个戒指是我！的！！ ",
                 "DialogColor": 14223626,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "i need a moment!",
+                "Title": "我需要一点时间！",
                 "DialogColor": 16579836,
                 "OptionType": 2
             }
@@ -88,15 +88,17 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo ",
     "PreviousBlocks": 1b,
-    "DialogText": "You did it @p !!!
+    "DialogText": "你做到了， @p ！！！
 
-The long road to the heart of Mordor.
+通往魔多中心的漫漫长路。
 
-You have taken many risks to get here
+你冒了很多险才来到这里。
 
-Tell me... @p how will you decide!
+告诉我... @p 你将如何决定！
 
-Here at the end of all things...",
+在这一切的最后...
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 176,
-                "Title": "Okay (Quest Start)",
+                "Title": "好的 (任务开始)",
                 "DialogColor": 3602457,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I have to look around here first",
+                "Title": "我得先在这里看看",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -51,12 +51,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "I need you to tell me exactly what happened!
-I'll take you to our hiding place.
+    "DialogText": "我需要你告诉我发生了什么！
+我会带你去我们的藏身之处。
 
-The way is secret so I'll put this hood on your head.
+这是条秘密的路，所以我会给你戴上这个帽子。
 
->>Teleport to the Forbidden Pond<<",
+>>传送至禁忌之潭<<
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

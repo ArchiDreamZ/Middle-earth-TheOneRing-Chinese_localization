@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thank you for coming! On to the fight!",
+                "Title": "感谢你的到来！开始战斗吧！",
                 "DialogColor": 14288648,
                 "OptionType": 0
             }
@@ -41,17 +41,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Greetings, @p !
-Once upon a time there was an alliance between elves and humans.
-This alliance is now renewed!
+    "DialogText": "你好， @p ！
+很久以前，精灵和人类之间有一个联盟。
+这个联盟现在又重新开始了！
 
-Only together do we stand a chance against evil.
-Saruman's Uruk-Hais are numerous, but our fighting will is strong!
-The arrows of Lothlorien will sing.
+只有团结起来，我们才有机会对抗邪恶。
+萨鲁曼的乌鲁克族人数众多，但我们的战斗意志坚定！
+洛丝罗瑞恩的箭矢将会歌唱。
 
-Talk to King Theoden, he will tell you how you can help.
+跟希奥顿国王谈谈，他会告诉你怎么帮助他。
 
-On the wall men! Prepare for a battle!",
+站到城墙上的人们！准备战斗！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

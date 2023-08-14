@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Rest in peace king Theoden. Goodbye!",
+                "Title": "安息吧，希奥顿国王。再见！",
                 "DialogColor": 16521475,
                 "OptionType": 0
             }
@@ -41,7 +41,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "You already did ...My body is broken ... you have to let me goI go to my fathers ... in whose mightycompany, I shall not now feel ashamed ...(Theoden dies of his wounds)",
+    "DialogText": "你已经做到了 ...
+
+我的身体已废 ... 你得让我走
+
+我要去见我的先祖了 ... 我纵是跻身他们强大的行列，
+也当之无愧了 ...
+
+(希奥顿因伤势过重而死)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

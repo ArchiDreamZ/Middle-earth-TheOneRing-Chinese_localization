@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 56,
-                "Title": "I challenge you to fulfill your oath!",
+                "Title": "我向你们提出挑战，要求你们履行自己的誓言！",
                 "DialogColor": 16579836,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "AAAAH!!(Run away)",
+                "Title": "啊啊啊！！(跑开)",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -51,14 +51,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Who enters my kingdom!!!
+    "DialogText": "谁进入了我的王国！！！
 
-The way is blocked!
+道路被封锁了！
 
-It was created by those who are dead...
-And the dead hold it!
+它是由那些已经死去的人创造的...
+而死者守护着它！
 
-The way is blocked!",
+道路被封锁了！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

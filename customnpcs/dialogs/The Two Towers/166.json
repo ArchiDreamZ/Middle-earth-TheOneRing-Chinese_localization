@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 167,
-                "Title": "There are dead! Dead faces in the water!",
+                "Title": "底下有死东西，水里有死人脸！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -50,9 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Wake up @p!
-No time to lose now! Gollum, Gollum!
-Still a long way to go. We found it, the way through the swamps.",
+    "DialogText": "醒醒吧， @p！
+现在没时间浪费了！咕噜，咕噜！
+还有很长的路要走，我们找到了，穿过沼泽的路。
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

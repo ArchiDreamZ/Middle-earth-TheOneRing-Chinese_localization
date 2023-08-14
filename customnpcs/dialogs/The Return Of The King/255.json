@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 256,
-                "Title": "No ... I am going to save you .. .(Quest start)",
+                "Title": "不...我要去救你 .. .(任务开始)",
                 "DialogColor": 1766198,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye",
+                "Title": "再见",
                 "DialogColor": 16521475,
                 "OptionType": 0
             }
@@ -50,7 +50,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(gasping weakly)I know your face ... @p ...My eyes darken ...The Witchking ... has injured me!You have to defeat him and climb the Mumakils to kill the Easterling Captains! After that we should have saved the city...But I don't think i will recover...The wounds are to deep..",
+    "DialogText": "(无力地喘息)
+我认得你的脸 ... @p ...
+
+我的视线渐渐模糊了 ...
+
+巫王 ... 伤了我！
+
+你必须打败他，爬上猛犸，杀死东夷首领！ 
+
+在那之后我们应该会拯救这座城市...
+但我不认为我还能恢复...
+这伤口太深了..",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 68483 67 49746",
                 "Dialog": -1,
-                "Title": "YES! Part - Amon Hen",
+                "Title": "是！ 章节 - 阿蒙汉",
                 "DialogColor": 1766198,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 47272 80 54021",
                 "Dialog": -1,
-                "Title": "YES! Part - Path of the Dead",
+                "Title": "是！ 章节 - 亡者之路",
                 "DialogColor": 915755,
                 "OptionType": 4
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NEIN!",
+                "Title": "不!",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -61,11 +61,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<<Teleport: Amon Hen>>
-Quest: The Way of the King
+    "DialogText": "<<传送：阿蒙汉>>
+任务：王者之路
 
-<<Teleport: Path of the Dead>>
-Quest: The Way of the King",
+<<传送：亡者之路>>
+任务：王者之路",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

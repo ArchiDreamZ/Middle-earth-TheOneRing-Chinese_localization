@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 63,
-                "Title": "I will keep my word! {Quest Start}",
+                "Title": "我会遵守承诺的! {任务开始}",
                 "DialogColor": 2160927,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<<Run away>>",
+                "Title": "<<逃跑>>",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }
@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "... We will fight! ...",
+    "DialogText": "... 我们将会战斗！ ...",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

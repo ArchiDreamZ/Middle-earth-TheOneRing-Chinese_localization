@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 233,
-                "Title": "I will help you! (Side Quest Start)",
+                "Title": "我会帮助你的！ (支线任务)",
                 "DialogColor": 16503558,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later. Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }
@@ -50,7 +50,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The invasion of the Uruks in Rohan is getting out of hand.They are attacking us on many fronts and we need more manpower.I just got news that our old watchtower in East-Emneth got attacked.All our Rohirrim there died and now they made a command point out of the tower.Can you help me defeat me all the Uruk Captains up there? I could use help from an experianced warrior like you!",
+    "DialogText": "乌鲁克人对洛汗的入侵已经一发不可收拾。
+他们在多条战线上攻击我们，我们需要更多人手。
+
+我刚刚收到消息，我们在东埃姆内特的旧瞭望塔遭到袭击。
+我们的洛汗骑士都战死了，现在他们把塔变成了一个指挥点。
+
+你能帮我解决那里所有的乌鲁克首领吗？ 
+像你这样有经验的战士能给我提供帮助！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

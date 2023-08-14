@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I will hurry! Farewell",
+                "Title": "我会抓紧时间的！告辞",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -40,11 +40,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Yes Gandalf was here, you just missed him.
-The evil wizard Saruman had poisoned my uncle's mind and luckily he healed him.
-Now he rides through the Ostmark, gathering roving Rohirrim.
-Perhaps it is not too late and we can stop Saruman's forces at Helm's Deep.
-Hurry @p , go to the keep and help defend it.",
+    "DialogText": "是的，甘道夫来过了，你刚好错过他了。
+邪恶的巫师萨茹曼毒害了我叔叔的思想，幸运的是甘道夫治好了他。
+现在他骑着马穿过东马克，召集那些游荡的洛希尔人。
+也许现在还不算太晚，我们可以在海尔姆深谷阻止萨茹曼的军队。
+快点， @p ， 去要塞帮忙守卫它。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

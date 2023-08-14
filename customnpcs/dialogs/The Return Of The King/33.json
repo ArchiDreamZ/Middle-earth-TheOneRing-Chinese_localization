@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "{Throw the ring into the lava}",
+                "Title": "{把戒指扔进熔岩里}",
                 "DialogColor": 14150412,
                 "OptionType": 0
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 224,
-                "Title": "I destroyed the ring!",
+                "Title": "我摧毁了这个戒指！",
                 "DialogColor": 16513523,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I need a moment!",
+                "Title": "我需要一点时间！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -60,13 +60,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Very good!
+    "DialogText": "非常好!
 
-Middle-earth is saved!
+中洲得救了!
 
-Throw him into the fire! Destroy Him!
+把他扔进火里！摧毁他！
 
-Once and for all!",
+一劳永逸！
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

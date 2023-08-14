@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 178,
-                "Title": "NO WAIT!",
+                "Title": "不，等等！",
                 "DialogColor": 16317427,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "(Put the ring on and run away)",
+                "Title": "(戴上戒指逃跑)",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -50,8 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "(Faramir raises his hand, then I come to my senses and remember a wisdom Gandalf once taught me.
-True courage lies in spare a life, not taking it.)",
+    "DialogText": "(法拉米尔举起手来，然后我醒悟过来，记起甘道夫曾经教导我的智慧。
+真正的勇气不在于取人性命，而在于宽恕。)
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

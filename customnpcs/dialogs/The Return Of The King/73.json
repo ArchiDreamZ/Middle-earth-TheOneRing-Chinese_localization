@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 6 80 0",
                 "Dialog": -1,
-                "Title": "YES!",
+                "Title": "是!",
                 "DialogColor": 1899547,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NO!",
+                "Title": "否!",
                 "DialogColor": 16453382,
                 "OptionType": 0
             }
@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<<Teleport: Shire>>",
+    "DialogText": "<<传送: 夏尔>>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

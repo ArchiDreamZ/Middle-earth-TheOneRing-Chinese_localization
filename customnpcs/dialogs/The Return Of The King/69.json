@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 70,
-                "Title": "I don't believe in that!",
+                "Title": "我不相信这个！",
                 "DialogColor": 16119284,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "NOOOOO!!!",
+                "Title": "不！不！！",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }
@@ -51,15 +51,17 @@
     "DialogCommand": "/give @dp 4158 1",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "The halfling's mail...
+    "DialogText": "半身人的情报...
 
-He has suffered alot!
+他承受了很多的折磨！
 
-Who would have thought, that such a small person could endure so much pain!
+谁会想到，如此小的一个人居然能忍受如此巨大的痛苦！
 
-and he did.. @p .. he did...
+而他做到了.. @p .. 他做到了...
 
-<< The creature smiles again >>",
+<< 这个生物再次微笑着 >>
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

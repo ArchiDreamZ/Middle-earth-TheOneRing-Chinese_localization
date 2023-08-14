@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 60,
-                "Title": "Fight for me and I will consider your oath fulfilled!",
+                "Title": "为我而战，我就当你完成了你的誓言！",
                 "DialogColor": 16184820,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "<<Run away>>",
+                "Title": "<<逃跑>>",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }

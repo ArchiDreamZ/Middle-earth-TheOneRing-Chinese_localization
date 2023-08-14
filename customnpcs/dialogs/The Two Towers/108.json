@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 109,
-                "Title": "Greetings, I was supposed to meet Gandalf here, have you seen him?",
+                "Title": "你好，我本来要在这里见甘道夫的，你看到他了吗？",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I have to go. Goodbye!",
+                "Title": "我得走了。再会！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -50,16 +50,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to the land of horsemen @p , my name is Eowyn.
-I am a shieldmaiden of Rohan!
-And Edoras is my home.
-I worry about my uncle Theoden the King.
+    "DialogText": "欢迎来到骠骑之国， @p ， 我的名字是伊奥温。
+我是洛汗的执盾女士！
+埃多拉斯是我的家。
+我很担心我的叔叔希奥顿国王。
 
-He is presently at Helm's Deep, the great fortress of our ancestors.
-He takes care of the defense there. A great battle is coming...
-But I do not fear death!
-And I want to fight for the ones I love!
-For Theoden! For Rohan!",
+他现在在海尔姆深谷，我们祖先的宏伟要塞。
+他负责那里的防守，一场大战即将来临...
+但我不畏惧死亡！
+我要为我爱的人而战！
+为了希奥顿！为了洛汗！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

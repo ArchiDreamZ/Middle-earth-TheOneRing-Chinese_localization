@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Okay lets go! We have to hurry! (follow the track)",
+                "Title": "好了，我们走吧！我们得快点了！ (循迹而行)",
                 "DialogColor": 16514300,
                 "OptionType": 0
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "The Fangorn Forest? I'll never go there in my life, way to dangerous!!",
+                "Title": "范贡森林？ 我这辈子都不会去那里，太危险了！！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -79,12 +79,24 @@
     "TextWidth": 300,
     "DialogTitle": "AragornFangorn",
     "PreviousBlocks": 1b,
-    "DialogText": "Oh NO! @p ! We are too late...(Aragorn screams) Aaaaagh!
-The Rohirrim horsemen must have mistaken the Hobbits for orcs!
+    "DialogText": "哦不！ @p ! 我们来晚了...
+(阿拉贡尖叫) 啊啊啊！
+洛汗的骑兵一定将霍比特人误认为是奥克了！
 
-We failed... The long journey was in vain...
-Wait a minute, there are tracks in the ground... A Hobbit lay here. And here the other. They crawled. Their hands were bound.Wait! Their bonds were cut and they were followed!Tracks lead away from the battle... into Fangorn Forest.
-Quickly! Follow the straw trail! Maybe they are still alive!",
+我们失败了... 这趟漫长的旅程白费了...
+等一下，地上有痕迹... 
+
+有霍比特人在这儿躺过。另一个在这儿。 
+
+他们在爬行。双手被捆住。
+
+等等！他们割断了绳索，然后有人在追他们！
+足迹离开战场... 进入了范贡森林。
+快！跟随稻草的痕迹！也许他们还活着！
+
+
+
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

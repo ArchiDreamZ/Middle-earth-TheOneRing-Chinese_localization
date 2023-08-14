@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 42,
-                "Title": "How can i help here? {Quest Start}",
+                "Title": "我能帮什么忙吗? {任务开始}",
                 "DialogColor": 1638167,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 43,
-                "Title": "What shall we do about Saruman? [New Dialog Option]",
+                "Title": "我们该怎么对付萨茹曼？ [新的对话框选项]",
                 "DialogColor": 14479617,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会",
                 "DialogColor": 16128529,
                 "OptionType": 0
             }
@@ -60,19 +60,19 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Welcome to Helms Deep @p !
-The Rohirrim's big Fortress!
-Also called the Hornburg!
+    "DialogText": "欢迎来到海尔姆深谷， @p ！
+洛希尔人的宏伟要塞！
+也被称为号角堡！
 
-We seek refuge here because an inevitable war is on the way.
-But the walls has never fallen unless it was defended by brave men of Rohan!
+我们在此寻求庇护，因为一场不可避免的战争即将来临。
+但除非有勇敢的洛汗人防守，否则城墙是不会倒塌的！
 
-Luckily the elves sent us reinforcements!
-Nevertheless, we are too few...
-Where is Gondor? Where was Gondor when the Westfold fell?
+幸运的是，精灵们给我们送来了援军!
+然而，我们人太少了...
+刚铎在哪里？西伏尔德陷落时，刚铎在哪儿？
 
-Wormtongue has poisoned me long enough!
-Saruman will pay for his betrayal!",
+佞舌已经毒害我们够久了！
+萨茹曼会为他的背叛付出代价的！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

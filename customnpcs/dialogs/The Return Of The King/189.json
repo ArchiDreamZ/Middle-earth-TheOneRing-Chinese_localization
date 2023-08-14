@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 190,
-                "Title": "I will go on! (Quest Start)",
+                "Title": "我要继续！ (任务开始)",
                 "DialogColor": 2291745,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 191,
-                "Title": "I'll take care of the Witch King first! (Side Quest Start)",
+                "Title": "我要先解决巫王！ (支线任务开始)",
                 "DialogColor": 14999315,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I don't trust you! ",
+                "Title": "我不相信你！ ",
                 "DialogColor": 16126481,
                 "OptionType": 0
             }
@@ -61,13 +61,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "We've climbed far, oh yes, my precious!
-Very high this place. BEWARE now! Otherwise we fall deep!
-Gollum, Gollum!
+    "DialogText": "我们已经爬得很远了，哦，是的，我的宝贝！
+这地方很高。现在要小心！否则我们会陷得很深！
+咕噜，咕噜！
 
-Here it is, the tunnel to Mordor!
-Go ahead, I'll follow you!
-(Gollum chuckles like he's up to something)",
+就是这里，通往魔多的隧道!
+走吧，我跟着你!
+(咕噜咯咯地笑着，好像在做什么。)",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
