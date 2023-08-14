@@ -81,11 +81,11 @@ B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可�
 
 若要中英对比，可以在这里查看：[过去初翻的提交](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pulls?q=is%3Apr+is%3Aclosed)
 
-点击“Files changed”，即可查看。
+后面深绿色标注“Help wanted”的即是需要润色的。点进去，然后点击“Files changed”，即可该部分的查看中英对比。
 
 > ![文件改动](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/c20fe6f6-ef2d-49d8-9209-04c01d2cb3e9)
 
-点这里可以左右对比：
+点这里可以设置左右对比：
 
 > ![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
 
