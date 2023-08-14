@@ -55,7 +55,7 @@ MEGA云盘：
 
 在dialogs里的每一个文件都是一个NPC的对话框，里面是对话框的文本和选项。
 
-![image](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/444570ed-920b-4ad6-9c55-ba2b5906702d)
+![260354525-444570ed-920b-4ad6-9c55-ba2b5906702d](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/c7fcded6-3420-4779-9388-fef865b35dfa)
 
 上面的“Title”短句是该对话框的选项，玩家可以选择。
 
