@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！(跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后吧，再会!",
+                "Title": "也许以后吧，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,13 +88,13 @@
     "TextWidth": 300,
     "DialogTitle": "Sam follow",
     "PreviousBlocks": 1b,
-    "DialogText": "你以为我会让你独自前往魔多吗?
-我想和你一起去，最终见到精灵，经历一次冒险!
+    "DialogText": "你以为我会让你独自旅行吗？
+我想和你一起去，最终见到精灵，经历一次冒险！
 
-如果我再走一步，我离家就会比以往任何时候都要远。
+只要我再迈一步，这就是我离家最远的一次了。
 
 那边是白兰地桥..但是..那是什么？那里有一位甘道夫提到的黑骑手吗？
-我们最好乘坐老渡船过河！
+我们最好走雄鹿镇渡口，乘坐老渡船过河！
 >>(你可以带上山姆作为同伴)<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
