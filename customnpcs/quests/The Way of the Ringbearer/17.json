@@ -7,14 +7,15 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 15: Destroy The One Ring!",
-    "Text": "One Ring to rule them all!
-to find them all
-to drift into the dark.
-And bind forever!
+    "Text": "统御余众，魔戒至尊！
+网罗余众，魔戒至尊，
+禁锢余众，魔戒至尊！
 
-Throw the one ring of power
-into the lava of Mount Doom!
-And saves the whole of Middle-earth from destruction!",
+将至尊魔戒，
+投入到末日火山的熔岩中！
+拯救整个中洲免于毁灭！
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -43,17 +44,25 @@ And saves the whole of Middle-earth from destruction!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is... the place where Sauron once forged the one ring of power!
+    "CompleteText": "就是这里...索隆曾经铸造过至尊魔戒的地方！
 
-..the only place where he can be destroyed!
+..也是唯一能够摧毁它的地方！
 
-<You lean over the slope and take the ring out of your pocket...>
+<你趴在山坡上，从口袋里取出那枚戒指...>
 
-The fate of all Middle-earth depends on this moment!
+整个中洲的命运就取决于这一刻！
 
-The story ends here! Well done! @p you will be sung about in songs!
+故事在此结束！干得好！ @p 你将会在歌谣之中被传颂！
 
-An eagle awaits you on the road to the east!",
+一只大鹰在通往东方的道路上等待着你！
+
+
+
+
+
+
+
+",
     "NextQuestTitle": "",
     "QuestLocation": "Saurons Forge"
 }

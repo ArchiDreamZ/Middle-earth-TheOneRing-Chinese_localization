@@ -7,13 +7,13 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 6: Argonath",
-    "Text": "Lothlorien.. probably the most beautiful place in middle-earth..
-and I willingly leave it to see a desert of ashes and dust...
+    "Text": "洛丝罗瑞恩..可能是中洲最美的地方..
+而我却心甘情愿地离开它，去看一片灰烬和尘土的沙漠...
 
-Lady Galadriel has provided me with supplies and a boat at the docks.
-The journey continues south across the River Anduil.
+加拉德瑞尔夫人在码头为我提供了补给和一艘船。
+旅程继续向南，横跨安度因河。
 
-With every step I get closer to Mordor!",
+每走一步，我就离魔多更近一步！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,11 +42,12 @@ With every step I get closer to Mordor!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here are the statues Lady Galadriel spoke of!
+    "CompleteText": "这就是加拉德瑞尔夫人说的雕像！
 
-I should search the West Shore. And set up camp for the night.
+我应该在西岸搜查。并在这里扎营过夜。
 
-Do i see Boromir in the distance? What is he doing there alone?",
+我能看到远处的波洛米尔，他一个人在那儿干什么？
+",
     "NextQuestTitle": "Part 7: Amon Hen",
     "QuestLocation": "Argonath"
 }

@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 3: Helms Deep",
-    "Text": "I've been asking around and it looks like Helm's Deep is my next destination!
-I hope I'll be there in time!",
+    "Text": "我四处打听了一下，看来海尔姆深谷是我的下一个目的地！
+我希望我能及时赶到那里！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,9 +37,9 @@ I hope I'll be there in time!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "The battle is already underway!
-Thousands of orcs have surrounded the Castle!
-I should look for Theoden!",
+    "CompleteText": "战斗已经开始了！
+成千上万的奥克包围了堡垒！
+我应该去找希奥顿！",
     "NextQuestTitle": "",
     "QuestLocation": "Helms Deep"
 }

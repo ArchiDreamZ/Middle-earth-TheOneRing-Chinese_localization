@@ -7,12 +7,12 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 8: The River Escape",
-    "Text": "- Escape from the Elven Kingdom!
-Thranduil has only his jewels inmind and has locked us up! We must escape from his prison!
-Maybe there's a path to the river somewhere around here?
+    "Text": "- 逃离精灵王国！
+瑟兰杜伊只想着他的珠宝，把我们关了起来！我们必须逃出他的监狱！
+也许这附近有条通往河边的路？
 
-When I find it, I should swim east, Lake-town is the next destination,
-I hope on the way someone can help us to get into town.",
+找到后，我应该往东游，下一个目的地就是长湖镇，
+我希望路上有人能帮我们进城。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -41,9 +41,12 @@ I hope on the way someone can help us to get into town.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "We have left the elven pursuers behind!
+    "CompleteText": "我们已经甩掉了精灵的追兵！
 
-But how do we get to the lake town??",
+但我们怎么去长湖镇呢？？
+
+
+",
     "NextQuestTitle": "",
     "QuestLocation": "Bard"
 }

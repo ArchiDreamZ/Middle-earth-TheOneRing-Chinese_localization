@@ -6,7 +6,10 @@
     "QuestCompletion": 0,
     "IgnoreNBT": 1b,
     "Title": "Old Gamgee Basement",
-    "Text": "The old Gamgee asked me about help with a letter he needs out of his basement. ",
+    "Text": "老甘姆吉让我帮他从地下室取出一封信。 
+
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,6 +56,6 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "I have found the letter and should bring it back to Old Gamgee. ",
+    "CompleteText": "我找到了那封信，应该把它带给老甘姆吉。 ",
     "NextQuestTitle": ""
 }

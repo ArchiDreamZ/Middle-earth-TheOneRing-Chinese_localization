@@ -5,8 +5,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: Radagast",
-    "Text": "Dol Guldur is being haunted by a dark necromancer.
-I should talk to Radagast about what to do next.",
+    "Text": "多古尔都被一个黑暗的死灵法师所困扰。
+我应该和拉达加斯特谈谈下一步该怎么做。
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -47,6 +48,7 @@ I should talk to Radagast about what to do next.",
             }
         ]
     },
-    "CompleteText": "Side Quest finished:",
+    "CompleteText": "支线任务完成：
+",
     "NextQuestTitle": ""
 }

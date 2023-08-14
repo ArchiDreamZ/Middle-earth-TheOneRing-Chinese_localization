@@ -5,8 +5,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 12: The Dragon Smaug",
-    "Text": "Bilbo helped me to open the door, now I have to go in search of the dragon Smaug.
-To banish him from this country once and for all.",
+    "Text": "比尔博帮我打开了门，现在我得去找恶龙史矛革了。
+把他永远驱逐出这个国家。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -41,16 +41,23 @@ To banish him from this country once and for all.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I did it!
-Smaug is no more!
-After a long and hard fight I defeated him!
+    "CompleteText": "我做到了!
+史矛革死了!
+经过长时间的艰苦战斗，我打败了他!
 
-The dwarves have the Erebor back.
-My journey is complete.
+矮人们夺回了埃瑞博。
+我的旅程结束了。
 
-But Middle-earth is not safe yet.. an old shadow is growing in the east.
-More tasks are waiting for me!
+但中洲还不安全...一个古老的暗影正在东方生长。
+还有更多的任务等着我呢!
 
-(Quest: \"The Way of the Hobbit\" Ends Here, Thanks for Playing)",
+(任务： \"霍比特人之路\" 到此结束，感谢您的游玩)
+
+
+
+
+
+
+",
     "NextQuestTitle": ""
 }

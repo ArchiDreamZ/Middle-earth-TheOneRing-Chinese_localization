@@ -1,11 +1,12 @@
-{
+0{
     "CompleterNpc": "Tom Bombadil",
     "NextQuestId": 68,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Mount Gram",
-    "Text": "Tom Bombadil was in Willowbuttom to warn the Hobbits about the dark times. It seems like Orcs are close to the shire border. The origin of that is coming from the old Mount Gram. We should see what this is all about. ",
+    "Text": "汤姆邦巴迪尔在柳谷镇警告霍比特人黑暗时代的来临。 
+奥克似乎已经离夏尔边境很近了。它们来自于古老的格拉姆山。我们应该看看这到底是怎么回事。 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,6 +41,6 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I have killed the Orc leader and he have lost an important looking stone, i should bring it to Tom Bombadil in Willowbuttom. ",
+    "CompleteText": "我已经杀死了奥克首领，他丢失了一块看起来很重要的石头，我应该把它带给柳谷镇的汤姆邦巴迪尔。 ",
     "NextQuestTitle": ""
 }

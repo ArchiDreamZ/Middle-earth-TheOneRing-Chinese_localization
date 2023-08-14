@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "I have to go and warn the people of Minas Thirith!",
+                "Title": "我得去提醒米那斯提力斯的人！",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }
@@ -41,7 +41,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "<< You take a look into the Palantir and see the white tree of Minas Thirith burning >>",
+    "DialogText": "<< 你向帕兰提尔看了一眼，看到米那斯提力斯的白树在燃烧 >>",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

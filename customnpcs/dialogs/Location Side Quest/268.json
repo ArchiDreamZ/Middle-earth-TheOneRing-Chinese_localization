@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -40,7 +40,19 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Thank you very much @p!Rabbits? Oh noo.. thats why my food disappeared...Thank you for telling me, I will tell Sam to put some traps there.Here, take this potato as a thanks, you have to try them. I'm known to make the best ones.Oh and by the way if you like adventures, you have to visit Willowbottom.I've heard they needed someone for a task there.See you @p!",
+    "DialogText": "非常感谢你，， @p!
+
+兔子？ 哦不..这就是为什么我的食物不见了...
+谢谢你告诉我，我会告诉山姆在那里放些陷阱的。
+
+给，拿着这个土豆作为谢礼，你一定要尝尝。 我做的土豆最好吃了。
+
+哦，顺便说一下，如果你喜欢冒险，你一定要去柳谷镇。
+我听说他们需要人来完成一项任务。
+
+
+再见， @p！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

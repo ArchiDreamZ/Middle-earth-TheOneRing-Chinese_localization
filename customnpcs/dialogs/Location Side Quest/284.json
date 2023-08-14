@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Come with me! (Follower menu)",
+                "Title": " 跟我来！(跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "I want to fast travel to a map waypoint.",
+                "Title": "我想快速旅行到地图上的路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Maybe later, Goodbye!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,10 +88,11 @@
     "TextWidth": 300,
     "DialogTitle": "Legolas fangorn follow",
     "PreviousBlocks": 1b,
-    "DialogText": "A red sun rises. Blood has been spilled this night.
-(Speaks Elvish): Hiro hyn hidh ab 'wanath. May they find peace after death. 
+    "DialogText": "红红太阳升起来，血红血红出夜空。
+(精灵语): Hiro hyn hidh ab 'wanath. 
+愿他们死后得以安息。 
 
-I will follow you into battle if you want @p.",
+如果你愿意，我将跟随你上战场， @p。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

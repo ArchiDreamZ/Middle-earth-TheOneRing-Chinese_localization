@@ -7,15 +7,15 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 1: Lets go on an Adventure!",
-    "Text": "Sauron is back, and with him is the One Ring.
+    "Text": "索隆回来了，带着他的至尊魔戒。
 
-It cannot stay in the Shire!
+它不能留在夏尔！
 
-Meet with Gandalf in Bree to discuss further!
+与甘道夫在布理会面，进一步讨论！
 
-But beware of the Black Riders!
+但是要提防黑骑手！
 
-They are drawn to the power of the ring!",
+他们会被魔戒的力量吸引！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -44,13 +44,17 @@ They are drawn to the power of the ring!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "\"This is the inn Gandalf spoke of.
+    "CompleteText": "\"这就是甘道夫说过的旅馆。
 
-But he doesn't seem to be here!
+但他好像不在这儿！
 
-Has something happened to him?
+他出什么事了吗？
 
-Otherwise he is always on time!\"( Someone is watching you from the corner of the room !)",
+否则他总是准时的！\"
+
+(有人在房间的角落里看着你！)
+
+",
     "NextQuestTitle": "",
     "QuestLocation": "Bree Inn"
 }

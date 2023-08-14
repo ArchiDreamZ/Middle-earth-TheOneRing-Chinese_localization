@@ -7,9 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: Dol Guldur",
-    "Text": "The wizard Radagast the Brown asked me to see if all is well in the old fortress of Dol-Guldur.
-The green forest is cursed and he thinks there is a source of evil.
-I hope he's wrong.",
+    "Text": "褐袍巫师拉达加斯特要我去看看多尔古都的老堡垒是否一切安好。
+大绿林被诅咒了，他认为那里有邪恶之源。
+希望他是错的。
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,13 +40,13 @@ I hope he's wrong.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is, the old fortress of Dol-Guldur.
-Radagast was right...a spooky place.
-And I feel a dark power.
-I should take a look around here.
+    "CompleteText": "就是这里，多古尔都的古老堡垒。
+拉达加斯特说得没错...一个阴森恐怖的地方。
+我感受到一股黑暗力量。
+我得四处看看。
 
-The air is filled with cold and I feel like I'm being watched..
-I wish I had waited for Gandalf..",
+空气中弥漫着寒气，我感觉自己被监视着...
+真希望我能等到甘道夫..",
     "NextQuestTitle": "Side Quest: The Necromancer",
     "QuestLocation": "Dol Guldur"
 }

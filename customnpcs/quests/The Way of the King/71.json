@@ -7,7 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 11: Pelennor field battle",
-    "Text": "I have to look out for Theoden and the Rohirrim! They need my help fighting the Orcs of Mordor!I hope it's not to late!",
+    "Text": "我得注意寻找希奥顿和洛希尔人,他们在与魔多奥克的战斗中需要我的帮助！
+希望还来得及！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +37,8 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Oh no!! There he is and he is allready wounded, i should speak to him and Eowyn.",
+    "CompleteText": "哦，不! !他在那里，他已经受伤了，我应该跟他和伊奥温谈谈。
+",
     "NextQuestTitle": "",
     "QuestLocation": "Theoden"
 }

@@ -5,7 +5,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 9: The ships of Umbar",
-    "Text": "The King of the Dead and his army of dead soldiers of oathbreakers will follow is into the battle against Sauron!Now I have to find the ships of the Umbar Corsairs and take them in our controll. That should be a great surprise to the Orcs at the port of Minas Tirith.",
+    "Text": "亡者之王和他的背誓者亡者大军将跟随我们与索伦作战！
+
+现在我必须找到乌姆巴尔海盗的船只，并将其纳入我们的控制范围。
+这对米那斯提力斯港口的奥克来说应该是个巨大的惊喜。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -40,6 +43,8 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "The Umbar pirate captains are defeated! Now I can take the ship and drive to Minas Thirith! I hope it's not to late!",
+    "CompleteText": "乌姆巴尔海盗船长们已经被击败！
+现在我可以乘船前往米那斯提力斯了！
+希望还不算太晚！",
     "NextQuestTitle": "Part 10: The south port of Gondor"
 }

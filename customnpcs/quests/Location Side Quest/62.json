@@ -7,7 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Utumno",
-    "Text": "Gandalf has told me about a dark place called Utumo, it is located somewhere in the north of Angmar. It should be in the cold mountains of Forodwaith. It's a dangerous mission and I have to go prepared.",
+    "Text": "甘道夫告诉过我一个叫做乌图姆诺的黑暗之地，它位于安格玛北方的某处。  
+应该是在北荒地的寒冷山区。这是个危险的任务，我必须做好准备。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -36,7 +37,8 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is! The dark place Utumno! What a spooky place.. But I have to go into the dark realms and fight the demons of Morgoth!",
+    "CompleteText": "到了！ 
+黑暗之地乌图姆诺，好诡异的地方，但我必须进入黑暗领域，与魔苟斯的恶魔战斗！",
     "NextQuestTitle": "",
     "QuestLocation": "Utumno "
 }

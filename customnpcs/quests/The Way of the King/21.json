@@ -7,10 +7,12 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 8: Path of the Dead",
-    "Text": "Elrond has reforged the sword Narsil
-and sent me down the path of the dead.
+    "Text": "埃尔隆德重新铸造了纳熙尔之剑，
+并把我送进了亡者之路。
 
-Here I am to seek out the king of the dead and convince him to fight on our side!",
+我来找亡者之王并说服他站在我们这边！
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -39,9 +41,10 @@ Here I am to seek out the king of the dead and convince him to fight on our side
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is! The Hall of the Dead!
+    "CompleteText": "在这里！亡者殿堂！
 
-I have to convince the king of the dead to fight with us!",
+我得说服亡者之王和我们一起战斗！
+",
     "NextQuestTitle": "",
     "QuestLocation": "The King of the Dead"
 }

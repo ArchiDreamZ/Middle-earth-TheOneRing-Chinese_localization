@@ -7,9 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 13: Diversionary Tactic",
-    "Text": "Gandalf has given me the task of traveling to the Black Gate of Mordor.
+    "Text": "甘道夫交给我前往魔多黑门的任务。
 
-I'm supposed to buy the Ringbearer time there!",
+我应该在那里为持戒人争取时间！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,9 +38,11 @@ I'm supposed to buy the Ringbearer time there!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "So here is the Black Gate!
+    "CompleteText": "所以这里就是黑门！
 
-What a dark place!",
+多么黑暗的地方！
+
+",
     "NextQuestTitle": "Part 14: The Black Gate",
     "QuestLocation": "The Black Gate"
 }

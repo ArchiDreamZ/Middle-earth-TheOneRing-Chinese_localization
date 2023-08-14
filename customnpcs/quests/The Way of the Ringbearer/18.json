@@ -7,14 +7,14 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 11: The Road to Mordor",
-    "Text": "Fighting through Osgiliath wasn't easy!
+    "Text": "穿越欧斯吉利亚斯的战斗并不容易！
 
-Orcs swarmed the East bank...
+奥克涌入了东岸...
 
-I'm afraid I have to hurry..
-Somewhere to the east there must be a road leading into the Old Morgul Valley...
+恐怕我得快点了...
+东方某处必定有一条通向古老的魔古尔山谷的路...
 
-...not the safest way... but I have no alternative!",
+...虽然不安全...但我别无选择！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -43,12 +43,12 @@ Somewhere to the east there must be a road leading into the Old Morgul Valley...
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I found it! the Morgul Valley!
+    "CompleteText": "我找到了！魔古尔山谷！
 
-The ancient city of Minas Ithil once belonged to Gondor before the Witch-king of Angmar conquered it...
+米那斯伊希尔古城曾经属于刚铎，后来被安格玛巫王征服。
 
-According to Gollum, there is a secret stairway to Mordor in these mountains!
-Can I trust him?...",
+据咕噜说，这山里有一条通往魔多的秘密楼梯！
+我能信任他吗？...",
     "NextQuestTitle": "",
     "QuestLocation": "Minas Morgul"
 }

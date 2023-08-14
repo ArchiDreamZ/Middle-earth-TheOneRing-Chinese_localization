@@ -7,8 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 6: The white city",
-    "Text": "After Saruman is defeated, I must go to Gondor and warn the people. The Palanntir of Saruman showed the planned attack of Sauron on Minas Tirith.
-The people of Gondor need support!",
+    "Text": "萨茹曼被打败后，我必须去提醒刚铎那里的人民。
+萨茹曼的帕兰提尔展示了索隆对米那斯提力斯的攻击计划。
+刚铎人民需要支援！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,9 +38,12 @@ The people of Gondor need support!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is...the white city!
+    "CompleteText": "这就是...白城！
 
-I should go to the Hall of Kings at the top!Saruman is defeated now, but his Palanntir showed a planned attack of Sauron on Minas Tirith, so I have to warn them!",
+我应该去顶层的国王大殿！
+
+萨茹曼现在被打败了，但他的帕兰提尔显示索隆有计划地进攻米那斯提力斯，所以我必须提醒他们！
+",
     "NextQuestTitle": "",
     "QuestLocation": "Minas Tirith"
 }

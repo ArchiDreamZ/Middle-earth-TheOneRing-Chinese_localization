@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: Battle of the 5 Armys",
-    "Text": "Gandalf prepares a defense of the city of Dale.
-I should ask if I can help with that.",
+    "Text": "甘道夫准备保卫河谷城。
+我应该问问能不能帮上忙。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,10 +37,10 @@ I should ask if I can help with that.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here is the ancient city of Tal, once destroyed by the dragon Smaug,
-the people from Dale settled there to defend it against the Orc hordes.
+    "CompleteText": "这里是河谷古城，曾经被恶龙史矛革摧毁，
+来自河谷城的人们在那里定居，以抵御奥克的入侵。
 
-I should find Gandalf.",
+我得去找甘道夫。",
     "NextQuestTitle": "",
     "QuestLocation": "Dale"
 }

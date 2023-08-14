@@ -7,9 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 7: The Beacon",
-    "Text": "Gandalf wants me to light the beacon of Minas Tirith so Rohan can come to the rescue!
+    "Text": "甘道夫要我点亮米那斯提力斯的烽火台，好让洛汗人前来救援！
 
-It is located behind the citadel in the mountains!",
+它位于城堡后面的山上！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,11 +38,11 @@ It is located behind the citadel in the mountains!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "The beacons are burning!
-I lit them just like Gandalf wanted!
-A little bit of hope for Minas Tirith!
+    "CompleteText": "烽火台在燃烧！
+我照甘道夫说的那样点燃了它们！
+米那斯提力斯还有一线希望！
 
-I should speak to Gandalf again!",
+我应该再和甘道夫谈谈！",
     "NextQuestTitle": "",
     "QuestLocation": "The Beacon"
 }

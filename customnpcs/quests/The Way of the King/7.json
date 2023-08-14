@@ -7,9 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 1: Merry and Pippin",
-    "Text": "We have decided not to leave Marry and Pippin to torture and death!
+    "Text": "我们已经决定不让梅里和皮平忍受折磨和死亡！
 
-Aragorn and I tracked the Uruks to Rohan!",
+阿拉贡和我追踪乌鲁克人到了洛汗！
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,9 +40,9 @@ Aragorn and I tracked the Uruks to Rohan!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "As I followed the trail I came to a hill
-where I was blinded by strong, bright light!!
-Saruman?",
+    "CompleteText": "当我沿着小路前行时，来到了一座山上。
+强烈的亮光刺得我睁不开眼！！
+萨茹曼？",
     "NextQuestTitle": "",
     "QuestLocation": "Hobbits"
 }

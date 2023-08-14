@@ -5,7 +5,12 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 12: The Witchking",
-    "Text": "I found the Rohirrim and just arrived in time!The enemy got also support.. from the evil mens of the east and south. They brought giant Mumakils into the battle. A fight the Rohirrim can't win alone! I will help them by killing all the leaders on top and the Witchking himself with the help of Eowyn and Merry!",
+    "Text": "我找到了洛希尔人骑兵，而且恰好及时赶到！
+敌人也得到了支援...来自东方和南方邪恶的人类。他们带来了巨大的猛犸进入战斗。
+这场战斗光靠洛希尔人是赢不了的！
+
+我将通过击败所有首领，并在伊奥温和梅里的帮助下，亲手杀死巫王来帮助他们！
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -44,6 +49,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "The Witchking and the Easterling leaders are dead! Now we should win this battle!I should talk to Gandalf in Minas Tirith next. ",
+    "CompleteText": "巫王和东夷的首领都死了！现在我们应该赢得这场战斗！
+接下来我要去米那斯提力斯找甘道夫谈谈。 ",
     "NextQuestTitle": ""
 }

@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 9: Lake Town",
-    "Text": "A Lake Town man by the name of Bard helped us to find an unnoticed way into the city.
-I should find the mayor and ask for his help in taking the Erebor back.",
+    "Text": "一个叫巴德的长湖镇人帮我们找到了一条不为人知的进城之路。
+我应该去找镇长，请他帮忙夺回埃瑞博。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,8 +37,8 @@ I should find the mayor and ask for his help in taking the Erebor back.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "The mayor is standing there, and it looks like the dwarves are already arguing with him.
-I should ask around and see what they found out.",
+    "CompleteText": "镇长就站在那里，看起来矮人们已经在和他争论了。
+我应该打听一下，看看他们发现了什么。",
     "NextQuestTitle": "",
     "QuestLocation": "The Mayor Hall"
 }

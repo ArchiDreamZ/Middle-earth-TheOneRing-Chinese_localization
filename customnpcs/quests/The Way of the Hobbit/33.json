@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 6: The Brown Wizard",
-    "Text": "After we got new horses and provisions,
-we can now start the journey to the forest gate!",
+    "Text": "在我们换了新马并准备好了补给之后，
+我们现在可以开始前往密林门的旅程了！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,11 +37,16 @@ we can now start the journey to the forest gate!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "There it is... the forest gate of the Elves to Mirkwood or also called the Greenwood...
+    "CompleteText": "就在那里......精灵们通往黑森林或大绿林的密林门...
 
-At least it used to be... now the forest is partially cursed and an evil magic seems to be strong! Rumors says if you leave the path you get lost forever!
+至少以前是这样...现在，这片森林部分受到了诅咒，邪恶的魔力似乎很强！
+传言说，如果你离开这条路，就会永远迷失方向！
 
-Who is standing there, another wizard? And are these rabbits pulling him on a sleigh?",
+站在那里的是谁？ 另一个巫师？这些兔子是用雪橇拉着他的吗？
+
+
+
+",
     "NextQuestTitle": "",
     "QuestLocation": "Forest Gate"
 }

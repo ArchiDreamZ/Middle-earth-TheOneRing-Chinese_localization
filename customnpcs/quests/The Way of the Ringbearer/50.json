@@ -7,13 +7,14 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 3: A long Journey",
-    "Text": "Elrond the Lord of the Elves has decided in his council that the Ring of Power must be destroyed!
+    "Text": "精灵之主埃尔隆德在他的会议上决定必须摧毁魔戒！
 
-But this is only possible in Mount Doom in Mordor!
+但这只有在魔多的末日火山中才可能实现！
 
-The journey takes me next to the Mines of Moria.
+这趟旅程将带我前往墨瑞亚的矿坑。
 
-The entrance is in Eregion at the West Gate.",
+入口位于埃瑞吉安的西门。
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,10 +43,10 @@ The entrance is in Eregion at the West Gate.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it should be, the west gate of Moria.
-The secret door is only revealed in the moonlight.
+    "CompleteText": "应该在这里，摩瑞亚的西门。
+暗门只有在月光下才会显露出来。
 
-There is already Gandalf standing. I should talk to him.",
+甘道夫已经站在那里了。我应该和他谈谈。",
     "NextQuestTitle": "",
     "QuestLocation": "The secret door"
 }

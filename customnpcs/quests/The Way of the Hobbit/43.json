@@ -5,9 +5,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: The Necromancer",
-    "Text": "What a spooky place..
-I hear strange voices in the air and everything is full of spiders.
-I must overcome my fear and look around the dark fortress.",
+    "Text": "真是个令人毛骨悚然的地方...
+我听到空中有奇怪的声音，到处都是蜘蛛。
+我必须克服恐惧，环顾黑暗堡垒的四周。
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -42,15 +43,15 @@ I must overcome my fear and look around the dark fortress.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "What was that?
-It was evil and very powerful.
-Luckily I was able to get rid of it, but only for a short time.
+    "CompleteText": "它邪恶而强大。
+幸运的是我能够摆脱它,但只有很短的一段时间。
 
-This evil must be banished with something stronger than swords.
+必须用比剑更强大的东西来驱逐邪恶。
 
-It can only have been him,..Sauron.. he must be the necromancer.
-I must report this to Radagast.
+只能是他，..索隆..他一定是死灵法师。
+我必须向拉达加斯特报告。
 
-Lets get away from this place before he comes back.",
+在他回来之前，我们快离开这里。
+",
     "NextQuestTitle": "Side Quest: Radagast"
 }

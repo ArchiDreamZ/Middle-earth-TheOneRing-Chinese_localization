@@ -7,12 +7,15 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 10: Gondor",
-    "Text": "The Black Gate will be too well guarded...
-But maybe Gollum knows another way!
+    "Text": "黑门将会被守得很严密...
+但也许咕噜知道另一条路！
 
-Apparently I have to cross the middle of the war zone in Gondor!...
-I also met the young captain Faramir.
-I hope he comes to his senses and lets me go.",
+显然，我必须穿越刚铎的战争中心！...
+我还遇到了年轻的大将法拉米尔。
+我希望他能清醒过来放我离开。
+
+
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -41,10 +44,11 @@ I hope he comes to his senses and lets me go.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Faramir took me to Osgliath.
-The once beautiful city of Gondor which now resembles a war ruin...
+    "CompleteText": "法拉米尔带我来到了欧斯吉利亚斯。
+这座曾经美丽的刚铎城市如今破败不堪，宛如一片战争的废墟...
 
-It's far too dangerous to be here, I must convince Faramir to let me go.",
+在这里太过危险了，我必须说服法拉米尔让我离开。
+",
     "NextQuestTitle": "",
     "QuestLocation": "Osgiliath"
 }

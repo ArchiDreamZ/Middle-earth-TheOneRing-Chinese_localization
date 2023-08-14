@@ -5,10 +5,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 12: The Spider Shelob",
-    "Text": "Gollum led to the secret tunnel at Minas Morgul.
-I don't know if I can trust him, but I have no other choice.
+    "Text": "咕噜把我带到了米那斯魔古尔的秘密通道。
+我不知道能不能相信他，但我别无选择。
 
->>(Kill the spider Shelob, it is at the exit of the tunnel)<<",
+>>(杀死蜘蛛希洛布，它在地道的出口处)<<",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -43,13 +43,13 @@ I don't know if I can trust him, but I have no other choice.
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Gollum has betrayed us!
-It was a trap and a giant spider appeared!
+    "CompleteText": "咕噜背叛了我们！
+这是一个陷阱，一只巨大的蜘蛛出现了！
 
-Luckily I was able to defeat it after a hard fight.
-There is no trace of Gollum. I should move on quickly.
+幸运的是，在一场艰苦的战斗后，我成功地击败了它。
+咕噜已经无影无踪。我应该迅速继续前进。
 
-Only it will be difficult to get past the old watchtower Cirith Ungol.
-I should take a look there first!",
+但要越过古老的奇立斯乌苟之塔将会很困难。
+我应该先去那里看看！",
     "NextQuestTitle": "Part 13: Cirith Ungol"
 }

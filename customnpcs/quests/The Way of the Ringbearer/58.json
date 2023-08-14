@@ -5,10 +5,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 13: Cirith Ungol",
-    "Text": "The old watchtower Cirith Ungol is probably still inhabited, I hear orcs fighting.
-I should fight my way to the top. Maybe there is something interesting to get there that could help me with the journey.
+    "Text": "古老的奇立斯乌苟之塔可能还有人居住，我听到奥克在战斗。
+我应该努力登顶。也许那里有什么有趣的东西可以帮助我完成旅程。
 
->>(Kill the two orc leaders on the top of the tower)<<",
+>>(杀死塔顶的两个奥克首领)<<",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -47,13 +47,13 @@ I should fight my way to the top. Maybe there is something interesting to get th
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "I fought my way through the orcs and killed the two orc leaders at the top.
-Among their stolen treasures was Frodo's mithril mail.
-It's light as a feather yet hard as dragon armor!
-I could be a good use.
+    "CompleteText": "我战胜了奥克，杀死了塔顶上的两名奥克首领。
+在他们偷来的财宝中，有佛罗多的秘银链甲。
+它轻如羽毛，却坚硬如龙甲！
+这将会派上用场。
 
-I should now continue on the path towards Mordor.
-It's almost done! Hopefully we'll go unnoticed for the rest of our trip.
-If we fail, all of Middle-earth is lost!",
+我现在应该继续向魔多的方向前进。
+已经接近了！希望我们在旅途的剩余部分能够不被察觉。
+如果我们失败了，中洲将会毁灭！",
     "NextQuestTitle": "Part 14: Weit weg von Zuhause!"
 }

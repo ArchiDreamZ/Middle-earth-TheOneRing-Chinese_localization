@@ -7,9 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 7: The Woodland Realms",
-    "Text": "I met Radagast the brown one. He warned me about all sorts of evil forces that are going on at the moment!
-I should be careful on my journey to the Elves!
-The forest is full of spiders. Also, I shouldn't leave the path, the dark magic there is playing with my mind!",
+    "Text": "我遇到了褐袍巫师拉达加斯特。他警告我现在有各种邪恶势力在作祟！
+我在去精灵族的路上一定要小心！
+森林里到处都是蜘蛛。还有，我不应该离开小路，那里的黑暗魔法在玩弄我的心智！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -38,9 +38,10 @@ The forest is full of spiders. Also, I shouldn't leave the path, the dark magic 
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Finally a way out of the woods!
-Here is the heart of the kingdom of the Wood Elves and the halls of King Thranduil.
-Maybe he can help us with our mission!",
+    "CompleteText": "终于走出树林了！
+这里是森林精灵王国的中心和瑟兰杜伊国王的殿堂。
+也许他能帮我们完成任务！
+",
     "NextQuestTitle": "",
     "QuestLocation": "Thranduils Halls"
 }

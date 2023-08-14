@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 10: Erebor",
-    "Text": "I should quickly leave Lake-town behind me and continue the great journey to Mount Erebor.
-Soon the dwarves will reclaim their rightful home!",
+    "Text": "我应该尽快离开长湖镇，继续前往埃瑞博山的伟大旅程。
+矮人很快就会夺回属于他们的家园！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -37,9 +37,9 @@ Soon the dwarves will reclaim their rightful home!",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is, the Erebor.
-Once the great city of the dwarves, now the home of the dragon Smaug.
-I should find Thorin he sure knows what to do next.",
+    "CompleteText": "就在这里，埃瑞博。
+曾经是矮人伟大的城市，现在却成了恶龙史矛革的家园。
+我应该找到梭林，他肯定知道接下来该怎么做。",
     "NextQuestTitle": "",
     "QuestLocation": "Thorin"
 }

@@ -7,12 +7,14 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 9: The Dead Marshes",
-    "Text": "I met the creature, Gollum.
-He must have been following us.
-I don't trust him, but I have no choice.
-After all, I need a guide into Mordor and he knows the way.
-Our next destination is the Dead Marshes.(x79549 y64 z53913)
-And from there toward the road point in North Ithilien.",
+    "Text": "我遇到了那个怪物，咕噜。
+他一定是在跟踪我们。
+我不相信他，但我别无选择。
+毕竟，我需要一个进入魔多的向导，而他知道怎么走。
+我们的下一个目的地是死亡沼泽。
+(x79549 y64 z53913)
+然后继续前往伊希利恩北部的道路路口。
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -41,11 +43,11 @@ And from there toward the road point in North Ithilien.",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Finally, the long journey through this stinking bog is over.
+    "CompleteText": "终于，穿过这个恶臭泥沼的漫长旅程结束了。
 
-There is a way up that mountain to the east!
-I should take a look around.
-I'm sure I'll have a better view from there.",
+东边有条路可以爬上那座山！
+我应该四处看看。
+我相信从那里能有更好的视野。",
     "NextQuestTitle": "",
     "QuestLocation": "North Ithilien"
 }
