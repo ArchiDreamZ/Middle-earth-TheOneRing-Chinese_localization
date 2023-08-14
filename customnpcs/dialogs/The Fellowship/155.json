@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 15995923,
                 "OptionType": 0
             }
@@ -51,13 +51,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "\"Mellon\"
+    "DialogText": "“Mellon”
 
 >> 门开始打开 <<
-太棒了 @p !
-你来了!
-现在我们必须得面对墨瑞亚的漫长黑夜。
-照顾好自己! 永远记住，如果你不知道下一步要去哪里，
+太棒了 @p ！
+你做到了！
+现在我们必须得面对墨瑞亚的漫长黑暗。
+照顾好自己！永远记住，如果你不知道下一步要去哪里，
 当你有疑问时，永远要相信自己的鼻子。
 ",
     "AvailabilityQuest4Id": -1,
