@@ -42,7 +42,7 @@ MEGA云盘：
 
 后续又更新了汉化，请手动下载汉化并添加进地图包
 
-![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
+> ![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
 
 放进saves/Middleearth - The One Ring/customnpcs里。
 
@@ -70,7 +70,7 @@ MEGA云盘：
 
 在提交修改时，不要只写一个“汉化”，这样别人一眼看上去也不知道汉化了什么，稍微详细一点。
 
-![提交修改](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/004cf4db-9de7-4539-bc71-241d9eae484f)
+> ![提交修改](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/004cf4db-9de7-4539-bc71-241d9eae484f)
 
 例如我修改了219号文件，那写：翻译/润色-NPC名-简单描述-文件名，这样的格式。如果觉得这个文件只是机翻没经过润色，就必须标注“待润色”，润色过了就标注润色。
 
@@ -83,11 +83,11 @@ B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可�
 
 点击“Files changed”，即可查看。
 
-![文件改动](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/c20fe6f6-ef2d-49d8-9209-04c01d2cb3e9)
+> ![文件改动](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/c20fe6f6-ef2d-49d8-9209-04c01d2cb3e9)
 
 点这里可以左右对比：
 
-![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
+> ![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
 
 ### 翻译标准
 ①首先，要注意译名，如果发现难以翻译的、不像常用词汇的词，例如机翻出来的“航点”，这是模组里的专有名词，只能翻译成“路径点”。
