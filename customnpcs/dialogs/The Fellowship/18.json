@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 21,
-                "Title": "我将完成我的使命!{任务开始}",
+                "Title": "我将完成我的使命！{任务开始}",
                 "DialogColor": 3210257,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 20,
-                "Title": "如果你要求我的话，我就把至尊魔戒给你。 ",
+                "Title": "只要你开口...我就把至尊戒交给你。 ",
                 "DialogColor": 850157,
                 "OptionType": 1
             }
@@ -60,13 +60,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "这就是未来会发生的，如果你们失败了。 
+    "DialogText": "若你此行失败，这便是随之发生的未来。
 
-魔戒同盟正在瓦解，这已经开始了。 
+魔戒同盟即将分崩离析，这已初见端倪。 
 
-他会试图夺取魔戒，你知道我在说谁。一个接一个， 
+他会尝试夺走魔戒，你明知我所指谓谁。
 
-魔戒将摧毁他们..
+魔戒会接二连三地...腐化他们..
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
