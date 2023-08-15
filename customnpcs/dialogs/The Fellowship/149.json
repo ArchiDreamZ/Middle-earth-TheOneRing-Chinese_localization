@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 150,
-                "Title": "你最好把它关掉。",
+                "Title": "你最好把火灭掉。",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "祝您用餐愉快，再会!",
+                "Title": "用餐愉快，再见！",
                 "DialogColor": 16386568,
                 "OptionType": 0
             }
