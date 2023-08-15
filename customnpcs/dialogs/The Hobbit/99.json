@@ -41,18 +41,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "Grrr.. 有三次尝试，我的宝贝.. 我们可以猜3次!
-
--手!...
-
-{喃喃自语:嗯．．鱼骨头．．湿贝壳．．蝙蝠翅膀．．}
-
--是剑!! 啊！　闭嘴!!
-
--线头... 或者
--什么都没有！
-
-",
+    "DialogText": "*不耐烦的咕噜声* 猜三次，宝贝.. 他要得给我们猜三次!
+手!...
+    
+{喃喃自语:鱼骨头．．半兽人牙齿..湿贝壳．．蝙蝠翅膀．．}
+    
+刀子!! 啊！闭嘴吧!!
+    
+线头... 或者
+    
+什么都没有！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
