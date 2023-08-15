@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 101,
-                "Title": "你丢了什么?",
+                "Title": "你丢了什么？",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -42,6 +42,7 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "{咕噜开始低声哭泣}
+*抽泣声*
 
 输了..是吗？我们输了吗？
 输...
