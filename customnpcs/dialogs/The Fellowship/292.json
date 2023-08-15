@@ -78,8 +78,10 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn Lothlorien",
     "PreviousBlocks": 1b,
-    "DialogText": "休息一下吧..
-这些边界有着很好的保护。明天我们将乘船前往阿刚那斯。 
+    "DialogText": "去休息吧..
+这里非常安全，不必担心。
+
+明天我们将乘船前往阿刚那斯。 
 我们在夜幕降临时穿过湖泊，藏好船只，然后徒步继续行程...我们从北面前往魔多。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
