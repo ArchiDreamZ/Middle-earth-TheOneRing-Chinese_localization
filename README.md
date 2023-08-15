@@ -81,9 +81,9 @@ B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可�
 
 若要中英对比，可以在这里查看：
 
-NPC对话：[霍比特人章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/11/files)、[双塔奇谋章 与 王者归来章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/12/files)
+**NPC对话**：[霍比特人章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/11/files)、[双塔奇谋章 与 王者归来章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/12/files)
 
-任务：[全4章任务](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/13/files)
+**任务**：[全4章任务](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/13/files)
 
 点这里可以设置左右对比，更方便查看：
 
