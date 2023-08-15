@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 100,
-                "Title": "全错了！你输了！现在告诉我出口在哪里！",
+                "Title": "全错了，行了，我们走吧，你保证过我要给我出去的路。",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
