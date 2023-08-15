@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 99,
-                "Title": "不，你说过我可以问你任何问题．．所以。我口袋里有什么？",
+                "Title": "不不不，你说让我问你一个问题。这就是我的问题。我的口袋里有什么？",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,10 +41,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "这并不适用...
-这是违反游戏规则的...
+    "DialogText": "这不公平！
+违反规则了！
 
-问我们别的问题！...
+换一个问题问我们！
 
 ",
     "AvailabilityQuest4Id": -1,
