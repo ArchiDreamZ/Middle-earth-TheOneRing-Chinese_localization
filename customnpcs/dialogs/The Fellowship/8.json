@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 202,
-                "Title": "萨茹曼是谁?",
+                "Title": "萨茹曼是谁？",
                 "DialogColor": 16046344,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 203,
-                "Title": "这些戒灵是谁?",
+                "Title": "这些戒灵是谁？",
                 "DialogColor": 16046344,
                 "OptionType": 1
             }
@@ -37,7 +37,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "让我们一起去冒险吧!",
+                "Title": "让我们一起去冒险吧！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -70,11 +70,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "将戒指带到幽谷，埃尔隆德领主会知道该怎么做。
-这将是一段漫长而危险的旅途！在布理的跃马客栈与我会合。
-与此同时，我将去拜访我的老朋友白袍巫师萨茹曼......我必须向他请教！
+    "DialogText": "这将是一段漫长而危险的旅途！在布理的跃马客栈与我会合。
 
-现在去吧， @p !! 整个中洲都指望着你！！
+与此同时，我得去见本道的领袖萨茹曼，他兼具博识与力量......我必须向他请教！
+
+现在去吧， @p ！！ 整个中洲都指望着你！！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
