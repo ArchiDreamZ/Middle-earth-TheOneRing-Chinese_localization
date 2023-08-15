@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16128014,
                 "OptionType": 0
             }
@@ -50,12 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "这就是它， @p
-墨瑞亚的矮人王国的大门。
-通过萨茹曼的咒语是不可能穿过卡拉兹拉斯山的。
+    "DialogText": "就是这里， @p
+通往墨瑞亚的矮人王国的大门。
+由于萨鲁曼的咒语，穿越卡拉兹拉斯隘口是不可能的。
 
-所以我们必须穿过山下... 一段漫长而危险的旅程...
-矮人们挖得太贪婪太深了。恐惧在深渊中苏醒。
+所以我们必须取道山内... 一段漫长而危险的旅程...
+矮人过于贪心，开掘太深。
+他们在卡扎督姆的黑暗中唤醒了...魔影与烈焰..
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
