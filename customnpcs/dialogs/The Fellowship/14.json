@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 15,
-                "Title": "我会看到什么?",
+                "Title": "我会看见什么？",
                 "DialogColor": 16316407,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许下一次吧!",
+                "Title": "也许下一次吧！",
                 "DialogColor": 16388360,
                 "OptionType": 0
             }
@@ -50,13 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "欢迎来到洛斯罗瑞恩 @p !
+    "DialogText": "欢迎来到洛斯罗瑞恩 @p ！
 
-命运伫立在一把刀的边缘!
+命运在边缘徘徊，如风中之微！
 
-东方现在出现了阴影，魔多的力量在增长!
+阴影在东方苏醒，魔多的力量与日俱增！
 
-看见我面前的镜子!
+你要看看这面水镜吗？
 
 ",
     "AvailabilityQuest4Id": -1,
