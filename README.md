@@ -85,6 +85,8 @@ B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可�
 
 **任务**：[全4章任务](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/13/files)
 
+也可以直接下载英文版文件，在[Releases](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/releases)里下载。
+
 点这里可以设置左右对比，更方便查看：
 
 > ![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
