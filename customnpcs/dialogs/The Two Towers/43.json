@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 44,
-                "Title": "我将要去伊森加德！ {任务开始}",
+                "Title": "我将要去艾森加德！ {任务开始}",
                 "DialogColor": 1834010,
                 "OptionType": 1
             }
@@ -50,13 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "萨茹曼正安全地躲在他在艾森加德的欧尔桑克塔里！
+    "DialogText": "萨茹曼正安全地躲在艾森加德的欧尔桑克塔里！
 
-去找他，让他为这次背叛受到应有的惩罚！
+去找他，他将为这次背叛受到应有的惩罚！
 
-只要这场战争还在继续，我就会在埃多拉斯与甘道夫和阿拉贡协商。
+只要这场战争还在继续，我就会在埃多拉斯与甘道夫和阿拉贡讨论。
 
-谢谢你的帮助， @p! 没有你，海尔姆深谷将不复存在！",
+感谢你的帮助， @p! 没有你，海尔姆深谷便不复存在！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
