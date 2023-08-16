@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 173,
-                "Title": "我们来自夏尔，肩负着一项重要的使命。",
+                "Title": "我们是夏尔国的霍比特人，我叫佛罗多·巴金斯 他是山姆怀斯·甘姆齐。",
                 "DialogColor": 16382446,
                 "OptionType": 1
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "不是间谍那你们是什么人？ 说！快！",
+    "DialogText": "不是间谍那你们是什么人？ 说！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
