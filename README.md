@@ -70,7 +70,7 @@ MEGA云盘：
 
 在提交修改时，不要只写一个“汉化”，这样别人一眼看上去也不知道汉化了什么，稍微详细一点。
 
-> ![提交修改](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/0857c944-2c0c-48bb-999c-7739aa6f0d3c)
+> ![提交修改](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/555e25f9-9883-4f33-b8da-97d66b1259b1)
 
 例如我修改了219号文件，那写：翻译/润色-NPC名-简单描述-文件名，这样的格式。如果觉得这个文件只是机翻没经过润色，就必须标注“待润色”，润色过了就标注润色。
 
