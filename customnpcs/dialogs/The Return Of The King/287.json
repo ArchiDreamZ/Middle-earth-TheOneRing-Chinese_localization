@@ -88,11 +88,11 @@
     "TextWidth": 300,
     "DialogTitle": "Merry follow isengard",
     "PreviousBlocks": 1b,
-    "DialogText": "欢迎来到艾森加德，我的大人们！
+    "DialogText": "欢迎，各位大人，来到艾森加德！
 皮平和我搜查了萨茹曼的食品储藏室。
 他对食物有着很好的品味。 
-我们奉树须之命，
-他接管了艾森加德的管理权。
+我们也是奉命，听树须指示的
+现在是他来管辖艾森加德。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
