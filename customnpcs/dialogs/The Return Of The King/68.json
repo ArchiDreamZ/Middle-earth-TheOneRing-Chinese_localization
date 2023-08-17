@@ -51,15 +51,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我的主人索隆想向您致以问候！
+    "DialogText": "我的主人，伟大的魔君索隆向你们致以问候！
 
 << 这个生物正在对你微笑
 但它看起来相当令人不安 >>
 
 你觉得那几个奥克首领还能起作用吗！
-索隆在城门外有一支更庞大的军队!
+索隆在城门外有一支更庞大的军队！
 
-这就是我要给你看到的东西！
+我有一件信物要给你们看！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
