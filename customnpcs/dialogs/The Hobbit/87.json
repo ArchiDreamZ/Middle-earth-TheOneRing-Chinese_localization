@@ -41,15 +41,19 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "谁敢持武器闯入我的王国？
-间谍？小偷？
+    "DialogText": "是什么人胆大包天，敢武装进入我的王国！
+间谍，小偷？还是刺客！
 
 你会为此付出代价...遭受无尽的痛苦！
 
+我感到有一首歌在嘴边了。
 {国王开始唱歌：}
-“骨头会折断，脖子会扭断！
-一切都将被粉碎、杀戮和折磨！
-就像半兽人镇喜欢看到的那样！”",
+
+“打碎你的骨头，拧断你的脖子！
+打得你屁滚尿流，悬挂到绞刑架上！
+你会死在这里，永不见天日！
+在这幽深的半兽人镇！”
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

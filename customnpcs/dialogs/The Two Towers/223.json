@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 184,
-                "Title": "波洛米尔死前，他想从我这里夺走魔戒。它把他逼疯了！",
+                "Title": "你想知道波洛米尔是怎么死的吗，他曾发誓要保护我，然后又想从我手里夺取魔戒，他想杀死我，魔戒让你哥哥变成了疯子！",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -53,7 +53,7 @@
     "DialogText": "不，我不能那样做。
 这是武器！
 
-卫兵！带他们去见我父亲，告诉他们法拉米尔送来了一份重要的礼物！",
+带他们去见我父王，就说法拉米尔带回来一件非凡的礼物，一件能改变我们战争命运的利器",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 30,
-                "Title": "甘道夫！！很高兴见到你！！我们现在该怎么办？",
+                "Title": "甘道夫！！很高兴能再见到你！！我们现在该怎么办？",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -50,9 +50,10 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我是甘道夫... 是的，那是我以前的名字... 灰袍甘道夫！
+    "DialogText": "甘道夫... 是的，那是我以前的名字... 灰袍甘道夫！
 但是我现在是白袍甘道夫！
-我就是萨茹曼，乃是萨茹曼本该扮演的角色！
+
+我就是萨茹曼，是萨茹曼本该扮演的角色！
 我又一次受到召唤！ 直到完成使命！！
 
 

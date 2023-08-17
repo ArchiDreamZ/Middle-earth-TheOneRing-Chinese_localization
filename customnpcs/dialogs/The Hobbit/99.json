@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 100,
-                "Title": "全错了！你输了！现在告诉我出口在哪里！",
+                "Title": "全错了，行了，我赢了比赛，你答应过带我出去的。",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,7 +41,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "*不耐烦的咕噜声* 
+    "DialogText": "咕噜！咕噜！
 猜三次，宝贝.. 他得给我们猜三次！
 
 手！...

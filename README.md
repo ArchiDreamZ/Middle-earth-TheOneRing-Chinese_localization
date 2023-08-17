@@ -70,22 +70,30 @@ MEGA云盘：
 
 在提交修改时，不要只写一个“汉化”，这样别人一眼看上去也不知道汉化了什么，稍微详细一点。
 
-> ![提交修改](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/004cf4db-9de7-4539-bc71-241d9eae484f)
+> ![提交修改](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/555e25f9-9883-4f33-b8da-97d66b1259b1)
 
 例如我修改了219号文件，那写：翻译/润色-NPC名-简单描述-文件名，这样的格式。如果觉得这个文件只是机翻没经过润色，就必须标注“待润色”，润色过了就标注润色。
+
+如果是参照电影台词润色的，就写“据电影润色”，如果是作者自己编的支线任务，电影里没有，就写“已润色”。
 
 ### 润色
 该地图包里的对话绝大部分都是电影里的台词，初翻并没有很精致，润色时需要一边对照电影一遍润色。
 
 B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可以直接复制。
 
-若要中英对比，可以在这里查看：[过去初翻的提交](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pulls?q=is%3Apr+is%3Aclosed)
+可以稍微参照着电影补充几句话，但是还是要考虑到这是个剧情地图，文本不适合太长。再比如，台词是对玩家说的，不是对弗罗多或者巴金斯，因此有些台词就不适合加了。
 
-后面深绿色标注“Help wanted”的即是需要润色的。点进去，然后点击“Files changed”，即可该部分的查看中英对比。
+要先信和达，再考虑雅。如果对原翻译感到很疑惑，有必要时，就查看英文原文。
 
-> ![文件改动](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/c20fe6f6-ef2d-49d8-9209-04c01d2cb3e9)
+若要中英对比，可以在这里查看：
 
-点这里可以设置左右对比：
+**NPC对话**：[霍比特人章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/11/files)、[双塔奇谋章 与 王者归来章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/12/files)
+
+**任务**：[全4章任务](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/13/files)
+
+也可以直接下载英文版文件，在[Releases](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/releases)里下载。
+
+点这里可以设置左右对比，更方便查看：
 
 > ![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
 
