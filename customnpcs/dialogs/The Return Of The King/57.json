@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 59,
-                "Title": "现在，它已经被重新锻造了！",
+                "Title": "如今却已重回！",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "这把刀已经坏了！
+    "DialogText": "这把刀所承载的血脉早已断绝！
 
 ",
     "AvailabilityQuest4Id": -1,
