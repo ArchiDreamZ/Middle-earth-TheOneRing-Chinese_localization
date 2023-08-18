@@ -51,14 +51,18 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "是谁擅闯我的领地！！！
+    "DialogText": "是谁擅闯我的领地？
+
+亡者不能容忍生者通过...
 
 前路已封！
 
 此路为亡者所建，
 亦由亡者看守！
 
-前路已封！",
+前路已封..
+是时候赴死了！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
