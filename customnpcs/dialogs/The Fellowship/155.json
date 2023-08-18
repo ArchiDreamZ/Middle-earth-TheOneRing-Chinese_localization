@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "“Mellon”
+    "DialogText": "“Mellon(精灵语朋友)”
 
 >> 门开始打开 <<
 太棒了 @p ！
@@ -59,7 +59,7 @@
 
 我们如今别无选择，只能直面墨瑞亚的深重黑暗。
 千万当心！还有比奥克更为古老邪恶之物...藏身地底深处....
-永远记住，如果你拿不定主意，就跟着你的鼻子走。
+永远记住，如果你拿不定主意，就凭直觉。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
