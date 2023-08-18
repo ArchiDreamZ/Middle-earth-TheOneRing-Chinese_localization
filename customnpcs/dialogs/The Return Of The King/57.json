@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 59,
-                "Title": "如今却已重回！",
+                "Title": "如今却已重铸！",
                 "DialogColor": 16250871,
                 "OptionType": 1
             }
@@ -51,8 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "这把剑所承载的血脉早已断绝！
-
+    "DialogText": "圣剑早已断裂！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
