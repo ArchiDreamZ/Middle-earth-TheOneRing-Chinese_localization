@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 242,
-                "Title": "我能帮什么忙吗?",
+                "Title": "我能帮什么忙吗？",
                 "DialogColor": 16383222,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 14093581,
                 "OptionType": 0
             }
@@ -79,7 +79,7 @@
     "DialogTitle": "Galadriel hobbit",
     "PreviousBlocks": 1b,
     "DialogText": "欢迎来到幽谷！ @p
-这是黑暗的时代。一股阴影在东方升起。我能感受到。黑暗中有东西在移动，隐藏着。
+这是黑暗的时代。一股阴影在东方升起。我能感受到。黑暗中有东西在涌动，并隐藏着。
 我担心这次冒险释放了我们尚未了解的力量。
 我们必须解开有关魔古尔之刃的谜团。
 
