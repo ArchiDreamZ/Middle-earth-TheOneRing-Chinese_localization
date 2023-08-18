@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 80,
-                "Title": "告诉我更多!",
+                "Title": "给我讲讲!",
                 "DialogColor": 16316663,
                 "OptionType": 1
             }
@@ -78,10 +78,10 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo1",
     "PreviousBlocks": 1b,
-    "DialogText": "啊！你好， @p!
+    "DialogText": "啊！日安， @p!
 很高兴在这里见到你。
 难道幽谷不是中洲最美丽的地方吗？
-嗯.. 虽然没有霍比特洞那么温馨，
+嗯.. 虽然没有霍比特洞府那么温馨，
 但绝对值得一游！
 
 我以前来过这里...
