@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 114,
-                "Title": "你好，甘道夫，这次会议是关于什么的?",
+                "Title": "你好，甘道夫，这次会议是关于什么的？",
                 "DialogColor": 16711163,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 15672868,
                 "OptionType": 0
             }
@@ -78,11 +78,12 @@
     "TextWidth": 300,
     "DialogTitle": "Gandalf hobbit",
     "PreviousBlocks": 1b,
-    "DialogText": "但是，萨茹曼，请听着..
+    "DialogText": "但是，萨茹曼，请听我说..
 
-恶龙史矛革的归来并不是对我们唯一的威胁。
+有种东西在运作，绝不仅仅是史矛革之恶，而是某种强大得多的东西，
+我们可以视而不见，但他不会忽视我们，这点我敢保证。
 我从褐袍巫师拉达加斯特那里得到了一个坏消息。
-黑森林生病了。一股黑暗阴影正在崛起，我担心最糟糕的事情会发生。
+某种疾病侵扰着大绿林。一股黑暗阴影正在崛起，我担心最糟糕的事情会发生。
 
 ",
     "AvailabilityQuest4Id": -1,
