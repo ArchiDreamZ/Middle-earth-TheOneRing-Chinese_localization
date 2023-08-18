@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后吧，再会!",
+                "Title": "也许以后吧，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -90,11 +90,12 @@
     "PreviousBlocks": 1b,
     "DialogText": "我身后是通往巴林之墓的大门。
 小心一点，奥克已经占领了这里..
+
 我觉得他们还带了个洞穴食人妖。
 它们真的没有给你时间来哀悼。
 
-墨瑞亚仍还有个矮人没咽气呢!
-放马过来吧!我要让他们尝尝我的斧头!
+墨瑞亚仍还有个矮人没咽气呢！
+放马过来吧！我要让他们尝尝我的斧头！
 
 [鼓声从深处开始响起]
 
