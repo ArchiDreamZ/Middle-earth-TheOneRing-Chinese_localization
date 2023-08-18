@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 129,
-                "Title": "所有的吗?这是不可能的，你知道的!",
+                "Title": "所有的吗？这是不可能的，这你很清楚！",
                 "DialogColor": 16645883,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "没有你我们也能做到!再会!",
+                "Title": "没有你我们也能做到！再会！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
