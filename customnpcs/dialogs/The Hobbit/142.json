@@ -51,13 +51,13 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "终于， @p !
-你醒了，太好了。
-我们被囚禁了太久了。
+你终于醒了，太好了。
+我们被囚禁了很久。
 
 我悄无声息地偷了一把钥匙并打开了你的牢房。
-如果你能及时找到一条出路，我会释放其他的矮人。
+如果你能及时找到一条逃出去的路，我会想办法把其他的矮人弄出来。
 
-然后我们会跟随你。我们可以通过酒窖，并从那里穿过河流离开。 ",
+然后我们会跟随你。也许我们可以通过酒窖，从那里穿过河流离开。 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
