@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 56,
-                "Title": "我向你们提出挑战，要求你们履行自己的誓言！",
+                "Title": "我召唤你等，在此履行誓言！",
                 "DialogColor": 16579836,
                 "OptionType": 1
             }
@@ -51,14 +51,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "谁进入了我的王国！！！
+    "DialogText": "是谁擅闯我的领地！！！
 
-道路被封锁了！
+前路已封！
 
-它是由那些已经死去的人创造的...
-而死者守护着它！
+此路为亡者所建，
+亦由亡者看守！
 
-道路被封锁了！",
+前路已封！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

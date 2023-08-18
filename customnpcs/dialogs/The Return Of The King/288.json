@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Thanks, Goodbye!",
+                "Title": "感谢你，再会！",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -70,16 +70,17 @@
     "DialogTitle": "Treebeard isengard",
     "PreviousBlocks": 1b,
     "DialogText": "Huraroom ... 欢迎， @p, 
-我很高兴你来了。我能征服森林流水，原木岩石。 
+我很高兴你能来。
+森林河水，原木岩石，我都能控制。 
 
-可这里有个巫师要对付 ... 
-被锁在他的塔里。
+但此处还有个巫师要对付 ... 
+他就关在自己的高塔里。
 
-我们要毁掉大坝，释放水源，萨茹曼的污秽会被冲走 ...
-树木会重新回到这里生活，年轻的树木 . . . 野生的树木。
+我们要打破堤坝，解放河流，萨茹曼的污秽正被逐渐洗净 ...
+树木都将回来住在此地，年纪轻的树 . . . 性子野的树。
 
 你正在寻找霍比特人？ 
-保佑我的树皮，他们就在我后面的墙上。",
+我这老树皮啊，他们就在我后面的墙上。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
