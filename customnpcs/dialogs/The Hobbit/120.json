@@ -40,12 +40,12 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "很好，你很勇敢， @p
+    "DialogText": "非常好！你很勇敢， @p
 保持警惕，照顾好自己。
-我从来没有经历过如此邪恶而强大的咒语。
+我从来没有见过如此邪恶而强大的咒语。
 
 完成任务后，回到我这里。
-祝你成功！",
+祝你顺利！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
