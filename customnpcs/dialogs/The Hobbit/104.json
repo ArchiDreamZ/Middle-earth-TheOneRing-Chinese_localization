@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 123,
-                "Title": "走私吗?但是怎么做呢? (开始任务)",
+                "Title": "走私吗？但是怎么做呢？ (开始任务)",
                 "DialogColor": 2160927,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }
@@ -50,8 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "看看谁来了!
-那些是精灵的桶吗？
+    "DialogText": "看看谁来了！
+我知道这些酒桶的来历，我不知道你们和精灵做了什么生意，不过结果应该不太好。
 
 看起来你们可能需要一些帮助。
 
@@ -59,7 +59,7 @@
 它就在河边。
 
 如果我们能将你们偷偷地带进城那会更好。
-市长对冒险者并不看好。
+只有镇长才能带人进镇子，和林地王国做生意是他唯一的财源，为了不让瑟兰迪尔生气，他会把你们关进监狱。
 
 ",
     "AvailabilityQuest4Id": -1,
