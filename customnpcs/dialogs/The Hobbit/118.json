@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -40,10 +40,11 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你将解开这个谜题， @p
+    "DialogText": "你将会解开这个谜题， @p
 我相信你。
-到艾瑞博山最快的路线是越过卡拉兹拉斯山脉向东走。
-祝你成功!
+
+到埃瑞博最快的路线是向东穿越高隘口。
+祝你成功！
 
 ",
     "AvailabilityQuest4Id": -1,
