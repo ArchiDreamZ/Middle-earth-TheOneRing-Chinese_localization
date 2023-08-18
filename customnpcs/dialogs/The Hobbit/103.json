@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 122,
-                "Title": "支线任务:拉达加斯特！多古尔都有一个死灵法师！我刚从那逃出来!",
+                "Title": "支线任务:拉达加斯特！多古尔都有一个死灵法师！我刚从那逃出来！",
                 "DialogColor": 254972,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
