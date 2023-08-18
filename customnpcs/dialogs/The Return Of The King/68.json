@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "不用谢！",
+                "Title": "不用了，谢谢！",
                 "DialogColor": 14093581,
                 "OptionType": 0
             }
@@ -51,15 +51,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我主索隆大帝，表示欢迎汝等！
+    "DialogText": "我的主人，伟大的魔君索隆向你们致以问候！
 
 << 这个生物正在对你微笑
 但它看起来相当令人不安 >>
 
-吾皇折损几员奥克首领何妨！
-在黑门之后有一支更为暴壮的军队!
+你觉得那几个奥克首领还能起作用吗！
+索隆在城门外有一支更庞大的军队！
 
-我有信物奉命要与汝等展示！
+我有一件信物要给你们看！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
