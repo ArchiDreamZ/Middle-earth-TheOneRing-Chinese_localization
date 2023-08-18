@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 122,
-                "Title": "支线任务:拉达加斯特!多古尔都有一个死灵法师!我刚从那逃出来!",
+                "Title": "支线任务:拉达加斯特！多古尔都有一个死灵法师！我刚从那逃出来！",
                 "DialogColor": 254972,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -62,15 +62,15 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "哦不，可怜的刺猬！！
-让开 @p ! 难道你看不见那个小家伙生病了吗？
+让开 @p ！ 难道你看不见那个小家伙生病了吗？
  
 ... 对不起，我失态了。
-我叫拉达加斯特，褐色的那个。
+我叫拉达加斯特，褐袍的那位。
 
 我赶时间，还要照顾生病的动物。
 
-你不想穿过黑森林，对吧!
-你能帮我吗?
+你不想穿过黑森林，对吧！
+你能帮我吗？
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
