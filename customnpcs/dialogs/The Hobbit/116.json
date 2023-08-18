@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16451590,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "去寻找埃尔隆德领主吧，他在幽谷山区的大瀑布附近。
+    "DialogText": "去寻找埃尔隆德领主吧，他在幽谷山中的大瀑布附近。
 他会帮助你解读一张地图，上面应该标示了通往孤山的路。
 还有，拿着这把钥匙，我保管了很久，现在它属于你了。
 它可以打开那里的一扇暗门。
