@@ -60,7 +60,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你好 {player}, 
+    "DialogText": "你好 @p, 
 
 欢迎你来到我们村庄. 我希望你能在这里住的愉快",
     "AvailabilityQuest4Id": -1,
