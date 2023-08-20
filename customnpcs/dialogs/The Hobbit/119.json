@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 120,
-                "Title": "没时间了，我去看看。 (支线任务开始)",
+                "Title": "没时间了，我即刻前往多古尔都。 (支线任务开始)",
                 "DialogColor": 15065105,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 121,
-                "Title": "你说得对，我们还是等甘道夫吧。",
+                "Title": "你说得对，我们还是等等甘道夫吧。",
                 "DialogColor": 16513779,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -61,20 +61,19 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "啊啊啊，你听到了吗？
+    "DialogText": "啊！你听到了吗？
 森林！！它被诅咒了！
-不可能所有的动物都同时生病，那简直就是巫术了...
+不可能所有的动物都同时生病，这简直是是巫术...
 等一下...巫术...没错，我知道了。
 
 我知道你正在进行一项重要的任务。
-也许大绿林的森林精灵可以帮助你。
-瑟兰杜伊虽然不是最乐于助人的统治者，但他的精灵弓手在对抗森林蜘蛛时可能会很有用。
+也许大绿林的木精灵可以帮助你。
+瑟兰杜伊虽然不是最乐于助人的统治者，但他的弓手在对抗森林蜘蛛时可能会很有用。
 
-If you still have some time, could you help me with a matter.
-Ride to Dol-Guldur, the old forest fortress, and see what's going on there.
-I sense that something isn't quite right there.
-And feared that the magic has its origin there.
-It's dangerous though, maybe we should wait for Gandalf.
+如果你仍有时间, 能帮我解决一件事吗？
+前去多古尔都，那古老的森林堡垒，看看那边发生了什么事。
+我感觉那边不太对劲，恐怕这恶毒的魔法也发源自那里。
+不过这很危险，也许我们应该再等一等甘道夫。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
