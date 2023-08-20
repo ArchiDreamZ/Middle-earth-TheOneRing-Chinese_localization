@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后，再会!",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -88,12 +88,16 @@
     "TextWidth": 300,
     "DialogTitle": "Merry follow",
     "PreviousBlocks": 1b,
-    "DialogText": "你好 @p
+    "DialogText": "你好啊 @p！
 
-那些黑暗的身影是谁? 幸运的是，我悄悄地从他们身边溜了过去。你没有遇到麻烦吧?
-我一直在找你!! 我听说你要去冒险了。竟然不带上我？我也要和你一起去！
+那些黑影是谁？真是走运！我趁他们不注意从旁边溜了过来。
 
->>(你可以带梅里作为同伴)<<
+你没有遇到麻烦吧？
+
+我一直在找你！！ 我听说你要去冒险了。
+竟然不带上我？我也要和你一起去！
+
+>>(你可以带上梅里作为同伴)<<
 
 ",
     "AvailabilityQuest4Id": -1,
