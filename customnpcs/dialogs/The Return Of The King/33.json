@@ -60,14 +60,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "非常好!
+    "DialogText": "非常好！
 
-中洲得救了!
+中洲有救了！
 
-把它扔进火里！毁了它！
+把它扔进熔岩里！毁了它！
 
 一劳永逸！
-
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
