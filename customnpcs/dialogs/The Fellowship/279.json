@@ -98,9 +98,9 @@
     "TextWidth": 300,
     "DialogTitle": "Barliman Butterbur 3",
     "PreviousBlocks": 1b,
-    "DialogText": "欢迎来到布理 @p。 嗯. .有趣的名字. .我想我以前听说过。 
+    "DialogText": "欢迎来到布理 @p。 嗯. . .有趣的名字. . .我想我以前听说过。 
 今天有些陌生人问起你。我希望你没有遇到什么麻烦。 
-我能为你做点什么，我的朋友。 ",
+我能为你做点什么，我的朋？ ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
