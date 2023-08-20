@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 115,
-                "Title": "你为什么不和我们一起去呢? ",
+                "Title": "你为什么不和我们一起去呢？ ",
                 "DialogColor": 16710907,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 117,
-                "Title": "为什么是霍比特人，比尔博?",
+                "Title": "为什么是比尔博，一个霍比特人？",
                 "DialogColor": 16513523,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 116,
-                "Title": "接下来我应该做什么? (任务开始)",
+                "Title": "接下来我应该做什么？ (任务开始)",
                 "DialogColor": 3076653,
                 "OptionType": 1
             }
@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
@@ -98,12 +98,13 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf hobbit 2",
     "PreviousBlocks": 1b,
-    "DialogText": "哦，你好， @p .
-你一点都没有打扰到。我真的需要你的帮助。
-我组织了一支由梭林·橡木盾率领的13名矮人的远征队。
-在盗贼大师比尔博的帮助下，我们将帮助矮人夺回他们应得的家园。
+    "DialogText": "哦，日安， @p 
+你来的刚刚好，我现在需要你的帮助。
 
-你必须帮助他们， @p !
+我组织了一支由梭林·橡木盾率领的13名矮人的远征队。
+在我们的飞贼少爷比尔博的帮助下，我们将帮助矮人夺回他们的家园。
+
+你一定要帮助他们， @p ！
 
 
 ",
