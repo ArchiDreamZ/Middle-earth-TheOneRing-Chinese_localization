@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 5,
-                "Title": "嗨，甘道夫，很高兴见到你！发生了什么事？你看起来很担忧。",
+                "Title": "嗨，甘道夫，很高兴见到你！发生了什么事？你看起来忧心忡忡。",
                 "DialogColor": 14737632,
                 "OptionType": 1
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "一个巫师永远不会迟到， @p . 他也不会早到。 他会在他意欲之时准时到达！
+    "DialogText": "一个巫师永远不会迟到， @p 。他也不会早到，只会按他的意思准时到达！
 
 我们在袋底洞的会面并非巧合。
 我们有重要的事情要谈！
