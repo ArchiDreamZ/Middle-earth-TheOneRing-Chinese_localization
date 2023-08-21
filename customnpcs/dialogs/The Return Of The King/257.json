@@ -59,7 +59,7 @@
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
+    "OptionFaction2Points": 100, 
     "DialogText": "-------------------------
 安格玛巫王：
 享用他的血肉！
@@ -75,7 +75,7 @@
 
 伊奥温：
 你终于来了， @p！
-你得帮我和梅里对付这个恶魔！ 
+请帮我和梅里对付这个恶魔！ 
 把它送回它来的地方！ 
 你会站在我这一边战斗吗？
 ",
