@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！ (跟随者菜单)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -60,7 +60,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我们到了 @p! 安格玛的寒冷山脉。让我们来看看这到底是怎么回事。我已经看到入口处有奥克了。我可以和你一起去，或者你一个人去，你喜欢哪种方式？>>(柳谷镇/夏尔，任务开始)<<",
+    "DialogText": "我们到了 @p！ 安格玛的寒冷山脉。
+让我们来看看这到底是怎么回事。
+我已经看到入口处有奥克了。
+
+我可以和你一起去，或者你一个人去，你喜欢哪种方式？
+
+>>(柳谷镇/夏尔，任务开始)<<
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
