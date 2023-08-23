@@ -47,11 +47,13 @@
 现在处于润色阶段，已经可以游玩，下载体验一下吧。如果发现什么语句不通顺，可以在中文社区联系我们润色。
 
 MEGA云盘：
-[德国魔戒RPG剧情地图包-3.3](https://mega.nz/file/o8VmQKza#LvJMIiXm6vlo98pfyK9gbkFoUq1oGbt0TLPUS7Dn2To)
+[德国魔戒RPG剧情地图包-3.3](https://mega.nz/file/o8VmQKza#LvJMIiXm6vlo98pfyK9gbkFoUq1oGbt0TLPUS7Dn2To)，如果打不开，就挂一个免费的Steam++。
 
-后续一直在更新汉化的润色，请手动下载汉化并添加进地图包。如果打不开，就挂一个免费的Steam++。
+后续一直在更新汉化的润色，请手动下载汉化并添加进地图包。
 
 > ![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
+
+如果无法下载新汉化，可以点击这个：[加速地址](https://hub.gitmirror.com/https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/archive/refs/heads/Archi.zip)
 
 放进saves/Middleearth - The One Ring/customnpcs里。
 
