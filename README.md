@@ -42,14 +42,14 @@
 群号：973932359
 
 ## 下载
-目前只有少量汉化，已添加进下面的链接。
+目前已经汉化完毕，已添加进下面的链接。
 
-原文都很简单，英语水平一般也看懂了，想要体验地图包，或者想尝试汉化，就下载体验一下吧。
+现在处于润色阶段，已经可以游玩，下载体验一下吧。如果发现什么语句不通顺，可以在中文社区联系我们润色。
 
 MEGA云盘：
 [德国魔戒RPG剧情地图包-3.3](https://mega.nz/file/o8VmQKza#LvJMIiXm6vlo98pfyK9gbkFoUq1oGbt0TLPUS7Dn2To)
 
-后续又更新了汉化，请手动下载汉化并添加进地图包
+后续一直在更新汉化的润色，请手动下载汉化并添加进地图包
 
 > ![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
 
