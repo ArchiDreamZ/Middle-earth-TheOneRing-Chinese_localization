@@ -49,6 +49,9 @@
 MEGA云盘：
 [魔戒剧情地图包 Middle-earth-TheOneRing-3.3](https://mega.nz/folder/c911WIrQ#cyBHUpzkomtzJ_LPTTV_aA)，如果打不开，就挂一个免费的Steam++。
 
+百度云盘：
+[备用网盘](https://pan.baidu.com/s/1Ld1ukm5EtJeu0r96e1BZ-g?pwd=0000)，不会及时更新，仅用作备份。国内能正常使用MEGA网盘，速度还很快，因此不要使用百度网盘。
+
 后续一直在更新汉化的润色，请手动下载汉化并添加进地图包。
 
 > ![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
