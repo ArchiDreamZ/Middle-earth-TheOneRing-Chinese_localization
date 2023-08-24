@@ -51,9 +51,11 @@
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
     "DialogText": "(一名指挥官对法拉米尔说道：
-欧斯吉利亚斯受到攻击。他们要求增援..)
+欧斯吉利亚斯受到攻击，他们要求增援..)
 
-准备撤离。 魔戒跟我去刚铎。！",
+准备撤离。
+...
+魔戒跟我去刚铎！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
