@@ -78,7 +78,11 @@
     "TextWidth": 300,
     "DialogTitle": "Guard 3",
     "PreviousBlocks": 1b,
-    "DialogText": "很好！ 他们位于布理地区北部。小心，奥克指挥官比普通的奥克强壮得多！完成任务后再来找我！祝你好运！",
+    "DialogText": "很好！ 他们盘踞在布理地区北部。
+千万小心，奥克头目比普通的奥克强壮得多！
+
+完成任务后再来找我！
+祝你好运！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
