@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 174,
-                "Title": "我们独自旅行。而且必须去魔多。",
+                "Title": "没别人了。我们独自旅行，而且必须去魔多。",
                 "DialogColor": 15792879,
                 "OptionType": 1
             }
@@ -50,7 +50,8 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你们那个鬼鬼祟祟的朋友呢？ 那个流浪汉。 长着丑陋的外貌。",
+    "DialogText": "你们那个鬼鬼祟祟的朋友呢？ 
+那个流浪汉，长着丑陋的外貌。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
