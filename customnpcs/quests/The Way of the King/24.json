@@ -5,7 +5,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 14: The Black Gate",
-    "Text": "我应该杀死十五个奥克首领，这一定能引起索隆的注意！",
+    "Text": "我应该杀死15个奥克头目，这一定能引起索隆的注意！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,8 +52,8 @@
             }
         ]
     },
-    "CompleteText": "我做到了...首领们都死了！
+    "CompleteText": "我做到了...头目们都死了！
 
-我应该去会会索隆的走狗了！",
+我应该去会会索隆之口了！",
     "NextQuestTitle": ""
 }
