@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 6: The white city",
-    "Text": "萨茹曼被打败后，我必须去提醒刚铎那里的人民。
-萨茹曼的帕兰提尔展示了索隆对米那斯提力斯的攻击计划。
+    "Text": "萨茹曼被打败后，我必须去通知刚铎那里的人民。
+萨茹曼的帕蓝提尔展示了索隆对米那斯提力斯的攻击计划。
 刚铎人民需要支援！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -38,11 +38,11 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "这就是...白城！
+    "CompleteText": "这里就是...白城！
 
 我应该去顶层的国王大殿！
 
-萨茹曼现在被打败了，但他的帕兰提尔显示索隆有计划地进攻米那斯提力斯，所以我必须提醒他们！
+萨茹曼现在被打败了，但他的帕蓝提尔显示索隆有计划地进攻米那斯提力斯，所以我必须通知他们！
 ",
     "NextQuestTitle": "",
     "QuestLocation": "Minas Tirith"
