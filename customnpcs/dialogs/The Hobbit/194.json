@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -41,16 +41,14 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "哈！很高兴在这里见到你， @p !
+    "DialogText": "哈！很高兴在这里见到你， @p ！
 
-自从我们穿过通向半兽人镇的桥梁后，我就没见过你。希望那里对你没有造成什么伤害。 
+自从我们穿过通向半兽人镇的桥梁后，我就没见过你。希望你没少条胳膊或者腿。 
 
-幸运的是，变形者贝恩让我们在这里休息，并储备食物。
+幸运的是，“换皮人”贝奥恩让我们在这里休息，并储备食物。
 
-其他人可能已经走了。如果你见到我弟弟奇力，替我问候他！
+其他人可能已经走了。如果你见到我兄弟奇力，替我问候他！
 我们是梭林的侄子，将追随他到生命的尽头！
-
-
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
