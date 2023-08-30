@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 129,
-                "Title": "所有的吗？这是不可能的，这你很清楚！",
+                "Title": "全部的？这不可能，你很清楚！",
                 "DialogColor": 16645883,
                 "OptionType": 1
             }
@@ -51,13 +51,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "啊哈！我们这里有谁呢？
+    "DialogText": "啊哈！瞧瞧这是谁？
 
-你在帮助矮人们完成他们重新夺回孤山的使命是吧。
+你在帮助矮人们完成他们重新夺回埃瑞博的使命是吧。
 我是长湖镇的镇长，也是位富豪。
 
-来自孤山的金子是我唯一感兴趣的东西，
-所以如果能我得到它，当然会帮助你。
+埃瑞博的黄金是我唯一感兴趣的东西，
+所以如果我们能够得到它，我们当然会帮助你。
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
