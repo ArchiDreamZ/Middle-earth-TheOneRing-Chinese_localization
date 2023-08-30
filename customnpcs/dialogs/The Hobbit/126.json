@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 127,
-                "Title": "我将要去孤山！ (开始任务)",
+                "Title": "我将要去埃瑞博！ (开始任务)",
                 "DialogColor": 3076653,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -60,13 +60,15 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你终于来了， @p !
-我们已经努力几个小时了，试图说服市长帮助我们攻克艾瑞博。
-但他可能更喜欢看着我们继续在这个国家中流浪。这个贪婪的家伙想要一大部分宝藏，梭林不同意..
+    "DialogText": "你终于来了， @p ！
+几个小时以来，我们一直在努力说服镇长帮助我们攻克埃瑞博。
+但他可能更愿意看到我们无家可归，继续在这个国家流浪。
 
-我觉得这是毫无希望的。我们应该不依赖他的帮助尝试一下。
+这个贪财的家伙想要分得大部分宝藏，梭林不同意..
 
-此外，甘道夫传来消息说，他正在河谷城准备防御抵抗，似乎面临了一场大战。",
+我觉得这毫无希望。我们应该尝试不依赖他的帮助。
+
+此外，甘道夫传来消息说，他正在河谷城准备防御工事，似乎即将面临一场大战。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
