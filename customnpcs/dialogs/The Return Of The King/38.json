@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我还没说完呢！",
+                "Title": "我在这里还没结束呢！",
                 "DialogColor": 13900058,
                 "OptionType": 0
             }
@@ -60,16 +60,16 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "快， @p ! 跟我来！火山爆发了！
+    "DialogText": "快， @p ！ 跟我来！火山爆发了！
 
 这意味着你已经完成了你的任务！
-太棒了！我就知道你靠得住！
+做得好！我就知道可以信任你！
 
 整个中洲都会感谢你的！
 
-这个大鹰会带你回夏尔的!
+大鹰会带你回到夏尔
 
-再见， @p! 就此别过了，如今我的职责已经完成！
+别了， @p！ 我将退休，如今我的职责已经完成！
 
 愿和平的时代已经到来！
 ",
