@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "可能需要一会， 再见！",
+                "Title": "也许以后，再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -62,6 +62,7 @@
     "OptionFaction2Points": 100,
     "DialogText": "我们到了 @p！ 安格玛的寒冷山脉。
 让我们来看看这到底是怎么回事。
+
 我已经看到入口处有奥克了。
 
 我可以和你一起去，或者你一个人去，你喜欢哪种方式？
