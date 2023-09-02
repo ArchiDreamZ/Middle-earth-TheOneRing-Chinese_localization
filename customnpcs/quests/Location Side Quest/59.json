@@ -5,7 +5,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 0,
     "Title": "Fornost ",
-    "Text": "布理的土地遭到了安格玛奥克的袭击，遗忘客栈雇佣了一个守卫，他告诉我所有的奥克都来自古老的佛诺斯特·埃莱因城堡。我必须杀掉尽可能多的首领，让他们撤退。",
+    "Text": "布理的土地遭到了安格玛奥克的袭击，
+    遗忘客栈雇佣了一个守卫，他告诉我所有的奥克都来自古老的佛诺斯特·埃莱因城堡。
+    我必须杀掉尽可能多的奥克头目，迫使他们撤退。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -48,6 +50,6 @@
         }
     ],
     "TargetType": 0,
-    "CompleteText": "我应该再和遗忘客栈的守卫谈谈，告诉他这个区域是安全的！",
+    "CompleteText": "我应该再和遗忘客栈的守卫谈谈，告诉他这个区域已经安全了！",
     "NextQuestTitle": ""
 }
