@@ -42,11 +42,12 @@
     "OptionFaction2Points": 100,
     "DialogText": "太好了！我会在这里等着。 
 	
-我的地下室就在旁边，在一个古老的山洞里。
+我的地下室就在旁边，在一个古老的洞里。
 
 山姆总是不敢下去，他说他有一天听到一些奇怪的声音。
 
-小心点！这里面可能有只动物！",
+小心点！这里面可能有只动物！
+",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
