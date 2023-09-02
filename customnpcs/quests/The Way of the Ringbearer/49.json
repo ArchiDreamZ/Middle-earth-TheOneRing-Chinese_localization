@@ -6,8 +6,8 @@
     "QuestCompletion": 1,
     "Title": "Side Quest: The Weathertop",
     "Text": "霍比特人梅里和皮平处于危险之中！
-他们用篝火引过来了戒灵。
-我应该寻找周围的那兹古尔，并将它们送回原来的地方。
+他们用篝火引来了戒灵。
+我应该寻找周围的那兹古尔，并将他们打退回他们来的地方。
 
 (击败风云顶上的三名那兹古尔。)",
     "QuestFactionPoints": {
@@ -46,7 +46,7 @@
         }
     ],
     "TargetType": 0,
-    "CompleteText": "我杀死了在风云顶上的那兹古尔。
+    "CompleteText": "我打退了在风云顶上的那兹古尔。
 霍比特人现在安全了。
 我应该继续前往幽谷。",
     "NextQuestTitle": ""
