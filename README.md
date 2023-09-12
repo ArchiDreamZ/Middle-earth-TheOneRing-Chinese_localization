@@ -71,7 +71,7 @@ MEGA云盘：
 
 气泡位于.minecraft\customnpcs\clones文件夹。
 
-> **clones**文件夹内的所有有文件，都是NPC的数据，例如名称与气泡台词。
+> **clones**文件夹内的所有有文件，都是NPC的数据，例如NPC名称与气泡台词。
 
 对话框位于.minecraft\saves\存档名\customnpcs文件夹，其中：
 
