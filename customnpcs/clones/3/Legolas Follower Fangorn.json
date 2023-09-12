@@ -1,0 +1,554 @@
+{
+    "ReturnToStart": 1b,
+    "NpcInv": [
+        {
+            "Slot": 0b,
+            "id": "legendarium:ranged_legolas",
+            "Count": 1b,
+            "tag": {
+                "LOTRRandomEnch": 1b,
+                "LOTREnch": [
+                    "rangedStrong1"
+                ]
+            },
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "minecraft:arrow",
+            "Count": 1b,
+            "Damage": 0s
+        },
+        {
+            "Slot": 2b,
+            "id": "legendarium:weapon_legolas",
+            "Count": 1b,
+            "tag": {
+                "LOTRRandomEnch": 1b,
+                "LOTREnch": [
+                    "meleeSpeed1"
+                ]
+            },
+            "Damage": 0s
+        }
+    ],
+    "PotionEffect": 0,
+    "Size": 5,
+    "Resistances": {
+        "Arrow": 1.5070423f,
+        "disableDamage": 0b,
+        "Explosion": 1.5070423f,
+        "Knockback": 1.5070423f,
+        "Melee": 1.5070423f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 60,
+    "NpcAngrySound": "lotr:elf.male.attack",
+    "IgnoreCobweb": 0b,
+    "LootMode": 0,
+    "AttackStrenght": 5.0f,
+    "PersistenceRequired": 0b,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "MercenaryHiredTime": 0L,
+    "FlyGravity": 0.0d,
+    "GuardTargets": [
+    ],
+    "modelType": 0,
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "KnockBack": 0,
+    "TransformHasJob": 0b,
+    "CanDespawn": 0b,
+    "BurnInSun": 0b,
+    "AttackInvisible": 0b,
+    "HurtTime": 0s,
+    "CustomNameVisible": 0b,
+    "InvisibleToList": [
+    ],
+    "DrowningType": 1,
+    "FlySpeed": 1.0d,
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "MercenaryDisableGui": 0b,
+    "GuardAttackCreepers": 0b,
+    "Texture": "customnpcs:textures/entity/humanmale/01Legolas.png",
+    "NpcJob": 3,
+    "BurstCount": 1,
+    "pSpeed": 10,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "RefuseSoulStone": 0b,
+    "MercenaryDayRates": [
+        {
+            "Integer": 1,
+            "Slot": 0
+        },
+        {
+            "Integer": 10,
+            "Slot": 1
+        },
+        {
+            "Integer": 100,
+            "Slot": 2
+        }
+    ],
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "pEffect": 0,
+    "DistanceToMelee": 4,
+    "NpcStepSound": "",
+    "FireRate": 5,
+    "pEffAmp": 0,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "GuardAttackMobs": 1b,
+    "Fire": -1s,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+        ]
+    },
+    "pSpin": 0b,
+    "NpcHurtSound": "minecraft:game.player.hurt",
+    "pTrail": 0,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "Name": "Legolas",
+    "FallDistance": 0.0f,
+    "NPCDialogOptions": [
+        {
+            "NPCDialog": {
+                "DialogCommand": "",
+                "Dialog": 284,
+                "Title": "Legolas fangorn follow",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            },
+            "DialogSlot": 0
+        }
+    ],
+    "AggroRange": 20,
+    "DirectLOS": 1b,
+    "NpcModelData": {
+        "hideArms": 0b,
+        "BodyConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "Breasts": 0b,
+        "Bodywear": 0b,
+        "hideLegs": 0b,
+        "ArmsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "SolidArmwear": 0b,
+        "ExtraData": {
+        },
+        "Armwear": 0b,
+        "HeadConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "LegsConfig": {
+            "ScaleZ": 1.0f,
+            "TransZ": 0.0f,
+            "TransY": 0.0f,
+            "TransX": 0.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "LegParts": {
+            "Type": 0b,
+            "PlayerTexture": 1b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "Headwear": 2b,
+        "hideBody": 0b,
+        "SolidLegwear": 0b,
+        "Legwear": 0b,
+        "hideHead": 0b
+    },
+    "minDelay": 20,
+    "DoorInteract": 1,
+    "MoveSpeed": 5,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "PotionDuration": 5,
+    "maxDelay": 40,
+    "ScriptEnabled": 0b,
+    "Role": 2,
+    "KilledTime": 0L,
+    "MercenaryDaysHired": 0,
+    "AimWhileShooting": 1b,
+    "CanPickUpLoot": 0b,
+    "PlayerSetCanDespawn": 0b,
+    "AttackTime": 0s,
+    "pSize": 5,
+    "CanSprint": 0b,
+    "CanLeap": 0b,
+    "ForgeData": {
+        "LOTREnchantInit": 1b
+    },
+    "PotionAmp": 0,
+    "TacticalRadius": 8,
+    "MaxExp": 0,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "FiringSound": "random.bow",
+    "SoulStonePlayerName": "",
+    "Armor": [
+    ],
+    "CloakTexture": "",
+    "MercenaryIsFollowing": 1b,
+    "GlowTexture": "",
+    "pXlr8": 0b,
+    "MarkovGeneratorId": 0,
+    "CollidesWith": 1,
+    "Health": 200s,
+    "MovingPause": 1b,
+    "Title": "",
+    "Rotation": [
+        84.558136f,
+        -21.288017f
+    ],
+    "ShowName": 0,
+    "Equipment": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "SpawnCycle": 0,
+    "stopAndInteract": 1b,
+    "ReactsToFire": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "TransformHasAI": 0b,
+    "id": "customnpcs.CustomNpc",
+    "HealF": 200.0f,
+    "MovingPatern": 0,
+    "DefendFaction": 0b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "FindShelter": 2,
+    "ScriptsContainers": [
+        {
+            "Script": "",
+            "Type": 0,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 1,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 2,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 3,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 4,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 5,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 6,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 7,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 8,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 9,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 10,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 11,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        }
+    ],
+    "Air": 300s,
+    "TacticalVariant": 0,
+    "SkinOverlayData": [
+    ],
+    "CustomName": "",
+    "FlyHeightLimit": 5,
+    "StandingState": 2,
+    "WalkingRange": 2,
+    "MercenaryInfiniteDays": 0b,
+    "ShotCount": 1,
+    "pDur": 5,
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "MovingType": 0,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pArea": 0,
+    "DropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "MoveState": 0,
+    "RangeAndMelee": 0,
+    "pRender3D": 0b,
+    "CombatRegen": 0.0f,
+    "NpcsTimers": [
+    ],
+    "MarkovGender": 0,
+    "OnGround": 1b,
+    "Dimension": 100,
+    "ImmuneToFire": 0b,
+    "UUIDMost": -9199158739553467613L,
+    "DisablePitch": 0b,
+    "pPhysics": 1b,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 200.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.25d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 5.0d,
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "TransformHasRole": 0b,
+    "GuardSpecific": 0b,
+    "NpcIdleSound": "",
+    "MercenaryDialogHired": "I will follow you! You've got my bow!",
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "legendarium:ranged_legolas",
+            "Count": 1b,
+            "tag": {
+                "LOTRRandomEnch": 1b
+            },
+            "Damage": 0s
+        },
+        {
+            "Slot": 1b,
+            "id": "minecraft:arrow",
+            "Count": 1b,
+            "Damage": 0s
+        }
+    ],
+    "HealthRegen": 1.0f,
+    "MercenaryRefuseSoulstone": 0b,
+    "MercenaryDialogFarewell": "I will look out for enemys, i will see you soon!",
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 1b,
+    "MercenaryInv": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "lotr:item.coin",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "lotr:item.coin",
+                "Count": 1b,
+                "Damage": 1s
+            },
+            {
+                "Slot": 2b,
+                "id": "lotr:item.coin",
+                "Count": 1b,
+                "Damage": 2s
+            }
+        ]
+    },
+    "MaxHealth": 200.0d,
+    "HideBodyWhenKilled": 0b,
+    "AttackSpeed": 20,
+    "GuardAttackAnimals": 0b,
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 4.0f,
+    "AttackOtherFactions": 0b,
+    "TransformIsActive": 0b,
+    "MovingState": 0,
+    "MovingPos": 0,
+    "OnAttack": 0,
+    "OrderedLines": 1b,
+    "TransformHasStats": 0b,
+    "HasFlyLimit": 0b,
+    "ModRev": 16,
+    "Accuracy": 100,
+    "MinExp": 0,
+    "MaxFiringRange": 20,
+    "ProjectilesKeepTerrain": 0b,
+    "UUIDLeast": -7840567079779885877L,
+    "pExplode": 0b,
+    "pStick": 0b,
+    "NpcDeathSound": "minecraft:game.player.hurt",
+    "FactionID": 0,
+    "MinFactionPointsToSoulStone": 0,
+    "TotalTicksAlive": 21926L,
+    "npcInteracting": 0b,
+    "AvoidsWater": 0b,
+    "DoubleDropChance": [
+        {
+            "Slot": 0,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 1,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 2,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 3,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 4,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 5,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 6,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 7,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 8,
+            "Double": 100.0d
+        }
+    ],
+    "NoLivingAnimation": 0b
+}
