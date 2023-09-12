@@ -74,6 +74,7 @@ MEGA云盘：
 对话框位于.minecraft\saves\存档名\customnpcs文件夹，其中：
 
 > **dialogs**文件夹内是NPC对话文本
+>
 > **quests**文件夹内是任务文本
 
 在dialogs里的每一个文件都是一个NPC的对话框，里面是对话框的文本和选项。
