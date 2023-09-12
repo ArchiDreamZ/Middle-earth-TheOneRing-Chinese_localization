@@ -61,7 +61,15 @@ MEGA云盘：
 把customnpcs文件夹里的文件，放进saves/Middleearth - The One Ring/customnpcs里。
 
 ## 仓库介绍
-该仓库汉化的是该地图包的自定义NPC模组的对话与任务，其中：
+该仓库汉化的是该地图包的自定义NPC模组的对话与任务，共分为两部分：
+
+第一部分是气泡型对话，又称“气泡”，会在头上弹出气泡，并显示在左下角聊天栏里；
+
+第二部分是对话框与选项，又称“对话框”，右键NPC会弹出的对话框，并有选项可以选择，同时还与任务联系在一起。
+
+气泡位于.minecraft\customnpcs\clones文件夹。
+
+对话框位于.minecraft\saves\存档名\customnpcs文件夹，其中：
 
 **dialogs**文件夹内是NPC对话文本
 
