@@ -58,7 +58,9 @@ MEGA云盘：
 
 如果无法下载新汉化润色，可以点击这个：[加速地址](https://hub.gitmirror.com/https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/archive/refs/heads/Archi.zip)
 
-把customnpcs文件夹里的文件，放进saves/Middleearth - The One Ring/customnpcs里。
+把customnpcs/clones文件夹里的文件，放进.minecraft/customnpcs/clones里。
+
+把save/customnpcs文件夹里的文件，放进.minecraft/saves/Middleearth - The One Ring/customnpcs里。
 
 ## 仓库介绍
 该仓库汉化的是该地图包的自定义NPC模组的对话与任务，共分为两部分：
