@@ -107,17 +107,17 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "I am finally reunited with my Aragorn!",
-                "Song": "",
+                "Line": "我终于与我心爱的阿拉贡团聚了！",
+                "Song": "",n
                 "Slot": 0
             },
             {
-                "Line": "Giving up immortality was a good decision!",
+                "Line": "在我看来，放弃永生真是一个非常正确的选择！",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "In the end everything went well!",
+                "Line": "最终是个完满的好结局呀！",
                 "Song": "",
                 "Slot": 2
             }
