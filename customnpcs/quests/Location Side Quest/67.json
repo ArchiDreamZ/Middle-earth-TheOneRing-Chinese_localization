@@ -5,7 +5,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Mount Gram",
-    "Text": "汤姆邦巴迪尔在柳谷镇警告霍比特人黑暗时代的来临。 
+    "Text": "汤姆·邦巴迪尔在柳谷镇警告了霍比特人黑暗时代的来临。 
 奥克似乎已经离夏尔边境很近了。它们来自于古老的格拉姆山。我们应该看看这到底是怎么回事。 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -41,6 +41,6 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "我已经杀死了奥克首领，他丢失了一块看起来很重要的石头，我应该把它带给柳谷镇的汤姆邦巴迪尔。 ",
+    "CompleteText": "我已经杀死了奥克头目，他掉下了一块看起来很重要的石头，我应该把它带给柳谷镇的汤姆邦巴迪尔。 ",
     "NextQuestTitle": ""
 }
