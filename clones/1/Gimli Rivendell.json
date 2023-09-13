@@ -151,42 +151,42 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Well, who do we have there @p , ready for an adventure?!",
+                "Line": "哎呦，看看是谁来了 @p ，准备好冒险了吗？！",
                 "Song": "lotr:dwarf.attack",
                 "Slot": 0
             },
             {
-                "Line": "I am Gimli, Gloin`s Son. ",
+                "Line": "我是吉姆利，格罗因之子。 ",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Tell the elf prince next to me to stop making jokes about my size!",
+                "Line": "告诉那个精灵王子不要再拿我的体型开玩笑了！",
                 "Song": "lotr:dwarf.hurt",
                 "Slot": 2
             },
             {
-                "Line": "Dwarf women are confusingly similar to us men, .. is probably due to the beards..",
+                "Line": "令人感到迷惑的是，女矮人长得很像我们男性,我想大概是因为胡子...",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "My axe is sharp and ready for orc scum!",
+                "Line": "我锋利的斧头已经给那些奥克渣滓准备好了！",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "Let's destroy the ring right here, i would say! ",
+                "Line": "要我说！就在这把这破戒指砸了吧！",
                 "Song": "lotr:dwarf.kill",
                 "Slot": 5
             },
             {
-                "Line": "Moria has the best beer and meat! My cousin Balin will invite you to the feast!",
+                "Line": "墨瑞亚有着最好的啤酒和肉！我的堂兄巴林肯定会邀请你来一顿大餐！",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "I want to support you because you are a friend of the dwarves! Take my axe!",
+                "Line": "我会协助你，因为你是矮人之友！我的斧任你调遣！",
                 "Song": "",
                 "Slot": 7
             }
