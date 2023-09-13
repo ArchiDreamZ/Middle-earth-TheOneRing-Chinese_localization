@@ -88,11 +88,11 @@
     "TextWidth": 300,
     "DialogTitle": "Legolas fangorn follow",
     "PreviousBlocks": 1b,
-    "DialogText": "红红太阳升起来，血红血红出夜空。
+    "DialogText": "血红的太阳升起，昨夜一定发生过杀戮。
 (精灵语): Hiro hyn hidh ab 'wanath. 
-愿他们死后得以安息。 
+愿他们故去后寻得安宁。 
 
-如果你愿意，我将跟随你上战场， @p。",
+如果你愿意，我将跟随你走上战场， @p。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
