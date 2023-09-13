@@ -9,8 +9,9 @@
     "Title": "Part 5: Isengard",
     "Text": "萨茹曼袭击了洛汗人！
 但希奥顿会得到甘道夫和伊奥梅尔的帮助，所以我可以在这段时间对付萨茹曼。
-我希望当我告诉他，他已经输了的时候，他不会和我动手。
-
+他所在的地区一定有重兵把守。
+我希望当我告诉他，他的大势已去时，他不会和我动手。
+    
 他位于艾森加德的塔顶。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -40,10 +41,10 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "到了，欧尔桑克之巅，白袍萨茹曼的大塔！
-我应该当面告诉他他输了！
+    "CompleteText": "到了，欧尔桑克之巅，白袍巫师萨茹曼的巨塔！
+我应该当面告诉他，他已经回天乏术了！
 
-那是什么？帕兰提尔？我应该看看里面！",
+那是什么？帕蓝提尔？我应该仔细看看里面！",
     "NextQuestTitle": "Part 6: The white city",
     "QuestLocation": "Saruman"
 }
