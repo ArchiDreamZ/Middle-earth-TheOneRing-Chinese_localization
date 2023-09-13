@@ -5,10 +5,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: Kill Sauron ",
-    "Text": "如今黑暗统治者索隆已经被削弱，
+    "Text": "如今黑暗魔君索隆的力量已经被削弱，
 我们应该彻底摧毁他！
 
-他在东方的堡垒巴拉督尔！
+他就在东方的堡垒巴拉督尔！
 赶快行动，别让他再次逃脱！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
