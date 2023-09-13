@@ -41,10 +41,10 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "到了，欧尔桑克之巅，白袍巫师萨茹曼的大塔！
-我应该当面告诉他他已经回天乏术了！
+    "CompleteText": "到了，欧尔桑克之巅，白袍巫师萨茹曼的巨塔！
+我应该当面告诉他，他已经回天乏术了！
 
-那是什么？帕蓝提尔？我应该看看里面！",
+那是什么？帕蓝提尔？我应该仔细看看里面！",
     "NextQuestTitle": "Part 6: The white city",
     "QuestLocation": "Saruman"
 }
