@@ -107,32 +107,32 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "You don't need to kneel down @p ! If so, we bow to you!",
+                "Line": "你无需行礼，@p ！应当是我们向你致意！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "You united Middle-earth and saved the people!",
+                "Line": "你团结了中洲并拯救了中洲的人民！",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Gondor is forever in your debt!",
+                "Line": "刚铎永远感激你！",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "Just because of you I'm the king now! And will reign along time with Arwen!",
+                "Line": "正是有你的帮助，我现在成为了国王！之后我将与阿尔玟一同治国理政！",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "Gandalf will give me some advice before he leaves Middle-earth!",
+                "Line": "甘道夫离开中洲前也会告诉我一些为君之道！",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "Farewell @p ! ",
+                "Line": "再会，@p ！ ",
                 "Song": "",
                 "Slot": 5
             }

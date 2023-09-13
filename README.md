@@ -58,14 +58,26 @@ MEGA云盘：
 
 如果无法下载新汉化润色，可以点击这个：[加速地址](https://hub.gitmirror.com/https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/archive/refs/heads/Archi.zip)
 
-把customnpcs文件夹里的文件，放进saves/Middleearth - The One Ring/customnpcs里。
+把customnpcs/clones文件夹里的文件，放进.minecraft/customnpcs/clones里。
+
+把save/customnpcs文件夹里的文件，放进.minecraft/saves/Middleearth - The One Ring/customnpcs里。
 
 ## 仓库介绍
-该仓库汉化的是该地图包的自定义NPC模组的对话与任务，其中：
+该仓库汉化的是该地图包的自定义NPC模组的对话与任务，共分为两部分：
 
-**dialogs**文件夹内是NPC对话文本
+第一部分是气泡型对话，又称“气泡”，会在头上弹出气泡，并显示在左下角聊天栏里；
 
-**quests**文件夹内是任务文本
+第二部分是对话框与选项，又称“对话框”，右键NPC会弹出的对话框，并有选项可以选择，同时还与任务联系在一起。
+
+气泡位于.minecraft\customnpcs\clones文件夹。
+
+> **clones**文件夹内的所有有文件，都是NPC的数据，例如NPC名称与气泡台词。
+
+对话框位于.minecraft\saves\存档名\customnpcs文件夹，其中：
+
+> **dialogs**文件夹内是NPC对话文本
+>
+> **quests**文件夹内是任务文本
 
 在dialogs里的每一个文件都是一个NPC的对话框，里面是对话框的文本和选项。
 
