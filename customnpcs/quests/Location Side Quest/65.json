@@ -5,7 +5,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Khamuls Tower 2",
-    "Text": "他回来了！那兹古尔之一！我必须和他决一死战，现在没有机会逃脱了！
+    "Text": "他回来了！那兹古尔之一！我必须和他决斗，现在跑不掉了！
 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -43,7 +43,7 @@
         }
     ],
     "TargetType": 0,
-    "CompleteText": "他已经死了！可哈穆尔是九戒灵之一。这一定意味着他们中还有更多活着的...
+    "CompleteText": "他回来了！可哈穆尔是九戒灵之一。这一定意味着他们中有更多的人又活过来了.. 
 
 也许我会在旅途中找到更多关于这个话题的线索！
 ",
