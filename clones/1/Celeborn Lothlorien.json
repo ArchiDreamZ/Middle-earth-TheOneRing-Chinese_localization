@@ -140,32 +140,32 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Hello @p , this is Caras Galadhon the city above the trees!",
+                "Line": "你好，@p，这里是树木之城卡拉斯加拉松！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "I am Celeborn the Lord of Lothlorien.",
+                "Line": "我是凯勒博恩，洛丝罗瑞恩之主。",
                 "Song": "lotr:elf.male.say",
                 "Slot": 1
             },
             {
-                "Line": "The fellowship and all their friends are welcome here!",
+                "Line": "这里欢迎魔戒同盟和他们的朋友。",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "Galadriel is already waiting for you at the mystery mirror!",
+                "Line": "加拉德瑞尔夫人已在水镜旁等候你了。",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "Have you tried the Lembas bread yet?? Its delicious!",
+                "Line": "你吃过兰巴斯了吗？那可是精灵的美味食品。",
                 "Song": "lotr:elf.male.say",
                 "Slot": 5
             },
             {
-                "Line": "We have provided you with a boat for the journey in the harbor. Farewell!",
+                "Line": "我们在河港为你准备了旅行的船只。再会！",
                 "Song": "",
                 "Slot": 7
             }
