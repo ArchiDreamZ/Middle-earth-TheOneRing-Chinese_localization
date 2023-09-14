@@ -109,42 +109,42 @@
     "NpcKillLines": {
         "Lines": [
             {
-                "Line": "GAARGG!! Take that!!",
+                "Line": "啊啊啊啊！！！吃我一斧！！",
                 "Song": "lotr:dwarf.attack",
                 "Slot": 0
             },
             {
-                "Line": "My Axe is still sharp!",
+                "Line": "我的斧头仍然寒光闪烁！",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "No enemy will pass this point!",
+                "Line": "没有敌人能从这里过去！",
                 "Song": "lotr:dwarf.kill",
                 "Slot": 2
             },
             {
-                "Line": "HAA!! You should have not messed with us!!",
+                "Line": "啊！你惹错人了！！",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "For Durin!!!",
+                "Line": "为了都林！！For Durin!!!",
                 "Song": "lotr:dwarf.attack",
                 "Slot": 4
             },
             {
-                "Line": "Let Them Come!",
+                "Line": "放马过来！",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "(Speaking Dwarvish) Ishkhaqwi Ai Durugnul!! ",
+                "Line": "(矮人语）我唾弃你的坟墓！ ",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "There Is One Dwarf Yet In Moria Who Still Draws Breath!",
+                "Line": "墨瑞亚里还剩个矮人在呼吸呢！",
                 "Song": "",
                 "Slot": 7
             }
