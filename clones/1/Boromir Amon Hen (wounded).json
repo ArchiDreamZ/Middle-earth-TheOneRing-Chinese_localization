@@ -137,32 +137,32 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Hello @p! *cough* I'm badly injured!",
+                "Line": " @p！*喘息* 我受了重伤！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "The Urukhai Captain hit me with his arrows...",
+                "Line": "乌鲁克奥克头目用箭射伤了我...",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "*gasp* I've done my job and protected the fellowship! *cough* ",
+                "Line": "*哽咽* 我让大家失望了。*喘息* ",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "I would have liked to see the white tower of Minas Tirith one more time...",
+                "Line": "我多想再见一眼米那斯提力斯的白墙...",
                 "Song": "lotr:troll.sniff",
                 "Slot": 3
             },
             {
-                "Line": "The Ring has a dark power and must be destroyed! The fate of all of us is in your hands!",
+                "Line": "至尊戒有邪恶的力量必须被摧毁！我们所有人的命运均系于你之手！",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "Farewell.. @p... my brother... *cough*... my king!",
+                "Line": "永别了... @p...我的好兄弟... *喘息*... 我的领袖！",
                 "Song": "",
                 "Slot": 6
             },
