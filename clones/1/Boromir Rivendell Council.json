@@ -218,42 +218,46 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "In a dream, I saw the eastern sky grow dark. But in the West a pale light lingered. A voice was crying: 'Your doom is near at hand. Isildur's Bane is found.",
+                "Line": "我在梦中，曾眼见东方苍穹陷入黑暗，但西方仍徘徊一道浅淡天光。
+                         光中有个声音呼喊：'你的命数结局在指掌之间，伊熙尔杜克星已被寻得'。",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "It is a gift. A gift to the foes of Mordor.",
+                "Line": "这是天赐良机。赐予我们来对抗魔多强敌。",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Why not use this Ring?",
+                "Line": "为何不利用这枚魔戒呢？",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "Long has my father, the Steward of Gondor, kept the forces of Mordor at bay. By the blood of our people are your lands kept safe!",
+                "Line": "且说我父，刚铎的执政宰相，将刚铎的兵力集中于海湾。 
+                         用我们的人民的鲜血才换来你们诸国平安！",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "Give Gondor the weapon of the enemy. Let us use it against him!",
+                "Line": "把大敌的武器交予刚铎，让我们叫他自食其果。",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "Aragorn? This… is Isildur's heir?",
+                "Line": "阿拉贡？他... 是伊熙尔杜的后裔...",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "Gondor has no king. Gondor needs no king.",
+                "Line": "刚铎已无国王也无需国王！",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "One does not simply walk into Mordor. Its black gates are guarded by more than just Orcs. There is evil there that does not sleep. And the great Eye is ever watchful. Not with ten thousand men could you do this. It is folly!",
+                "Line": "魔多可不是想进就能进的。比奥克更凶恶的怪物看守着黑门。
+                         邪恶在那地永不休眠。而巨眼则终日警戒。
+                         就算陈兵上万也难以做到。这也太过愚蠢了。",
                 "Song": "",
                 "Slot": 7
             }
