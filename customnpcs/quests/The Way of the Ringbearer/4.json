@@ -7,7 +7,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 5: The realm of the Elves",
-    "Text": "旅行的下一站是洛丝罗瑞恩，精灵的领地。
+    "Text": "接下来我们将前往洛丝罗瑞恩，精灵的领地。
 在那里，我们将得到加拉德瑞尔夫人的帮助。
 
 
@@ -40,7 +40,7 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "洛斯丝罗瑞恩！
+    "CompleteText": "洛丝罗瑞恩！
 经过长途跋涉，我终于到了！
 我应该去找加拉德瑞尔夫人！",
     "NextQuestTitle": "",
