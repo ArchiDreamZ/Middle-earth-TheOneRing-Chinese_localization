@@ -107,42 +107,42 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Who's there? Who disturbs? I told you Bag End isn't for sale!!",
+                "Line": "谁在那儿？别打扰我！我说过了袋底洞不卖！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "Oh @p, it's just you, come in old friend and help yourself to my food!",
+                "Line": "哦，@p，是你啊，进来吧老友，请随便吃！",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Today is my 111th birthday! You should come and see the party. I left a little earlier...",
+                "Line": "今天是我111岁生日！你应该去宴会上转转看看。我提早回来了...",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "I'm old @p. You can't tell but I can feel it. I feel very thin... like butter spread on too much bread..",
+                "Line": "我老了啊，@p。我是不太显老，可我心里已经有了这种感觉。我感觉...好单薄...仿佛被拉开抻长了，就像...奶油抹了太大一块面包。",
                 "Song": "lotr:troll.sniff",
                 "Slot": 3
             },
             {
-                "Line": "Something has to change... I want to see mountains again! I think it's time for one last adventure.",
+                "Line": "必须有所改变... 我想再去看看大山！我想是时候进行最后一次冒险了！",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "You're just in time by the way @p, Gandalf wanted to talk to you too.",
+                "Line": "顺便说一句，你来得正是时候，@p ，甘道夫也想和你谈谈。",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "It's probably about my old magic ring. He persuaded me to give him up... He's at the firepace.",
+                "Line": "应该是和我以前的魔法戒指有关。他想说服我放弃它...他在炉火边。",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "I came up with a good ending for my book.. and so he lived happily until the ends of his days.",
+                "Line": "书的结尾我已经想好了...「从此以后他都幸福快乐，直到过完一生」。",
                 "Song": "",
                 "Slot": 7
             }
