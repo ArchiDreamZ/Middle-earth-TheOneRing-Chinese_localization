@@ -107,42 +107,42 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Ich weiß was ihr vorhabt Gandalf! Niemals wird dieser Aragorn... Oh... Hallo @p .",
+                "Line": "我知道你在算计什么，甘道夫！阿拉贡永远不会...哦...你好，@p。",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "Dieser alte Zauberer und der Knirps erzählen mir hier irgendwas vom Weltuntergang.",
+                "Line": "这个老巫师和霍比特人在告诉我一些关于世界末日的事情。",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Als wären es nicht schon genug schlechte Nachrichten zur Zeit.. Seht ihr dieses kaputte Horn in meiner Hand?",
+                "Line": "好像现在的坏消息还不够多似的...看到我手里折断的号角了吗？",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "Mein geliebter Sohn Boromir ist vor kurzem gestorben..es gehörte ihm... und nun habe ich nur noch diesen Nichtsnutz Faramir in Osgiliath...",
+                "Line": "我的爱子波洛米尔最近去世了...这是他的...现在我在欧斯吉利亚斯只有那个一无是处的法拉米尔了...",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "Die Tradition besagt, das die Altvorderen Könige, in der Gruft hinter der Zitadelle verbrannt wurden. Manche auch Lebendig. Die wohl größte Ehre eines Königs am Ende seiner Zeit.",
+                "Line": "传说古代国王都被在城堡后面的坟墓里火化。有些甚至还活着。这可能是一个国王在他的时代结束时最大的荣耀。",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "Die fünf Mauer Ringe von Minas Thirith wurden noch nie erobert. Und das werden sie auch jetzt nicht.",
+                "Line": "米那斯提力斯的七环城墙从未被征服过。现在也不会！",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "Geht jetzt! Ich habe hunger bekommen und der Hobbit soll mir ein Lied singen. ",
+                "Line": "退下吧！我饿了，我想让霍比特人给我唱首歌。 ",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "Die Herrschaft über Gondor ist MEIN! Und keines anderen!!",
+                "Line": "刚铎的王权是我的！没有别人！",
                 "Song": "",
                 "Slot": 7
             }
