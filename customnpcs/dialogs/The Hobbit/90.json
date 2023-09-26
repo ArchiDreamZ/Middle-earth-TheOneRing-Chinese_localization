@@ -7,8 +7,8 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 92,
-                "Title": "同意！ - 三十匹白马在红色山丘上，它们先是大声嚼啊嚼，
-然后用力跺啊跺跺脚，然后它们站定不动了。",
+                "Title": "那也行吧！ - 三十匹白马站在小红丘，它们先是嚼一嚼
+然后跺跺脚，然后站定不动了。",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -42,11 +42,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "是的，是的，我的宝贝!
+    "DialogText": "好！好！我的宝贝！
 
-嗯. .如果它输了．．然后呢?
+那如果他输了呢？那就怎样？
 
-如果 @p 输了, 我们就把它吃掉!!
+要是 @p 输了, 我们就吃了它！
+
+那 @p 先来！
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
