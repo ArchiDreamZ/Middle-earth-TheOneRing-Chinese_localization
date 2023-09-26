@@ -107,42 +107,42 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Hello @p good that you are here! ",
+                "Line": "你好！ @p 很高兴你在这里！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "The battle against Saruman is over, but the war for Middle-earth has only just begun!",
+                "Line": "对抗萨鲁曼的战斗已经结束，不过整个中洲要面对的战斗才刚刚开始！",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "This is Dunharrow, the valley of the old mountain has always been used as the gathering place of the Rohirrim!",
+                "Line": "这里是黑蛮祠，这古老的山谷一直作为洛希尔人的集结地！",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "And that's how it should be this time too! A last time..",
+                "Line": "这一次也应该如此！最后一次...",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "The beacons of Gondor are lit.. we start riding into glory and death!",
+                "Line": "刚铎的烽火已经升起...我们将骑向荣耀与死亡！",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "6000 spears... less than I hoped for...",
+                "Line": "只有6000骠骑...比我希望的要少...",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "I fear this will be our last ride. To eternity!",
+                "Line": "恐怕这就是我们的结局，冲向永恒！",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "Lord Elrond is already waiting for you in the command tent! Go fast @p it seems important! Goodbye",
+                "Line": "埃尔隆德大人早已在营帐中等你了！快去 @p 这似乎很要紧！再会！",
                 "Song": "",
                 "Slot": 7
             }
