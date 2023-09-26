@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 117,
-                "Title": "为什么是霍比特人，比尔博?",
+                "Title": "为什么是比尔博，一个霍比特人？",
                 "DialogColor": 16448758,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 116,
-                "Title": "接下来我应该做什么? (任务开始)",
+                "Title": "接下来我应该做什么？ (任务开始)",
                 "DialogColor": 3144976,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 14224140,
                 "OptionType": 0
             }
@@ -88,13 +88,12 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf hobbit 3",
     "PreviousBlocks": 1b,
-    "DialogText": "我很想帮忙，但我有一些重要的事情需要处理。
+    "DialogText": "我也想帮助你，但我有更重要的事情需要处理。
 
-在多古尔都发现了一把魔古尔之刃，与安格玛巫王一起安放在他的墓室里。
-我将去中洲北部寒冷的北荒地寻找鲁道尔的墓室。
-这是我们唯一可以确定的方法。
+在多古尔都发现了一把魔古尔之刃，它本应与安格玛巫王一起安放在他的墓室里。
 
-
+我将去中洲寒冷的北部荒原，寻找位于鲁道尔的墓室。
+只有这样我们才能找到真相。
 
 ",
     "AvailabilityQuest4Id": -1,
