@@ -124,12 +124,12 @@
                 "Slot": 2
             },
             {
-                "Line": "啊！你惹错人了！！",
+                "Line": "哈啊！你惹错人了！！",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "为了都林！！For Durin!!!",
+                "Line": "为了都林！！",
                 "Song": "lotr:dwarf.attack",
                 "Slot": 4
             },
@@ -139,12 +139,12 @@
                 "Slot": 5
             },
             {
-                "Line": "(矮人语）我唾弃你的坟墓！ ",
+                "Line": "Ishkhaqwi Ai Durugnul！（矮人语：我唾弃你的坟墓！）",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "墨瑞亚里还剩个矮人在呼吸呢！",
+                "Line": "墨瑞亚还有个矮人没咽气呢！",
                 "Song": "",
                 "Slot": 7
             }
