@@ -140,7 +140,7 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "你好，@p，这里是树木之城卡拉斯加拉松！",
+                "Line": "日安，@p，这里是树木之城卡拉斯加拉松！",
                 "Song": "",
                 "Slot": 0
             },
