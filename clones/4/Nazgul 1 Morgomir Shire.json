@@ -40,7 +40,7 @@
                 "Slot": 0
             },
             {
-                "Line": "至尊戒在哪！",
+                "Line": "戒指在哪！",
                 "Song": "lotr:wight.ambience",
                 "Slot": 1
             }
@@ -87,7 +87,7 @@
                 "Slot": 0
             },
             {
-                "Line": "把至尊戒给我们！",
+                "Line": "把戒指给我们！",
                 "Song": "minecraft:mob.wither.hurt",
                 "Slot": 1
             },
@@ -97,7 +97,7 @@
                 "Slot": 2
             },
             {
-                "Line": "I feel the one ring! It is near!",
+                "Line": "我感受到了至尊戒！它就在附近！",
                 "Song": "lotr:wight.ambience",
                 "Slot": 3
             }
