@@ -111,7 +111,7 @@
     "NpcAttackLines": {
         "Lines": [
             {
-                "Line": "DIE you maggot!",
+                "Line": "去死！你这臭虫！",
                 "Song": "lotr:orc.fire",
                 "Slot": 0
             }
