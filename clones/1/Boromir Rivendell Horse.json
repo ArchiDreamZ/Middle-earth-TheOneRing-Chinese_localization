@@ -270,37 +270,37 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Greetings! @p ! My name is Boromir son of Denethor!",
+                "Line": "向你问候！ @p ！我是波洛米尔，德内梭尔之子！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "I'm here for the council of the ring!",
+                "Line": "我是来参加魔戒会议的！",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "You're wearing it, aren't you? It is a gift! We must use it against Mordor!!",
+                "Line": "你带着它，不是吗？这是一件礼物！我们必须使用它来对付魔多！！",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "If only I could... borrow it!!",
+                "Line": "假如我能...借用它一下！",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "But I will join the community! And listen to the Council's decision!",
+                "Line": "不过我会加入讨论的，我听从会议的最终决定！",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "So you determine our fate @p .. So it will be!",
+                "Line": "你决定了我们的命运 @p ...那就这样吧！",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "I'll see you in the council!",
+                "Line": "我会在会议上等你！",
                 "Song": "",
                 "Slot": 7
             }
