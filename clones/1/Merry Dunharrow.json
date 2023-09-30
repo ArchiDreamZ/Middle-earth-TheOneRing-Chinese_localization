@@ -107,17 +107,17 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Oh hello @p ! How exciting, we go to battle! Now I can prove myself!",
+                "Line": "啊！你好！ @p 刚刚真刺激，我们去打了一仗！现在我能保护我自己了！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "I need to rest after the long journey, tomorrow it will go toGondor. Then I hope to see Pippin again!",
+                "Line": "在长途旅行后我需要休息一下，明天我将会前去刚铎，我希望能再见到皮平！",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Goodbye, I hope to see you again! ",
+                "Line": "再见，期待我们再次会面 ",
                 "Song": "",
                 "Slot": 2
             }
