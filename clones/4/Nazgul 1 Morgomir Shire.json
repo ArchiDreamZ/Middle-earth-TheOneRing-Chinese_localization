@@ -35,12 +35,12 @@
     "NpcLines": {
         "Lines": [
             {
-                "Line": "SHIRE!! Baggins!!!",
+                "Line": "夏尔！！巴金斯！！",
                 "Song": "lotr:wight.death",
                 "Slot": 0
             },
             {
-                "Line": "Where is the ring!!!",
+                "Line": "戒指在哪！",
                 "Song": "lotr:wight.ambience",
                 "Slot": 1
             }
@@ -82,22 +82,22 @@
     "NpcAttackLines": {
         "Lines": [
             {
-                "Line": "The ring will belong to Sauron again!",
+                "Line": "至尊戒定会再次回到索隆手中！",
                 "Song": "lotr:wight.death",
                 "Slot": 0
             },
             {
-                "Line": "Give us the ring!",
+                "Line": "把戒指给我们！",
                 "Song": "minecraft:mob.wither.hurt",
                 "Slot": 1
             },
             {
-                "Line": "(Scream)",
+                "Line": "（尖啸声）",
                 "Song": "minecraft:mob.wither.death",
                 "Slot": 2
             },
             {
-                "Line": "I feel the one ring! It is near!",
+                "Line": "我感受到了至尊戒！它就在附近！",
                 "Song": "lotr:wight.ambience",
                 "Slot": 3
             }
