@@ -107,12 +107,12 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "The elves are eternally grateful to you for saving Middle-earth from destruction!",
+                "Line": "精灵们会永远感谢您拯救中土免于毁灭！",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "Long live the king!",
+                "Line": "国王万岁！",
                 "Song": "lotr:elf.male.say",
                 "Slot": 1
             }
