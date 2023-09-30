@@ -107,37 +107,37 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Hello @p I'm Arwen, daughter of Elrond.",
+                "Line": "日安，@p，我是阿尔玟，埃尔隆德之女。",
                 "Song": "",
                 "Slot": 0
             },
             {
-                "Line": "The elven star around my neck is for Aragorn, i want to give it to him as a gift",
+                "Line": "我脖子上的埃莱萨宝石是给阿拉贡的，我想把它作为礼物送给他。",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "I would prefer life with him to immortality.",
+                "Line": "比起永恒的寿命，我更愿意和他一起生活。",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "Here in front of me are the fragments of Narsil. The sword that cut the ring from Sauron's finger.",
+                "Line": "我面前的是纳熙尔圣剑的断刃，从索隆手指上斩下至尊魔戒的剑。",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "These are difficult times for us @p , the war is not good for our people.",
+                "Line": "现在是艰难时日，@p，战争让我的人民饱受涂炭之苦。",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "I saw a child in a vision.. what does that mean?",
+                "Line": "在幻象中我看见一个孩子...这意味着什么呢？",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "If only I had seen him just one more time...",
+                "Line": "如果我能再见到他一次就好了。",
                 "Song": "",
                 "Slot": 6
             }
