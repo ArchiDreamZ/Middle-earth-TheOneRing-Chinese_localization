@@ -107,42 +107,42 @@
     "NpcInteractLines": {
         "Lines": [
             {
-                "Line": "Ich bin Elrond, FÜrst der Elben!",
+                "Line": "我是埃尔隆德，瑞文戴尔之主！",
                 "Song": "lotr:elf.male.say",
                 "Slot": 0
             },
             {
-                "Line": "Willkommen in Bruchtal! @p",
+                "Line": "欢迎来到瑞文戴尔！@p",
                 "Song": "",
                 "Slot": 1
             },
             {
-                "Line": "Ich war da, vor 3000 Jahren,..Isildur hätte damals den Ring zerstören sollen!",
+                "Line": "3000年前，我就在那...伊熙尔杜当时就应该摧毁戒指！",
                 "Song": "",
                 "Slot": 2
             },
             {
-                "Line": "Dies ist der Rat der Gemeinschaft des Ringes. Hier in Bruchtal kann er nicht bleiben,.. das wäre zu gefährlich!",
+                "Line": "会议已经做出决定，它不能留在瑞文戴尔...那太危险了！",
                 "Song": "",
                 "Slot": 3
             },
             {
-                "Line": "Der Ring muss zerstört werden! Und das geht nur wenn er in die Lava vom Schicksalsberg geworfen wird!",
+                "Line": "魔戒必须被毁灭，唯有末日山的烈火熔岩才能做到这一点。",
                 "Song": "",
                 "Slot": 4
             },
             {
-                "Line": "Du @p bist unser aller Hoffung! Ganz Mittelerde zahlt auf dich!",
+                "Line": " @p，你是我们所有人的希望！你肩负着中洲的命运！",
                 "Song": "",
                 "Slot": 5
             },
             {
-                "Line": "Der Feind wird niemals damit rechnen, das wir es vorhaben ihn zu vernichten!",
+                "Line": "敌人永远不会想到我们打算销毁它！",
                 "Song": "",
                 "Slot": 6
             },
             {
-                "Line": "Wenn ihr nach Osten geht kommt ihr zum Pass des Caradhras. Oder doch lieber nach Süden, durch die Mienen von Moria? Frau Galadriel von Lothlorien erwartet euch auch schon! Viel Erfolg!",
+                "Line": "如果向东走，就会到达高隘口。或者向南，穿过卡拉兹拉斯隘口。洛丝罗瑞恩的加拉德瑞尔夫人已经在等着你了！祝你好运！",
                 "Song": "",
                 "Slot": 7
             }
