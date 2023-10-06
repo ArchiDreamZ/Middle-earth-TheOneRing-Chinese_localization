@@ -47,10 +47,12 @@
 现在处于润色阶段，已经可以游玩，下载体验一下吧。如果发现什么语句不通顺，可以在中文社区联系我们润色。
 
 MEGA云盘：
-[魔戒剧情地图包 Middle-earth-TheOneRing-3.3](https://mega.nz/file/AwNykKra#teoC375ngR4pSC4xk1NG0eXgzfED78gEqtK49JhbDTE)，如果打不开，就挂一个免费的Steam++(又名Watt Toolkit)。
+[魔戒剧情地图包 Middle-earth-TheOneRing-3.3](https://mega.nz/file/lh0ikTxS#wnjPXGQ7FH1brZFsxWxHOLlJvOaR1MY4hAOasgGwGDI)，如果打不开，就挂一个免费的Steam++(又名Watt Toolkit)。
 
 其他云盘：
 [百度网盘](https://pan.baidu.com/s/1Ld1ukm5EtJeu0r96e1BZ-g?pwd=0000)
+
+[腾讯微云](https://share.weiyun.com/y2B7cdII)
 
 后续一直在更新汉化的润色，请手动下载汉化并添加进地图包。
 
