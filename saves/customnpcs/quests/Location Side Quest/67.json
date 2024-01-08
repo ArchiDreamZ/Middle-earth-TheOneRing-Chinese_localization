@@ -1,4 +1,4 @@
-0{
+{
     "CompleterNpc": "Tom Bombadil",
     "NextQuestId": 68,
     "RandomReward": 0b,
@@ -6,7 +6,9 @@
     "QuestCompletion": 1,
     "Title": "Mount Gram",
     "Text": "汤姆·邦巴迪尔在柳谷镇警告了霍比特人黑暗时代的来临。 
-奥克似乎已经离夏尔边境很近了。它们来自于古老的格拉姆山。我们应该看看这到底是怎么回事。 ",
+奥克似乎已经离夏尔边境很近了，它们来自于古老的格拉姆山。
+我们应该看看这到底是怎么回事。 
+",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
