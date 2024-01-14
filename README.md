@@ -70,7 +70,16 @@ MEGA云盘：
 
 第二部分是对话框与选项，又称“对话框”，右键NPC会弹出的对话框，并有选项可以选择，同时还与任务联系在一起。
 
-### 对话框
+#### 气泡台词
+气泡位于.minecraft\customnpcs\clones文件夹，其中包含1-5共5个文件夹。
+
+> **1**：持戒人之路和王者之路的NPC
+> **2**：霍比特人之路的NPC
+> **3**：所有随从NPC
+> **4**：所有敌人NPC
+> **5**：随机路人NPC
+
+#### 对话框
 对话框位于.minecraft\saves\存档名\customnpcs文件夹，其中：
 
 > **dialogs**文件夹内是NPC对话文本
@@ -86,19 +95,6 @@ MEGA云盘：
 > ![DialogText](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/68ac31ab-47f0-48d1-94a8-409c1242f859)
 
 下面的“DialogText”是NPC的文本。该文本对应上面的选项，例如在这个例子里，可以选择弗罗多作为同伴，只要选择上面的“跟我来”选项。
-
-### 气泡台词
-气泡位于.minecraft\customnpcs\clones文件夹，其中包含1-5共5个文件夹。
-
-> **1**：持戒人之路和王者之路的NPC
-> 
-> **2**：霍比特人之路的NPC
-> 
-> **3**：所有随从NPC
-> 
-> **4**：所有敌人NPC
-> 
-> **5**：随机路人NPC
 
 如果还不清楚怎么汉化，看一下已经汉化的部分，就知道怎么汉化了。
 
