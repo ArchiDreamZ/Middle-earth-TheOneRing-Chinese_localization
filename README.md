@@ -1,7 +1,7 @@
 # Middle-earth-TheOneRing
- 该地图包由德国的PakPacman制作，并发布于PlanetMinecraft，见帖子：[Middle-earth: Complete Map With All Locations And Heroes With Story Quest's!](https://www.planetminecraft.com/project/middle-earth-complete-map-with-story-quest-s/)
+ 该地图由德国的PakPacman制作，并发布于PlanetMinecraft，见帖子：[Middle-earth: Complete Map With All Locations And Heroes With Story Quest's!](https://www.planetminecraft.com/project/middle-earth-complete-map-with-story-quest-s/)
 
- 在这个地图包中，作者制作了4条主线的大量还原电影的故事任务，以及众多支线，添加所有路径点建筑，第一视角体验魔戒故事。
+ 在这个地图中，作者制作了4条主线的大量还原电影的故事任务，以及众多支线，添加所有路径点建筑，第一视角体验魔戒故事。
 
 ## 原介绍：
 您好，欢迎来到中土世界。
@@ -45,7 +45,7 @@
 现在处于润色阶段，已经可以游玩，下载体验一下吧。如果发现什么语句不通顺，可以在中文社区联系我们润色。
 
 MEGA云盘：
-[魔戒剧情地图包 Middle-earth-TheOneRing-3.3](https://mega.nz/file/lh0ikTxS#wnjPXGQ7FH1brZFsxWxHOLlJvOaR1MY4hAOasgGwGDI)，如果打不开，就挂一个免费的Steam++(又名Watt Toolkit)。
+[魔戒剧情地图 Middle-earth-TheOneRing-3.3](https://mega.nz/file/lh0ikTxS#wnjPXGQ7FH1brZFsxWxHOLlJvOaR1MY4hAOasgGwGDI)，如果打不开，就挂一个免费的Steam++(又名Watt Toolkit)。
 
 其他云盘：
 
@@ -53,7 +53,7 @@ MEGA云盘：
 
 [腾讯微云](https://share.weiyun.com/y2B7cdII)
 
-后续一直在更新汉化的润色，请手动下载汉化并添加进地图包。
+后续一直在更新汉化的润色，请手动下载汉化并添加进地图。
 
 > ![搜狗截图20230809232209](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f2d7cda5-760f-4395-83dd-117e43fdd738)
 
@@ -64,7 +64,7 @@ MEGA云盘：
 把save/customnpcs文件夹里的文件，放进.minecraft/saves/Middleearth - The One Ring/customnpcs里。
 
 ## 仓库介绍
-该仓库汉化的是该地图包的自定义NPC模组的对话与任务，共分为两部分：
+该仓库汉化的是该地图的自定义NPC模组的对话与任务，共分为两部分：
 
 第一部分是气泡型对话，又称“气泡台词”，会在头上弹出气泡，并显示在左下角聊天栏里。例如路人的问候和敌人的谩骂；
 
@@ -114,7 +114,7 @@ MEGA云盘：
 如果是参照电影台词润色的，就写“据电影润色”，如果是作者自己编的支线任务，电影里没有，就写“已润色”。
 
 ### 润色
-该地图包里的对话绝大部分都是电影里的台词，初翻并没有很精致，润色时需要一边对照电影一遍润色。
+该地图里的对话绝大部分都是电影里的台词，初翻并没有很精致，润色时需要一边对照电影一遍润色。
 
 B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可以直接复制。
 
