@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "Faramir",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Cair Andros",
+    "Text": "Faramir the Captain of Gondor has aks me about help in Cair Andros!The old city of Gondor has fallen into the hands of the Orcs of Mordor!I have to meet him at the north bridge, The Orcs have blocked all other gates..After that we will fight together against the leaders, that must make them retreat.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 20,
+            "Slot": "Orc Captain"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1682688416884L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "We've made it! Faramir and me have killed all the Orc Captains together and have reconquered the city Cair Andros!Now the people of Gondor can came back here.I should continue my journey!",
+    "NextQuestTitle": ""
+}

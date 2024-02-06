@@ -1,0 +1,56 @@
+{
+    "CompleterNpc": "Gandalf der Graue",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 1: Lets go on an Adventure!",
+    "Text": "Sauron is back, and with him is the One Ring.
+
+It cannot stay in the Shire!
+
+Meet with Gandalf in Bree to discuss further!
+
+But beware of the Black Riders!
+
+They are drawn to the power of the ring!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 20,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1668404942707L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "\"This is the inn Gandalf spoke of.
+
+But he doesn't seem to be here!
+
+Has something happened to him?
+
+Otherwise he is always on time!\"( Someone is watching you from the corner of the room !)",
+    "NextQuestTitle": "",
+    "QuestLocation": "Bree Inn"
+}

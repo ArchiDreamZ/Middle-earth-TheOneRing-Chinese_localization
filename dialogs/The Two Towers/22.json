@@ -1,0 +1,96 @@
+{
+    "DialogShowWheel": 0b,
+    "AvailabilityQuestId": -1,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 23,
+                "Title": "I will fulfill my destiny!{Continue Quest -Way of the Ringbearer-}",
+                "DialogColor": 588839,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 24,
+                "Title": "I'm coming to Rohan with you!{Quest Start -Way of the King-}",
+                "DialogColor": 195326,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "I have to think about that first!",
+                "DialogColor": 16125966,
+                "OptionType": 0
+            }
+        }
+    ],
+    "DialogHideNPC": 0b,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "ModRev": 16,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "OptionFactions1": -1,
+    "AvailabilityDayTime": 0,
+    "OptionFactions2": -1,
+    "AvailabilityFaction2Id": -1,
+    "OptionFaction1Points": 100,
+    "DialogDisableEsc": 0b,
+    "AvailabilityFaction": 0,
+    "DialogTitle": "Aragorn(Boromir)",
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "DialogSound": "lotr:troll.sniff",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "DialogText": "Luckily you are here @p ! Saruman sent his Uruk-Hai and Boromir was severely injured!
+I fear these are his final moments...
+
+In this place the fellowship will have to separate...
+
+The people of the West are in great danger and need our help!
+
+Rohan must be warned! But first we must rescue Marry and Pippin.. The orcs took them away...
+
+Or continue along the path and complete your quest!
+You can come back here later.
+The decision is yours!",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest3Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog3Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1666904358840L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "CompleterNpc": "Gandalf der Graue",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 2: The Way to Rivendell",
+    "Text": "After Gandalf was not at the Inn, I was sent to Rivendell by a ranger named Aragorn.
+
+He said he was a friend of Gandalf and I had no choice but to trust him!
+
+The path should take me past old Wethertop and also Bilbo's stone trolls.
+
+I have to watch out for the Ringwraiths! They guard the area!
+
+I hope Lord Elrond knows what to do!
+
+(Side Quest at Weathertop)",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 19,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1690136776551L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "You've made it to Rivendell and found the Council of Lord Elrond!
+Place the One Ring on the center table and talk to everyone present.",
+    "NextQuestTitle": "",
+    "QuestLocation": "Elronds Council"
+}

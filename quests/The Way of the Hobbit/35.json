@@ -1,0 +1,49 @@
+{
+    "CompleterNpc": "Tanal",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 8: The River Escape",
+    "Text": "- Escape from the Elven Kingdom!
+Thranduil has only his jewels inmind and has locked us up! We must escape from his prison!
+Maybe there's a path to the river somewhere around here?
+
+When I find it, I should swim east, Lake-town is the next destination,
+I hope on the way someone can help us to get into town.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1669292698876L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "We have left the elven pursuers behind!
+
+But how do we get to the lake town??",
+    "NextQuestTitle": "",
+    "QuestLocation": "Bard"
+}

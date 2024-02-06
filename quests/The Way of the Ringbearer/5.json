@@ -1,0 +1,52 @@
+{
+    "CompleterNpc": "Galadriel",
+    "NextQuestId": 53,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 6: Argonath",
+    "Text": "Lothlorien.. probably the most beautiful place in middle-earth..
+and I willingly leave it to see a desert of ashes and dust...
+
+Lady Galadriel has provided me with supplies and a boat at the docks.
+The journey continues south across the River Anduil.
+
+With every step I get closer to Mordor!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 19,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1689217721924L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "Here are the statues Lady Galadriel spoke of!
+
+I should search the West Shore. And set up camp for the night.
+
+Do i see Boromir in the distance? What is he doing there alone?",
+    "NextQuestTitle": "Part 7: Amon Hen",
+    "QuestLocation": "Argonath"
+}

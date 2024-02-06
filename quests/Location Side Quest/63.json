@@ -1,0 +1,49 @@
+{
+    "CompleterNpc": "Tauriel",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Gundabad",
+    "Text": "Legolas has ask me to help him checking out the mount Gundabad.It seems that there is something going on!He and Tauriel are going to waiting for me in the mountain area close to the entrance.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 1,
+            "Slot": "Bolg"
+        },
+        {
+            "Value": 10,
+            "Slot": "Orc Captain"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1671295022262L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "We have made it! Legolas, Tauriel and me killed the Orc captain Bolg!That should help ending the war faster!I should continue my journey! More people in Middleearth need my help!",
+    "NextQuestTitle": ""
+}

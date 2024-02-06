@@ -1,0 +1,54 @@
+{
+    "CompleterNpc": "Théoden",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 11: The Road to Mordor",
+    "Text": "Fighting through Osgiliath wasn't easy!
+
+Orcs swarmed the East bank...
+
+I'm afraid I have to hurry..
+Somewhere to the east there must be a road leading into the Old Morgul Valley...
+
+...not the safest way... but I have no alternative!",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 16,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1683152342208L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "I found it! the Morgul Valley!
+
+The ancient city of Minas Ithil once belonged to Gondor before the Witch-king of Angmar conquered it...
+
+According to Gollum, there is a secret stairway to Mordor in these mountains!
+Can I trust him?...",
+    "NextQuestTitle": "",
+    "QuestLocation": "Minas Morgul"
+}

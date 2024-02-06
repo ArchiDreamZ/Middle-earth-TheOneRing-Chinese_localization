@@ -1,0 +1,45 @@
+{
+    "CompleterNpc": "King of the Dead",
+    "NextQuestId": 70,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 9: The ships of Umbar",
+    "Text": "The King of the Dead and his army of dead soldiers of oathbreakers will follow is into the battle against Sauron!Now I have to find the ships of the Umbar Corsairs and take them in our controll. That should be a great surprise to the Orcs at the port of Minas Tirith.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Value": 20,
+            "Slot": "Umbar Captain"
+        }
+    ],
+    "ModRev": 16,
+    "Type": 2,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1680051811570L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "CompleteText": "The Umbar pirate captains are defeated! Now I can take the ship and drive to Minas Thirith! I hope it's not to late!",
+    "NextQuestTitle": "Part 10: The south port of Gondor"
+}
