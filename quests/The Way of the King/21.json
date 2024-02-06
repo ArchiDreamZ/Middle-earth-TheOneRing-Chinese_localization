@@ -6,7 +6,7 @@
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 8: Path of the Dead",
+    "Title": "Part 9: Path of the Dead",
     "Text": "Elrond has reforged the sword Narsil
 and sent me down the path of the dead.
 
@@ -21,7 +21,7 @@ Here I am to seek out the king of the dead and convince him to fight on our side
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -31,7 +31,7 @@ Here I am to seek out the king of the dead and convince him to fight on our side
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051792217L,
+        "TimePast": 1698154615473L,
         "Time": 0L,
         "Subject": ""
     },

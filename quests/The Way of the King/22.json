@@ -6,7 +6,7 @@
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 6: The white city",
+    "Title": "Part 7: The white city",
     "Text": "After Saruman is defeated, I must go to Gondor and warn the people. The Palanntir of Saruman showed the planned attack of Sauron on Minas Tirith.
 The people of Gondor need support!",
     "QuestFactionPoints": {
@@ -19,7 +19,7 @@ The people of Gondor need support!",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,7 +29,7 @@ The people of Gondor need support!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051857468L,
+        "TimePast": 1698154606321L,
         "Time": 0L,
         "Subject": ""
     },

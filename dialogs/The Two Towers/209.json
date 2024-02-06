@@ -1,6 +1,43 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
@@ -23,53 +60,35 @@
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "Eomer",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
+    "PreviousBlocks": 1b,
     "DialogText": "Hello @p Welcome to Rohan!
-I am Eomer, Marshall of the Riddermark! The king is my uncle.
-
-Saruman will pay for his treason! I will now go to Helm's Deep with my faithful riders.
-Gandalf said I should meet him there! I do not doubt the hearts of hobbits, only the reach of their arms.
-Rohan has the fastest horses. Take one from our stable, you will need it.
-Let's hunt orcs!
+I am Eomer, Marshall of the Riddermark! The king is my uncle. Rohan has the fastest horses. Take one from our stable.
 
 Up there you see the Golden Hall of the King!
 It overlooks all of Edoras, even to the burial mounds of our ancestors.
-Talk to Eowyn, she will tell you more.
-I have to go. For King Theoden!But wait.. i could use your help maybe if you have time.",
+Talk to Hama, the guard leader, if you want to enter the Hall.
+Saruman has poisened the king and I bet Grima has something to do with it.I hope he will be healed soon.Before you go, I could use your help maybe if you have time.",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -78,7 +97,7 @@ I have to go. For King Theoden!But wait.. i could use your help maybe if you ha
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1668877248018L,
+        "TimePast": 1698153368504L,
         "Time": 0L,
         "Subject": ""
     }

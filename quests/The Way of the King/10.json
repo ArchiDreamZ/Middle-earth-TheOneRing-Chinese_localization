@@ -6,8 +6,8 @@
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 3: Helms Deep",
-    "Text": "I've been asking around and it looks like Helm's Deep is my next destination!
+    "Title": "Part 4: Helms Deep",
+    "Text": "It looks like Helm's Deep is my next destination!We should gather some troops and help Theoden defending it!
 I hope I'll be there in time!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -19,7 +19,7 @@ I hope I'll be there in time!",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,7 +29,7 @@ I hope I'll be there in time!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673460197858L,
+        "TimePast": 1700380963037L,
         "Time": 0L,
         "Subject": ""
     },

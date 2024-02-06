@@ -1,0 +1,99 @@
+{
+    "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "minecraft:random.splash",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "/tp @dp 41040 80 20097",
+                "Dialog": -1,
+                "Title": "Yes!",
+                "DialogColor": 1834010,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "No!",
+                "DialogColor": 16714240,
+                "OptionType": 0
+            }
+        }
+    ],
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 21,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": 77,
+    "AvailabilityDialog2": 0,
+    "AvailabilityDayTime": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
+    "DialogTitle": "Gandalf moria watcher",
+    "PreviousBlocks": 1b,
+    "DialogText": "(Bubbles are rising from the water and waves rise.)Oh NO! Fast get all inside!! @p whatever will come out of the water, you need to defend the Hobbits!I will lead thim inside. >>(Teleport to Quest location)<<",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1698323375131L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

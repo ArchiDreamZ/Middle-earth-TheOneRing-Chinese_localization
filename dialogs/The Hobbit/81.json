@@ -69,7 +69,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -80,7 +80,7 @@
     "PreviousBlocks": 1b,
     "DialogText": "Also called the Lonely Mountain!
 It lies far to the east behind the Mirkwood realms.
-At the foot of the people of Thal.
+At the foot of the people of Dale.
 
 Once upon a time, the proud people of the dwarves lived in Erebor under their king Thrór.
 There he ruled with his son Thrain and his grandson Thorin. Someday
@@ -101,7 +101,7 @@ The dwarves fled... and since then Thorin has sworn revenge!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690137351202L,
+        "TimePast": 1698151349403L,
         "Time": 0L,
         "Subject": ""
     }

@@ -69,7 +69,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -95,7 +95,7 @@ Now it's a ruin and a spooky place, but it might offer you shelter at the night.
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690133672964L,
+        "TimePast": 1698504205227L,
         "Time": 0L,
         "Subject": ""
     }

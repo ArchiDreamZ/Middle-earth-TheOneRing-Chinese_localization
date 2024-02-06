@@ -79,7 +79,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -88,15 +88,8 @@
     "TextWidth": 300,
     "DialogTitle": "Gimli2",
     "PreviousBlocks": 1b,
-    "DialogText": "Behind me is the door to Balin's tomb.
-Take care, orcs have overrun it..
-And I think they have a cave troll.
-They really don't give you time to mourn.
-
-There's still one dwarf in Moria that hasn't turned into dust!
-let them come! I'll let them feel my axe!
-
-[drumms starts in deep]
+    "DialogText": "There's still one dwarf in Moria that hasn't turned into dust!
+let them come! I'll let them feel my axe!Talk to Gandalf, he knows what to do. 
 
 >>(You can take Gimli with you as a companion)<<",
     "AvailabilityQuest4Id": -1,
@@ -111,7 +104,7 @@ let them come! I'll let them feel my axe!
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689106960637L,
+        "TimePast": 1698483124230L,
         "Time": 0L,
         "Subject": ""
     }

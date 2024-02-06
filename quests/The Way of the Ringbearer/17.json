@@ -25,7 +25,7 @@ And saves the whole of Middle-earth from destruction!",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -35,7 +35,7 @@ And saves the whole of Middle-earth from destruction!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667964225902L,
+        "TimePast": 1698498531932L,
         "Time": 0L,
         "Subject": ""
     },

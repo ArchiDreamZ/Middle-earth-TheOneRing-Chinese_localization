@@ -4,7 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 0,
-    "Title": "Part 4: The Wall",
+    "Title": "Part 5: The Wall",
     "Text": "Theoden asked me to help him in battle!
 He said Saruman built bombs to blow up the wall!
 
@@ -22,14 +22,9 @@ I have to hurry!",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 5,
-            "Slot": "Uruk with Torch"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -38,7 +33,7 @@ I have to hurry!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673376193467L,
+        "TimePast": 1698157551820L,
         "Time": 0L,
         "Subject": ""
     },
@@ -46,6 +41,13 @@ I have to hurry!",
         "NpcMiscInv": [
         ]
     },
+    "QuestKills": [
+        {
+            "Value": 5,
+            "Slot": "Uruk with Torch"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "The Torchbearers are dead and the Wall is safe for now!
 
 I should speak to Theoden about further plans!",

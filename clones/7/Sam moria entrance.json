@@ -1,0 +1,583 @@
+{
+    "ReturnToStart": 1b,
+    "NpcInv": [
+    ],
+    "PotionEffect": 0,
+    "Size": 5,
+    "stopAndInteract": 1b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "disableDamage": 0b,
+        "Explosion": 1.0f,
+        "Knockback": 1.0f,
+        "Melee": 1.0f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 20,
+    "NpcAngrySound": "",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetX": 5.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 5.0f,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs.CustomNpc",
+    "HealF": 200.0f,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 0b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "FindShelter": 2,
+    "FlyGravity": 0.0d,
+    "ScriptsContainers": [
+        {
+            "Script": "",
+            "Type": 5,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 6,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 13,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 10,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 0,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 12,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 7,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 8,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 4,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 14,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 2,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 3,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 11,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 9,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 1,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        }
+    ],
+    "Air": 300s,
+    "modelType": 0,
+    "TacticalVariant": 0,
+    "Orientation": 0,
+    "ScriptLanguage": "ECMAScript",
+    "KnockBack": 0,
+    "SkinOverlayData": [
+    ],
+    "TransformHasJob": 0b,
+    "CustomName": "",
+    "FlyHeightLimit": 5,
+    "CanDespawn": 0b,
+    "BurnInSun": 0b,
+    "StandingState": 0,
+    "AttackInvisible": 0b,
+    "HurtTime": 0s,
+    "WalkingRange": 10,
+    "CustomNameVisible": 0b,
+    "InvisibleToList": [
+    ],
+    "ShotCount": 1,
+    "pDur": 5,
+    "DrowningType": 0,
+    "FlySpeed": 1.0d,
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "MovingType": 0,
+    "Texture": "customnpcs:textures/entity/humanmale/02_Samwise Gamgee.png",
+    "NpcJob": 0,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 10,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "DropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "MoveState": 0,
+    "RangeAndMelee": 0,
+    "pRender3D": 0b,
+    "RefuseSoulStone": 0b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0.0f,
+    "NpcsTimers": [
+    ],
+    "MarkovGender": 0,
+    "pEffect": 0,
+    "DistanceToMelee": 4,
+    "NpcStepSound": "",
+    "FireRate": 5,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 100,
+    "ImmuneToFire": 0b,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "UUIDMost": 7331177517509987419L,
+    "Fire": -1s,
+    "DisablePitch": 0b,
+    "pPhysics": 1b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Line": "We can't take the horses with us any longer. Bye old Bill..",
+                "Song": "",
+                "Slot": 0
+            },
+            {
+                "Line": "I don't like the idea of going into the dark, but we have to.",
+                "Song": "",
+                "Slot": 1
+            }
+        ]
+    },
+    "pSpin": 0b,
+    "NpcHurtSound": "minecraft:game.player.hurt",
+    "pTrail": 0,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 200.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.25d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 5.0d,
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "Sam ",
+    "FallDistance": 0.0f,
+    "NpcIdleSound": "",
+    "Weapons": [
+    ],
+    "NPCDialogOptions": [
+    ],
+    "AggroRange": 16,
+    "DirectLOS": 1b,
+    "HealthRegen": 1.0f,
+    "NpcModelData": {
+        "hideArms": 0b,
+        "BodyConfig": {
+            "ScaleZ": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "Breasts": 0b,
+        "Bodywear": 0b,
+        "hideLegs": 0b,
+        "ArmsConfig": {
+            "ScaleZ": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "SolidArmwear": 0b,
+        "ExtraData": {
+        },
+        "Armwear": 0b,
+        "HeadConfig": {
+            "ScaleZ": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "LegsConfig": {
+            "ScaleZ": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleX": 1.0f
+        },
+        "EntityClass": "lotr.common.entity.npc.LOTREntityHobbit",
+        "LegParts": {
+            "Type": 0b,
+            "PlayerTexture": 1b,
+            "Color": 16777215
+        },
+        "Parts": [
+        ],
+        "Headwear": 2b,
+        "hideBody": 0b,
+        "SolidLegwear": 0b,
+        "Legwear": 0b,
+        "hideHead": 0b,
+        "EnableRotation": 0b
+    },
+    "minDelay": 20,
+    "DoorInteract": 2,
+    "MoveSpeed": 5,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 1b,
+    "AllowAnimation": 0b,
+    "MaxHealth": 200.0d,
+    "HideBodyWhenKilled": 0b,
+    "AttackSpeed": 20,
+    "PotionDuration": 5,
+    "maxDelay": 40,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 4.0f,
+    "KilledTime": 0L,
+    "AimWhileShooting": 0b,
+    "CanPickUpLoot": 0b,
+    "PlayerSetCanDespawn": 0b,
+    "AttackOtherFactions": 0b,
+    "AttackTime": 0s,
+    "pSize": 5,
+    "CanSprint": 0b,
+    "CanLeap": 0b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "LOTREnchantInit": 1b
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "OnAttack": 0,
+    "TacticalRadius": 8,
+    "MaxExp": 0,
+    "OrderedLines": 1b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "FiringSound": "random.bow",
+    "HasFlyLimit": 0b,
+    "ModRev": 16,
+    "Accuracy": 60,
+    "MinExp": 0,
+    "SoulStonePlayerName": "",
+    "Armor": [
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 15,
+    "pXlr8": 0b,
+    "MarkovGeneratorId": 0,
+    "CollidesWith": 1,
+    "ProjectilesKeepTerrain": 0b,
+    "UUIDLeast": -6251525195704175979L,
+    "Health": 200s,
+    "pExplode": 0b,
+    "pStick": 0b,
+    "MovingPause": 1b,
+    "NpcDeathSound": "minecraft:game.player.hurt",
+    "FactionID": 0,
+    "MinFactionPointsToSoulStone": 0,
+    "Title": "",
+    "TotalTicksAlive": 87253L,
+    "Rotation": [
+        -1.1652756f,
+        -25.277424f
+    ],
+    "ShowName": 0,
+    "npcInteracting": 1b,
+    "AvoidsWater": 0b,
+    "TotalScripts": 0,
+    "DoubleDropChance": [
+        {
+            "Slot": 0,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 1,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 2,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 3,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 4,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 5,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 6,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 7,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 8,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 9,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 10,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 11,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 12,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 13,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 14,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 15,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 16,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 17,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 18,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 19,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 20,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 21,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 22,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 23,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 24,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 25,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 26,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 27,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 28,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 29,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 30,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 31,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 32,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 33,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 34,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 35,
+            "Double": 100.0d
+        }
+    ],
+    "Equipment": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 0
+}

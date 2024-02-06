@@ -21,7 +21,7 @@ I should hurry, it's not far anymore!",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -31,7 +31,7 @@ I should hurry, it's not far anymore!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1683152344907L,
+        "TimePast": 1698185995224L,
         "Time": 0L,
         "Subject": ""
     },

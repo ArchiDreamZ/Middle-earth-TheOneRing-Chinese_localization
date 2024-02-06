@@ -69,7 +69,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -93,7 +93,7 @@ We cross the lake at nightfall, hide the boats and continue on foot..we approach
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690132970919L,
+        "TimePast": 1700383357189L,
         "Time": 0L,
         "Subject": ""
     }

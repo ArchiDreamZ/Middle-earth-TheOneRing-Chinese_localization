@@ -69,7 +69,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -94,7 +94,7 @@ They call me Strider around here.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690133736414L,
+        "TimePast": 1698323359482L,
         "Time": 0L,
         "Subject": ""
     }

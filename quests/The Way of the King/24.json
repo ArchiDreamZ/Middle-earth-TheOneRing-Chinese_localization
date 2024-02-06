@@ -4,7 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 14: The Black Gate",
+    "Title": "Part 15: The Black Gate",
     "Text": "I'm supposed to kill 15 orc captains, that should draw Sauron's attention!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -16,14 +16,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 15,
-            "Slot": "Orc Captain"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673378195517L,
+        "TimePast": 1700382154987L,
         "Time": 0L,
         "Subject": ""
     },
@@ -52,8 +47,15 @@
             }
         ]
     },
+    "QuestKills": [
+        {
+            "Value": 15,
+            "Slot": "Orc Captain"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "I did it... the captains are dead!
 
-I should speak to Sauron's diplomat now",
+I should speak to Sauron's diplomat now.",
     "NextQuestTitle": ""
 }

@@ -1,0 +1,57 @@
+{
+    "CompleterNpc": "Gandalf ",
+    "NextQuestId": 79,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Side Quest: Balins Tomb",
+    "Text": "The Tomb of Balin gets overrun by Goblins and they even have a Cave Troll!!We have to stand our ground!I need to kill 15 Goblins and the Troll to continue.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 21,
+    "Type": 2,
+    "CustomTargetType": "noppes.npcs.entity.EntityCustomNpc",
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1700383412188L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "lotr:item.pouch",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "QuestKills": [
+        {
+            "Value": 15,
+            "Slot": "Goblin"
+        },
+        {
+            "Value": 1,
+            "Slot": "Cave Troll"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "We've done it! All Goblins and the Cave Troll are gone. I'should speak to Gandalf now. ",
+    "NextQuestTitle": "Side Quest: The Balrog"
+}

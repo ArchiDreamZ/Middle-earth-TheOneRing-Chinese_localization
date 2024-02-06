@@ -79,7 +79,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -105,7 +105,7 @@ As soon as I'm done there, we'll meet up in Bree. ",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689106969989L,
+        "TimePast": 1698323388582L,
         "Time": 0L,
         "Subject": ""
     }

@@ -6,7 +6,7 @@
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 11: Pelennor field battle",
+    "Title": "Part 12: Pelennor field battle",
     "Text": "I have to look out for Theoden and the Rohirrim! They need my help fighting the Orcs of Mordor!I hope it's not to late!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -18,7 +18,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673463754765L,
+        "TimePast": 1698154631870L,
         "Time": 0L,
         "Subject": ""
     },

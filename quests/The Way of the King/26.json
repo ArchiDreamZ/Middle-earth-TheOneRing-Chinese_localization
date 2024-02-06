@@ -6,7 +6,7 @@
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 7: The Beacon",
+    "Title": "Part 8: The Beacon",
     "Text": "Gandalf wants me to light the beacon of Minas Tirith so Rohan can come to the rescue!
 
 It is located behind the citadel in the mountains!",
@@ -20,7 +20,7 @@ It is located behind the citadel in the mountains!",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -30,7 +30,7 @@ It is located behind the citadel in the mountains!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051786216L,
+        "TimePast": 1698154610371L,
         "Time": 0L,
         "Subject": ""
     },

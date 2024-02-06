@@ -1,0 +1,92 @@
+{
+    "CompleterNpc": "Ori",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "The Book of Mazarbul",
+    "Text": "I should search the Tomb area for some clues on what happened here. ",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 313,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 21,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1698505218077L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "minecraft:writable_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "We drove out orcs from the Great Gate and guard room and took the First Hall. 
+We slew many in the bright sun in the Dale.
+Flói was killed by an arrow.
+He slayed the great Chieftain.
+",
+                        "We did burry Flói under grass near Mirrormere, but more came.
+We have taken the twenty-first hall of the northern end to dwell in. There is good air.
+It can be easily watched over and the shaft is clear.",
+                        "Balin has set up his seat in the Chamber of Mazarbul. We gathered lots of gold and we found Durin's Axe
+and his silver helmet.
+Balin has taken them for his own.
+He is now the lord of Moria.
+",
+                        "Today we found truesilver, wellforged helmet and a coat made all of purest mithril. 
+We sent Óin to seek for the upper armories of the third deep and then go Westwards to seek up to Hollin gate",
+                        "5 years have past since we settled in Moria and sorrow
+has already fallen on us.
+Yesterday being the tenth of November.
+Balin lord of Moria fell in Dimrill Dale, he went alone to look in Mirrormere.
+An orc shot him from behind a stone.",
+                        "We slew the orc, but many more came up from east from the Silverlode.
+We rescued Balin's body.
+There was an intense battle.
+We have barred the gates, but we doubt it can hold them for long.",
+                        "If there is no escape, we will suffer a horrible fate-but 
+I SHALL HOLD.",
+                        "We cannot get out. 
+They have taken the bridge and the second hall. Frár & Lóni & Náli fell bravely, while the rest retreated to Mazarbul. We are still holding them off, but hope is dying.
+Óin's party went 5 days ago,",
+                        "but today only 4 returned.
+The pool is up to the wall at Westgate, the Watcher in the Water took Óin.
+We cannot get out.
+We hear drums from within the deep.
+The end is coming."
+                    ],
+                    "display": {
+                        "Name": "Book of Mazarbul"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "CompleteText": "<You take the Book of Mazarbul>",
+    "NextQuestTitle": ""
+}

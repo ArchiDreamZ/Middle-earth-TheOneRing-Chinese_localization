@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "Please, don't fight him and come with me! (Follower menu)",
+                "Title": "Come with me! (Follower menu)",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -79,7 +79,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -88,15 +88,9 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf moria6",
     "PreviousBlocks": 1b,
-    "DialogText": "No @p !
-This is too dangerous!
+    "DialogText": "Okay, let's fight him together! We have to be careful @p
 
-I can stop him abit while you escape.
-I am a lord of the Udun Flame, he does not pass!
-
-And now go! quick!
-
-Flee You fools!!!
+We can stop him a bit while the fellowship escape over the bridge!
 
 >>(You can take Gandalf the gray with you as a companion)<<",
     "AvailabilityQuest4Id": -1,
@@ -111,7 +105,7 @@ Flee You fools!!!
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689107685384L,
+        "TimePast": 1698483214680L,
         "Time": 0L,
         "Subject": ""
     }

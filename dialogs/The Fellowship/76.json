@@ -99,7 +99,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -108,7 +108,7 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo Start",
     "PreviousBlocks": 1b,
-    "DialogText": "Hello @p and welcome to Middle-earth! (Version 3.3)This is the spawn and gateway to a world of adventures!
+    "DialogText": "Hello @p and welcome to Middle-earth! (Version 3.4.1)This is the spawn and gateway to a world of adventures!
 From here you have many possibilities to start your journey!There are 3 story quests, each with more than ten missions that will take you to the most hidden and beautiful places in Middle-earth.It's a long journey and you will face many dangers along the way.You will also see many familiar faces and accompany the heroes of Middle-earth in their deeds.
 Will you save Middle-earth from destruction?
 Or subdue it?
@@ -126,7 +126,7 @@ The decision is yours @p!",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690140172782L,
+        "TimePast": 1700383365838L,
         "Time": 0L,
         "Subject": ""
     }

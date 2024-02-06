@@ -70,7 +70,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -79,11 +79,7 @@
     "TextWidth": 300,
     "DialogTitle": "Gimli",
     "PreviousBlocks": 1b,
-    "DialogText": "Welcome to Moria @p ! The halls of my cousin Balin!
-They call it a mine.. a mine!
-
-Well, long before the terror of the deep came upon them.
-Now it's a grave.",
+    "DialogText": "Hello @p, behind me is the door to the Tomb of my cousin Balin! We are too late. I can't believe it!All dead... Time to mourn will come.Let's find out what happend, it looks like goblins did this.",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -96,7 +92,7 @@ Now it's a grave.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689106953038L,
+        "TimePast": 1698483151032L,
         "Time": 0L,
         "Subject": ""
     }

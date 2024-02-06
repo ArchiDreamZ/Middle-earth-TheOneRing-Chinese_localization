@@ -79,7 +79,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -111,7 +111,7 @@ And I will accompany you as far as you want! You have my sword!
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136823504L,
+        "TimePast": 1698321769297L,
         "Time": 0L,
         "Subject": ""
     }

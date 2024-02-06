@@ -109,7 +109,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -125,9 +125,7 @@ But we have no other way to go, so we have to try it..
 But the door won't open... I've tried everything.
 I do not understand it, ..
 Speak friend, and enter
-But all the words I tried don't work..
-
-(Correct selection starts quest)",
+But all the words I tried don't work..",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -140,7 +138,7 @@ But all the words I tried don't work..
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689106967437L,
+        "TimePast": 1698323390932L,
         "Time": 0L,
         "Subject": ""
     }

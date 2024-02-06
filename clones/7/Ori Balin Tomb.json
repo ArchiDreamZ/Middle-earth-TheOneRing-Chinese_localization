@@ -1,0 +1,685 @@
+{
+    "ReturnToStart": 0b,
+    "NpcInv": [
+    ],
+    "PotionEffect": 0,
+    "Size": 5,
+    "stopAndInteract": 0b,
+    "Resistances": {
+        "Arrow": 1.0f,
+        "disableDamage": 0b,
+        "Explosion": 1.0f,
+        "Knockback": 1.0f,
+        "Melee": 1.0f
+    },
+    "BossBar": 0b,
+    "RespawnTime": 20,
+    "NpcAngrySound": "",
+    "ReactsToFire": 0b,
+    "IgnoreCobweb": 0b,
+    "PositionOffsetZ": 0.0f,
+    "PositionOffsetY": 0.0f,
+    "PositionOffsetX": 0.0f,
+    "LootMode": 0,
+    "TransformHasAI": 0b,
+    "AttackStrenght": 5.0f,
+    "PersistenceRequired": 0b,
+    "id": "customnpcs.CustomNpc",
+    "HealF": 20.0f,
+    "MovingPatern": 0,
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "DefendFaction": 0b,
+    "FireIndirect": 0,
+    "NpcVisible": 0,
+    "LinkedNpcName": "",
+    "FindShelter": 0,
+    "FlyGravity": 0.0d,
+    "ScriptsContainers": [
+        {
+            "Script": "",
+            "Type": 5,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 6,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 13,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 10,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 0,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 12,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 7,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 8,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 4,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 14,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 2,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 3,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 11,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 9,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "",
+            "Type": 1,
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        }
+    ],
+    "Air": 300s,
+    "modelType": 1,
+    "TacticalVariant": 0,
+    "Orientation": 185,
+    "ScriptLanguage": "ECMAScript",
+    "KnockBack": 0,
+    "SkinOverlayData": [
+    ],
+    "TransformHasJob": 0b,
+    "CustomName": "",
+    "FlyHeightLimit": 5,
+    "CanDespawn": 0b,
+    "BurnInSun": 0b,
+    "StandingState": 1,
+    "AttackInvisible": 0b,
+    "HurtTime": 0s,
+    "WalkingRange": 0,
+    "CustomNameVisible": 0b,
+    "InvisibleToList": [
+    ],
+    "ShotCount": 1,
+    "pDur": 5,
+    "DrowningType": 1,
+    "FlySpeed": 1.0d,
+    "AttackRange": 2,
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "PotionImmune": 0b,
+    "AvoidsSun": 0b,
+    "MovingType": 0,
+    "Texture": "customnpcs:textures/entity/64-Textures/skeleton/Skeleton Archer.png",
+    "NpcJob": 0,
+    "BurstCount": 1,
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "pSpeed": 10,
+    "pArea": 0,
+    "DeathTime": 0s,
+    "pImpact": 0,
+    "DropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "MoveState": 1,
+    "RangeAndMelee": 0,
+    "pRender3D": 0b,
+    "RefuseSoulStone": 0b,
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "CombatRegen": 0.0f,
+    "NpcsTimers": [
+    ],
+    "MarkovGender": 0,
+    "pEffect": 0,
+    "DistanceToMelee": 0,
+    "NpcStepSound": "",
+    "FireRate": 5,
+    "pEffAmp": 0,
+    "OnGround": 1b,
+    "Dimension": 100,
+    "ImmuneToFire": 0b,
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "UUIDMost": 561824815092287424L,
+    "Fire": -1s,
+    "DisablePitch": 0b,
+    "pPhysics": 1b,
+    "TransformHasInv": 0b,
+    "NpcInteractLines": {
+        "Lines": [
+        ]
+    },
+    "pSpin": 0b,
+    "NpcHurtSound": "minecraft:game.player.hurt",
+    "pTrail": 0,
+    "CreatureType": 0,
+    "Attributes": [
+        {
+            "Base": 20.0d,
+            "Name": "generic.maxHealth"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.knockbackResistance"
+        },
+        {
+            "Base": 0.0d,
+            "Name": "generic.movementSpeed"
+        },
+        {
+            "Base": 32.0d,
+            "Name": "generic.followRange"
+        },
+        {
+            "Base": 5.0d,
+            "Name": "generic.attackDamage"
+        }
+    ],
+    "Invulnerable": 0b,
+    "TransformHasDisplay": 0b,
+    "NoFallDamage": 0b,
+    "AbsorptionAmount": 0.0f,
+    "TransformHasRole": 0b,
+    "Name": "Ori",
+    "FallDistance": 0.0f,
+    "NpcIdleSound": "",
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "minecraft:writable_book",
+            "Count": 1b,
+            "tag": {
+                "pages": [
+                    "Here are the last words written from Balin, lord of Moria.
+
+We have hidden.
+We cant go outside.
+Drumms,..
+Drumms in the deep.
+
+They are coming!...",
+                    "............................"
+                ]
+            },
+            "Damage": 0s
+        },
+        {
+            "Slot": 2b,
+            "id": "customnpcs:npcSlingshot",
+            "Count": 1b,
+            "tag": {
+                "LOTRRandomEnch": 1b,
+                "LOTREnch": [
+                    "durable2"
+                ]
+            },
+            "Damage": 0s
+        }
+    ],
+    "NPCDialogOptions": [
+        {
+            "NPCDialog": {
+                "DialogCommand": "",
+                "Dialog": 295,
+                "Title": "Ori Book of Mazarbul",
+                "DialogColor": 14737632,
+                "OptionType": 1
+            },
+            "DialogSlot": 0
+        }
+    ],
+    "AggroRange": 16,
+    "DirectLOS": 0b,
+    "HealthRegen": 1.0f,
+    "NpcModelData": {
+        "hideArms": 0b,
+        "BodyConfig": {
+            "ScaleZ": 1.5f,
+            "ScaleY": 0.7f,
+            "ScaleX": 1.2f
+        },
+        "Breasts": 0b,
+        "Bodywear": 0b,
+        "hideLegs": 0b,
+        "ArmsConfig": {
+            "ScaleZ": 0.9f,
+            "ScaleY": 0.8380282f,
+            "ScaleX": 0.9f
+        },
+        "SolidArmwear": 0b,
+        "ExtraData": {
+        },
+        "Armwear": 0b,
+        "HeadConfig": {
+            "ScaleZ": 0.85f,
+            "ScaleY": 0.85f,
+            "ScaleX": 0.85f
+        },
+        "LegsConfig": {
+            "ScaleZ": 0.9f,
+            "ScaleY": 0.8732394f,
+            "ScaleX": 1.1f
+        },
+        "LegParts": {
+            "Type": 0b,
+            "PlayerTexture": 1b,
+            "Color": 16777215
+        },
+        "Parts": [
+            {
+                "Type": 1b,
+                "PlayerTexture": 0b,
+                "PartName": "beard",
+                "Color": 10197915,
+                "Texture": "customnpcs:textures/parts/beard/beard1.png"
+            }
+        ],
+        "ModelRotation": {
+            "PuppetLLeg": {
+                "RotationY": 0.0f,
+                "RotationX": 0.0f,
+                "RotationZ": 0.13380283f,
+                "Disabled": 1b
+            },
+            "PuppetHead": {
+                "RotationY": 0.035211265f,
+                "RotationX": -0.16197184f,
+                "RotationZ": 0.08450705f,
+                "Disabled": 0b
+            },
+            "PuppetLArm": {
+                "RotationY": 0.13380283f,
+                "RotationX": 0.042253494f,
+                "RotationZ": -0.09859154f,
+                "Disabled": 0b
+            },
+            "PuppetAttacking": 0b,
+            "PuppetRArm": {
+                "RotationY": -0.26056337f,
+                "RotationX": -0.1690141f,
+                "RotationZ": 0.0f,
+                "Disabled": 0b
+            },
+            "PuppetBody": {
+                "RotationY": 0.0f,
+                "RotationX": 0.035211265f,
+                "RotationZ": 0.0f,
+                "Disabled": 0b
+            },
+            "PuppetRLeg": {
+                "RotationY": 0.0f,
+                "RotationX": 0.0f,
+                "RotationZ": 0.14788735f,
+                "Disabled": 1b
+            },
+            "PuppetStanding": 1b,
+            "PuppetMoving": 0b
+        },
+        "Headwear": 0b,
+        "hideBody": 0b,
+        "SolidLegwear": 0b,
+        "Legwear": 0b,
+        "hideHead": 0b,
+        "EnableRotation": 1b
+    },
+    "minDelay": 20,
+    "DoorInteract": 0,
+    "MoveSpeed": 0,
+    "TransformEditingModus": 0b,
+    "UsingSkinUrl": 0b,
+    "Leashed": 0b,
+    "SkinUrl": "",
+    "CanSwim": 0b,
+    "AllowAnimation": 0b,
+    "MaxHealth": 20.0d,
+    "HideBodyWhenKilled": 0b,
+    "AttackSpeed": 20,
+    "PotionDuration": 5,
+    "maxDelay": 40,
+    "ScriptEnabled": 0b,
+    "Role": 0,
+    "FactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "pDamage": 4.0f,
+    "KilledTime": 0L,
+    "AimWhileShooting": 0b,
+    "CanPickUpLoot": 0b,
+    "PlayerSetCanDespawn": 0b,
+    "AttackOtherFactions": 0b,
+    "AttackTime": 0s,
+    "pSize": 5,
+    "CanSprint": 0b,
+    "CanLeap": 0b,
+    "TransformIsActive": 0b,
+    "ForgeData": {
+        "LOTREnchantInit": 1b
+    },
+    "MovingState": 0,
+    "MovingPos": 0,
+    "PotionAmp": 0,
+    "OnAttack": 0,
+    "TacticalRadius": 0,
+    "MaxExp": 0,
+    "OrderedLines": 0b,
+    "PortalCooldown": 0,
+    "pGlows": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasStats": 0b,
+    "FiringSound": "random.bow",
+    "HasFlyLimit": 0b,
+    "ModRev": 19,
+    "Accuracy": 60,
+    "MinExp": 0,
+    "SoulStonePlayerName": "Necrospire",
+    "Armor": [
+        {
+            "Slot": 2b,
+            "id": "customnpcs:npcAssassinLeggings",
+            "Count": 1b,
+            "tag": {
+                "LOTRRandomEnch": 1b,
+                "LOTREnch": [
+                    "durable1"
+                ]
+            },
+            "Damage": 0s
+        },
+        {
+            "Slot": 3b,
+            "id": "lotr:item.bootsRangerIthilien",
+            "Count": 1b,
+            "tag": {
+                "LOTRRandomEnch": 1b,
+                "LOTREnch": [
+                    "protectFire1"
+                ]
+            },
+            "Damage": 0s
+        }
+    ],
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "MaxFiringRange": 15,
+    "pXlr8": 0b,
+    "MarkovGeneratorId": 8,
+    "CollidesWith": 1,
+    "ProjectilesKeepTerrain": 0b,
+    "UUIDLeast": -9096701164804357997L,
+    "Health": 20s,
+    "pExplode": 0b,
+    "pStick": 0b,
+    "MovingPause": 0b,
+    "NpcDeathSound": "minecraft:game.player.hurt",
+    "FactionID": 0,
+    "MinFactionPointsToSoulStone": -1,
+    "Title": "",
+    "TotalTicksAlive": 149606L,
+    "Rotation": [
+        185.0f,
+        0.0f
+    ],
+    "ShowName": 1,
+    "npcInteracting": 0b,
+    "AvoidsWater": 0b,
+    "TotalScripts": 0,
+    "DoubleDropChance": [
+        {
+            "Slot": 0,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 1,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 2,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 3,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 4,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 5,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 6,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 7,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 8,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 9,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 10,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 11,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 12,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 13,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 14,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 15,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 16,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 17,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 18,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 19,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 20,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 21,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 22,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 23,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 24,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 25,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 26,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 27,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 28,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 29,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 30,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 31,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 32,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 33,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 34,
+            "Double": 100.0d
+        },
+        {
+            "Slot": 35,
+            "Double": 100.0d
+        }
+    ],
+    "Equipment": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "NoLivingAnimation": 0b,
+    "SpawnCycle": 0
+}

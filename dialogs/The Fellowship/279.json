@@ -89,7 +89,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -113,7 +113,7 @@ What can I do for you, my friend. ",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689682964905L,
+        "TimePast": 1698261174039L,
         "Time": 0L,
         "Subject": ""
     }

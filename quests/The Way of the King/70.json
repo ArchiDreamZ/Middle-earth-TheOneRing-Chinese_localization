@@ -4,7 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 10: The south port of Gondor",
+    "Title": "Part 11: The south port of Gondor",
     "Text": "We have arrived in Gondor and it looks like the battle is already on going!I should take all the supplies i need and quickly surprise them with a flank attack.Luckily we now have support of the King of the Dead and his soldiers.If we can kill the Orc leader Gothmog, we should turn the battle to our favour!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -16,14 +16,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Gothmog"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051826667L,
+        "TimePast": 1698154627621L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,6 +35,13 @@
         "NpcMiscInv": [
         ]
     },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Gothmog"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "Gothmog is dead! Now we should take the moment and fight our way the road to Minas Tirith! I can already see Rohirrim riders in the distance! That must mean Theoden arrived in time!I should see if they need help first. ",
     "NextQuestTitle": "Part 11: Pelennor field battle"
 }

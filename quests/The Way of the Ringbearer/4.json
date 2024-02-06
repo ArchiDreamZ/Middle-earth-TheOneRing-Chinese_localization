@@ -1,6 +1,6 @@
 {
     "CompleterNpc": "Gandalf der Graue",
-    "NextQuestId": -1,
+    "NextQuestId": 81,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
@@ -19,7 +19,7 @@ There we will get help from Lady Galadriel.",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,7 +29,7 @@ There we will get help from Lady Galadriel.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667271747522L,
+        "TimePast": 1700383033088L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,6 +40,6 @@ There we will get help from Lady Galadriel.",
     "CompleteText": "Lothlorien!
 After a long journey I finally arrived!
 I should look for Lady Galadriel!",
-    "NextQuestTitle": "",
+    "NextQuestTitle": "Find Lady Galadriel",
     "QuestLocation": "Lothlorien"
 }

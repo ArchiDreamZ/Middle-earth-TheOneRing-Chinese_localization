@@ -24,7 +24,7 @@ The entrance is in Eregion at the West Gate.",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -34,7 +34,7 @@ The entrance is in Eregion at the West Gate.",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1688695448573L,
+        "TimePast": 1698341813340L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,7 +45,7 @@ The entrance is in Eregion at the West Gate.",
     "CompleteText": "Here it should be, the west gate of Moria.
 The secret door is only revealed in the moonlight.
 
-There is already Gandalf standing. I should talk to him.",
+There is Gandalf. I should talk to him.",
     "NextQuestTitle": "",
     "QuestLocation": "The secret door"
 }

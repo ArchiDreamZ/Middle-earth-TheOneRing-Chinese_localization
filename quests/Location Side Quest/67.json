@@ -16,14 +16,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Uhlug"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,14 +27,27 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673459540151L,
+        "TimePast": 1700358185215L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "legendarium:silmaril_fire",
+                "Count": 1b,
+                "Damage": 0s
+            }
         ]
     },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Uhlug"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "I have killed the Orc leader and he have lost an important looking stone, i should bring it to Tom Bombadil in Willowbuttom. ",
     "NextQuestTitle": ""
 }

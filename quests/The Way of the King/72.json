@@ -4,7 +4,7 @@
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 12: The Witchking",
+    "Title": "Part 13: The Witchking",
     "Text": "I found the Rohirrim and just arrived in time!The enemy got also support.. from the evil mens of the east and south. They brought giant Mumakils into the battle. A fight the Rohirrim can't win alone! I will help them by killing all the leaders on top and the Witchking himself with the help of Eowyn and Merry!",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -16,7 +16,26 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
+    "ModRev": 21,
+    "Type": 2,
+    "CustomTargetType": "",
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1698154636821L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "QuestKills": [
         {
             "Value": 1,
             "Slot": "The Witchking"
@@ -26,24 +45,7 @@
             "Slot": "Easterling Captain"
         }
     ],
-    "ModRev": 16,
-    "Type": 2,
-    "QuestMail": {
-        "Sender": "",
-        "BeenRead": 0b,
-        "Message": {
-        },
-        "MailItems": [
-        ],
-        "MailQuest": -1,
-        "TimePast": 1680051841165L,
-        "Time": 0L,
-        "Subject": ""
-    },
-    "Rewards": {
-        "NpcMiscInv": [
-        ]
-    },
+    "TargetType": 0,
     "CompleteText": "The Witchking and the Easterling leaders are dead! Now we should win this battle!I should talk to Gandalf in Minas Tirith next. ",
     "NextQuestTitle": ""
 }

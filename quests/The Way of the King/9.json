@@ -23,7 +23,7 @@ He asked me to ride to the capital of the Rohirrim.. Edoras.. ",
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 21,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -33,7 +33,7 @@ He asked me to ride to the capital of the Rohirrim.. Edoras.. ",
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673460193155L,
+        "TimePast": 1698157702171L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,9 +41,7 @@ He asked me to ride to the capital of the Rohirrim.. Edoras.. ",
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "Here it is,.. The Capital of Rohan and the golden Hall of the King!
-
-But I can't see Gandalf anywhere...",
-    "NextQuestTitle": "Part 3: Helms Deep",
+    "CompleteText": "Here it is,.. The Capital of Rohan and the golden Hall of the King. I should speak to the guards. ",
+    "NextQuestTitle": "Part 4: Helms Deep",
     "QuestLocation": "The Kings Hall"
 }
