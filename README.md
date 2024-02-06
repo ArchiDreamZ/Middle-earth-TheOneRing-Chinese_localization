@@ -106,6 +106,8 @@ MEGA云盘：
 如果还不清楚怎么汉化，看一下已经汉化的部分，就知道怎么汉化了。
 
 ## 汉化须知
+最后是在动工之前，需要了解的注意事项与要求标准。
+
 在汉化之前最好先看一下已经汉化的部分，基本看了就知道怎么汉化了。
 
 在提交修改时，不要只写一个“汉化”，这样别人一眼看上去也不知道汉化了什么，稍微详细一点。
@@ -119,7 +121,7 @@ MEGA云盘：
 ### 尤其注意
 不要汉化DialogTitle，这是对话框的标题，不是内容。一旦修改，会破坏对话系统，让对话无法连接。
 
-> ![不要汉化DialogTitle](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/f76a1296-59a0-4547-8f0a-61ea26a40a2b)
+> ![不要汉化DialogTitle](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/2143b7e4-78eb-4d0e-81df-2e5161029bd6)
 
 对话每一行不能过长，自定义NPC模组无法自动根据客户端界面大小自动换行，所以我们需要限制每一行的字数，最好不超过35字左右。
 
