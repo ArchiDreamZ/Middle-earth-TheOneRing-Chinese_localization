@@ -97,7 +97,7 @@ MEGA云盘：
 
 > ![Title](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/41cafc0d-415f-412a-ad1a-c88a1c437eba)
 
-上面的“Title”短句是该对话框的选项，玩家可以选择。
+上面的“Title”短句是该对话框的选项，是让玩家来选择点击的。
 
 > ![DialogText](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/68ac31ab-47f0-48d1-94a8-409c1242f859)
 
