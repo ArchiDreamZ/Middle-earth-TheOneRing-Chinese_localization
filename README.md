@@ -63,12 +63,23 @@ MEGA云盘：
 
 把save/customnpcs文件夹里的文件，放进.minecraft/saves/Middleearth - The One Ring/customnpcs里。
 
+
 # 参与汉化项目
 从这里往下，都是想要参与汉化项目所需要了解的内容了。
 
-以下为目前还需要进行汉化和更新的内容：
+以下为目前还需要进行工作的内容：
+
+1.已翻译内容的润色
+
+2.剧情地图的更新内容的汉化
+
+该项目最初是基于3.3版本的剧情地图来汉化的，但如今地图一直在更新，已经发布了新版本，而汉化也需要跟进。
+
+除此之外，原本的翻译内容依然有三成为机翻，没有参考电影台词进行润色，若无意中发现问题，记得及时讨论修改。
 
 ## 仓库介绍
+在大体了解了该项目还需要做的事之后，就先来了解一下这个仓库的构成吧。
+
 该仓库汉化的是该地图的自定义NPC模组的对话与任务，共分为两部分：
 
 第一部分是气泡型对话，又称“气泡台词”，会在头上弹出气泡，并显示在左下角聊天栏里。例如路人的问候和敌人的谩骂；
@@ -106,6 +117,40 @@ MEGA云盘：
 下面的“DialogText”是NPC的文本。该文本对应上面的选项，例如在这个例子里，可以选择弗罗多作为同伴，只要选择上面的“跟我来”选项。
 
 如果还不清楚怎么汉化，看一下已经汉化的部分，就知道怎么汉化了。
+
+## 工作内容说明
+现在你初步了解了还需做的事，又了解了仓库的结构，那么就该正式了解一下工作内容了。
+
+前面说过了，还需要做的事有两个，一个是版本更新内容的汉化，另一个是已汉化内容的润色。
+
+### 版本更新内容汉化
+该项目是基于3.3版汉化的，目前该地图发布了3.4版，因此需要汉化3.4新增的改动。
+
+这里是详细的3.4与3.3的改动对比：[3.4改动对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/commit/18dd45f5e51d2da66d2b921268d881ad53d47de4)
+
+不光是新增了少量文件，还有大量原本汉化的文件经过了修改，因此都需要对汉化进行更新。
+
+### 润色
+该地图里的对话绝大部分都是电影里的台词，初翻并没有很精致，润色时需要一边对照电影一遍润色。
+
+B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可以直接复制。
+
+可以稍微参照着电影补充几句话，但是还是要考虑到这是个剧情地图，文本不适合太长。再比如，台词是对玩家说的，不是对弗罗多或者巴金斯，因此有些台词就不适合加了。
+
+要先信和达，再考虑雅。如果对原翻译感到很疑惑，有必要时，就查看英文原文。
+
+若要中英对比，可以在这里查看：
+
+**NPC对话**：[霍比特人章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/11/files)、[双塔奇谋章 与 王者归来章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/12/files)
+
+**任务**：[全4章任务](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/13/files)
+
+也可以直接下载英文版文件，在[Releases](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/releases)里下载。
+
+点这里可以设置左右对比，更方便查看：
+
+> ![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
+
 
 ## 汉化须知
 最后是在动工之前，需要了解的注意事项与要求标准。
@@ -151,24 +196,3 @@ MEGA云盘：
 ④如果遇到诗、歌曲之类的，或者其他电影里没有的，可以参考原著，在中文译本里使用世纪文景的官方翻译。注意不要使用朱学恒的翻译。
 
 这是[指环王原著-世纪文景译版](https://book.qq.com/book-detail/567379)，这是[霍比特人原著-世纪文景译版](https://book.qq.com/book-detail/178806)
-
-### 润色
-该地图里的对话绝大部分都是电影里的台词，初翻并没有很精致，润色时需要一边对照电影一遍润色。
-
-B站片源的字幕翻译的非常标准，为标准的世纪文景译版，可以直接复制。
-
-可以稍微参照着电影补充几句话，但是还是要考虑到这是个剧情地图，文本不适合太长。再比如，台词是对玩家说的，不是对弗罗多或者巴金斯，因此有些台词就不适合加了。
-
-要先信和达，再考虑雅。如果对原翻译感到很疑惑，有必要时，就查看英文原文。
-
-若要中英对比，可以在这里查看：
-
-**NPC对话**：[霍比特人章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/11/files)、[双塔奇谋章 与 王者归来章](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/12/files)
-
-**任务**：[全4章任务](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/pull/13/files)
-
-也可以直接下载英文版文件，在[Releases](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/releases)里下载。
-
-点这里可以设置左右对比，更方便查看：
-
-> ![左右对比](https://github.com/ArchiDreamZ/Middle-earth-TheOneRing-Chinese_localization/assets/89504984/6fd97041-6e29-425d-bd1d-afa656c8850f)
