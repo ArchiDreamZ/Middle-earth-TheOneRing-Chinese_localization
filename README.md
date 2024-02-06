@@ -40,9 +40,7 @@
 群号：973932359
 
 ## 下载
-目前已经汉化完毕，已添加进下面的链接。
-
-现在处于润色阶段，已经可以游玩，下载体验一下吧。如果发现什么语句不通顺，可以在中文社区联系我们润色。
+目前已经汉化完毕，已添加进下面的链接。如果发现什么语句不通顺，可以在中文社区联系我们修改。
 
 MEGA云盘：
 [魔戒剧情地图 Middle-earth-TheOneRing-3.3](https://mega.nz/file/lh0ikTxS#wnjPXGQ7FH1brZFsxWxHOLlJvOaR1MY4hAOasgGwGDI)，如果打不开，就挂一个免费的Steam++(又名Watt Toolkit)。
