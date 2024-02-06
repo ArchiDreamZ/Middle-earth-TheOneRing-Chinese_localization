@@ -63,7 +63,9 @@ MEGA云盘：
 
 把save/customnpcs文件夹里的文件，放进.minecraft/saves/Middleearth - The One Ring/customnpcs里。
 
-## 汉化工作
+# 参与汉化项目
+从这里往下，都是想要参与汉化项目所需要了解的内容了。
+
 以下为目前还需要进行汉化和更新的内容：
 
 ## 仓库介绍
